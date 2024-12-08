@@ -1,20 +1,43 @@
 <script setup lang="ts">
-import { ref } from "vue";
-import questionsData from "../../../../mcq3.json"; // Import the questions from mcq1.json
+import { ref, computed } from "vue";
 
-// Reactive data for questions
-const questions = ref(questionsData); // Initialize questions with data from mcq1.json
-const selectedOption = ref(null); // Track the selected option
+const props = defineProps(["questionsData"]);
+
+// Reactive data for questions and score
+const questions = ref(props.questionsData); // Initialize questions with data from mcq1.json
+const selectedOptions = ref(Array(questions.value.length).fill(null)); // Track the selected option for each question
+const score = ref(0); // Initialize score
 
 // Function to handle option selection
-const selectOption = (option: any, correctAnswer: any) => {
-  selectedOption.value = option; // Set the selected option
+const selectOption = (index: number, option: any, correctAnswer: any) => {
+  if (selectedOptions.value[index] === null) {
+    // Check if the option for this question has not been selected yet
+    selectedOptions.value[index] = option; // Set the selected option for this question
+    if (option === correctAnswer) {
+      score.value += 1; // Increment score for correct answer
+    }
+  }
 };
+
+// Computed property to calculate percentage score
+const percentageScore = computed(() => {
+  return (score.value / questions.value.length) * 100; // Calculate percentage
+});
+
+// Computed properties for total questions, correct answers, and wrong answers
+const totalQuestions = computed(() => questions.value.length);
+const correctAnswers = computed(() => score.value);
 </script>
 
 <template>
   <div class="container">
     <div id="app">
+      <div class="score-display">
+        <div>Score: {{ percentageScore.toFixed(2) }}%</div>
+        <div>Total Questions: {{ totalQuestions }}</div>
+        <div>Correct Answers: {{ correctAnswers }}/{{ totalQuestions }}</div>
+      </div>
+      <!-- Display additional information -->
       <div v-if="questions.length" class="questions-container">
         <div
           v-for="(question, index) in questions"
@@ -30,17 +53,26 @@ const selectOption = (option: any, correctAnswer: any) => {
               :class="{
                 'correct-option':
                   option === question.correct_answer &&
-                  selectedOption === option,
+                  selectedOptions[index] === option,
                 'incorrect-option':
-                  selectedOption &&
+                  selectedOptions[index] &&
                   option !== question.correct_answer &&
-                  selectedOption === option,
+                  selectedOptions[index] === option,
               }"
-              @click="selectOption(option, question.correct_answer)"
+              @click="selectOption(index, option, question.correct_answer)"
+              :disabled="selectedOptions[index] !== null"
             >
               {{ option }}
             </li>
           </ul>
+          <details
+            v-if="selectedOptions[index] !== null && question.explanation"
+          >
+            <summary role="button" class="outline secondary">
+              Explanation
+            </summary>
+            <p>{{ question.explanation }}</p>
+          </details>
         </div>
       </div>
       <div v-else class="placeholder">
@@ -54,12 +86,18 @@ const selectOption = (option: any, correctAnswer: any) => {
 /* Container for the app */
 #app {
   font-family: "Rubik", sans-serif;
-  /* background-color: #f4f7f6; */
 }
 
-/* Styling for question cards */
-.questions-container {
-  margin-top: 40px;
+/* Styling for score display */
+.score-display {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  color: #333;
+  background-color: rgba(172, 172, 172, 0.505);
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 0.8rem;
 }
 
 .question-card {
