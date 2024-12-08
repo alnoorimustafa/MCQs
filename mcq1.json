@@ -1,0 +1,978 @@
+[
+  {
+    "question": "1. The majority of postpartum psychotic episodes are characterized by which\nof the following presentations?",
+    "options": [
+      "A. Schizophreniform presentation",
+      "B. Affective–manic presentation",
+      "C. Delirium–organic presentation",
+      "D. Dissociative presentation",
+      "E. Catatonic presentation"
+    ]
+  },
+  {
+    "question": "2. Which of the following figures represent the correct estimate of the\nincidence of postpartum psychosis?",
+    "options": [
+      "A. Around 1–2 in 1000",
+      "B. Around 1 in 100",
+      "C. Around 1 in 10,000",
+      "D. Around 5 in 100",
+      "E. Around 1 in 2000"
+    ]
+  },
+  {
+    "question": "3. Which of the following postpartum disorders is correctly matched with its\ntime of onset?",
+    "options": [
+      "A. Postpartum blues – within a few months of delivery",
+      "B. Postpartum depression – fi rst week of delivery",
+      "C. Postpartum psychosis – within 2 weeks of delivery",
+      "D. Postpartum pituitary apoplexy –12 months after delivery",
+      "E. All of the above are correct"
+    ]
+  },
+  {
+    "question": "4. Which of the following principle has guided the organization of disorders in\nICD-10 Chapter V?",
+    "options": [
+      "A. Hierarchy",
+      "B. Reversibility",
+      "C. Treatment response",
+      "D. Mode of onset",
+      "E. Degree of disability40 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "5. In ICD-10 schizoaffective disorder is included in the same chapter as which\nof the following disorders?",
+    "options": [
+      "A. Schizophrenia",
+      "B. Affective disorders",
+      "C. Organic disorders",
+      "D. Stress disorders",
+      "E. Personality disorders"
+    ]
+  },
+  {
+    "question": "6. Which of the following principles is not included in psychiatric classifi catory\nsystems (ICD and DSM) to defi ne specifi c psychiatric disorders?",
+    "options": [
+      "A. Number of symptoms",
+      "B. Impairment criteria",
+      "C. Duration criteria",
+      "D. Prognostic criteria",
+      "E. Exclusion criteria"
+    ]
+  },
+  {
+    "question": "7. Which of the following is a difference between DSM-IV and ICD-10?",
+    "options": [
+      "A. Culture-bound syndromes are separately classifi ed in ICD",
+      "B. Comorbid diagnoses are allowed in DSM",
+      "C. DSM-IV has a dimensional approach to personality disorders",
+      "D. Length of illness is a criteria for diagnosing DSM-IV schizophrenia",
+      "E. Schizotypal disorder is a personality disorder in ICD-10"
+    ]
+  },
+  {
+    "question": "8. In the multiaxial system of DSM-IV, the fi fth axis refers to",
+    "options": [
+      "A. General medical condition",
+      "B. Personality diffi culties",
+      "C. Global assessment of functioning",
+      "D. Psychosocial stress factors",
+      "E. Intelligence level"
+    ]
+  },
+  {
+    "question": "9. Two clinicians using the same checklist to aid clinical description come up\nwith the same diagnosis. Which of the following properties of the checklist\nis involved in this outcome?",
+    "options": [
+      "A. Validity of the checklist",
+      "B. Reliability of checklist",
+      "C. Sensitivity of checklist",
+      "D. Specifi city of checklist",
+      "E. None of the above"
+    ]
+  },
+  {
+    "question": "10. Which of the following could increase the validity of psychiatric diagnosis in\nthe future?",
+    "options": [
+      "A. Cross-cultural studies",
+      "B. Laboratory tests",
+      "C. Operational criteria",
+      "D. Cross-sectional studies",
+      "E. Consensus statementsCORE CLINICAL PSYCHIATRY | QUESTIONS 41"
+    ]
+  },
+  {
+    "question": "11. Which of the following is a benefi t of a categorical classifi cation over\ndimensional classifi cation?",
+    "options": [
+      "A. Easy to communicate",
+      "B. Increased validity",
+      "C. Prognostic information",
+      "D. Informs qualitative research",
+      "E. All of the above"
+    ]
+  },
+  {
+    "question": "12. Which of the following disorders has the most evidence for existing as a\ncontinuum in the population, making a dimensional approach more rational?",
+    "options": [
+      "A. Delusional disorders",
+      "B. Personality disorders",
+      "C. Developmental disorders",
+      "D. Affective disorders",
+      "E. Cognitive disorders"
+    ]
+  },
+  {
+    "question": "13. By defi nition, the nature of delirium that differentiates it from dementia\nincludes which of the following?",
+    "options": [
+      "A. Insidious onset",
+      "B. Acute onset",
+      "C. Deteriorating course",
+      "D. Familial onset",
+      "E. Irreversible progression"
+    ]
+  },
+  {
+    "question": "14. Which of the following best describes the nature of cognitive impairment\nrequired to diagnose dementia?",
+    "options": [
+      "A. Focal, progressive defi cits",
+      "B. Focal, static defi cits",
+      "C. Global, progressive defi cits",
+      "D. Global, static defi cits",
+      "E. None of the above"
+    ]
+  },
+  {
+    "question": "15. The most common cause of presenile dementia is",
+    "options": [
+      "A. Vascular dementia",
+      "B. Pick’s dementia",
+      "C. Alzheimer’s dementia",
+      "D. Lewy body dementia",
+      "E. Prion dementia"
+    ]
+  },
+  {
+    "question": "16. Which one of the following is NOT a risk factor for developing dementia?",
+    "options": [
+      "A. Smoking",
+      "B. Boxing",
+      "C. Ageing",
+      "D. Drinking alcohol",
+      "E. Living alone42 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "17. The best option for preventing dementia available currently is",
+    "options": [
+      "A. Regular NSAIDs",
+      "B. Vitamin E",
+      "C. Low salt diet",
+      "D. Early retirement",
+      "E. None of the above"
+    ]
+  },
+  {
+    "question": "18. Which one of the following genetic factor is associated with senile dementia\nof Alzheimer’s type?",
+    "options": [
+      "A. Presenilin 1 only",
+      "B. Presenilin 1 and 2",
+      "C. Amyloid precursor protein",
+      "D. APOE4 allele",
+      "E. Defective tau protein"
+    ]
+  },
+  {
+    "question": "19. With respect to the major classifi catory systems ICD and DSM, the term\n‘operational defi nition’ refers to which of the following?",
+    "options": [
+      "A. Defi nition arrived at by a consensus",
+      "B. Defi nition with precise inclusion and exclusion criteria",
+      "C. Defi nition validated by fi eld trials",
+      "D. Defi nition with strict duration of illness criteria",
+      "E. Defi nitions with multilingual translation"
+    ]
+  },
+  {
+    "question": "20. Dementia secondary to which of the following is not reversible?",
+    "options": [
+      "A. Nutritional defi ciencies",
+      "B. Hypothyroidism",
+      "C. Stroke",
+      "D. Normal pressure hydrocephalus",
+      "E. Depression"
+    ]
+  },
+  {
+    "question": "21. Which of the following produce a rapidly evolving dementia with\nneurological features?",
+    "options": [
+      "A. Viruses",
+      "B. Prions",
+      "C. Bacteria",
+      "D. Helminths",
+      "E. Drugs"
+    ]
+  },
+  {
+    "question": "22. Prion dementia is caused by all of the following EXCEPT",
+    "options": [
+      "A. Hormone extracts",
+      "B. Corneal transplants",
+      "C. Organ donations",
+      "D. Peritoneal dialysis",
+      "E. Contaminated meatCORE CLINICAL PSYCHIATRY | QUESTIONS 43"
+    ]
+  },
+  {
+    "question": "23. The probability of developing Korsakoff’s syndrome is related to which of\nthe following features?",
+    "options": [
+      "A. Amount of alcohol consumed",
+      "B. Nutritional deprivation",
+      "C. Age of onset of drinking",
+      "D. Type of alcoholic drink",
+      "E. Level of tolerance"
+    ]
+  },
+  {
+    "question": "24. Korsakoff’s syndrome is characterized by all EXCEPT",
+    "options": [
+      "A. Dense anterograde amnesia",
+      "B. Impaired procedural memory",
+      "C. Apathy",
+      "D. Confabulation",
+      "E. Executive defi cits"
+    ]
+  },
+  {
+    "question": "25. Which of the following best describes the triad characteristic of normal\npressure hydrocephalus?",
+    "options": [
+      "A. Ataxia, dementia, confabulation",
+      "B. Incontinence, dementia, confabulation",
+      "C. Headaches, visual disturbances, dementia",
+      "D. Headaches, ataxia, dementia",
+      "E. Ataxia, dementia, incontinence"
+    ]
+  },
+  {
+    "question": "26. Which one of the following clinical signs and diseases is correctly paired?",
+    "options": [
+      "A. Wilson’s disease–chorea",
+      "B. Huntington’s disease–dystonia",
+      "C. Parkinson’s disease–tremors",
+      "D. Pseudobulabr palsy–past pointing",
+      "E. Motor neuron disease–ataxia"
+    ]
+  },
+  {
+    "question": "27. A 40-year-old man develops irritability and depressed mood with signifi cant\npersonality change. His father committed suicide at age of 45 and\ngrandmother suffered from memory problems before she died at age 57.\nWhich is the most important diagnosis to consider in this case?",
+    "options": [
+      "A. Parkinson’s disease",
+      "B. Wilson’s disease",
+      "C. Huntington’s disease",
+      "D. Sydenham’s chorea",
+      "E. Fahr’s disease44 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "28. A 45-year-old man develops auditory hallucinations that are initially\nfragmented but later turns into second person derogatory. The most\nimportant aspect of personal history in this case is",
+    "options": [
+      "A. Stimulant use",
+      "B. Alcohol use",
+      "C. Relationship diffi culties",
+      "D. Psychosexual history",
+      "E. Employment history"
+    ]
+  },
+  {
+    "question": "29. Mr Smith considers himself as an alcoholic. He uses the same brand of\nwhisky everyday and drinks at the same pub around the same time. Which\nof the following features is he exhibiting?",
+    "options": [
+      "A. Salience",
+      "B. Tolerance",
+      "C. Narrow repertoire",
+      "D. Loss of control",
+      "E. Relief drinking"
+    ]
+  },
+  {
+    "question": "30. Which of the following clinical feature of schizophrenia adds support to a\nneurodevelopmental hypothesis?",
+    "options": [
+      "A. Age of onset",
+      "B. Stress-induced relapses",
+      "C. Increased incidence among migrants",
+      "D. Association with cannabis",
+      "E. Response to antipsychotics"
+    ]
+  },
+  {
+    "question": "31. A 32-year-old man presents to a dermatologist with circumscribed areas\nof alopecia. He admits to recurrent pulling of his hair, especially at times of\nstress. He feels a sense of relief after the act. He has a normal IQ and no\nother stereotyped behaviour. Which of the following is the most appropriate\ndiagnosis?",
+    "options": [
+      "A. OCD",
+      "B. Tourette’s syndrome",
+      "C. Trichotillomania",
+      "D. Autism",
+      "E. Factitious disorder"
+    ]
+  },
+  {
+    "question": "32. Risk of developing schizophrenia is increased in which of the following\npopulations?",
+    "options": [
+      "A. Learning disabled population",
+      "B. Female sex",
+      "C. Single parent families",
+      "D. Sexually abused children",
+      "E. Older mothersCORE CLINICAL PSYCHIATRY | QUESTIONS 45"
+    ]
+  },
+  {
+    "question": "33. Which of the following is an important difference between male and female\nschizophrenia?",
+    "options": [
+      "A. Males have later onset and better prognosis",
+      "B. Males have earlier onset and better prognosis",
+      "C. Females have later onset and poor prognosis",
+      "D. Females have later onset and better prognosis",
+      "E. Females have earlier onset and poor prognosis"
+    ]
+  },
+  {
+    "question": "34. What is the risk of developing schizophrenia in a concordant monozygotic\ntwin?",
+    "options": [
+      "A. Less than 35%",
+      "B. Around 45%",
+      "C. Around 70%",
+      "D. Around 12%",
+      "E. Around 90%"
+    ]
+  },
+  {
+    "question": "35. Which is a chromosomal deletion syndrome closely related to\nschizophrenia phenotype?",
+    "options": [
+      "A. Edward’s syndrome",
+      "B. Patau syndrome",
+      "C. di George syndrome",
+      "D. Cri du Chat syndrome",
+      "E. Laurence–Moon–Biedl syndrome"
+    ]
+  },
+  {
+    "question": "36. A 20-year-old man repeatedly cross-dresses in privacy. He experiences\nsexual arousal during cross-dressing but has a normal sexual relationship\nwith his girlfriend otherwise. Which of the following is the appropriate\ndiagnosis?",
+    "options": [
+      "A. Disorder of gender identity",
+      "B. Disorder of sexual preference",
+      "C. Disorder of sexual orientation",
+      "D. Disorder of chromosomal sex",
+      "E. Sexual dysfunction of arousal phase"
+    ]
+  },
+  {
+    "question": "37. A 19-year-old boy shows recent onset avolition, fl at affect, preoccupation\nwith religion and philosophy. He preferred being solitary most of his\nchildhood. Most probable diagnosis include",
+    "options": [
+      "A. Simple schizophrenia",
+      "B. Paranoid schizophrenia",
+      "C. Hebephrenic schizophrenia",
+      "D. Residual schizophrenia",
+      "E. Schizoaffective disorder46 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "38. Which of the following with regard to cannabis use in schizophrenia is\nincorrect?",
+    "options": [
+      "A. Cannabis use could be a self medication attempt",
+      "B. Both schizophrenia and cannabis use are high in lower socioeconomic group",
+      "C. Psychosis in cannabis users may be mediated by polymorphisms in COMT",
+      "D. Cannabis is associated with schizophrenia in a dose-dependent fashion",
+      "E. Cannabis intoxication is indistinguishable from schizophrenia"
+    ]
+  },
+  {
+    "question": "39. A 38-year-old man had his most recent episode of schizophrenic relapse\n6 months ago. Though he responded well to antipsychotics he still hears\noccasional voices. Currently he has lost sleep, appetite, and weight and\ncomplains of low energy and pervasive anhedonia with low mood. This\ndescription best fi ts which of the following diagnosis?",
+    "options": [
+      "A. Schizoaffective disorder",
+      "B. Psychotic depression",
+      "C. Postschizophrenic depression",
+      "D. Dysthymia",
+      "E. Unremitted schizophrenia"
+    ]
+  },
+  {
+    "question": "40. A 37-year-old lady has an eccentric hobby of preserving animal carcasses\nfound on roadside. She also has suspiciousness, magical thinking, and\nobsessive ruminations though she does not resist them. She has never had\na diagnosis of schizophrenia. This description best fi ts which of the following\ndiagnosis?",
+    "options": [
+      "A. Schizoid personality",
+      "B. Schizotypal disorder",
+      "C. Paranoid personality",
+      "D. Obsessive compulsive disorder",
+      "E. Simple schizophrenia"
+    ]
+  },
+  {
+    "question": "41. How long does the natural course of an episode of untreated mania last?",
+    "options": [
+      "A. 4 weeks",
+      "B. 4 months",
+      "C. 6 weeks",
+      "D. 9 months",
+      "E. 2 weeks"
+    ]
+  },
+  {
+    "question": "42. Which of the following is NOT a part of ICD-10 somatic syndrome of\ndepression?",
+    "options": [
+      "A. Loss of appetite",
+      "B. Loss of libido",
+      "C. Loss of sleep",
+      "D. Constipation",
+      "E. Loss of energyCORE CLINICAL PSYCHIATRY | QUESTIONS 47"
+    ]
+  },
+  {
+    "question": "43. A 32-year-old lady is incapacitated by recurrent panic attacks. She feels low\nand cannot leave her home, leading to loss of interest in leisure activities.\nShe feels guilty for not being a good mother for her 12-year-old son as she\nfi nds routine housework extremely demanding. This description best fi ts\nwhich of the following diagnosis?",
+    "options": [
+      "A. Depressive disorder",
+      "B. Agoraphobia",
+      "C. Panic disorder",
+      "D. Generalized anxiety disorder",
+      "E. Chronic fatigue syndrome"
+    ]
+  },
+  {
+    "question": "44. Which of the following is incorrect with regard to social phobia?",
+    "options": [
+      "A. Younger age of onset than other phobias",
+      "B. Symptoms more pronounced in large groups",
+      "C. Blushing is more common than in other anxiety disorders",
+      "D. Fear of vomiting in public may be seen",
+      "E. Marked avoidance behaviour is noted"
+    ]
+  },
+  {
+    "question": "45. Which of the following is the endocrine abnormality most commonly seen\nin depression?",
+    "options": [
+      "A. Hypercortisolaemia",
+      "B. Hypocortisolaemia",
+      "C. Hypothyroidism",
+      "D. Hypopituitarism",
+      "E. Hypoprolactinaemia"
+    ]
+  },
+  {
+    "question": "46. Which of the following is noted through longitudinal observation of\nrecurrent depressive disorder?",
+    "options": [
+      "A. Life events precede onset of each relapse",
+      "B. Life events are more common in later episodes",
+      "C. Life events are more common in earlier than later episodes",
+      "D. No relationship is noted between life events and relapses",
+      "E. Life events precede only the fi rst episode"
+    ]
+  },
+  {
+    "question": "47. Which of the following endocrine abnormalities is suspected to be\nassociated with rapid cycling bipolar disorder?",
+    "options": [
+      "A. Hypercortisolaemia",
+      "B. Hypocortisolaemia",
+      "C. Hypothyroidism",
+      "D. Hypopituitarism",
+      "E. Hyperprolactinaemia48 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "48. Which of the following is NOT a predictor of good outcome in\nschizophrenia?",
+    "options": [
+      "A. Florid positive symptoms at onset",
+      "B. Prominent affective symptoms",
+      "C. Acute onset",
+      "D. Older age of onset",
+      "E. Long fi rst episode"
+    ]
+  },
+  {
+    "question": "49. Which of the following is NOT a characteristic feature of atypical\ndepression?",
+    "options": [
+      "A. Leaden paralysis",
+      "B. Reversed vegetative signs",
+      "C. Response to MAO inhibitors",
+      "D. Rejection sensitivity",
+      "E. Obsessional symptoms"
+    ]
+  },
+  {
+    "question": "50. Which of the following is a good estimate of heritability of bipolar disorder?",
+    "options": ["A. 10%", "B. 25%", "C. 80%", "D. 40%", "E. 95%"]
+  },
+  {
+    "question": "51. Even a single episode of mania warrants a diagnosis of bipolar disorder\nin DSM-IV. What is the proportion of patients with pure recurrent mania\nwithout depression among these patients?",
+    "options": ["A. 20%", "B. 10%", "C. 5%", "D. 30%", "E. 40%"]
+  },
+  {
+    "question": "52. A patient with a family history of affective disorders presents with recurrent\nperiods of elated mood and grandiose delusions believing that he is King\nSolomon. These episodes last for only 4 days. Which of the following is the\nmost appropriate diagnosis?",
+    "options": [
+      "A. Bipolar disorder type 1",
+      "B. Bipolar disorder type 2",
+      "C. Mixed affective state",
+      "D. Cyclothymia",
+      "E. None of the aboveCORE CLINICAL PSYCHIATRY | QUESTIONS 49"
+    ]
+  },
+  {
+    "question": "53. Which of the following is the most important diagnostic information that\ndifferentiates bipolar disorder from schizophrenia?",
+    "options": [
+      "A. Interepisode recovery",
+      "B. Presence of delusions",
+      "C. Religious content of hallucinations",
+      "D. Family history",
+      "E. History of cannabis use"
+    ]
+  },
+  {
+    "question": "54. Which of the following statements about the gender distribution of affective\ndisorders is correct?",
+    "options": [
+      "A. Bipolar incidence is equal in both sexes",
+      "B. Unipolar depression is more common in men",
+      "C. Age of onset differs with gender",
+      "D. In childhood, girls are more depressed than boys",
+      "E. Rapid cycling is more common in men"
+    ]
+  },
+  {
+    "question": "55. According to twin studies, the strongest evidence of a genetic cause is for\nwhich of the following disorders?",
+    "options": [
+      "A. Schizophrenia",
+      "B. Bipolar disorder",
+      "C. Unipolar depression",
+      "D. Conduct disorder",
+      "E. Alcohol – harmful use"
+    ]
+  },
+  {
+    "question": "56. To diagnose ‘double depression’ the patient must have a primary diagnosis\nof which of the following disorders?",
+    "options": [
+      "A. Recurrent depressive disorder",
+      "B. Cyclothymia",
+      "C. Dysthymia",
+      "D. Brief recurrent depression",
+      "E. Alcohol dependence"
+    ]
+  },
+  {
+    "question": "57. Which of the following is a medical condition in which symptoms similar to\nOCD are found?",
+    "options": [
+      "A. Sydenham’s chorea",
+      "B. Guillain–Barré syndrome",
+      "C. Motor neurone disease",
+      "D. Hashimoto’s thyroiditis",
+      "E. Cystic fi brosis"
+    ]
+  },
+  {
+    "question": "58. Strong risk factors for depression include all of the following EXCEPT",
+    "options": [
+      "A. Neuroticism",
+      "B. Life events",
+      "C. Past history of depression",
+      "D. Low IQ",
+      "E. Family history50 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "59. Which of the following is true regarding the clinical presentation of OCD?",
+    "options": [
+      "A. Acute onset",
+      "B. Early presentation to clinic",
+      "C. Long duration of untreated illness",
+      "D. Chronic deteriorating course",
+      "E. All of the above"
+    ]
+  },
+  {
+    "question": "60. A 17-year-old patient has recurrent intrusive thoughts which he perceives\nto be senseless and involuntary. He starts believing these thoughts are being\ninserted by his family members though these are his own thoughts. Which\nof the following diagnoses must be considered apart from OCD?",
+    "options": [
+      "A. Schizophrenia",
+      "B. Anankastic personality",
+      "C. Depression",
+      "D. Schizotypal disorder",
+      "E. Delusional disorder"
+    ]
+  },
+  {
+    "question": "61. A 12-year-old boy repeatedly wakes up in middle of night screaming,\nbut could recall only fragments of any mental images. He appears to be\ndisoriented for several minutes on waking. Which of the following diagnoses\nis the most appropriate?",
+    "options": [
+      "A. Nightmares",
+      "B. Night terrors",
+      "C. Sleep apnoea",
+      "D. Narcolepsy",
+      "E. REM sleep behavioural disorder"
+    ]
+  },
+  {
+    "question": "62. A 25-year-old man has had irrational fear for darkness since childhood. He\nis not distressed about this currently and does not take special measures to\navoid being in the dark. Which of the following is true?",
+    "options": [
+      "A. He has a specifi c phobia as he has an irrational fear",
+      "B. He has a specifi c phobia as he has had it since childhood",
+      "C. He has no specifi c phobia as he does not have avoidance behaviour",
+      "D. He has no specifi c phobia as fear of darkness is common",
+      "E. He has a specifi c phobia with loss of insight"
+    ]
+  },
+  {
+    "question": "63. Which one of the following specifi c phobias is strongly genetic?",
+    "options": [
+      "A. Animal phobia",
+      "B. Space phobia",
+      "C. Blood injury injection phobia",
+      "D. Acrophobia",
+      "E. Spider phobiaCORE CLINICAL PSYCHIATRY | QUESTIONS 51"
+    ]
+  },
+  {
+    "question": "64. Which one of the following features during trauma has the capacity to\npredict future development of PTSD?",
+    "options": [
+      "A. Anterograde amnesia immediately after trauma",
+      "B. Emotional numbing during trauma",
+      "C. Panic attack during trauma",
+      "D. Crying during trauma",
+      "E. Autonomic arousal during trauma"
+    ]
+  },
+  {
+    "question": "65. Which of the following is NOT a feature of panic disorder?",
+    "options": [
+      "A. Situational panic attacks",
+      "B. Situationally predisposed attacks",
+      "C. Out of the blue panic attacks",
+      "D. Nocturnal panic attacks",
+      "E. Unilateral panic attack"
+    ]
+  },
+  {
+    "question": "66. Which of the following is an early developmental temperament noted to\nprecede the onset of social phobia in some cases?",
+    "options": [
+      "A. Behavioural familiarity",
+      "B. Behavioural stimulation",
+      "C. Behavioural inhibition",
+      "D. Temper tantrums",
+      "E. Cognitive inhibition"
+    ]
+  },
+  {
+    "question": "67. Which of the following describes the two peaks often noted in the age\ndistribution of panic disorder?",
+    "options": [
+      "A. Around age 20 and 50",
+      "B. Around age 30 and 50",
+      "C. Around age 20 and 40",
+      "D. Around age 30 and 40",
+      "E. Around age 50 and 70"
+    ]
+  },
+  {
+    "question": "68. Which one of the following suggests depression rather than a grief reaction?",
+    "options": [
+      "A. Early morning awakening",
+      "B. Blaming oneself for the death",
+      "C. Complaining of symptoms suffered by the dead person",
+      "D. Suicidal ideas",
+      "E. Preoccupation with the death"
+    ]
+  },
+  {
+    "question": "69. According to Brown and Harris, all of the following predispose to\ndepression following a stressful life event EXCEPT",
+    "options": [
+      "A. Early parental loss",
+      "B. Unemployment",
+      "C. Parental responsibility",
+      "D. Lack of confi dant",
+      "E. Living in rural isolation52 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "70. A woman suffers from recurrent, intrusive fl ashbacks of a fi re accident that\nshe had in the past, accompanied by irritability and sleeplessness. In order\nto diagnose PTSD, when should the fi re accident have happened?",
+    "options": [
+      "A. Within the last 6 months",
+      "B. Within the last 9 months",
+      "C. Within the last 12 months",
+      "D. Within the last 18 months",
+      "E. Within the last 4 weeks"
+    ]
+  },
+  {
+    "question": "71. Which one of the following is NOT a poor prognostic factor in OCD?",
+    "options": [
+      "A. Male gender",
+      "B. Poor insight",
+      "C. Early onset",
+      "D. Family history of OCD",
+      "E. Presence of depressive symptoms"
+    ]
+  },
+  {
+    "question": "72. Which of the following is the most common method of attempting self\nharm in UK?",
+    "options": [
+      "A. Paracetamol overdose",
+      "B. Benzodiazepine overdose",
+      "C. Hanging",
+      "D. Car exhaust",
+      "E. Jumping from heights"
+    ]
+  },
+  {
+    "question": "73. What is the proportion of suicide victims who attended their primary care\npractitioner within 4 weeks prior to suicide?",
+    "options": ["A. 33%", "B. 25%", "C. 66%", "D. 40%", "E. 13%"]
+  },
+  {
+    "question": "74. A patient has tenacious sense of personal rights, leading on to repeated\nquarrels with neighbours. A personality disorder to be considered is",
+    "options": [
+      "A. Anankastic PD",
+      "B. Dependent PD",
+      "C. Passive aggressive PD",
+      "D. Paranoid PD",
+      "E. Borderline PD"
+    ]
+  },
+  {
+    "question": "75. Which of the following is feature of schizoid personality disorder?",
+    "options": [
+      "A. Inability to plan ahead",
+      "B. Sensitivity to rejection",
+      "C. Indifference to praise or criticism",
+      "D. Excessive self importance",
+      "E. Impulsivity and lack of self restraintCORE CLINICAL PSYCHIATRY | QUESTIONS 53"
+    ]
+  },
+  {
+    "question": "76. Excessive concern with physical appearance, shallow, labile affect, and\negocentricity are a feature of which of the following?",
+    "options": [
+      "A. Histrionic personality",
+      "B. Narcissistic personality",
+      "C. Antisocial personality",
+      "D. Borderline personality",
+      "E. Dysmorphophobia"
+    ]
+  },
+  {
+    "question": "77. Fear of abandonment is a feature of borderline personality. It is also seen in\nwhich other personality disorder?",
+    "options": [
+      "A. Avoidant personality",
+      "B. Dependent personality",
+      "C. Histrionic personality",
+      "D. Anankastic personality",
+      "E. None of the above"
+    ]
+  },
+  {
+    "question": "78. Which personality disorder is considered to be closely associated with\nbipolar diathesis?",
+    "options": [
+      "A. Borderline personality",
+      "B. Narcissistic personality",
+      "C. Antisocial personality",
+      "D. Schizoid personality",
+      "E. Schizotypal personality"
+    ]
+  },
+  {
+    "question": "79. Which is the most common major mental illness in patients with anankastic\npersonality?",
+    "options": [
+      "A. OCD",
+      "B. Schizophrenia",
+      "C. Depression",
+      "D. Generalized anxiety disorder",
+      "E. Eating disorder"
+    ]
+  },
+  {
+    "question": "80. The percentage of schizophrenic patients who ultimately commit suicide is\napproximately",
+    "options": ["A. 1%", "B. 5%", "C. 10%", "D. 20%", "E. 30%"]
+  },
+  {
+    "question": "81. What is the estimated risk of developing schizophrenia throughout the\nlifetime of an average person in the population?",
+    "options": [
+      "A. 1 in 150",
+      "B. 1 in 1000",
+      "C. 1 in 500",
+      "D. 1 in 100",
+      "E. 1 in 3054 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "82. Which of the following is NOT true with respect to narcolepsy?",
+    "options": [
+      "A. Sleep onset REM",
+      "B. Abnormalities in routine EEG",
+      "C. HLA-DR2 associated",
+      "D. Sleep paralysis is seen",
+      "E. Autosomal dominant inheritance is noted"
+    ]
+  },
+  {
+    "question": "83. Somnambulism is a disorder of which stage of sleep?",
+    "options": [
+      "A. REM",
+      "B. Slow wave",
+      "C. Stage 2 NREM",
+      "D. Stage 1 NREM",
+      "E. Any of the above"
+    ]
+  },
+  {
+    "question": "84. Which of the following is a sleep disturbance characteristic of mania?",
+    "options": [
+      "A. Reduced early morning sleep",
+      "B. Reduced initial sleep",
+      "C. Reduced need for sleep",
+      "D. Reduced latency of sleep",
+      "E. None of the above"
+    ]
+  },
+  {
+    "question": "85. Which of the following is NOT a medical cause of panic attacks?",
+    "options": [
+      "A. Hypoglycaemia",
+      "B. Arrythmias",
+      "C. Mitral valve prolapse syndrome",
+      "D. Hypothyroidism",
+      "E. Phaeochromocytoma"
+    ]
+  },
+  {
+    "question": "86. Which of the following statements with respect to the natural history of\neating disorders is true?",
+    "options": [
+      "A. Nearly 50% of patients with bulimia have a past history of anorexia nervosa.",
+      "B. Nearly 50% of patients with anorexia nervosa have a past history of bulimia.",
+      "C. Bulimia and anorexia nervosa coexist simultaneously in 50% of patients.",
+      "D. Bulimia and anorexia are mutually exclusive diagnoses.",
+      "E. 80% of anorexia patients achieve complete remission in 6 months."
+    ]
+  },
+  {
+    "question": "87. Dementia can be differentiated from pseudodementia by all of the following\nEXCEPT",
+    "options": [
+      "A. Verbal memory",
+      "B. Visuospatial function",
+      "C. Executive functions",
+      "D. Motor disturbances",
+      "E. Frontal release signsCORE CLINICAL PSYCHIATRY | QUESTIONS 55"
+    ]
+  },
+  {
+    "question": "88. Which one of the following statement about paraphrenia is NOT correct?\nParaphrenia is",
+    "options": [
+      "A. Common in females",
+      "B. Often associated with sensory impairment",
+      "C. Associated with premorbid paranoid personality",
+      "D. Associated with prominent negative symptoms",
+      "E. Associated with persecutory delusions"
+    ]
+  },
+  {
+    "question": "89. Multiple personality disorder is a controversial diagnosis described under\nwhich of the following group of disorders?",
+    "options": [
+      "A. Personality disorders",
+      "B. Organic disorders",
+      "C. Schizophrenia",
+      "D. Dissociative disorders",
+      "E. Not included in either DSM-IV or ICD-10"
+    ]
+  },
+  {
+    "question": "90. Which of the following symptoms is/are a characteristic feature in\ndissociative fugue?",
+    "options": [
+      "A. Depressive symptoms",
+      "B. Depersonalization symptoms",
+      "C. Defective new learning",
+      "D. Wandering far away with assumption of a new identity",
+      "E. Family history of epilepsy"
+    ]
+  },
+  {
+    "question": "91. Which of the following is a feature of chronic fatigue syndrome?",
+    "options": [
+      "A. Disproportionate fatigue compared to exertion",
+      "B. Fatigue is not relieved by adequate rest",
+      "C. Fatigue is of new onset",
+      "D. Joint aches and tender points are noted",
+      "E. All of the above"
+    ]
+  },
+  {
+    "question": "92. Which of the following best differentiates hypochondriasis from\nsomatoform disorder?",
+    "options": [
+      "A. Patients with hypochondriasis are concerned about symptoms rather than diagnosis",
+      "B. Hypochondriacal patients ask for treatment rather than investigations",
+      "C. Somatizing patients are concerned about diagnosis",
+      "D. Somatizing patients ask for treatment and symptom relief",
+      "E. Hypochondriasis responds better to treatment56 CORE CLINICAL PSYCHIATRY | QUESTIONS"
+    ]
+  },
+  {
+    "question": "93. A young lady develops transient bladder incontinence coinciding with a\nrecent job loss. A few months later she presents to her GP with weakness of\nthe right leg. Which of the following medical disorder is often confused with\nconversion disorder?",
+    "options": [
+      "A. Myasthenia gravis",
+      "B. Guillain-Barré syndrome",
+      "C. Brain tumour",
+      "D. Creutzfeldt–Jakob disease",
+      "E. Multiple sclerosis"
+    ]
+  },
+  {
+    "question": "94. Which of the following is the single most important factor predicting\nsuicide risk?",
+    "options": [
+      "A. Recent life event",
+      "B. Family history of suicide",
+      "C. Past history of suicidal attempt",
+      "D. Recent discharge from hospital",
+      "E. None of the above"
+    ]
+  },
+  {
+    "question": "95. You are bleeped to assess fi ve patients at the same time at A &",
+    "options": [
+      "E. Which\none of the following has highest risk of suicide compared to the others?",
+      "A. 32-year-old woman with obsessional symptoms",
+      "B. 56-year-old widower who tried to gas himself using an exhaust",
+      "C. 22-year-old girl presenting after a recent break-up, having consumed alcohol before\ncalling her boy friend and taking an overdose",
+      "D. 83-year-old cognitively impaired lady who took eight instead of four sleeping pills on the\nsame day of prescription"
+    ]
+  },
+  {
+    "question": "96. Prevalence of major depression among patients with dementia is",
+    "options": [
+      "E. 41-year-old heroin user demanding methadone from A & E",
+      "A. 10%",
+      "B. 50%",
+      "C. 15%",
+      "D. 20%"
+    ]
+  },
+  {
+    "question": "97. A 45-year-old man presents to A & E with complaints of hearing voices. On\nfurther questioning he claims amnesia for the content of these voices and\nreveals he has lost his tenancy the previous day due to aggressive behaviour.\nAn important diagnosis to consider is",
+    "options": [
+      "E. 35%",
+      "A. Malingering",
+      "B. Depression",
+      "C. Temporal lobe epilepsy",
+      "D. Factitious disorder"
+    ]
+  },
+  {
+    "question": "98. A 16-year-old boy presents with cycles of sleepiness lasting for weeks\nassociated with excessive weight gain and hunger. Which of the following is\nan appropriate diagnosis?",
+    "options": [
+      "E. Stress reactionCORE CLINICAL PSYCHIATRY | QUESTIONS 57",
+      "A. Stein Leventhal syndrome",
+      "B. Klein–Levine syndrome",
+      "C. Klüver–Bucy syndrome",
+      "D. Dorian Gray syndrome"
+    ]
+  },
+  {
+    "question": "99. Which one of the following sleep disturbances is associated with\nParkinson’s disease?",
+    "options": [
+      "E. Charles Bonnet syndrome",
+      "A. Somnambulism",
+      "B. Sleep talking",
+      "C. Night terrors",
+      "D. REM behavioural disorder"
+    ]
+  },
+  {
+    "question": "100. A 32-year-old man presents with beliefs that he has a chip in his brain that\ncould neutralize all nuclear radiations in his presence. He stops often in\nmid sentence and continues conversation on a different theme altogether.\nWhich of the following neurological conditions mimics thought blocking?",
+    "options": [
+      "E. Sleep bruxism",
+      "A. Multiple sclerosis",
+      "B. Infantile seizures",
+      "C. Absence seizures",
+      "D. Atonic seizures"
+    ]
+  }
+]
