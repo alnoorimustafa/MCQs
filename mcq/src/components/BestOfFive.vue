@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import CoreClinicalPsychiatry from "./BOF/CoreClinicalPsychiatry.vue";
-import questionsData from "../../../mcq3.json";
+import questionsData from "../../../mcq6.json";
 let page = ref("");
 </script>
 
@@ -50,9 +50,6 @@ let page = ref("");
       false
     </select>
 
-    <CoreClinicalPsychiatry
-      v-if="page === '2'"
-      :questionsData="questionsData"
-    />
+    <CoreClinicalPsychiatry v-if="page" :questionsData="questionsData" />
   </div>
 </template>

@@ -62,7 +62,7 @@ const correctAnswers = computed(() => score.value);
               @click="selectOption(index, option, question.correct_answer)"
               :disabled="selectedOptions[index] !== null"
             >
-              {{ option }}
+              {{ option. }}
             </li>
           </ul>
           <details
