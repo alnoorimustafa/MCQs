@@ -25,7 +25,7 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 
     # Regular expressions for questions, options, correct answer, and explanation
     question_pattern = re.compile(r"(\d+\..+?)(?=\s[A-E]\.)", re.DOTALL)  # Capture questions
-    option_pattern = re.compile(r"([A-E])\.\s(.+?)(?=\s[A-E]\.|(?=\n\d+\.)|$)", re.DOTALL)  # Capture options with their letters
+    option_pattern = re.compile(r"([A-E]\..+?)(?=\s[A-E]\.|(?=\n\d+\.)|$)", re.DOTALL)  # Capture options
     answer_explanation_pattern = re.compile(r"(\d+\.)\s([A-E])\.\s(.*?)(?=\n\d+\.|$)", re.DOTALL)  # Capture correct answer and explanation
 
     mcqs = []
@@ -51,11 +51,17 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
         # Collect options for the current question as a dictionary
         current_options = {}
         while len(current_options) < 5 and option_index < len(options):
-            letter, option_text = options[option_index]
-            current_options[letter] = option_text.strip().replace("\n", " ")
+            option = options[option_index].strip().replace("\n", " ")
+
+            # Extract the option letter and text
+            match = re.match(r"([A-E])\.\s*(.*)", option)
+            if match:
+                option_letter = match.group(1)
+                option_text = match.group(2)
+                current_options[option_letter] = option_text
 
             # Stop if the option contains the start of the next question
-            if re.match(r"^\d+\.", option_text):
+            if re.match(r"^\d+\.", option):
                 break
 
             option_index += 1
@@ -85,5 +91,5 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 # Example usage
 pdf_path = 'complete.pdf'  # Path to your PDF file
 json_path = 'mcq6.json'  # Desired output JSON file path
-pages_to_process = range(17, 49)  # Specify a range of pages (0-based index)
+pages_to_process = range(181, 203)  # Specify a range of pages (0-based index)
 extract_mcqs_from_pdf(pdf_path, json_path, pages_to_process)

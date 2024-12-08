@@ -9,11 +9,16 @@ const selectedOptions = ref(Array(questions.value.length).fill(null)); // Track 
 const score = ref(0); // Initialize score
 
 // Function to handle option selection
-const selectOption = (index: number, option: any, correctAnswer: any) => {
+const selectOption = (
+  index: number,
+  letter: any,
+  option: any,
+  correctAnswer: any
+) => {
   if (selectedOptions.value[index] === null) {
     // Check if the option for this question has not been selected yet
     selectedOptions.value[index] = option; // Set the selected option for this question
-    if (option === correctAnswer) {
+    if (letter === correctAnswer) {
       score.value += 1; // Increment score for correct answer
     }
   }
@@ -47,22 +52,24 @@ const correctAnswers = computed(() => score.value);
           <p class="question-text">{{ index + 1 }} - {{ question.question }}</p>
           <ul class="options-list">
             <li
-              v-for="(option, i) in question.options"
-              :key="i"
+              v-for="(option, letter) in question.options"
+              :key="letter"
               class="option"
               :class="{
                 'correct-option':
-                  option === question.correct_answer &&
+                  letter === question.correct_answer &&
                   selectedOptions[index] === option,
                 'incorrect-option':
                   selectedOptions[index] &&
-                  option !== question.correct_answer &&
+                  letter !== question.correct_answer &&
                   selectedOptions[index] === option,
               }"
-              @click="selectOption(index, option, question.correct_answer)"
+              @click="
+                selectOption(index, letter, option, question.correct_answer)
+              "
               :disabled="selectedOptions[index] !== null"
             >
-              {{ option. }}
+              {{ letter }}. {{ option }}
             </li>
           </ul>
           <details
@@ -76,7 +83,7 @@ const correctAnswers = computed(() => score.value);
         </div>
       </div>
       <div v-else class="placeholder">
-        <p>No questions loaded. Please upload a CSV file.</p>
+        <p>Select A Chapter to Show MCQs</p>
       </div>
     </div>
   </div>
