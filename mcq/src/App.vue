@@ -1,7 +1,7 @@
-<script setup>
+<script setup lang="ts">
 import { ref } from "vue";
 import BestOfFive from "./components/BestOfFive.vue";
-let page = ref(null);
+let page = ref("");
 </script>
 
 <template>
