@@ -25,7 +25,9 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 
     # Regular expressions for questions, options, correct answer, and explanation
     question_pattern = re.compile(r"(\d+\..+?)(?=\s[A-E]\.)", re.DOTALL)  # Capture questions
+    
     option_pattern = re.compile(r"([A-E]\..+?)(?=\s[A-E]\.|(?=\n\d+\.)|$)", re.DOTALL)  # Capture options
+    
     answer_explanation_pattern = re.compile(r"(\d+\.)\s([A-E])\.\s(.*?)(?=\n\d+\.|$)", re.DOTALL)  # Capture correct answer and explanation
 
     mcqs = []
@@ -46,12 +48,12 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 
     while question_index < len(questions):
         # Remove the question number and newline characters
-        question = re.sub(r"^\d+\.\s*", "", questions[question_index].strip()).replace("\n", " ")
+        question = re.sub(r"^\d+\.\s*", "", questions[question_index].strip()).replace("\n", "")
 
         # Collect options for the current question
         current_options = []
         while len(current_options) < 5 and option_index < len(options):
-            option = options[option_index].strip().replace("\n", " ")
+            option = options[option_index].strip().replace("\n", "")
 
             # Stop if the option contains the start of the next question
             if re.match(r"^\d+\.", option):
@@ -84,6 +86,6 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 
 # Example usage
 pdf_path = 'complete.pdf'  # Path to your PDF file
-json_path = 'mcq_with_correct_answer_and_explanation.json'  # Desired output JSON file path
+json_path = 'mcq7.json'  # Desired output JSON file path
 pages_to_process = range(389, 456)  # Specify a range of pages (0-based index)
 extract_mcqs_from_pdf(pdf_path, json_path, pages_to_process)

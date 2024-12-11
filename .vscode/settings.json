@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["behaviour", "mcqs", "pico", "SPMM"]
+  "cSpell.words": ["behaviour", "mcqs", "pico", "SPMM"],
+  "cSpell.ignoreWords": ["pdfplumber"]
 }

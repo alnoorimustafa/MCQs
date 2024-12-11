@@ -46,18 +46,25 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 
     while question_index < len(questions):
         # Remove the question number and newline characters
-        question = re.sub(r"^\d+\.\s*", "", questions[question_index].strip()).replace("\n", " ")
+        question = re.sub(r"^\d+\.\s*", "", questions[question_index].strip()).replace("\n", "")
 
         # Collect options for the current question
         current_options = []
         while len(current_options) < 5 and option_index < len(options):
-            option = options[option_index].strip().replace("\n", " ")
+            option = options[option_index].strip().replace("\n", "")
+            
+            # Extract the option letter and text
+            match = re.match(r"([A-E])\.\s*(.*)", option)
+            if match:
+                option_letter = match.group(1)
+                option_text = match.group(2)
+                current_options[option_letter] = option_text
 
             # Stop if the option contains the start of the next question
             if re.match(r"^\d+\.", option):
                 break
 
-            current_options.append(option)
+            # current_options.append(option)
             option_index += 1
 
         # Now extract the correct answer and explanation
@@ -84,6 +91,6 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 
 # Example usage
 pdf_path = 'complete.pdf'  # Path to your PDF file
-json_path = 'mcq_with_correct_answer_and_explanation.json'  # Desired output JSON file path
+json_path = 'mcq8.json'  # Desired output JSON file path
 pages_to_process = range(389, 456)  # Specify a range of pages (0-based index)
 extract_mcqs_from_pdf(pdf_path, json_path, pages_to_process)
