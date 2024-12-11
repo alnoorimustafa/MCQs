@@ -9,19 +9,19 @@
             "E": "Interpretation"
         },
         "correct_answer": "A",
-        "explanation": "Questions used in clinical interviews can be either facilitative or obstructive. Facilitative messages help the interview to fl ow, establish a rapport and gain the confi dence of the patient. For example, open-ended questions, facilitating statements, refl ections, silence, interpretations, positive reinforcements, etc. Run on or polythematic questioning refers to the process of asking the patient a number of questions at the same time. For example, ‘Have you felt high in spirits, gone on spending sprees and made foolish investments in the past week?’ These questions can be obstructive. Self disclosures are statements about oneself (the psychiatrist) that may help establish a rapport with the patient. I want messages are generally used when the interview fails to progress because the patient is stuck on the same topic. In this case, the psychiatrist could say politely that he or she wants to move on to other topics. Hales R and Yudofsky SC, eds. The American Psychiatric Publishing Textbook of Clinical Psychiatry. American Psychiatric Press, 2003, pp.166–171."
+        "explanation": "Questions used in clinical interviews can be either facilitative or obstructive. Facilitative messages help the interview to flow, establish a rapport and gain the confidence of the patient. For example, open-ended questions, facilitating statements, reflections, silence, interpretations, positive reinforcements, etc. Run on or polythematic questioning refers to the process of asking the patient a number of questions at the same time. For example, ‘Have you felt high in spirits, gone on spending sprees and made foolish investments in the past week?’ These questions can be obstructive. Self disclosures are statements about oneself (the psychiatrist) that may help establish a rapport with the patient. I want messages are generally used when the interview fails to progress because the patient is stuck on the same topic. In this case, the psychiatrist could say politely that he or she wants to move on to other topics. Hales R and Yudofsky SC, eds. The American Psychiatric Publishing Textbook of Clinical Psychiatry. American Psychiatric Press, 2003, pp.166–171."
     },
     {
         "question": "A psychiatrist at an early stage of his initial assessment interview asks the patient, ‘Can you tell me about your depression?’ Which of the following interview techniques is he utilizing?",
         "options": {
             "A": "Closed-ended questions",
             "B": "Open-ended questions",
-            "C": "Refl ecting",
+            "C": "Reflecting",
             "D": "Facilitation",
             "E": "Put down question"
         },
         "correct_answer": "B",
-        "explanation": "Open-ended questions refl ect a topic that the psychiatrist may want to explore, but leaves it open to the patient to say what he/she thinks is important. These questions are used to start the interview and, later on, can lead to specifi c closed-ended questions. Put down questions are where the underlying message is a criticism. For example ‘How can you complain when you have got an A grade in your GCSE?’ Facilitation statements encourage the patient to continue along a particular line of thought. For example, statements such as ‘Go on’; ‘Proceed’; ‘What else’ are facilitation statements. Hales R and Yudofsky SC, eds. The American Psychiatric Publishing Textbook of Clinical Psychiatry. American Psychiatric Press, 2003, pp.166–171."
+        "explanation": "Open-ended questions reflect a topic that the psychiatrist may want to explore, but leaves it open to the patient to say what he/she thinks is important. These questions are used to start the interview and, later on, can lead to specific closed-ended questions. Put down questions are where the underlying message is a criticism. For example ‘How can you complain when you have got an A grade in your GCSE?’ Facilitation statements encourage the patient to continue along a particular line of thought. For example, statements such as ‘Go on’; ‘Proceed’; ‘What else’ are facilitation statements. Hales R and Yudofsky SC, eds. The American Psychiatric Publishing Textbook of Clinical Psychiatry. American Psychiatric Press, 2003, pp.166–171."
     },
     {
         "question": "Which of the following is an open-ended question?",
@@ -29,11 +29,11 @@
             "A": "Tell me about yourself?",
             "B": "Could you tell me the name of the prime minister?",
             "C": "It seems as if you feel people are against you?",
-            "D": "What do you fi nd stressful in your job?",
+            "D": "What do you find stressful in your job?",
             "E": "Do you have trouble falling asleep?"
         },
         "correct_answer": "A",
-        "explanation": "A question whose answer cannot be a simple yes or no, or a single factual answer that can be classifi ed as right or wrong, is an open-ended question, such as the question given in 3. A. (See also Question 2). Kay J and Tasman A. Essentials of Psychiatry. John Wiley & Sons, 2006, p. 44."
+        "explanation": "A question whose answer cannot be a simple yes or no, or a single factual answer that can be classified as right or wrong, is an open-ended question, such as the question given in 3. A. (See also Question 2). Kay J and Tasman A. Essentials of Psychiatry. John Wiley & Sons, 2006, p. 44."
     },
     {
         "question": "During a clinical interview the following statement is made by the clinician: ‘So you have been anxious since these changes occurred at your work place.’ Which of the following interview technique best describes the above statement?",
@@ -42,10 +42,10 @@
             "B": "Open-ended question",
             "C": "Closed-ended question",
             "D": "Interpretation",
-            "E": "Refl ecting8 CLINICAL SKILLS | QUESTIONS"
+            "E": "Reflecting"
         },
         "correct_answer": "E",
-        "explanation": "Refl ections are statements where the psychiatrist repeats what the patient has just said. This gives an opportunity to correct one’s understanding of what the patient said and to let the patient know that the clinician is listening and trying to understand the situation the patient is in. Interpretations are inferences reached by examining patterns of behaviour or thoughts expressed at a clinical interview. Hales R and Yudofsky SC, eds. The American Psychiatric Publishing Textbook of Clinical Psychiatry. American Psychiatric Press, 2003, pp.166–171.24 CLINICAL SKILLS | ANSWERS"
+        "explanation": "Reflections are statements where the psychiatrist repeats what the patient has just said. This gives an opportunity to correct one’s understanding of what the patient said and to let the patient know that the clinician is listening and trying to understand the situation the patient is in. Interpretations are inferences reached by examining patterns of behaviour or thoughts expressed at a clinical interview. Hales R and Yudofsky SC, eds. The American Psychiatric Publishing Textbook of Clinical Psychiatry. American Psychiatric Press, 2003, pp.166–171."
     },
     {
         "question": "Which of the following interview techniques is least directive?",
@@ -87,13 +87,13 @@
         "question": "‘Do you ever hear voices commenting on what you are doing?’ This question is usually asked to ascertain the presence of which one of the following?",
         "options": {
             "A": "Bleuler’s primary symptoms",
-            "B": "Schneider’s fi rst-rank symptoms",
+            "B": "Schneider’s first-rank symptoms",
             "C": "Command hallucinations",
             "D": "Catatonic symptoms of schizophrenia",
             "E": "Negative symptoms of schizophrenia"
         },
         "correct_answer": "B",
-        "explanation": "First rank symptoms (FRS), proposed by Kurt Schneider, suggest a diagnosis of schizophrenia. These symptoms are not specifi c for schizophrenia. The prevalence of FRS in schizophrenia ranges from 28% to 72%. First rank symptoms do not carry any prognostic signifi cance. The stated question in this case enquires for the presence of ‘running commentary’ hallucinations – voices commenting on patients’ thoughts or actions. Bleuler’s primary or fundamental symptoms consist of loosening of association, blunting of affect, ambivalence, and autism (the four A’s). All delusions and hallucinations were classed as secondary symptoms according to Bleuler. Negative symptoms include alogia, affective fl attening, avolition, apathy, anhedonia, asociality, and attentional impairment. Semple DM et al., eds. Oxford Handbook of Psychiatry, 1st edn. Oxford University Press, 2005, p. 179."
+        "explanation": "First rank symptoms (FRS), proposed by Kurt Schneider, suggest a diagnosis of schizophrenia. These symptoms are not specific for schizophrenia. The prevalence of FRS in schizophrenia ranges from 28% to 72%. First rank symptoms do not carry any prognostic significance. The stated question in this case enquires for the presence of ‘running commentary’ hallucinations – voices commenting on patients’ thoughts or actions. Bleuler’s primary or fundamental symptoms consist of loosening of association, blunting of affect, ambivalence, and autism (the four A’s). All delusions and hallucinations were classed as secondary symptoms according to Bleuler. Negative symptoms include alogia, affective flattening, avolition, apathy, anhedonia, asociality, and attentional impairment. Semple DM et al., eds. Oxford Handbook of Psychiatry, 1st edn. Oxford University Press, 2005, p. 179."
     },
     {
         "question": "Regarding the Mini Mental State Examination (MMSE), which of the following statements is true?",
@@ -102,10 +102,10 @@
             "B": "If a person scores 3 on serial sevens, and scores 4 on spelling WORLD backwards then the score for attention is 3",
             "C": "On the reading test one point is scored if the patient reads ‘Close your eyes’ out loud",
             "D": "Education affects the rate of change of scores in normal and dementia subjects",
-            "E": "MMSE scores are not affected by socioeconomic status of a subjectCLINICAL SKILLS | QUESTIONS 9"
+            "E": "MMSE scores are not affected by socioeconomic status of a subject"
         },
         "correct_answer": "A",
-        "explanation": "While administering the MMSE, the subject is asked to guess the answer if he is unsure. This could possibly differentiate patients with pseudodementia who usually answer ‘I don’t know’ while truly demented patients often give wrong responses. On the attention subtest, initially the patient is asked to do the serial seven. If the score is less than 5, we do the WORLD backwards. The higher score among the two is taken. It is not enough for the patient to read the sentence out loud. It is a test of comprehension, so the patient needs to close his/her eyes after reading the command. Education affects the scores on the MMSE. Patients with higher educational status tend to score higher on the test. But education does not affect the rate of change of scores in both normal and dementia subject, and hence change in scores is a good index of worsening dementia. MMSE is not independent of socioeconomic status. This may be because socioeconomic status is indirectly linked to educational status. Ridha B and Rossor M. The Mini Mental State Examination. Practical Neurology 2005; 5: 298–303.CLINICAL SKILLS | ANSWERS 25"
+        "explanation": "While administering the MMSE, the subject is asked to guess the answer if he is unsure. This could possibly differentiate patients with pseudodementia who usually answer ‘I don’t know’ while truly demented patients often give wrong responses. On the attention subtest, initially the patient is asked to do the serial seven. If the score is less than 5, we do the WORLD backwards. The higher score among the two is taken. It is not enough for the patient to read the sentence out loud. It is a test of comprehension, so the patient needs to close his/her eyes after reading the command. Education affects the scores on the MMSE. Patients with higher educational status tend to score higher on the test. But education does not affect the rate of change of scores in both normal and dementia subject, and hence change in scores is a good index of worsening dementia. MMSE is not independent of socioeconomic status. This may be because socioeconomic status is indirectly linked to educational status. Ridha B and Rossor M. The Mini Mental State Examination. Practical Neurology 2005; 5: 298–303."
     },
     {
         "question": "Assessment of insight is an integral part of mental state examination in psychiatric practice. Regarding insight, which of the following statements is true?",
@@ -117,7 +117,7 @@
             "E": "Loss of insight is similar to the concept of anosognosia in neurological illness"
         },
         "correct_answer": "E",
-        "explanation": "The three dimensions of insight proposed by David include: the ability to label unusual experiences as pathological, to recognize that one has mental illness, and to comply with treatment. In a different approach to the concept of insight, emotional insight is considered the highest level of insight. This is the awareness and understanding of the illness which leads to a change in behaviour. Intellectual insight is the admission of illness and recognition of symptoms, without the ability to apply this knowledge to change or shape future behaviour. Patients with OCD may present with poor insight. DSM IV has a specifi er ‘with poor insight’ for OCD where poor insight is associated with poor prognosis. Patients with schizophrenia show variable levels of insight at various stages of their illness. Some exhibit a good level of insight when recovered, while at the worst phase of their illness they may deny having any mental illness. Sadock BJ and Sadock VA. Kaplan & Sadock’s Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 10th edn. Lippincott Williams & Wilkins, 2007, p. 241."
+        "explanation": "The three dimensions of insight proposed by David include: the ability to label unusual experiences as pathological, to recognize that one has mental illness, and to comply with treatment. In a different approach to the concept of insight, emotional insight is considered the highest level of insight. This is the awareness and understanding of the illness which leads to a change in behaviour. Intellectual insight is the admission of illness and recognition of symptoms, without the ability to apply this knowledge to change or shape future behaviour. Patients with OCD may present with poor insight. DSM IV has a specifier ‘with poor insight’ for OCD where poor insight is associated with poor prognosis. Patients with schizophrenia show variable levels of insight at various stages of their illness. Some exhibit a good level of insight when recovered, while at the worst phase of their illness they may deny having any mental illness. Sadock BJ and Sadock VA. Kaplan & Sadock’s Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 10th edn. Lippincott Williams & Wilkins, 2007, p. 241."
     },
     {
         "question": "A patient with schizophrenia vividly describes how Martians are ‘reverse freezing’ earth to produce global warming. He stops to ask what you think about this. Choose the best response.",
@@ -132,23 +132,23 @@
         "explanation": "Option A and B indicate collusion with the patient’s belief. Option C is a direct confrontation while D is evasion from the topic which can reduce engagement. Semple DM et al., eds. Oxford Handbook of Psychiatry, 1st edn. Oxford University Press, 2005, p. 56."
     },
     {
-        "question": "Which one of the following is NOT an advisable fi rst response when a patient discloses past sexual abuse at a clinical encounter?",
+        "question": "Which one of the following is NOT an advisable first response when a patient discloses past sexual abuse at a clinical encounter?",
         "options": {
             "A": "Postpone discussing the issue",
             "B": "Ask if she wants to say anything more about this now",
             "C": "Ask if she has ever disclosed this to anyone",
-            "D": "Ask if she sees a link between this and her current diffi culties",
+            "D": "Ask if she sees a link between this and her current difficulties",
             "E": "None of the above"
         },
         "correct_answer": "A",
-        "explanation": "Childhood physical, sexual abuse, and neglect are extremely common experiences among those who develop serious mental health problems. But victims are typically reluctant to disclose their histories of abuse and psychiatrists are often reluctant to seek this important information. Though clinicians are not comfortable exploring sexual abuse in the fi rst interview, postponing the discussion once it is disclosed is not an advisable strategy. Read J, et al. Why, when and how to ask about childhood abuse. Advances in Psychiatric Treatment 2007; 13: 101–110."
+        "explanation": "Childhood physical, sexual abuse, and neglect are extremely common experiences among those who develop serious mental health problems. But victims are typically reluctant to disclose their histories of abuse and psychiatrists are often reluctant to seek this important information. Though clinicians are not comfortable exploring sexual abuse in the first interview, postponing the discussion once it is disclosed is not an advisable strategy. Read J, et al. Why, when and how to ask about childhood abuse. Advances in Psychiatric Treatment 2007; 13: 101–110."
     },
     {
         "question": "Closed questions are best avoided in which of the following scenarios?",
         "options": {
             "A": "A patient with suspected malingering",
             "B": "A guarded patient not answering spontaneously",
-            "C": "A suggestible patient with learning diffi culty",
+            "C": "A suggestible patient with learning difficulty",
             "D": "A psychotic patient who is actively hallucinating",
             "E": "All of the above"
         },
@@ -162,7 +162,7 @@
             "B": "How would your friends describe you?",
             "C": "What were you like before you became unwell?",
             "D": "If we had met 10 years ago, what sort of person would I be talking to?",
-            "E": "None of the above10 CLINICAL SKILLS | QUESTIONS"
+            "E": "None of the above"
         },
         "correct_answer": "E",
         "explanation": "There is no single question that can reliably elicit premorbid personality traits. A detailed discourse that includes enquiry about hobbies, leisure, predominant mood state, character, and descriptions – both self and by friends – is necessary to understand one’s premorbid personality. Sadock BJ and Sadock VA. Kaplan & Sadock’s Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 10th edn. Lippincott Williams & Wilkins, 2007, p. 228."
@@ -189,7 +189,7 @@
             "E": "Social phobia"
         },
         "correct_answer": "E",
-        "explanation": "While self neglect can be seen in any severe mental illness, it is not very common in isolated anxiety disorders. In alcoholism self neglect indicates a higher risk of vitamin and nutritional defi ciencies. In schizophrenia, this may be secondary to negative symptoms or depression. Garden G. Physical examination in psychiatric practice. Advances in Psychiatric Treatment 2005; 11: 142–149.26 CLINICAL SKILLS | ANSWERS"
+        "explanation": "While self neglect can be seen in any severe mental illness, it is not very common in isolated anxiety disorders. In alcoholism self neglect indicates a higher risk of vitamin and nutritional deficiencies. In schizophrenia, this may be secondary to negative symptoms or depression. Garden G. Physical examination in psychiatric practice. Advances in Psychiatric Treatment 2005; 11: 142–149."
     },
     {
         "question": "A 57-year-old lady with many previous hospitalizations is brought by police to casualty. She is wearing full make-up, green lipstick, shiny green nail polish, and green jewellery. She asks everyone at the admission unit to call her Ms Green. Which of the following diagnoses is most consistent with the above presentation?",
@@ -213,7 +213,7 @@
             "E": "Recall"
         },
         "correct_answer": "B",
-        "explanation": "Serial sevens test is a part of Mini Mental State Examination. In this test, the subject is asked to subtract seven from 100 serially for fi ve times. One point is given for each correct subtraction. Though it has arithmetic properties, in MMSE this test is primarily administered to test attention. Alternatively, the subject may be asked to spell the word ‘WORLD’ backwards to test attention. The better of two scores is used to calculate fi nal MMSE scores. Ridha B and Rossor M. The Mini Mental State Examination. Practical Neurology 2005; 5: 298–303."
+        "explanation": "Serial sevens test is a part of Mini Mental State Examination. In this test, the subject is asked to subtract seven from 100 serially for five times. One point is given for each correct subtraction. Though it has arithmetic properties, in MMSE this test is primarily administered to test attention. Alternatively, the subject may be asked to spell the word ‘WORLD’ backwards to test attention. The better of two scores is used to calculate final MMSE scores. Ridha B and Rossor M. The Mini Mental State Examination. Practical Neurology 2005; 5: 298–303."
     },
     {
         "question": "A 33-year-old man attending an out-patient clinic turns towards his left and spits out, muttering unintelligibly. He does this act at least three times in half an hour and appears very guarded. This gesture is suggestive of which of the following?",
@@ -222,7 +222,7 @@
             "B": "Suicidal thinking",
             "C": "Low self esteem",
             "D": "Responding to hallucination",
-            "E": "Acute confusionCLINICAL SKILLS | QUESTIONS 11"
+            "E": "Acute confusion"
         },
         "correct_answer": "D",
         "explanation": "Hallucinatory behaviours, such as the one described in this example, are often noted in acutely psychotic patients with poor insight. Questioning the behaviour gently could elicit more information from the patient. Semple DM et al., eds. Oxford Handbook of Psychiatry, 1st edn. Oxford University Press, 2005, p. 38."
