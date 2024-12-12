@@ -1,0 +1,602 @@
+[
+    {
+        "question": "All of the following are features of Down’s syndrome except",
+        "options": {
+            "A": "Increased cardiac mortality and morbidity",
+            "B": "Lax ligaments",
+            "C": "Wide gap between first and second toes",
+            "D": "Increased incidence of leukaemia",
+            "E": "Delayed puberty"
+        },
+        "correct_answer": "E",
+        "explanation": "One of the most common causes of death in Down’s syndrome is congenital heart disease. Common phenotypic features seen in children with Down’s syndrome include brachycephaly, broad hands, single palmar crease, epicanthal folds, clinodactyly of fifth finger, flat nasal bridge, and wide gap between first and second toes, hypotonia with lax ligaments, short stature, and mental retardation. In addition, children may have congenital heart defects such as ventricular septal defect, duodenal atresia at birth, and increased incidence of leukaemia in childhood. Atlantoaxial subluxation may occur in children with Down’s syndrome, leading to spinal cord compression. The signs and symptoms of hypothyroidism can develop slowly over time and can be difficult to discriminate from those of Down’s syndrome itself. No differences have been found in terms of age of onset of the physical features of puberty in adolescent girls and boys with Down’s syndrome compared with general population trends. In men, reproductive capacity appears to be diminished, but women with Down’s syndrome are able to bear children. Roizen NJ and Patterson D. Down’s syndrome. Lancet 2003; 361: 1281–1289"
+    },
+    {
+        "question": "Which of the following is false with regard to behavioural and psychiatric disorders associated with Down’s syndrome?",
+        "options": {
+            "A": "Rates of non-organic psychiatric disorders are higher in Down’s syndrome than in learning disability due to other causes",
+            "B": "Autism has a significant association with Down’s syndrome",
+            "C": "Seizures are a frequent clinical feature of Alzheimer’s dementia in those with Down’s syndrome",
+            "D": "Medical conditions may underlie psychiatric presentations",
+            "E": "Most patients have a placid temperament"
+        },
+        "correct_answer": "A",
+        "explanation": "Children with Down’s syndrome are known to be gentle, mild mannered, and easygoing. It is reported that emotional and behavioural problems are less frequent than other forms of learning disabilities. Medical causes must be ruled out before considering a de novo psychiatric explanation for behavioural and emotional problems. The dual diagnoses of Down’s syndrome and autism has been recognized for some time, with recent reports quoting 7% of Down’s syndrome children having autism. Puri et al. (2001) showed in a study of 68 adults with Down’s syndrome that individuals aged over 45 with a history of seizures were significantly more likely to develop Alzheimer’s dementia; nearly 84% of demented individuals with Down’s syndrome developed seizures. This is far higher than the rate of seizures found in Alzheimer’s dementia without Down’s syndrome (10%) and Down’s syndrome without dementia (8%). Early-onset seizures in Down’s syndrome seem to be unrelated to Alzheimer’s type of pathology. Puri BK, Ho KW and Singh I. Age of seizure onset in adults with Down’s syndrome. International Journal of Clinical Practice 2001; 55: 442–444. Gelder MG, et al. eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 717"
+    },
+    {
+        "question": "Classification of mental retardation into ‘subcultural’ and ‘pathological’ subtypes was first described by",
+        "options": {
+            "A": "EO Lewis",
+            "B": "Henry Maudsley",
+            "C": "Kraepelin",
+            "D": "Morel",
+            "E": "Kanner"
+        },
+        "correct_answer": "A",
+        "explanation": "EO Lewis suggested the distinction between subcultural learning disability and biological learning disability in 1933. ‘Subcultural mental handicap’ refers to the lower extreme variant of IQ distribution seen in the population. The biological or pathological type is seen to be evenly distributed across all social classes, whereas the subcultural type is often seen in social class V and associated with mild rather than profound disability. Kraepelin is associated with dementia praecox, and French psychiatrist Benoit Morel is associated with the theory of degeneration in schizophrenia. Kanner is associated with infantile autism. Blackie J, Forrest A and Witcher G. Subcultural mental handicap. British Journal of Psychiatry 1975; 127: 535–539"
+    },
+    {
+        "question": "All of the following are true with regard to foetal alcohol syndrome except",
+        "options": {
+            "A": "Decreased cranial size at birth",
+            "B": "Agenesis of the corpus callosum",
+            "C": "Neurosensory hearing loss",
+            "D": "Poor eye–hand coordination",
+            "E": "Congenital cataract"
+        },
+        "correct_answer": "E",
+        "explanation": "The diagnostic criteria for foetal alcohol syndrome includes confirmed maternal alcohol exposure in addition to evidence of characteristic facial anomalies such as short palpebral fissures and abnormalities in the premaxillary zone, including flat upper lip, cleft palate, flattened philtrum, and flat midface. Evidence of growth retardation includes low birthweight for gestational age or decelerating weight gain over time not due to undernutrition. Features suggestive of neurodevelopmental abnormalities such as decreased cranial size at birth, structural brain abnormalities (e.g. microcephaly, partial or complete agenesis of the corpus callosum, cerebellar hypoplasia), and neurological signs (impaired fine motor skills, neurosensory hearing loss, poor tandem gait, poor eye–hand coordination) are also included in the diagnostic criteria. Congenital cataract is not suggestive of foetal alcohol syndrome; in infants with cataract, other explanations for developmental problems such as toxoplasmosis, congenital rubella, or metabolic syndromes must be sought. Autti-Ramo I. Foetal alcohol syndrome – a multifaceted condition. Developmental Medicine and Child Neurology 2002; 44: 141–144"
+    },
+    {
+        "question": "A subcultural rather than neuropathological explanation for learning disability is supported by which of the following?",
+        "options": {
+            "A": "Even distribution of learning disability across different socioeconomic groups of the population",
+            "B": "Existence of a profound degree of learning disability",
+            "C": "Learning disability in other members of the family",
+            "D": "Facial dysmorphic features",
+            "E": "Significant problems with adaptive functioning"
+        },
+        "correct_answer": "C",
+        "explanation": "Subcultural learning disability refers to the lower extreme variant of IQ distribution seen in the population and it often seen in social class V and associated with mild rather than profound disability. Many family members of individuals with subcultural learning disability may also have borderline IQ, probably due to the effects of shared environment and social influences. In contrast, the biological or pathological type is seen to be evenly distributed across all social classes. Dysmorphic features are more likely to be seen in those with a biological cause of learning disability with syndromic presentation being noted. Subcultural learning disability suggests the concept of a psychosocial causation (e.g. physical and emotional neglect). This is controversial. Semple DM, et al. eds. Oxford Handbook of Psychiatry, 1st edn. Oxford University Press 2005, p. 687"
+    },
+    {
+        "question": "A 6-year-old boy has autistic features, hyperactivity, and inattention. He is noted to have frequent self-injurious head banging and nail pulling. There is a history of both nocturnal and diurnal enuresis. He has an IQ in the range of moderate learning disability. He has normal uric acid levels in his serum. The most likely cause is",
+        "options": {
+            "A": "Trisomy 21",
+            "B": "7q11 deletion in the elastin gene",
+            "C": "17p11 microdeletion",
+            "D": "Hypoxanthine guanine phosphoribosyltransferase deficiency",
+            "E": "Trisomy 13"
+        },
+        "correct_answer": "C",
+        "explanation": "Smith–Magenis syndrome has a prevalence of 1: 500 000. It is caused by a microdeletion on the short arm of chromosome 17p11·2. The degree of intellectual impairment is usually variable. The phenotype includes bradydactyly, a broad, flat face, hoarse voice, and a characteristic fleshy upper lip, although these features may be very subtle. Prominent autistic features, hyperactivity (in 75%), inattention, and self-injury (in 70%) such as head banging, nail pulling, and hand biting, are seen. Nocturnal and diurnal enuresis may also be present. Sleep is characterized by reduced or absent REM phase. Trisomy 21 refers to Down’s syndrome. 7q11 deletion in the elastin gene can result in Williams syndrome, which is characterized by hyperactivity, ‘cocktail party speech’, and supravalvular aortic stenosis. Hypoxanthine guanine phosphoribosyltransferase deficiency can result in Lesch Nyhan syndrome with severe self-mutilation, aggression, and hyperuricaemia. Trisomy 13 syndrome is also known as Patau’s syndrome and can be of three types: full trisomy, mosaic pattern type, and translocation type. All survivors have profound mental retardation. Lask B, Taylor S and Nunn K, eds. Practical Child Psychiatry: The Clinician’s Guide. BMJ Publishing, 2003, p. 161"
+    },
+    {
+        "question": "The most powerful predictor of overall functional outcome in children with autism is given by",
+        "options": {
+            "A": "Family history of autism",
+            "B": "Autistic symptom count",
+            "C": "Presence of soft neurological signs",
+            "D": "IQ level",
+            "E": "Non-verbal skills"
+        },
+        "correct_answer": "D",
+        "explanation": "Autism is a disorder with lifelong disability. About 70% of autistic individuals have an IQ in the learning disability range. In autism, IQ has been shown to be the most powerful predictor of outcome. A distinctive cognitive profile characterized by strong visuospatial skills and poor abstract ability has been noted. A small proportion of autistic children may have islets of special abilities and are dubbed as ‘autistic savants’. The presence of communicative speech by the age of 5 years is another important predictor of positive outcome. Lask B, Taylor S, Nunn K, eds. Practical Child Psychiatry: The Clinician’s Guide. BMJ Publishing, 2003, p. 178"
+    },
+    {
+        "question": "Which of the following groups of school children develops a higher prevalence of psychopathology as adults than the others listed?",
+        "options": {
+            "A": "Victims of bullying",
+            "B": "Perpetrators of bullying",
+            "C": "Children who do not bully and are not victimized by others",
+            "D": "Children who frequently bully others and get victimized by others",
+            "E": "Children who report bullying to teachers and authorities"
+        },
+        "correct_answer": "D",
+        "explanation": "In a sample of more than 2500 boys born in 1981, details of bullying and victimization were gathered when the boys were 8 years old. Between the ages of 18 and 23, information about psychiatric disorders was collected from a registry. The boys could be classified into those who bully others, those who are frequently victimized, and those who bully others and are victimized frequently. Frequent bullying-only status predicted antisocial personality and substance abuse; frequent victimization-only status predicted anxiety disorder, whereas frequent bully–victim status predicted antisocial personality and anxiety disorder. Frequent bully–victims were at particular risk of adverse long-term outcomes compared with either pure bullies or pure victims. Sourander A, Jensen P, Ronning JA, et al. What is the early adulthood outcome of boys who bully or are bullied in childhood? The Finnish ‘From a Boy to a Man’ study. Pediatrics 2007; 120: 397–404"
+    },
+    {
+        "question": "The most common known inherited cause of learning disability is",
+        "options": {
+            "A": "Down’s syndrome",
+            "B": "Fragile X syndrome",
+            "C": "Cri du chat syndrome",
+            "D": "Galactosaemia",
+            "E": "Hypothyroidism"
+        },
+        "correct_answer": "B",
+        "explanation": "Fragile X syndrome is the most common known inherited cause of learning disability. It affects 1:3600 boys and 1:6000 girls. Thirty per cent of individuals affected by fragile X have autistic features. Nearly 20% have epilepsy too. 1 in 300 women and 1 in 800 men are carriers of fragile X mutation. Although Down’s syndrome is a more common cause of learning disability, it is mostly sporadic and not inherited in the strict sense. Gelder MG, et al. eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 714"
+    },
+    {
+        "question": "The point prevalence of schizophrenia in people with learning disability is",
+        "options": {
+            "A": "1%",
+            "B": "20%",
+            "C": "3%",
+            "D": "15%",
+            "E": "10%"
+        },
+        "correct_answer": "C",
+        "explanation": "The point prevalence of schizophrenia is estimated to be between 3% and 4% in the learning-disabled population compared with 1% in the general population. Schizophrenia cannot be reliably diagnosed below an IQ of approximately 45. Often in clinical practice, if there is evidence of delusions or hallucinations in those with profound learning disability, a diagnosis of psychosis not otherwise specified is used. Despite this the rate of schizophrenia is significantly higher among the population with learning disability. This increase is seen despite the overall rate of psychiatric illness among adults with mild to moderate learning disability being similar to that in the general adult population without learning disability. The reason for this increased comorbidity is unclear, and common underlying brain damage that could cause both learning disability and schizophrenia cannot be ruled out. Deb S, Thomas M and Bright C. Mental disorder in adults with intellectual disability. 1. Prevalence of functional psychiatric illness among a community-based population aged between 16 and 64 years. Journal of Intellectual Disability Research 2001; 45: 495–505"
+    },
+    {
+        "question": "An 18-year-old man with learning disability has ectopia lentis, fair hair, long thin limbs, and osteoporosis. The most likely diagnosis is",
+        "options": {
+            "A": "Phenylketonuria",
+            "B": "Homocystinuria",
+            "C": "Marfan syndrome",
+            "D": "Tay Sach’s disease",
+            "E": "Fragile X syndrome"
+        },
+        "correct_answer": "B",
+        "explanation": "Homocystinuria is a metabolic disorder characterized by an increased blood and urine concentration of amino acid homocysteine. Clinical features resemble Marfan syndrome; patients have ectopia lentis, chest and spinal deformities similar to Marfan syndrome. But changes in hair colour, osteoporosis, arterial and venous thrombosis, and learning disabilities are generally absent in patients with Marfan syndrome. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 715"
+    },
+    {
+        "question": "The social approach of providing a pattern of life as ordinary as possible for the learning disabled population is called",
+        "options": {
+            "A": "Community rehabilitation",
+            "B": "Eugenics",
+            "C": "Normalization",
+            "D": "Reality orientation",
+            "E": "Standardization"
+        },
+        "correct_answer": "C",
+        "explanation": "In the past, learning disability has been a cause for social rejection, with prejudiced labels such as ‘degeneracy’ associated with it. The so-called degenerates were isolated from the community, leading to the establishment of large mental institutions. The principle of normalization is seen by many as a reaction to the dehumanizing policies of the past. Normalization promotes independence and autonomy while making it possible for people with learning disabilities to have an ordinary life with the same choices and opportunities as everyone else. This shifts the focus from ‘disability’ to ‘differences in ability’. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry 5th edn. Oxford University Press, 2006, p. 722"
+    },
+    {
+        "question": "The proportion of the learning disabled population with an IQ in the range 50–70 is",
+        "options": {
+            "A": "10%",
+            "B": "2%",
+            "C": "4%",
+            "D": "85%",
+            "E": "40%"
+        },
+        "correct_answer": "D",
+        "explanation": "Nearly 85% of those with learning disability have an IQ in the range 50–70 (mild learning disability). Of the rest, nearly 10% have moderate learning disability with an IQ in the range 35–50 and around 5% have an IQ in the severe/profound learning disability range (less than 35). Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 708"
+    },
+    {
+        "question": "A landmark epidemiological study in child psychiatry is the Isle of Wight study in the UK. What was the nature of the original sample first studied?",
+        "options": {
+            "A": "A sub-sample of all children aged 5–13",
+            "B": "Every other child aged 5–17",
+            "C": "A sub-sample of all children aged 9–15",
+            "D": "All children aged 9–11",
+            "E": "Every other child aged 9–12"
+        },
+        "correct_answer": "D",
+        "explanation": "Major epidemiological work in child psychiatry started with the Isle of Wight surveys between 1964 and 1974. The Isle of Wight surveys had a two-phase design, with a systematic questionnaire screening a large sample, followed by in-depth assessments of a sub-sample selected according to the results of screening. Multiple informants were used in both phases. All 9- to 11-year-old children attending state schools on the island were included in the primary survey. A 4-year follow-up was carried out for children identified with psychiatric problems when they were approximately 14 years old. Rutter M. Isle of Wight revisited: twenty-five years of child psychiatric epidemiology. Journal of the American Academy of Child and Adolescent Psychiatry 1989; 28: 633–653"
+    },
+    {
+        "question": "The point prevalence of any ICD-10 disorders in 5- to 15-year-old children is estimated to be around",
+        "options": {
+            "A": "1%",
+            "B": "5%",
+            "C": "10%",
+            "D": "20%",
+            "E": "25%"
+        },
+        "correct_answer": "C",
+        "explanation": "Numerous cross-sectional epidemiological surveys have confirmed that psychopathology in young people is common, with most studies estimating the prevalence to be between 10% and 20%. In a study that included more than 10,000 children, overall rates of psychiatric disorders in 5- to 15-year-old children in the UK was estimated to be around 9.5%. A review of 49 surveys worldwide indicated an average point prevalence of 12.9% for psychiatric disorders in children. Emotional disturbances and behavioural disorders are equally common. Only a small proportion – between 10% and 30% – of children with a psychiatric disorder make contact with specialist mental health services. Martin A, Volkmar FR, eds. Lewis’s Child and Adolescent Psychiatry: A Comprehensive Textbook, 4th edn. Lippincott Williams and Wilkins, 2007, p.164"
+    },
+    {
+        "question": "Comparable male and female prevalence rates are found for which of the following psychiatric disorders in children?",
+        "options": {
+            "A": "Eating disorders",
+            "B": "Hyperactivity disorders",
+            "C": "Nocturnal enuresis",
+            "D": "Selective mutism",
+            "E": "Tourette’s syndrome"
+        },
+        "correct_answer": "D",
+        "explanation": "Pervasive developmental disorders such as autism and Asperger’s syndrome are more common in boys. Attention deficit hyperactivity disorder, tic disorders, oppositional defiance, and conduct disorders are also seen more often in boys than in girls. The rate of depression seems equal between both sexes before puberty. School refusal and selective mutism are also equally common in both boys and girls. Depression after puberty, specific phobia, eating disorders, and enuresis in daytime are more common in girls. Nocturnal enuresis in older children is more prevalent in boys. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 651 (see Table 24.2)"
+    },
+    {
+        "question": "According to the Isle of Wight study the ratio of boys to girls with conduct disorder is",
+        "options": {
+            "A": "4:1",
+            "B": "2:1",
+            "C": "1:2",
+            "D": "10:1",
+            "E": "Conduct disorder was not diagnosed in girls"
+        },
+        "correct_answer": "A",
+        "explanation": "Conduct disorders are four times more common in boys than in girls according to the Isle of Wight study. Girls are more prone to use verbal and relational violence, such as exclusion from groups and character defamation, than the physical attacks seen in boys. Consequently, girls are violent in a way that can be difficult to document and to describe as conduct disorder symptoms; this may be a reason for under-diagnosis of conduct issues in girls. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 650"
+    },
+    {
+        "question": "Reactive attachment disorder is a recognized category in both ICD-10 and DSM-IV. Which of the following criteria used for diagnosing this condition is mentioned in DSM-IV but not ICD-10?",
+        "options": {
+            "A": "Markedly disturbed inappropriate social relatedness",
+            "B": "The disturbance does not meet the criteria for pervasive developmental disorder",
+            "C": "Onset before 5 years of age",
+            "D": "A history of significant neglect",
+            "E": "The disturbance in relationships is a direct result of abnormal care-giving"
+        },
+        "correct_answer": "E",
+        "explanation": "The core features of reactive attachment disorder (RAD) are preserved across both diagnostic nosologies, ICD and DSM. But the focus on subtypes and emphasis on the pathogenic nature of care giving are different. The DSM-IV includes inhibited and disinhibited types of RAD. In ICD-10, the term reactive attachment disorder stands for inhibited type, while disinhibited attachment disorder is separately defined. Both ICD and DSM endorse problems of social relatedness in RAD. Age of onset criteria (before 5 years) and exclusion of pervasive developmental disorders are common for both nosologies. In addition, DSM-IV also requires the presence of a known history of grossly pathogenic care, suggesting a causal link. Children with the disinhibited subtype may appear indiscriminately social. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 667"
+    },
+    {
+        "question": "The term frozen watchfulness is used in description of which of the following psychiatric conditions?",
+        "options": {
+            "A": "Inhibited reactive attachment disorder",
+            "B": "Autism",
+            "C": "Selective mutism",
+            "D": "Social anxiety disorder",
+            "E": "Post-traumatic stress disorder"
+        },
+        "correct_answer": "A",
+        "explanation": "The term ‘frozen watchfulness’ describes an alertness or even hypervigilance that is maintained despite an overall inhibition of motor activity that may include mutism. Reactive attachment disorder (RAD) is associated with markedly disturbed and developmentally inappropriate social relatedness beginning before age 5 years. It commonly presents as persistent failure to initiate or respond to most social interactions. The responses can be excessively inhibited, hypervigilant, or highly ambivalent and contradictory. This is associated with avoidance of resistance to comforting or exhibiting a frozen watchfulness. This type of RAD is called the inhibited type. In disinhibited type, diffuse attachments manifested by indiscriminate sociability with marked inability to exhibit appropriately selective attachments are seen. This frozen watchfulness is different from aloofness seen in autism or dissociative features seen in PTSD. Frozen watchfulness is also seen in young victims of physical abuse. Hornor G. Reactive Attachment Disorder. Journal of Pediatric Health Care 2008; 22: 234–239"
+    },
+    {
+        "question": "Which of the following best defines the diagnosis of specific reading disorder when assessed using psychometric measures of reading age?",
+        "options": {
+            "A": "Reading age is below the 10th percentile of the peers",
+            "B": "Reading age is one standard deviation below the expected",
+            "C": "Reading age is two standard deviations below the expected",
+            "D": "Reading age is three standard deviations below the expected",
+            "E": "Reading age is below the 20th percentile of the peers"
+        },
+        "correct_answer": "C",
+        "explanation": "According to current classificatory systems, a learning disorder such as specific reading disorder can be diagnosed when the child achieves substantially lower than expected scores on individually administered, standardized tests of components of learning (reading, mathematics, or written expression) for a given age, schooling, and level of intelligence. Thus an explicit reference to psychometric assessments is made when diagnosing learning disorders. But a specific guideline as to the statistical meaning of being substantially below the expected norm is not clearly delineated in DSM IV. Nevertheless, ICD-10 states a score that is at least 2 standard errors of prediction below the expected value as diagnostic criteria for specific developmental disorders of scholastic skills. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 667"
+    },
+    {
+        "question": "A 10-year-old boy makes repeated errors in reading and spelling with substitutions and omissions of letters. He is slow in reading with considerable hesitations. All of the following features are expected in this child except",
+        "options": {
+            "A": "Minor neurological abnormalities",
+            "B": "Socially disadvantaged home setting",
+            "C": "Lower rates of conduct disorder",
+            "D": "Higher rates of similar problems in the family",
+            "E": "Higher rates of emotional problems"
+        },
+        "correct_answer": "C",
+        "explanation": "This child is most likely having specific reading disorder. This is associated with higher prevalence of emotional disturbances and conduct disorder. It is more often seen in boys than girls. Minor soft neurological signs are frequently seen in children with this disorder, suggesting a neural developmental abnormality. Martin A and Volkmar FR, eds. Lewis’s Child and Adolescent Psychiatry: A Comprehensive Textbook, 4th edn. Lippincott Williams and Wilkins, 2007, p.413"
+    },
+    {
+        "question": "The most consistent genetic locus implicated in specific reading disorder is",
+        "options": {
+            "A": "Chromosome 6p",
+            "B": "Chromosome 9p",
+            "C": "Chromosome 12p",
+            "D": "Chromosome 4p",
+            "E": "Chromosome 1p"
+        },
+        "correct_answer": "A",
+        "explanation": "Specific reading disorder is regarded to have significant genetic aetiology, with multiple genes contributing to the biological risk factor. The candidate regions are abbreviated as DYX1 to DYX9 on chromosomes 15q, 6p, 2p, 6q, 3cen, 18p, 11p, 1p, and Xq, respectively. Of these, the most consistent findings seem to be the role of chromosome 6. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 668"
+    },
+    {
+        "question": "Which of the following is a common condition in childhood that is not listed as a separate disorder in ICD-10?",
+        "options": {
+            "A": "Sleepwalking",
+            "B": "Stuttering",
+            "C": "Tic disorder",
+            "D": "Autism",
+            "E": "Sibling rivalry"
+        },
+        "correct_answer": "B",
+        "explanation": "Among the specific disorders of psychological development listed in the question, stuttering is not a separate diagnostic category in the current ICD-10, Chapter V. Stuttering has a high incidence between second and fourth years of life affecting 4% to 5% of the population with nearly equal sex ratio at the start. Normal developmental dysfluencies tend to occur in the larger linguistic units such as words, phrases, and sentences. In stutterers this occurs in repetitions of syllables and prolongation of sounds. Recovery usually occurs by adolescence and is more likely in girls; nearly 1 in 30 children have stuttering though only 1% of adolescents show stuttering. A familial component is noted in stuttering - the risk in first-degree relatives being more than three times the population risk. Sleepwalking, sibling rivalry disorder, tic disorder and autism are definite diagnostic categories in ICD-10. Martin A and Volkmar FR, eds. Lewis’s Child and Adolescent Psychiatry: A Comprehensive Textbook, 4th edn. Lippincott Williams and Wilkins, 2007, p. 424"
+    },
+    {
+        "question": "All of the following are recognized associations with specific reading disorder except",
+        "options": {
+            "A": "Difficulty in visual scanning",
+            "B": "Right – left confusion",
+            "C": "Age related spontaneous resolution",
+            "D": "Higher rates in epileptic children",
+            "E": "Deterioration in acquired language skills"
+        },
+        "correct_answer": "E",
+        "explanation": "Deterioration of already acquired language skills is not seen in specific reading disorder or dyslexia. Neurodevelopmental basis for dyslexia is suggested by the similarity of certain symptoms in dyslexic children and the neurological syndrome of 'visual word blindness’ that results from damage to the left inferior parieto-occipital region (more specifically, the left angular gyrus). This region is speculated to have a role in processing the optic images of letters; damage to this region may lead to defects in visual scanning. It is also noted that dyslexic children have poor or delayed brain lateralization, especially for language. The high incidence of left-handers, right-left confusion and the mirror-writing phenomenon noted in dyslexia can be considered as indirect support to this notion. Epileptic children may have higher incidence of dyslexia. General improvement with age suggests a brain maturational delay in the aetiology of dyslexia. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 669. Habib M. The neurological basis of developmental dyslexia: an overview and working hypothesis. Brain 2000; 123: 2373–2399"
+    },
+    {
+        "question": "The prevalence of autism is estimated to be around",
+        "options": {
+            "A": "6 per 1000 children",
+            "B": "10 per 1000 children",
+            "C": "1 per 10000 children",
+            "D": "1 per 1000 children",
+            "E": "1 per 100000 children"
+        },
+        "correct_answer": "D",
+        "explanation": "Preliminary surveys regarding epidemiology of autism reported 2 -5 cases of autism per 10 000 children. Wide variations have been reported in later studies ranging from 0·7 to 21 per 10 000 children (median 4–5 per 10 000). At present, at least one in 1000 children are estimated to have autism. Differences in methodology of surveys and wide variations in the definition of autism are the main reasons behind such variations. It is noted that boys have three-to-four-fold higher rates of autism. Volkmar FR and Pauls D. Autism. Lancet 2003; 362: 1133–1141"
+    },
+    {
+        "question": "Which of the following condition is associated with intractable epilepsy, autism-like features and skin lesions in children?",
+        "options": {
+            "A": "Congenital hypothyroidism",
+            "B": "Fragile X syndrome",
+            "C": "Tuberous sclerosis",
+            "D": "Foetal alcohol syndrome",
+            "E": "Benzodiazepine use in pregnancy"
+        },
+        "correct_answer": "C",
+        "explanation": "Tuberous sclerosis is an autosomal dominant genetic multisystem disorder characterised by widespread hamartomas in the brain, heart, skin, eyes, kidney, lung, and liver. Most features of tuberous sclerosis become evident only in childhood after 3 years of age. The affected genes TSC1 and TSC encode for proteins hamartin and tuberin respectively. Epilepsy is seen in 60–80% tuberous sclerosis cases and is thought to be secondary to changes of GABA receptors in dysplastic neurons, and enhanced excitation via glutamate receptors in cortical hamartomas. The epilepsy is generally of an early onset and is often intractable in severity. Hypomelanotic macules are the most common dermatological manifestation; they are seen in 90–98% of patients with tuberous sclerosis. Curatolo P, Bombardieri R and Jozwiak S. Tuberous sclerosis. Lancet; 372: 657–668"
+    },
+    {
+        "question": "During clinical assessment of temper tantrums in a child the most important initial step is to",
+        "options": {
+            "A": "Assess IQ of the child",
+            "B": "Elicit family history of temper tantrums",
+            "C": "Explore parental limit setting behaviour",
+            "D": "Explore suicidal ideas in the child",
+            "E": "Record family history of criminality"
+        },
+        "correct_answer": "C",
+        "explanation": "Temper tantrums are common in children between the ages of 18 months and 4 years. Tantrum behaviours range from simple crying to dramatic attention-seeking events such as breath holding and head banging in otherwise normal children. Often parents may be reinforcing tantrum behaviour without knowledge and may have an inconsistent approach to discipline and limit setting. Hence the first step in assessment of a family with a child throwing frequent temper tantrums is discovering why parents are not able to set consistent limits. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 666"
+    },
+    {
+        "question": "Controlled evaluations of family therapy in child psychiatric conditions have demonstrated significant beneficial effects for which of the following?",
+        "options": {
+            "A": "Anorexia nervosa in adolescents",
+            "B": "Pervasive developmental disorder",
+            "C": "Hyperkinetic disorder",
+            "D": "School refusal",
+            "E": "Specific reading disorder"
+        },
+        "correct_answer": "A",
+        "explanation": "The strongest evidence base for using family therapy exists for anorexia nervosa in adolescents. By the end of family therapy sessions more than 50% adolescent girls reach a healthy weight; it is estimated that more than 60% achieve recovery on follow up. Encouraging parents to take an active role is seen as a vital component; not involving the parents in the treatment leads to the worst outcome and may delay recovery considerably. Other conditions with evidence base for the use of systemic family therapy include childhood mood disorders, substance abuse and conduct problems in children. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 663. Asen E. Outcome research in family therapy. Advances in Psychiatric Treatment 2002; 8: 230–238"
+    },
+    {
+        "question": "Family therapy is indicated in all of the following situations in child psychiatry except",
+        "options": {
+            "A": "The child’s symptoms are an expression of family’s malfunction",
+            "B": "Individual therapy for the child is not effective",
+            "C": "Family difficulties are identified during the course of another therapy",
+            "D": "The marriage of the child’s parents is breaking up",
+            "E": "Family spontaneously seeks the therapy"
+        },
+        "correct_answer": "D",
+        "explanation": "Family therapy considers the symptoms in a child to be expression of family dysfunction. It can be used if such dysfunctions are evident during assessment, or if individual therapy fails or to manage family difficulties arising in the course of other treatments. As in other forms of psychotherapy, no blanket indications and contraindications can be listed for family therapy. But there are some instances in which therapists do not advise the family to undergo therapy. In families where parental marital relationship is breaking down, highly fixed psychopathology that blocks any communication in family sessions and extreme schizoid or paranoid pathology are some of the instances where family therapy does not come as first choice of psychotherapy. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 663"
+    },
+    {
+        "question": "Which of the following scales is used as a screening instrument to identify possible developmental difficulties that need further assessment?",
+        "options": {
+            "A": "British ability scales",
+            "B": "Denver screening test",
+            "C": "Neale analysis",
+            "D": "Stanford Binet test",
+            "E": "Wechsler scale"
+        },
+        "correct_answer": "B",
+        "explanation": "Denver developmental screening test can be applied from birth to 6 ½ years to identify delays in personal, language, motor and social development in children. It is purely a screening tool and any children identified to have developmental delays should undergo further assessment. Neale analysis of reading is a specific test of educational attainment (reading accuracy and comprehension). Stanford Binet test measures IQ using norms starting from age 2 to adulthood. Wechsler intelligence scale for children tests IQ for children between ages 6 – 14 years. A preschool and primary school version to test children aged 3 – 7 is also available. British ability scales are tests of intelligence covering varied areas such as speed of processing, spatial imagery, short term memory, perceptual matching and application of knowledge. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 659"
+    },
+    {
+        "question": "The prevalence of bullying is estimated to be around",
+        "options": {
+            "A": "1–2% of children, at least once a week",
+            "B": "2–8% children, at least once a month",
+            "C": "2–8% children, at least once a day",
+            "D": "12–18% children, at least once a week",
+            "E": "2–8% children, at least once a week"
+        },
+        "correct_answer": "E",
+        "explanation": "A large survey in United Kingdom reported that 10% of pupils at a secondary school had been bullied during one term, with 2–8% (average 4%) reporting being bullied at least once a week. The commonest type of bullying is general name calling, followed by being hit, threatened, or having rumours spread about one. Bullying is more prevalent among boys; 30% of children do not tell anyone that they are bullied. This percentage is higher for boys and older children. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 656. http://www.nspcc.org.uk/Inform/resourcesforprofessionals/Statistics/KeyCPStats/10_wda48744.html (Accessed 14 March 2009)"
+    },
+    {
+        "question": "Which of the following attachment pattern is the best predictor of future development of conduct problems?",
+        "options": {
+            "A": "Disorganized",
+            "B": "Secure",
+            "C": "Ambivalent",
+            "D": "Resistant",
+            "E": "None of the above"
+        },
+        "correct_answer": "A",
+        "explanation": "Various aetiological contributors for conduct disorders include family stressors, parental discipline, child characteristics such as temperament or neurobiological problems and attachment relationships. Attachment behaviours include those infant behaviours that are activated by stress and that have as a goal the reduction of arousal and reinstatement of a sense of security. Such reinstatement is usually best achieved in infancy by close physical contact with a familiar caregiver. In addition to Ainsworth’s initial description of secure, ambivalent and avoidant attachment patterns, Main and Solomon described a fourth infant attachment category called disorganized type. As many as 10 - 15% of children in some samples show disorganized type of attachment. Such disorganized attachment pattern presents with high levels of aggression, more externalizing and controlling behaviour in middle childhood. This is strongly related to aggressive disorders such as conduct disorder in childhood. Lyons-Ruth K. Attachment relationships among children with aggressive behavior problems: the role of disorganized early attachment patterns. Journal of Consulting and Clinical Psychology 1996; 64: 64–73"
+    },
+    {
+        "question": "Ainsworth’s strange situation procedure is usually used to study patterns of attachment in which of the following age groups?",
+        "options": {
+            "A": "30–36 months",
+            "B": "12–18 months",
+            "C": "3–6 months",
+            "D": "24–36 months",
+            "E": "18–30 months"
+        },
+        "correct_answer": "B",
+        "explanation": "Strange Situations procedure was initially employed by Mary Ainsworth to study attachment behaviours in children between ages 12 to 18 months. The experiment takes place in a room with a one-way mirror and attractive toys. The expected behaviour includes running around, clinging and reunion; so the children need to be somewhat mobile between ages 12 and 18 months. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 656"
+    },
+    {
+        "question": "Blood levels of which of the following substances has been adversely associated with IQ of a child?",
+        "options": {
+            "A": "Iron",
+            "B": "Lead",
+            "C": "Lithium",
+            "D": "Magnesium",
+            "E": "Sodium"
+        },
+        "correct_answer": "B",
+        "explanation": "Lead is established to have neurotoxic effects on growing brain; blood lead concentrations above 10 μg per decilitre (0.483 μmol per litre) are associated with adverse intellectual functioning and social–behavioural conduct. A blood lead concentration of 10 μg per decilitre or higher is designated as a ‘level of concern’ by the World Health Organization. It is estimated that a loss of 7.4 IQ points takes place with a lifetime average blood lead concentration of up to 10 μg per decilitre. Canfield RL, Henderson CR Jr, Cory-Slechta DA, et al. Intellectual Impairment in Children with Blood Lead Concentrations below 10 μg per decilitre. New England Journal of Medicine 2003; 348: 1517–1526"
+    },
+    {
+        "question": "The multiaxial system of classification for child and adolescent psychiatric disorders in ICD-10 consists of",
+        "options": {
+            "A": "three axes",
+            "B": "four axes",
+            "C": "five axes",
+            "D": "six axes",
+            "E": "seven axes"
+        },
+        "correct_answer": "D",
+        "explanation": "Multiaxial classification is very useful for child and adolescent psychiatric disorders due to the inherent complexity of information required in diagnosis and treatment. In the absence of a multiaxial system, certain conditions may easily get overlooked, such as the developmental learning disorders in a child with conduct problems. But the placement of certain disorders within a multiaxial framework may be problematic especially when the disorders have no specific aetiology and spans across multiple axes used in the classification. ICD-10 recommends six axes for diagnosing mental health problems in children. These include (1) psychiatric syndromes; (2) disorders of psychological development; (3) intellectual level; (4) medical conditions; (5) abnormal psychosocial situations; (6) global assessment of functioning. In contrast DSM-IV has five axes in total, as psychiatric symptoms and developmental disorders come under axis 1. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 649"
+    },
+    {
+        "question": "The average age range of attaining physical changes of puberty in boys is",
+        "options": {
+            "A": "10–12 years",
+            "B": "11–13 years",
+            "C": "13–16 years",
+            "D": "16–19 years",
+            "E": "9–10 years"
+        },
+        "correct_answer": "C",
+        "explanation": "The average age at which physical changes of puberty occur is different for boys and girls. Tanner staging is often used to assess physical changes in puberty and stage 2 genital changes are used to define onset of puberty. It varies between 11 and 13 in girls, and 13 and 17 in boys. It must be noted that the criteria that more accurately reflect gonadal activity are breast development in girls and genital growth in boys. As these are difficult to ascertain, reliable measurement is not possible using observations of physical maturity; puberty as assessed by hormonal measurements of the hypothalamic pituitary gonadal axis is well established before physical signs appear. Reiter EO. Have the onset and tempo of puberty changed? Archives of Paediatric and Adolescent Medicine 2001; 155: 988–989"
+    },
+    {
+        "question": "The proportion of children with childhood autism that show improvement by the age of 6 years is",
+        "options": {
+            "A": "1–2%",
+            "B": "5–8%",
+            "C": "8–10%",
+            "D": "25–30%",
+            "E": "10–20%"
+        },
+        "correct_answer": "E",
+        "explanation": "By the age of 6 years, 10–20% of individuals with autism begin to improve. Eventually 15% of individuals achieve satisfactory self-sufficiency while another 20% manage with minimal periodic support. The remainder of at least 60% individuals does not achieve sufficient self-sufficiency for an independent life. This outcome is variable according to degree of communicative language developed and IQ. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 674"
+    },
+    {
+        "question": "In families with one autistic child, the risk of a further autistic child is about",
+        "options": {
+            "A": "1–1.5%",
+            "B": "3–5%",
+            "C": "10–15%",
+            "D": "30–35%",
+            "E": "50–60%"
+        },
+        "correct_answer": "B",
+        "explanation": "In families with one autistic child the risk of a further autistic child is around 3 – 5%. This sibling risk rate for autism denotes a tenfold increase over general population rates. Epidemiological studies of same sex autistic twins have identified around 60% monozygotic concordance while 0% for dizygotic twins. This difference becomes further pronounced when a broader autistic phenotype of related cognitive or social abnormalities are considered (92% of MZ pairs vs. 10% of DZ pairs). The risk to a monozygotic co-twin is estimated to be over 200 times the general population rate. Baron-Cohen S. The cognitive neuroscience of autism. Journal of Neurology, Neurosurgery, and Psychiatry 2004; 75: 945–948"
+    },
+    {
+        "question": "The estimated heritability of attention deficit hyperactivity disorder (ADHD) is around",
+        "options": {
+            "A": "10%",
+            "B": "25%",
+            "C": "33%",
+            "D": "50%",
+            "E": "70%"
+        },
+        "correct_answer": "E",
+        "explanation": "The heritability of ADHD is estimated to be around 70%. Twin studies performed in several countries have shown that the average genetic contribution is 70–80% while non genetic variance contributes to 20–30%. It is also observed that 6% of adoptive parents of ADHD probands have ADHD compared to 18% of the biological parents of ADHD probands and 3% of the biological parents of the control probands. Siblings of children with hyperkinetic disorder have a 2–3 times greater risk of the disorder than siblings of normal controls. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 677. Wallis D, Russell HF, and Muenke M. Genetics of attention deficit/hyperactivity disorder. Journal of Pediatric Psychology 2008; 33: 1085–1099"
+    },
+    {
+        "question": "All of the following factors predict poor outcome in conduct disorders except",
+        "options": {
+            "A": "Late-onset conduct problems",
+            "B": "Multiple and varied symptoms and behaviours",
+            "C": "Parental psychiatric disorder",
+            "D": "Parental criminality",
+            "E": "Associated hyperactivity"
+        },
+        "correct_answer": "A",
+        "explanation": "Childhood conduct disorder can continue as adult antisocial personality disorder. A wide range of other psychiatric disorders including substance abuse, major depression, psychosis and various adverse outcomes such as suicide, delinquency, educational difficulties and unemployment have been associated with conduct disorder. Evidence on prognosis of conduct disorder suggests dose-response relationship: The higher the number and variety of disruptive behaviours, the worse the adult outcomes. But most adolescents with conduct disorder do not develop antisocial personality in adulthood. Those who do not develop adverse outcomes as adults are most likely to have a late onset, adolescent-limited disorder rather than a life-course persistent problem with early onset. Other poor prognostic factors include severity, comorbid hyperactivity, pervasive behavioural disruption across varied settings and continuous exposure to risk factors. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 679. Martin A and Volkmar FR, eds. Lewis’s Child and Adolescent Psychiatry: A Comprehensive Textbook, 4th edn. Lippincott Williams and Wilkins, 2007, p. 457"
+    },
+    {
+        "question": "Among the juvenile delinquent population, the most commonly committed offence is",
+        "options": {
+            "A": "Sexual assault",
+            "B": "Homicide",
+            "C": "Fraud",
+            "D": "Property offences",
+            "E": "Offences related to terrorism"
+        },
+        "correct_answer": "D",
+        "explanation": "Among juvenile delinquents, the most common offences are against property. Boys are more delinquent than girls in a ratio of 4 to 11 delinquent boys for every delinquent girl. Among boys who get convicted only half get reconvicted. But most (nearly 75%) with repeated convictions become adult offenders. Gelder MG, et al., eds. Shorter Oxford Textbook of Psychiatry, 5th edn. Oxford University Press, 2006, p. 680"
+    },
+    {
+        "question": "All of the following are associated with higher rates of nocturnal enuresis except",
+        "options": {
+            "A": "Family history of enuresis",
+            "B": "Male sex",
+            "C": "Overcrowded home",
+            "D": "Rigid parental toilet training",
+            "E": "Stressful life events"
+        },
+        "correct_answer": "D",
+        "explanation": "Most enuretic children are free from psychiatric disorders. But the rate of psychiatric disorders is higher in enuretic than non-enuretic children. Children growing up in large families in overcrowded conditions have higher rate of enuresis. Stressful life events may form a starting point of secondary enuresis in children. Toilet training methods used by parents have not shown to be associated with enuresis. Enuresis tends to run in families; a positive family history can be related to positive treatment outcome. Many chromosomal loci have been identified - 13q, 12q, 8, and 22. Rarely some families show an autosomal dominant mode of transmission with penetrance above 90%. Martin A and Volkmar FR, eds. Lewis’s Child and Adolescent Psychiatry: A Comprehensive Textbook, 4th edn. Lippincott Williams and Wilkins, 2007, p.658"
+    },
+    {
+        "question": "The most common form of medically unexplained symptom complained by children is",
+        "options": {
+            "A": "Recurrent chest pain",
+            "B": "Recurrent headaches",
+            "C": "Recurrent fever",
+            "D": "Recurrent memory loss",
+            "E": "Recurrent palpitations"
+        },
+        "correct_answer": "B",
+        "explanation": "Recurrent headaches are the most common somatic symptom with no medical explanation complained by children, followed by abdominal pain. 10 to 30% of children admit having frequent headaches (at least weekly) while 7 to 25% admit having abdominal pain. Chest pain is reported by approximately 10% of school aged children. At least 7.5% of children admit to other musculoskeletal pains. Chronic fatigue syndrome appears to be uncommon in children with estimated prevalence less than 1%. Martin A, Volkmar FR, eds. Lewis’s Child and Adolescent Psychiatry: A Comprehensive Textbook, 4th edn. Lippincott Williams and Wilkins, 2007, p. 636"
+    },
+    {
+        "question": "A psychometric test involves experimental creation of a situation in which a test person has to distinguish his or her own knowledge of a hidden object from the knowledge of the others. This test is called",
+        "options": {
+            "A": "Sally & Anne Task",
+            "B": "Draw a Person Test",
+            "C": "Thematic Apperception Test",
+            "D": "Lucy & Linda Task",
+            "E": "Rorschach’s test"
+        },
+        "correct_answer": "A",
+        "explanation": "The Sally and Anne Task involves metarepresentation of another person’s mental state. Two test characters Sally and Anne are shown in a picture. Sally leaves a toy at a place. Anne hides the toy at a different place in the absence of Sally. When Sally returns, where will she look for the toy - the place it was before she left the scene or the place where it had been moved by Anne? This requires a subject to distinguish his or her own knowledge that an object has been hidden by Anne in the absence of Sally from the knowledge of Sally. The test subject must be able to reflect Sally’s mental state i.e. ‘I know that she does not know where the object really is’. The Sally and Anne Test therefore tests understanding a first order false belief. As theory of mind does not develop fully before age 4, children under this age very often fail the test. Brune M. ‘Theory of Mind’ in schizophrenia: a review of the literature. Schizophrenia Bulletin 2005; 31: 21–42"
+    },
+    {
+        "question": "Which is the most consistently identified abnormality in neurobiological studies of autism?",
+        "options": {
+            "A": "Elevated urinary dopamine metabolites",
+            "B": "Elevated urinary metanephrines",
+            "C": "Raised cerebrospinal fluid (CSF) 5-HIAA",
+            "D": "Raised serotonin blood levels",
+            "E": "Low platelet MAO levels"
+        },
+        "correct_answer": "D",
+        "explanation": "One of the most consistently observed biological findings in autism is increased serotonin levels in the blood, which is noted in 30–50% of children with autism. The high whole blood serotonin is also noted among family members of autistic patients. Essentially this whole blood level reflects platelet serotonin. Connors SL, Matteson KJ, Sega GA, et al. Plasma serotonin in autism. Pediatric Neurology 2006; 35: 182–186"
+    },
+    {
+        "question": "Comparing autism and Asperger’s syndrome, which of the following is true?",
+        "options": {
+            "A": "Head growth deceleration is seen in autism but not Asperger’s syndrome",
+            "B": "High male: female ratio is seen in Asperger’s syndrome but not autism",
+            "C": "Seizures are more common in Asperger’s syndrome than autism",
+            "D": "Social skills before the age of 3 is normal in Asperger’s syndrome",
+            "E": "The degree of learning disability is milder in Asperger’s syndrome"
+        },
+        "correct_answer": "E",
+        "explanation": "In both autism and Asperger’s syndrome, males outnumber females. Communications skills are generally poor in autism, but fairly developed in Asperger’s patients. Circumscribed narrow interests are usually severe in Asperger’s syndrome. Seizures are uncommon in Asperger’s patients while it is commoner in autism. Social skills are poorly developed in both autism and Asperger’s disorder. IQ ranges from mild learning disability to normal level in Asperger’s syndrome, while most patients with autism have low IQ. Head growth deceleration is not seen in both autism and Asperger’s syndrome; it is a feature of Rett’s disorder. Volkmar FR and Pauls D. Autism. Lancet 2003; 362: 1133–1141"
+    },
+    {
+        "question": "All of the following symptoms are more common in depression associated with learning disability than in those of normal intelligence except",
+        "options": {
+            "A": "Irritability",
+            "B": "Sleep disturbances",
+            "C": "Tearfulness",
+            "D": "Decline in social skills",
+            "E": "Hypochondriasis"
+        },
+        "correct_answer": "E",
+        "explanation": "Though most symptoms of depression seen in learning disabled individuals are same as those seen in general population, certain differences exist. Cognitive syndrome of depression including memory disturbance and loss of concentration are often not detected. Similarly, guilt and recurrent thoughts of suicide are under-reported. But biological changes associated with depression such as psychomotor retardation, disturbed sleep, appetite and weight loss and diurnal variation in symptoms are more readily detected. Some symptoms may be more marked in depressed individuals with severe learning disability e.g. psychomotor agitation, irritability and behavioural disturbance. Decline in established activities of daily living and tearfulness may be signs of hidden depression in some patients. Hypochondriasis and other formed beliefs are rarely seen. Prasher V. Presentation and management of depression in people with learning disability. Advances in Psychiatric Treatment 1999; 5: 447–454"
+    },
+    {
+        "question": "A residential care home has 12 residents with learning disability. The nurses at the care home want to use a screening instrument at regular intervals to detect likely mental health problems among the residents. Which of the following would be most suitable?",
+        "options": {
+            "A": "Psychiatric Assessment Schedule for Adults with Developmental Disabilities",
+            "B": "Diagnostic interview schedule",
+            "C": "Camberwell Assessment of Need for Adults with Developmental and Intellectual Disabilities",
+            "D": "Schedule for Clinical Assessment in Neuropsychiatry",
+            "E": "General Health Questionnaire"
+        },
+        "correct_answer": "A",
+        "explanation": "Measurement of psychopathology in people with learning disabilities is difficult. This issue is partly addressed by the Psychiatric Assessment Schedule for Adults with Developmental Disabilities (PAS–ADD) interview. A shorter version is also available and can be used as a screening tool by untrained people to identify clients with learning disabilities at risk of developing a psychiatric disorder. It contains 29 items concerning symptoms of psychiatric disorders, split into five scales that combine to produce three total scores: 1, affective/neurotic disorder; 2, possible organic disorder; and 3, psychotic disorder. Scores equal to or above specified thresholds indicate if a further assessment is necessary. Sturmey P, Newton JT, Cowley A, et al. The PAS-ADD checklist: independent replication of its psychometric properties in a community sample. British Journal of Psychiatry 2005; 186: 319–323"
+    },
+    {
+        "question": "An 8-year-old boy suffers from episodes of sudden but brief flexion of neck and trunk and flexion of legs at the hips since the age of one. He has severe mental retardation. Which of the following EEG pattern is most likely in this boy?",
+        "options": {
+            "A": "Diffuse triphasic delta waves",
+            "B": "Flat EEG trace",
+            "C": "Background high voltage slow waves intermixed with asynchronous spikes in both hemispheres",
+            "D": "Low voltage EEG with no spikes",
+            "E": "Periodic 3/second spikes"
+        },
+        "correct_answer": "C",
+        "explanation": "This child is most likely to have infantile spasms. This condition appears usually at the ages of 4 to 6 months. The spasms are a form of epilepsy and are characterised by sudden, brief flexion of neck and trunk, raising both arms forwards or and flexion of legs at the hips. A cry may be associated with the attack. The EEG is generally chaotic with slow waves of high voltage intermixed with asynchronous spikes in both hemispheres. This pattern of EEG findings is called hypsarrhythmia. Patients with infantile spasms limited to one side may have a surgically removable cortical dysplasia. Infantile spasms are also noted in infants with Down syndrome or tuberous sclerosis. The term West syndrome is applied to the triad of infantile spasms, hypsarrhythmia, and mental retardation. Gelder MG, et al., eds. New Oxford Textbook of Psychiatry. Oxford University Press 2000, pp. 1980–1981"
+    },
+    {
+        "question": "Which of the following is true with respect to the use of medications to treat behavioural problems in learning disabled individuals?",
+        "options": {
+            "A": "Antidepressants are the most effective intervention",
+            "B": "Haloperidol is the most effective intervention",
+            "C": "Low dose lorazepam has the best evidence base",
+            "D": "Placebo effect surpasses active medications",
+            "E": "Risperidone is more effective in high doses"
+        },
+        "correct_answer": "D",
+        "explanation": "Despite widespread use of antipsychotics to treat challenging behaviour in learning disabled adults, the evidence is scarce. ‘Neuroleptics for Aggressive Challenging Behaviour in Intellectual Disability’ (NACHBID) was a multicentre study that compared first-generation and second-generation antipsychotic drugs with placebo in patients with aggressive challenging behaviour. A reduction in aggression was noted with both antipsychotic treatments and placebo use after 4 weeks; the greatest response was with placebo. No differences between groups were observed in terms of aberrant behaviour, quality of life, general improvement or effect on carers. The combination of placebo effect, the psychological effect of a formal external intervention and/or spontaneous resolution surpasses than the effect of medications. Tyrer P, Oliver-Africano PC, Ahmed Z, et al. Risperidone haloperidol and placebo in the treatment of aggressive challenging behaviour in patients with intellectual disability: a randomised controlled trial. Lancet 2008; 371: 57–63"
+    }
+]

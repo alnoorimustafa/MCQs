@@ -90,6 +90,6 @@ def extract_mcqs_from_pdf(pdf_path, json_path, pages=None):
 
 # Example usage
 pdf_path = 'complete.pdf'  # Path to your PDF file
-json_path = 'mcq6.json'  # Desired output JSON file path
-pages_to_process = range(491, 518)  # Specify a range of pages (0-based index)
+json_path = '6.json'  # Desired output JSON file path
+pages_to_process = range(665, 721)  # Specify a range of pages (0-based index)
 extract_mcqs_from_pdf(pdf_path, json_path, pages_to_process)

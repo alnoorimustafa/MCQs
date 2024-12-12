@@ -1,0 +1,602 @@
+[
+    {
+        "question": "According to Jellinek’s classification of alcoholism, which of the following types refers to a person who has developed physical and psychological dependence but still maintains the ability to abstain if necessary?",
+        "options": {
+            "A": "Alpha",
+            "B": "Beta",
+            "C": "Gamma",
+            "D": "Delta",
+            "E": "Epsilon"
+        },
+        "correct_answer": "C",
+        "explanation": "According to Jellinek, drinking behavior is heterogeneous. He described five species of alcoholism. Type alpha represents a purely habitual use without loss of control. A person with alpha alcoholism retains the ability to abstain. Type beta refers to development of physical complications without physical or psychological dependence. Type gamma represents acquired tissue tolerance leading to physical dependence and loss of control. They still maintain the ability to abstain if necessary. Type delta shares the three features of gamma, but the inability to abstain becomes prominent. Type epsilon refers to dipsomania or periodic alcoholism. More recently, various investigators have come up with different classifications, which overlap each other. Murray R, et al, eds. Essential Psychiatry, 4th edn. Cambridge University Press, 2008, p. 198. Sadock BJ and Sadock VA. Kaplan and Sadock’s Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 10th edn. Lippincott Williams and Wilkins, 2007, p. 397"
+    },
+    {
+        "question": "Which of the following is NOT a criterion for alcohol dependence syndrome as described by Edwards and Gross?",
+        "options": {
+            "A": "A subjective awareness of compulsion to drink",
+            "B": "Increased tolerance to alcohol",
+            "C": "Repeated withdrawal symptoms",
+            "D": "Relief or avoidance of withdrawal symptoms by further drinking",
+            "E": "Reduction in social obligations"
+        },
+        "correct_answer": "E",
+        "explanation": "In 1976, Edwards and Gross proposed that not all people who drink too much are dependent on alcohol. They suggested the criteria for an alcohol dependence syndrome. This model forms the basis for the current ICD-10 classification. They noted that dependence was not an ‘all or none’ phenomenon, but lay on a spectrum of severity. The criteria were based on the clinical observation that some of the heavy drinkers manifested an interrelated clustering of signs and symptoms. The criteria are narrowing of repertoire; salience of drinking; increased tolerance to alcohol; withdrawal symptoms; relief drinking; subjective awareness of compulsion to drink; reinstatement after abstinence. Not all the elements need always be present, nor always present with the same intensity. Murray RM, et al. Essential Psychiatry, 4th edn. Cambridge University Press; 2008, p. 198"
+    },
+    {
+        "question": "Which of the following is NOT a diagnostic criterion for alcohol dependence according to DSM-IV?",
+        "options": {
+            "A": "Strong desire or sense of compulsion to drink alcohol",
+            "B": "Tolerance",
+            "C": "Withdrawal",
+            "D": "Loss of normal social activities due to drinking",
+            "E": "Continued intake despite knowledge of the harmful effect"
+        },
+        "correct_answer": "A",
+        "explanation": "ICD-10 includes six items under dependence, most of which are similar to DSM-IV. For a diagnosis of dependence, three or more items should have occurred in the past year. The ‘strong desire or sense of compulsion to take the substance’ is viewed as a central descriptive characteristic of dependence in ICD-10. This compulsive-use indicator is not included in the concept of dependence described by DSM-IV. DSM-IV also allows categorization of substance dependence with or without physiological dependence depending on the presence of tolerance and withdrawal symptoms. Gelder MG, et al., eds. New Oxford Textbook of Psychiatry. Oxford University Press, 2000, p. 485"
+    },
+    {
+        "question": "The mortality rate in a person being treated for alcohol withdrawal delirium is",
+        "options": {
+            "A": "0–1%",
+            "B": "10–20%",
+            "C": "20–30%",
+            "D": "30–40%",
+            "E": ">50%"
+        },
+        "correct_answer": "A",
+        "explanation": "Alcohol dependence occurs in 15–20% of hospitalized patients in some settings. Hence withdrawal from alcohol is also a common presentation in this population. Withdrawal symptoms are minor in most cases, but they can be considerable and even fatal in some. Alcohol withdrawal delirium, commonly known as delirium tremens or ‘DTs’, is the most serious manifestation of alcohol withdrawal syndrome. Classic studies quote a mortality of around 15%, but with advances in treatment, mortality rates have fallen, and more recent studies indicate a mortality of 0 to 1% in treated cases. Mayo-Smith MF, Beecher LH, Fischer TL, et al. Management of alcohol withdrawal delirium: an evidence-based practice guideline. Archives of Internal Medicine 2004; 164: 1405–1412"
+    },
+    {
+        "question": "What is the typical time period in which withdrawal delirium appears in an alcohol-dependent person who has stopped drinking?",
+        "options": {
+            "A": "Within 6 hours",
+            "B": "6–12 hours",
+            "C": "2–3 days",
+            "D": "After 7 days",
+            "E": "2 weeks"
+        },
+        "correct_answer": "C",
+        "explanation": "Clinical features of alcohol withdrawal syndrome can appear within hours of the last drink (usually 6–12 hours) but alcohol withdrawal delirium typically does not develop until 2–3 days after cessation of drinking. Delirium tremens usually lasts 48–72 hours, but can last longer in some cases. Current diagnostic criteria for withdrawal delirium include disturbance of consciousness, change in cognition or perceptual disturbance developing in a short period, and the emergence of symptoms during or shortly after withdrawal from heavy alcohol intake. The classic clinical presentation also includes hyperpyrexia, tachycardia, hypertension, and diaphoresis. The neurobiological basis for withdrawal is a gradual upregulation of N-methyl-D-aspartate receptors under the influence of chronic alcohol use. Mayo-Smith MF, Beecher LH, Fischer TL, et al. Management of alcohol withdrawal delirium: an evidence-based practice guideline. Archives of Internal Medicine 2004; 164: 1405–1412"
+    },
+    {
+        "question": "A patient who was found to be unconscious on the roadside was brought to the, While transporting him, he had a seizure in the ambulance, Which of the following best points towards a diagnosis of generalized epilepsy rather than a seizure associated with alcohol-related complications?",
+        "options": {
+            "A": "Electrolyte disturbances",
+            "B": "Hypoglycaemia",
+            "C": "Occult subdural haematoma",
+            "D": "Presence of illicit substances in the drug screen",
+            "E": "Generalized spikes and waves on the inter-ictal EEG"
+        },
+        "correct_answer": "E",
+        "explanation": "This question looks at the possible differential diagnoses in a case of alcohol-related seizure. All the given choices are results of laboratory investigations that may give us a clue of the possible cause for the seizure. Electrolyte imbalance, hypoglycaemia, subdural haematoma, and other substances in blood may be associated with an alcohol-induced seizure. EEG is useful in the setting of the first alcohol withdrawal seizure or where epilepsy is suspected, but not immediately after a seizure when a record of slow delta activity is found whatever the cause of the seizure. However, the inter-ictal EEG is usually within normal limits in alcohol withdrawal seizures, whereas a generalized spike and wave (epileptiform activity) patterns on the EEG points towards generalized epilepsy. Alcohol-related seizures do not predispose to epilepsy. McKeon A, Frye MA and Delanty N. The alcohol withdrawal syndrome. Journal of Neurology, Neurosurgery, and Psychiatry 2008; 79: 854–862"
+    },
+    {
+        "question": "Which of the following is the treatment of choice for status epilepticus in a case of alcohol withdrawal?",
+        "options": {
+            "A": "Diazepam",
+            "B": "Chlordiazepoxide",
+            "C": "Lorazepam",
+            "D": "Carbamazepine",
+            "E": "Phenytoin"
+        },
+        "correct_answer": "C",
+        "explanation": "Benzodiazepines are the first-line treatment in alcohol withdrawal seizures. Lorazepam has been found to be superior to placebo in double-blind placebo-controlled studies of patients with chronic alcohol abuse presenting with a generalized seizure. The European treatment guidelines recommend either diazepam or lorazepam, although lorazepam is recommended over diazepam in the setting of status epilepticus. This is because lorazepam (although it has a shorter half-life than diazepam) maintains a steady plasma state for a longer time than diazepam, which is lipid soluble. The plasma levels of diazepam drop rapidly due to redistribution to fat. Placebo-controlled trials have demonstrated phenytoin to be ineffective in the secondary prevention of alcohol withdrawal seizures. McKeon A, Frye MA and Delanty N. The alcohol withdrawal syndrome. Journal of Neurology, Neurosurgery, and Psychiatry 2008; 79: 854–862"
+    },
+    {
+        "question": "Which of the following is a relative contraindication in a case of alcohol withdrawal delirium?",
+        "options": {
+            "A": "Diazepam",
+            "B": "Lorazepam",
+            "C": "Haloperidol",
+            "D": "Chlorpromazine",
+            "E": "Chlordiazepoxide"
+        },
+        "correct_answer": "D",
+        "explanation": "General guidelines on the management of alcohol withdrawal advise against the use of neuroleptic agents as the sole pharmacological agents in the setting of delirium tremens, as they are associated with a longer duration of delirium, higher complication rate, and, ultimately, a higher mortality. However, neuroleptic agents have a role as a selected adjunct to benzodiazepines when agitation, thought disorder, or perceptual disturbances are not sufficiently controlled by benzodiazepines. Although haloperidol is well established in this setting, chlorpromazine is contraindicated as it is more epileptogenic. There is little information available on atypical antipsychotics in this regard. Mayo-Smith MF, Beecher LH, Fischer TL, et al. Management of alcohol withdrawal delirium. An evidence-based practice guideline. Archives of Internal Medicine 2004; 164: 1405–1412. McKeon A, Frye MA and Delanty N. The alcohol withdrawal syndrome. Journal of Neurology, Neurosurgery, and Psychiatry 2008; 79: 854–862"
+    },
+    {
+        "question": "Failure to diagnose and failure to institute adequate thiamine replacement therapy for Wernicke’s encephalopathy is associated with a mortality of nearly",
+        "options": {
+            "A": "5%",
+            "B": "10%",
+            "C": "20%",
+            "D": "30%",
+            "E": ">50%"
+        },
+        "correct_answer": "C",
+        "explanation": "Failure to identify or consider Wernicke’s encephalopathy, and failure to institute adequate thiamine replacement therapy, has an associated mortality of 20%. Wernicke’s encephalopathy is an acute neuropsychiatric condition associated with biochemical brain lesion caused by the depletion of intracellular thiamine (vitamin B1). Although reversible in the early stages, continued depletion leads to cellular energy deficiency, focal acidosis, regional increase in glutamate, and ultimately cell death. Ninety percent of the cases in developed countries are associated with alcohol misuse. This deficiency may be due to dietary deficiency, reduced absorption, and the increased excretion of thiamine seen in alcohol users. Clinical features include delirium with prominent anterograde amnesia, ataxia, and ophthalmoplegia. Imaging may reveal the presence of small hemorrhages in mamillary bodies and thalami. Thomson AD and Marshall EJ. The natural history and pathophysiology of Wernicke’s encephalopathy and Korsakoff’s psychosis. Alcohol Alcohol 2006; 41: 151–158"
+    },
+    {
+        "question": "If left untreated what percentage of people who develop Wernicke’s encephalopathy goes on to develop a severe persistent amnestic syndrome (Korsakoff’s dementia)?",
+        "options": {
+            "A": "5%",
+            "B": "10%",
+            "C": "20%",
+            "D": "40%",
+            "E": "75%"
+        },
+        "correct_answer": "E",
+        "explanation": "Seventy-five percent of cases with Wernicke’s encephalopathy will be left with permanent brain damage involving severe short-term memory loss (Korsakoff’s dementia) if adequate parenteral therapy with thiamine is not instituted. In clinical practice, Wernicke’s encephalopathy may be difficult to recognize because all the classic symptoms may not be present. In addition, the symptoms may be colored by the presence of other comorbidities such as withdrawal delirium or seizures. Some authors also suggest the presence of a subsyndromal version of the encephalopathy that may present only with minor symptoms and neuroimaging findings. Twenty-five percent of patients with Korsakoff’s dementia will require long-term institutionalization. Thomson AD and Marshall EJ. The natural history and pathophysiology of Wernicke’s Encephalopathy and Korsakoff’s Psychosis. Alcohol Alcohol 2006; 41: 151–8"
+    },
+    {
+        "question": "A severely malnourished patient is admitted to hospital for planned surgery. He develops alcohol withdrawal delirium. He has no signs of Wernicke’s encephalopathy. Which of the following is the best strategy for thiamine replacement in this patient?",
+        "options": {
+            "A": "Oral thiamine 30 mg three times daily for 5 days",
+            "B": "Oral thiamine 50 mg three times daily for 5 days",
+            "C": "Intravenous thiamine 250 mg three times daily for 5 days",
+            "D": "Intramuscular thiamine 50 mg three times daily for 5 days",
+            "E": "Thiamine is not required as the patient has not developed Wernicke’s encephalopathy"
+        },
+        "correct_answer": "C",
+        "explanation": "Risk factors for developing Wernicke’s encephalopathy include a greater degree of malnutrition and severity of alcohol misuse. Oral thiamine hydrochloride cannot be relied on to provide adequate thiamine to patients at risk. This is because studies show that only a maximum of 4.5 mg of thiamine will be absorbed from an oral dose over 30 mg. In addition, patients with alcohol problems tend to have poor absorption. Therefore, intravenous delivery of high-potency B-complex vitamin therapy containing thiamine remains the standard of care for those patients with suspected Wernicke’s encephalopathy (500 mg of thiamine three times daily for three days), or who are at risk for Wernicke’s encephalopathy (250 mg three times daily for 3–5 days). In the outpatient setting, the administration of a course of intramuscular thiamine 200 mg for 5 days has been recommended because the absorption of thiamine is negated further by continued drinking after hospital discharge. Thomson AD, Cook CC, Touquet R, et al. The Royal College of Physicians report on alcohol: guidelines for managing Wernicke’s encephalopathy in the Accident and Emergency Department. Alcohol Alcohol 2002; 37: 513–521"
+    },
+    {
+        "question": "Which of the following is not a risk factor for suicide in an alcohol-dependent individual?",
+        "options": {
+            "A": "Male gender",
+            "B": "Age less than 50 years",
+            "C": "Recent interpersonal loss event",
+            "D": "Poor social circumstances",
+            "E": "Polysubstance use"
+        },
+        "correct_answer": "B",
+        "explanation": "Up to 40% of people with an alcohol use disorder attempt suicide at some time and 7% end their lives by committing suicide. Risk factors include being male, older than 50 years of age, living alone, being unemployed, poor social support, interpersonal losses, continued drinking, consumption of a greater amount of alcohol when drinking, a recent alcohol binge, previous alcohol treatment, a family history of alcoholism, a history of comorbid substance abuse (especially cocaine), a major depressive episode, serious medical illness, and prior suicidal behavior. Suicidal behavior is especially frequent in patients with comorbid alcoholism and major depression. Sher L. Risk and protective factors for suicide in patients with alcoholism. Scientific World Journal 2006; 6: 1405–1411"
+    },
+    {
+        "question": "Lifetime prevalence rates of alcohol use disorder is highest in",
+        "options": {
+            "A": "Bipolar disorder",
+            "B": "Schizophrenia",
+            "C": "Panic disorder",
+            "D": "Major depression",
+            "E": "Generalized anxiety disorder"
+        },
+        "correct_answer": "A",
+        "explanation": "Alcohol use disorder co-occurs with other major mental illnesses. The Epidemiology Catchment Area Study reported a 13.8% lifetime prevalence for alcohol abuse or dependence in persons with bipolar I disorder in the US general population. Lifetime prevalence of alcohol abuse or dependence are: bipolar I, 46.2%; bipolar II, 39.2%; schizophrenia, 33.7%; panic disorder, 28.7%; unipolar depression, 16.5%. Patients with mania had an odds ratio of 6.2 (highest) for co-occurring alcohol abuse and/or dependence. Considering the degree of psychiatric comorbidity among alcohol-dependent individuals, the National Comorbidity Survey showed that the odds ratio (OR) of having co-occurring lifetime diagnosis of mania in patients with a lifetime diagnosis of alcohol dependence was higher in both men (OR = 12.03) and women (OR = 5.3). Regier DA, Farmer ME, Rae DS, et al. Comorbidity of mental disorders with alcohol and other drug abuse. Results from the Epidemiologic Catchment Area (ECA) Study. Journal of the American Medical Association 1990; 264: 2511–2518. Kessler RC, Crum RM, Warner LA, et al. Lifetime co-occurrence of DSM-III-R alcohol abuse and dependence with other psychiatric disorders in the National Comorbidity Survey. Archives of General Psychiatry 1997; 54: 313–321. Fan AH FM, Masseling SJ, et al. Increased suicidality in mania complicated by alcoholism. Psychiatry and Clinical Neuroscience 2007; 4: 34–39"
+    },
+    {
+        "question": "Psychosocial interventions available for alcohol dependence include motivational enhancement therapy (MET), cognitive behavioural therapy (CBT) and 12-step facilitation programmes (TSF). Which of the following is NOT correct with regard to these interventions?",
+        "options": {
+            "A": "Four sessions of MET were found to be equivalent to 12 sessions of CBT",
+            "B": "MET was more cost-effective than CBT",
+            "C": "High levels of anger at baseline predicted better outcomes with CBT than MET",
+            "D": "Participants in Alcoholics Anonymous (AA) responded better with TSF than MET",
+            "E": "‘Meaning-seeking’ patients fared better on TSF than MET"
+        },
+        "correct_answer": "C",
+        "explanation": "This question can be answered using results from a study called Project MATCH (Matching Alcoholism Treatments to Client Heterogeneity). MATCH is one of the largest randomized trials to have examined psychosocial interventions for people with alcohol-related problems. The study is a multicentric study that involved randomizing over 1700 patients to MET, CBT, or TSF. This study demonstrated that four sessions of MET were as effective for treating alcohol dependence as 12 sessions of CBT or TSF therapy. The benefits from treatment persisted for up to 3 years. Clients with a higher degree of baseline anger fared better with MET than CBT or TSF. MET was found to be more cost-effective than CBT or TSF. The Project MATCH study and smaller patient-matching studies provide support for the effectiveness of TSF programmes. Patients in Project MATCH who received outpatient TSF were most likely to abstain from alcohol during the first post-treatment year. TSF therapy led to a greater length of time before the patient’s first relapse and to a higher percentage of abstinent patients at 1- and 3-year follow-up. Patients in Project MATCH with social networks supportive of not drinking responded better to TSF than MET, and that participation in AA was a mediator of this effect. Project MATCH found that patients who were rated high in ‘meaning-seeking’ fared better with TSF than CBT and MET at 1-year follow-up. Tyrer P and Silk KR. Cambridge Textbook of Effective Treatments in Psychiatry, 1st edn. Cambridge University Press; 2008, p. 274"
+    },
+    {
+        "question": "Which of the following clients are the most suitable for using brief interventions for alcohol use?",
+        "options": {
+            "A": "Problem drinkers attending primary care",
+            "B": "Prisoners with physical health problems due to alcohol use",
+            "C": "Moderate alcohol dependence",
+            "D": "Severe alcohol dependence",
+            "E": "Relapse prevention therapy following achievement of abstinence"
+        },
+        "correct_answer": "A",
+        "explanation": "Brief interventions are recommended for reduction of alcohol use for patients across age and gender who are heavy or problem drinkers and do not meet the criteria for severe alcohol dependence. Brief interventions are intended to be conducted by health professionals who usually are not involved in addiction treatment, e.g. clinicians in general medical and other primary care settings. Brief interventions may differ in intensity from a single 5-minute session of simple advice to stop drinking to multiple sessions lasting up to 60 minutes each. They generally consist of four or fewer visits. They are generally useful for the prevention of alcohol-related problems in patients who are at risk of developing them. They are not primarily used as a maintenance therapy for fully fledged alcohol use disorders like dependence. The content of brief interventions can be remembered using the acronym FRAMES developed by Miller and Rollnick: feedback about the adverse effects of alcohol; emphasis on personal responsibility for changing the dysfunctional behaviour; advice about reducing or abstaining from the behaviour; a menu of options for further help; empathic stance towards the patient; and an emphasis on self-efficacy. Gelder MG et al., eds. New Oxford Textbook of Psychiatry. Oxford University Press, 2000, p. 270"
+    },
+    {
+        "question": "In the United Kingdom, one unit of alcohol is equivalent to which of the following?",
+        "options": {
+            "A": "4 grams of pure alcohol",
+            "B": "6 grams of pure alcohol",
+            "C": "8 grams of pure alcohol",
+            "D": "12 grams of pure alcohol",
+            "E": "24 grams of pure alcohol"
+        },
+        "correct_answer": "C",
+        "explanation": "In the United Kingdom, a unit is 8 grams of pure alcohol, equivalent to half a pint of ordinary beer, a small glass of wine (9% strength), or one measure of spirits. In the USA a single drink is usually considered to contain about 12 grams of ethanol, which is the content of 12 ounces of beer, one 4-ounce glass of non-fortified wine, or 1–1.5 ounces of 40% ethanol liquor (e.g. whiskey or gin). Using moderate sizes of drinks, clinicians estimate that a single ‘drink’ (1.5 units) increases the blood alcohol level of a 150-pound man by 15–20 mg/dL, which is about the concentration of alcohol that an average person can metabolize in 1 hour. Murray RM, Kendler KS, McGuffin P, et al. Essential Psychiatry, 4th edn. Cambridge University Press, 2008, p. 199"
+    },
+    {
+        "question": "Which of the following is incorrect with regard to the pharmacokinetics of alcohol?",
+        "options": {
+            "A": "Most alcohol is absorbed from the small intestine",
+            "B": "Pylorospasm can reduce the amount of absorption",
+            "C": "Women are less likely to get intoxicated than men for a given dose",
+            "D": "A fixed amount of alcohol gets metabolized in the liver irrespective of plasma concentration",
+            "E": "Absorption of alcohol is inhibited by the presence of food in the stomach"
+        },
+        "correct_answer": "C",
+        "explanation": "Nearly 90% of alcohol is absorbed from small intestine, with the remaining 10% absorbed from the stomach. Alcohol reaches peak blood concentration approximately 45–60 minutes after consumption. Absorption is enhanced by an empty stomach whereas food delays absorption. When the alcohol concentration in the stomach becomes too high, gastric mucus secretion increases, leading to closure of the pyloric valve. This pylorospasm slows down the absorption and protects from rapid intoxication but can lead to vomiting and nausea in drinkers. The intoxicating effects are greater when the blood alcohol concentration is rising than when it is falling; this is called the Mellanby effect. As a result, the rate of absorption directly affects the intoxication response. Nearly 90% of absorbed alcohol is metabolized through oxidation in the liver; the remainder is excreted unchanged by the kidneys and lungs. The rate of oxidation by the liver is constant (15 mg/dL per hour) and independent of plasma alcohol levels; thus alcohol follows zero-order elimination kinetics. Women have a tendency to become more intoxicated than men after drinking the same amount of alcohol; this may be due to differences in absorption kinetics and a lower level of metabolic enzymes such as alcohol dehydrogenase (ADH) in women"
+    },
+    {
+        "question": "Which of the following has been found to be the best screening method for hazardous drinking in primary care settings?",
+        "options": {
+            "A": "Alcohol Use Disorders Identification Test (AUDIT)",
+            "B": "CAGE questionnaire",
+            "C": "Mean corpuscular volume",
+            "D": "Gamma glutamyltransferase levels",
+            "E": "MAST"
+        },
+        "correct_answer": "A",
+        "explanation": "AUDIT is a 10-item questionnaire, covering quantity, frequency, inability to control drinking, withdrawal relief, loss of memory, injury, and concern by others. A score of 8 or more indicates that the person is drinking to a degree that is harmful or hazardous, whereas a score of 13 or more in women and 15 or more in men is indicative of dependent drinking. It is a very useful and widely used scale. The CAGE questionnaire is a simple, easily administered instrument that has only four items. A positive answer should raise suspicion of an alcohol problem, and a score of 2 is highly suggestive of one. It takes 30–120 seconds to administer. Aertgeerts et al studied alcohol screening instruments used in general practice. They found that CAGE was an insufficient screening instrument for detecting alcohol misuse or dependence among primary care patients with only 62% sensitivity for males and 54% for females. AUDIT was found to be more effective, with a sensitivity of 83% among males and 65% among females. However, this was using a cut off-point of 5 rather than the usual 8. The study also found that conventional laboratory tests are of no use for detecting alcohol abuse or dependence in a primary care setting"
+    },
+    {
+        "question": "Which of the following is true with regard to alcoholic blackouts?",
+        "options": {
+            "A": "They consist of discrete episodes of anterograde amnesia",
+            "B": "Loss of memory for the remote past is a characteristic feature",
+            "C": "Acute thiamine depletion is the causative factor",
+            "D": "Alcoholic blackouts are rare among binge drinkers",
+            "E": "Epileptiform activity is almost always noted in EEG during blackouts"
+        },
+        "correct_answer": "A",
+        "explanation": "Alcohol-related blackouts are similar to episodes of transient global amnesia; they occur as discrete episodes of anterograde amnesia in association with alcohol intoxication. Despite a specific short-term memory deficit (inability to recall events that happened in the previous 5–10 minutes) during the blackouts and significant subjective distress that follows, patients have relatively intact remote memory and can perform complicated tasks during a blackout. Thus they appear completely normal to casual observers. It is thought that alcohol blocks the consolidation of new memories into old memories via its action on medial temporal structures. Binge drinkers may be particularly prone to alcoholic blackouts due to repeated intoxications. Although amnesia may accompany withdrawal or intoxication-related generalized seizures, not all blackouts are associated with epileptic activity in EEG"
+    },
+    {
+        "question": "Which of the following is least likely to be a presenting physical feature of a child with foetal alcohol syndrome (FAS)?",
+        "options": {
+            "A": "Macrocephaly",
+            "B": "Learning disability",
+            "C": "Absent philtrum",
+            "D": "Syndactyly",
+            "E": "Atrial septal defectSUBSTANCE USE DISORDERS | QUESTIONS 109"
+        },
+        "correct_answer": "A",
+        "explanation": "Children with FAS commonly present with microcephaly rather than macrocephaly. It is well documented that alcohol and its metabolite acetaldehyde can have serious effects on the developing foetus. Currently, the estimated incidence of FAS is between 1 and 3 cases per 1000 live births. It is one of the most frequent causes of birth defects associated with learning disability, and the most common of non-hereditary causes of birth defects. Clinical features of FAS include prenatal and postnatal growth retardation, central nervous system abnormalities, usually with learning disability (up to severe), a characteristic facial dysmorphism (e.g., absent philtrum, fl attened nasal bridge, short palpebral fi ssures, epicanthic folds, and maxillary hypoplasia), and an array of other birth defects such as microcephaly, altered palmar creases, short stature, syndactyly, atrial septal defect and other heart abnormalities. Full-blown foetal alcohol syndrome is seen in the offspring of approximately one-third of alcoholic women drinking the equivalent of 10–15 units daily. It is also more common in women who binge drink. Lowinson JH, Ruiz P, Millman RB and Langrod JG. Substance Abuse: A Comprehensive Textbook, 4th edn. Lippincott Williams & Wilkins, 2005, p. 1052"
+    },
+    {
+        "question": "Mr White is an 80-year-old gentleman who has been taking diazepam at a dose of 20 mg at night for the past 3 years. During a trip to France to meet his nephew, he forgets to take his medication. Which of the following is NOT likely to be a seen if he experiences benzodiazepine withdrawal?",
+        "options": {
+            "A": "Delirium",
+            "B": "Anxiety",
+            "C": "Bursts of high-frequency activity on the EEG",
+            "D": "Insomnia",
+            "E": "Nightmares"
+        },
+        "correct_answer": "C",
+        "explanation": "Sedative-hypnotic (includes benzodiazepines, barbiturates and newer ‘z’ hypnotics) withdrawal syndrome is a spectrum of signs and symptoms that occurs after stopping daily intake of a sedative-hypnotic. Common signs and symptoms include anxiety, tremors, nightmares, insomnia, anorexia, nausea, vomiting, postural hypotension, seizures, delirium, and hyperpyrexia. The withdrawal syndrome is similar for all sedative-hypnotics, but the severity and time course depend on the pharmacokinetics of the individual agent used, besides a number of other risk factors. With short-acting medication, withdrawal symptoms typically begin 12–24 hours after the last dose and peak in intensity between 24 and 72 hours after the last dose. If the patient has liver disease or is over the age of 65, symptoms may develop more slowly. With long-acting medication, the withdrawal syndrome usually begins 24 to 48 hours after the last dose and peaks on the fi fth to eighth day. During untreated sedative-hypnotic withdrawal, the EEG may show bursts of high-voltage, low-frequency activity. This may precede a clinical seizure occasionally. Lowinson JH, Ruiz P, Millman RB and Langrod JG. Substance Abuse: A Comprehensive Textbook. 4th edn. Lippincott Williams & Wilkins, 2005, p. 307"
+    },
+    {
+        "question": "Polymorphisms of genes encoding which of the following enzymes/receptors confers protection from alcohol dependence in certain ethnic groups?",
+        "options": {
+            "A": "Aldehyde dehydrogenase (ALDH)",
+            "B": "Amino acid dehydrogenase",
+            "C": "GABA receptor A",
+            "D": "CYP3A4 enzyme",
+            "E": "HLA-DR2 protein"
+        },
+        "correct_answer": "A",
+        "explanation": "ADH (alcohol dehydrogenase) and ALDH (aldehyde dehydrogenase) are the major enzymes involved in the degradation of ethanol; ADH catabolizes alcohol to acetaldehyde, which ALDH breaks down to acetate and water. A number of studies have shown that allelic variants of ADH and ALDH are associated with the risk for developing alcohol dependence. There are many ALDH gene families distributed on several different chromosomes. Family 2 genes (ALDH 2) located on chromosome 12 have been studied the most regarding an association with alcohol dependence. This family of genes encodes mitochondrial enzymes that oxidize acetaldehyde. ALDH 2 has an allelic variant called ALDH 2*2. This ALDH 2*2 variant is found in approximately 50% of the Asian population. Individuals with the ALDH 2*2 variant typically experience a disulfi ram-like reaction when they take alcohol. This is sometimes called the ‘Asian fl ush’ or the ‘Oriental fl ush syndrome’. Several studies demonstrate the protective effect of ALDH 2*2 gene carriers from developing alcohol dependence. The other genes ALDH1, 3, 4 and 5 are responsible for the metabolism of other aldehydes in the body. Similarly a variant allele of the ADH gene (situated on chromosome 4) ADH 2*2 also confers protection to alcoholism, although this relationship is less robust than ALDH2*2. Lowinson JH, Ruiz P, Millman RB and Langrod JG. Substance Abuse: A Comprehensive Textbook, 4th edn. Lippincott Williams & Wilkins, 2005, p. 37.122 SUBSTANCE USE DISORDERS | ANSWERS"
+    },
+    {
+        "question": "Which of the following statements regarding alcohol use and comorbid depression is correct?",
+        "options": {
+            "A": "10–20% of clients who use alcohol have at least one episode of depression in their lifetime",
+            "B": "Abstinence from alcohol does not lead to recovery from depression",
+            "C": "Women with alcohol problems have more comorbid depression than men",
+            "D": "Alcohol reduces the likelihood of successful completion of suicide among the depressed",
+            "E": "Risk of depression is independent of the amount of alcohol consumed daily"
+        },
+        "correct_answer": "C",
+        "explanation": "About 30–40% of people with an alcohol-related disorder meet the diagnostic criteria for a major depressive disorder sometime during their lifetime. It is more common in women. It is dose dependent, i.e. it is likely to occur in patients who have a high daily consumption of alcohol. It is also more common in those with a family history of alcohol abuse. Patients with depression and comorbid alcohol use disorders are at a greater risk for attempting/completing suicide and are likely to have other substance-related disorder diagnoses. Most estimates of the prevalence of suicide among people with alcohol-related disorders range from 10–15%, although alcohol use itself may be involved in a much higher percentage of suicides. Twenty to 50 percent of all people with alcohol-related disorders also meet the diagnostic criteria for an anxiety disorder. Phobias and panic disorder are particularly frequent comorbid diagnoses in patients with alcohol use disorders. Sadock BJ and Sadock VA. Kaplan and Sadock’s Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry, 10th edn. Lippincott Williams and Wilkins, 2007, p. 392"
+    },
+    {
+        "question": "Which of the following best describes the mechanism of action of Acamprosate?",
+        "options": {
+            "A": "GABA partial agonism A",
+            "B": "Blockade of ADH",
+            "C": "Competitive antagonism of ALDH",
+            "D": "Modulating opioid system to reduce craving",
+            "E": "Reducing post-synaptic glutamate neurotransmission at NMDA receptor"
+        },
+        "correct_answer": "E",
+        "explanation": "Acamprosate’s principal neurochemical effects have been attributed to antagonism of NMDA glutamate receptors, which restores the balance between excitatory and inhibitory neurotransmission that is dysregulated following chronic alcohol consumption. Recently, however, further mechanisms have been demonstrated. Thus acamprosate is said to have four principal effects: A) reducing post-synaptic excitatory amino acid neurotransmission at N-methyl-D- aspartate (NMDA); B) diminishing Ca2+ infl ux into the cell, which interferes with expression of the immediate early gene c-fos; C) decreasing the sensitivity of voltage-gated calcium channels, and D) modulating metabotropic-5 glutamate receptors (mGluR5). The most common side effects are headache, diarrhoea, fl atulence, abdominal pain, paraesthesias, and various skin reactions. Acamprosate is not metabolised by liver and is excreted unchanged by the kidney. Administration of disulfi ram or diazepam does not affect the pharmacokinetics of acamprosate. Coadministration of naltrexone with acamprosate produces an increase in concentrations of acamprosate. Effect of acamprosate is dose dependent and has been confi rmed by at least two studies in humans. Johnson BA. Update on neuropharmacological treatments for alcoholism: scientifi c basis and clinical fi ndings. Biochemical Pharmacology 2008; 75: 34–56. Pelc I, Verbanck P, Le Bon O, et al. Effi cacy and safety of acamprosate in the treatment of detoxifi ed alcohol-dependent patients. A 90-day placebo-controlled dose-fi nding study. British Journal of Psychiatry 1997; 171: 73–77"
+    },
+    {
+        "question": "Sam has been diagnosed with alcohol dependence. He has been started on disulfi ram following a planned detoxifi cation. You educate him about the effects and side-effects of the medication. Unfortunately, Sam decides to start drinking again after taking disulfi ram for 3 weeks. How long should he wait after stopping disulfi ram before he can be sure of having no unpleasant side-effects?",
+        "options": {
+            "A": "1–2 hours",
+            "B": "1–2 days",
+            "C": "2–7 days",
+            "D": "1–2 weeks",
+            "E": "1–2 months110 SUBSTANCE USE DISORDERS | QUESTIONS"
+        },
+        "correct_answer": "D",
+        "explanation": "Disulfi ram inhibits aldehyde dehydrogenase producing a marked increase in blood acetaldehyde concentration if alcohol is consumed. The accumulation of acetaldehyde produces a wide array of unpleasant reactions, called the disulfi ram–ethanol reaction, characterized by nausea, throbbing headache, vomiting, hypertension, fl ushing, sweating, thirst, dyspnoea, tachycardia, chest pain, vertigo, and blurred vision. The reaction occurs almost immediately after the ingestion of one alcoholic drink and can last from 30 minutes to 2 hours. A person taking disulfi ram must be instructed that the ingestion/use of any quantity of alcohol (including alcohol- containing preparations of medicines, food, and cosmetics) would lead to the unpleasant reaction with dangerous consequences at times. Disulfi ram should not be administered until the person has abstained from alcohol for at least 12 hours. This reaction can occur as long as 1–2 weeks after the last dose of disulfi ram. Sadock BJ and Sadock VA. Kaplan and Sadock’s Synopsis of Psychiatry: Behavioral Sciences/clinical Psychiatry, 10th edn. Lippincott Williams & Wilkins, 2007, p. 1038.SUBSTANCE USE DISORDERS | ANSWERS 123"
+    },
+    {
+        "question": "Learning to walk in a straight line despite the motor impairment produced by alcohol intoxication is best explained by which of the following?",
+        "options": {
+            "A": "Pharmacodynamic tolerance",
+            "B": "Pharmacokinetic tolerance",
+            "C": "Behavioural tolerance",
+            "D": "Conditioned tolerance",
+            "E": "Reverse tolerance"
+        },
+        "correct_answer": "C",
+        "explanation": "Learned tolerance refers to a reduction in the effects of a drug because of compensatory mechanisms that are acquired by past experiences. One type of learned tolerance is called behavioural tolerance. This simply describes the skills that can be developed through repeated experiences of attempting to function despite a state of mild to moderate intoxication. A common example is learning to walk in a straight line despite the motor impairment produced by alcohol intoxication. This probably involves both acquisition of motor skills and the learned awareness of one’s defi cit, causing the person to walk more carefully. At higher levels of intoxication, behavioural tolerance is overcome, and the defi cits are obvious. Pharmacokinetic, or dispositional, tolerance refers to changes in the distribution or metabolism of a drug after repeated administrations such that a given dose produces a lower blood concentration than the same dose did on initial exposure. This may be mediated via enzyme induction. Pharmacodynamic tolerance refers to adaptive changes that have taken place within the systems affected by the drug so that the response to a given concentration of the drug is reduced, e.g. change in receptor density. Conditioned tolerance is the process where environmental cues, e.g. sight, smell, etc, for the substance will no longer produce a manifestation of the drug’s effect. Reverse tolerance, or sensitization, refers to an increase in response with repetition of the same dose of the drug. Zack M and Vogel-Sprott M. Behavioral tolerance and sensitization to alcohol in humans: the contribution of learning. Experimental and Clinical Psychopharmacology 1995; 3: 396–401"
+    },
+    {
+        "question": "Which of the following is NOT a principle used during motivational interviewing of substance users?",
+        "options": {
+            "A": "Expressing empathy",
+            "B": "Helping the client to see discrepancies in their behaviours",
+            "C": "Avoiding argument",
+            "D": "Resisting resistance",
+            "E": "Supporting the patient’s sense of self-efficacy"
+        },
+        "correct_answer": "D",
+        "explanation": "Miller and Rollnick (1991) described five principles that are essential to motivational interviewing. They are (1) express empathy: communicate acceptance, use reflective listening, and normalize a client’s ambivalence; (2) develop discrepancy: increase the client’s awareness of the consequences of the problematic behaviour, orient the client to the discrepancy between his/her current behaviour and goals in life, and have the client generate reasons for change; (3) avoid argumentation; (4) roll with resistance: invite the client to consider new points of view rather than having them imposed; and (5) support self-efficacy. O’Donohue WT, Fisher JE and Hayes SC. Cognitive Behavior Therapy: Applying Empirically Supported Techniques in Your Practice. John Wiley & Sons; 2003, p. 252"
+    },
+    {
+        "question": "Which of the following is NOT a risk factor for the development of alcohol hallucinosis?",
+        "options": {
+            "A": "Severe alcohol dependence",
+            "B": "Later age of onset of alcohol problems",
+            "C": "Binge drinking",
+            "D": "Higher rate of other substance use",
+            "E": "Family history of schizophrenia"
+        },
+        "correct_answer": "B",
+        "explanation": "Although the occurrence of alcoholic hallucinosis has been noted for centuries, its nosological status is not yet clear. Little research regarding this has been published in recent years. Tsuang et al. (1994) reported a prevalence of 7.4% among patients in an alcohol treatment programme. Patients with alcoholic hallucinosis were younger at the onset of alcohol problems, consumed more alcohol per occasion, developed more alcohol-related life problems, had higher rates of drug experimentation, and used more of other drugs than alcohol users without hallucinosis. The severity of dependence increased the risk for hallucinosis. It is also noted that the prevalence of schizophrenia is higher in the families of index cases with alcoholic hallucinosis. Tsuang JW, Irwin MR, Smith TL and Schuckit MA. Characteristics of men with alcoholic hallucinosis. Addiction 1994; 89: 73–78. Thirthalli J and Benegal V. Psychosis among substance users. Current Opinions in Psychiatry 19: 239–245"
+    },
+    {
+        "question": "A decrease in which of the following subtypes of dopamine receptors makes an individual susceptible to relapse in a population with substance use?",
+        "options": {
+            "A": "D1",
+            "B": "D2",
+            "C": "D3",
+            "D": "D4",
+            "E": "D5"
+        },
+        "correct_answer": "B",
+        "explanation": "Decreased D2 receptors in alcohol, cocaine, and methamphetamine users, whether premorbid or the consequence of substance use, in conjunction with a finding of increased salience to drug cues, indicate susceptibility to relapse in this population. Chang L and Haning W. Insights from recent positron emission tomographic studies of drug abuse and dependence. Current Opinions in Psychiatry 19: 246–252"
+    },
+    {
+        "question": "Which of the following is NOT shown to be associated with an increase in the risk of development of alcohol abuse in elderly people?",
+        "options": {
+            "A": "Family history of alcohol use",
+            "B": "Presence of an organic mental disorder",
+            "C": "Having a drinking partner",
+            "D": "Grief",
+            "E": "Social isolation"
+        },
+        "correct_answer": "B",
+        "explanation": "Genetic and familial factors probably account for most cases of alcohol problems that begin in adulthood and continue through to older age. Late-onset cases are associated with much lower rates of family alcoholism. Compared with early-onset cases, late-onset problem drinkers also tend to have less psychopathology. In fact, the notion that late-onset alcohol dependence usually occurs secondary to a mood or organic mental disorder has not been upheld in recent systematic studies. The inability to cope with major losses, chronic psychosocial strains, or transient negative affects such as depression or loneliness, are associated with new or renewed problem drinking. The pathophysiological effects of alcohol may be more serious in elderly people because of an age-related increase in biological sensitivity to alcohol and in peak blood level following a standard alcohol load. In addition, alcohol also aggravates many pre-existing diseases that are more common in later life. Gelder MG, et al., eds. New Oxford Textbook of Psychiatry. Oxford University Press, 2000, p. 1638"
+    },
+    {
+        "question": "Mr Smith is diagnosed with alcohol dependence syndrome. He receives an educational session regarding the effects of drinking and the potential benefits of abstinence. He does not make any immediate change in his attitude or behaviour but is prepared to consider altering his drinking habits. Which of the following phases of Prochaska’s transtheoretical model of change is he in?",
+        "options": {
+            "A": "Preparation",
+            "B": "Precontemplation",
+            "C": "Contemplation",
+            "D": "Action",
+            "E": "Maintenance"
+        },
+        "correct_answer": "C",
+        "explanation": "The stages of change model by Prochaska and DiClemente are stages that a person goes through when involved in a behavioural change. This may include a change in substance misuse behaviour, starting daily exercise, going on a diet, or changing a health-related behaviour, e.g. attempting to obtain a cervical smear. The first stage is the precontemplation stage, where the person is not thinking of any imminent change and is happy the way things are. The second stage is contemplation, where he is considering a change in the near future. Preparation is when he gets ready or prepares to enforce the behavioural change. The action phase is when he implements the change, and in the maintenance phase he decides to continue the change in behaviour and attempts to prevent relapse. Thambirajah MS. Psychological Basis of Psychiatry. Elsevier, 2005, pp. 125–126"
+    },
+    {
+        "question": "Which of the following best describes the learning theory behind the efficacy of supervised disulfiram treatment?",
+        "options": {
+            "A": "Aversion theory",
+            "B": "Positive reinforcement",
+            "C": "Negative reinforcement",
+            "D": "Punishment theory",
+            "E": "Deterrence theory"
+        },
+        "correct_answer": "E",
+        "explanation": "Disulfiram is generally considered a deterrent. Earlier works suggested disulfiram to be an aversion treatment. The theory underlying ‘aversion therapy’ is that ‘repeated pairing’ of alcohol with an unpleasant stimulus leads to a conditioned response in which drinking alcohol is increasingly perceived as unpleasant. This was previously considered to be the case with disulfiram, because it was common practice to induce the highly unpleasant but controlled disulfiram–ethanol reaction in a clinical setting before initiating regular therapy. This is now considered unnecessary for the efficacy of disulfiram therapy, i.e. the ‘unpleasant’ outcome need not be experienced by the person, but a ‘fear’ of the possibility of such experience is sufficient. An analogy is with police cars. Brewer states that no sane driver will exceed the speed limit if he sees a police car in front or behind; one does not need to be arrested for speeding before reducing the speed. Most patients who take disulfiram under supervision do not risk drinking. Those who do drink do not necessarily get a significant reaction on standard doses of disulfiram, but if the experience is unpleasant, they do not usually repeat it. Some people may consider this as a form of negative reinforcement, which again needs the subject to experience the ‘repeated conditioning’ in order to increase the abstinence behaviour. So, from the given choices, deterrence theory would be the best choice. Deterrence is an established theme in criminal justice. It refers to reduction in unwanted behaviour through knowledge of costs and risks involved in an act. Brewer C. Combining pharmacological antagonists and behavioural psychotherapy in treating addictions. Why it is effective but unpopular? British Journal of Psychiatry 1990; 157: 34–40"
+    },
+    {
+        "question": "Which of the following is the most common intracranial complication of cocaine use?",
+        "options": {
+            "A": "Non-haemorrhagic infarct",
+            "B": "Transient ischaemic attack (TIA)",
+            "C": "Subarachnoid haemorrhage",
+            "D": "Intraventricular haemorrhage",
+            "E": "Intraparenchymal haemorrhage"
+        },
+        "correct_answer": "A",
+        "explanation": "High doses of cocaine have been associated with a wide variety of toxic effects, including cardiac arrhythmias, coronary artery spasms, myocardial infarction, and myocarditis. Most of the complications are related to vasoconstriction. The most common cerebrovascular diseases associated with cocaine use are non-haemorrhagic cerebral infarctions. When haemorrhagic infarctions do occur, they can include subarachnoid, intraparenchymal, intraventricular, and at times spinal cord haemorrhages. Other toxic effects on the central nervous system may include seizures, hyperpyrexia, respiratory depression, and death. Cocaine-related seizures and loss of consciousness are seen in heavy users. Rhabdomyolysis, after large doses of cocaine, may contribute to renal complications. Sniffing cocaine can cause ulcers of the mucosa in the nose and perforation of the nasal septum from persistent vasoconstriction. Inhaled cocaine freebase is believed to induce lung damage. By producing placental vasoconstriction, cocaine may contribute to foetal anoxia. Sadock BJ and Sadock VA. Kaplan and Sadock’s Comprehensive Textbook of Psychiatry, 8th edn. Lippincott Williams and Wilkins, 2005, p. 1229"
+    },
+    {
+        "question": "Chris and Ken are classmates at the local primary school. Chris’s father has problems related to alcohol use, while Ken’s parents are teetotal. How many times is Chris more likely to develop an alcohol-related problem in later life than Ken, assuming other psychosocial factors are comparable?",
+        "options": {
+            "A": "2–3 times",
+            "B": "4–10 times",
+            "C": "10–20 times",
+            "D": "20–40 times",
+            "E": "100 times"
+        },
+        "correct_answer": "B",
+        "explanation": "Alcohol use disorders run in families. A child with an alcoholic parent has a 4- to 10-fold increased risk of developing alcoholism themselves. This can be due to both genetic and environmental factors. Environmental influences include the availability of alcohol, parental attitudes, and peer pressure. Starting to drink before the age of 15 years is associated with a fourfold increased risk for lifetime alcoholism compared with starting at the age of 21 years. Severe childhood stressors, especially emotional, physical, and sexual abuse, are associated with up to seven times increased risk of alcoholism in adulthood. Childhood antisocial behaviour predicts regular alcohol use in early adolescence and the development of alcoholism later on. Enoch M. Genetic and environmental influences on the development of alcoholism: resilience vs. risk. Annals of the New York Academy of Sciences 2006; 1094: 193–201"
+    },
+    {
+        "question": "Which of the following is the most common lifetime comorbid diagnosis in a person with cocaine dependence?",
+        "options": {
+            "A": "Alcohol use disorder",
+            "B": "Depression",
+            "C": "Antisocial personality disorder",
+            "D": "Phobia",
+            "E": "Schizophrenia"
+        },
+        "correct_answer": "A",
+        "explanation": "Cocaine use is associated with frequent co-occurrence of other psychiatric disorders. The presence of other psychiatric disorders sharply increases the odds of substance dependence, and substance-dependent people are more likely than the general population to meet the diagnostic criteria for additional psychiatric disorders. Among cocaine users seeking treatment, the rates of additional current and lifetime diagnoses are regularly found to be elevated. The most common additional lifetime diagnoses associated with cocaine use are alcoholism (60%), antisocial personality (30%), and major depression (30%). Sadock BJ and Sadock VA. Kaplan and Sadock’s Comprehensive Textbook of Psychiatry, 8th edn. Lippincott Williams and Wilkins, 2005, p. 1228"
+    },
+    {
+        "question": "Which of the following is a factor that can increase the risk of benzodiazepine withdrawal in a clinical setting?",
+        "options": {
+            "A": "Gradual tapering of the prescribed drug",
+            "B": "Shorter duration of exposure",
+            "C": "Low level of psychopathology before initiation of benzodiazepine treatment",
+            "D": "Low level of educational attainment",
+            "E": "Low dose of the prescribed drug"
+        },
+        "correct_answer": "D",
+        "explanation": "Symptoms associated with the withdrawal of benzodiazepine therapy may reflect one of three phenomena – a recurrence (return of the original symptoms); a rebound (worsening of the original symptoms), or true withdrawal (emergence of new symptoms). These symptoms may include anxiety, dysphoria, irritability, altered sleep–wake cycle, daytime drowsiness, tachycardia, elevated blood pressure, hyperreflexia, muscle tension, agitation/motor restlessness, tremor, myoclonus, muscle and joint pain. Patients may also experience various perceptual disturbances such as hyperacusis, depersonalization, blurred vision, and hallucinations. In severe cases, delirium similar to delirium tremens has been reported. Factors influencing the development of the discontinuance or withdrawal syndrome include the dose of the drug, duration of the drug intake, rapid tapering of the dose and greater psychopathology before initiation and termination of medication, dependent personality traits, and lower education levels. Sadock BJ and Sadock VA. Kaplan and Sadock’s Comprehensive Textbook of Psychiatry, 8th edn. Lippincott Williams and Wilkins, 2005, p. 1311"
+    },
+    {
+        "question": "Which of the following is NOT a feature of alcoholic hallucinosis?",
+        "options": {
+            "A": "Clear consciousness",
+            "B": "Autonomic hyperactivity",
+            "C": "Third-person hallucinations",
+            "D": "Secondary delusions",
+            "E": "Good prognosis compared with other psychoses"
+        },
+        "correct_answer": "B",
+        "explanation": "Alcoholic hallucinosis is a condition in which auditory hallucinations are present during clear consciousness in the absence of autonomic overactivity, usually in a person who has been drinking excessively for many years. Initially the hallucinations are simple in nature, but later on become complex voices that are derogatory. These voices are usually second person, but at times are third person. They may also be command hallucinations. Delusions, if present are secondary to the voice. In both ICD-10 and DSM-IV, the disorder is classified as a substance-induced psychotic disorder. The differential diagnosis includes withdrawal symptoms and delirium tremens. In both these conditions the auditory hallucinations are transient and disorganized, and in the latter, consciousness is impaired. Auditory hallucinations of alcoholic hallucinosis are persistent and organized, and occur during clear consciousness. The hallucinations usually respond rapidly to antipsychotic medication. The prognosis is good; usually the condition improves within days or a couple of weeks, provided that the person remains abstinent. Symptoms that last for 6 months generally continue for years. The other differential diagnosis one needs to rule out, especially in the presence of derogatory hallucinations, is major depression with psychotic symptoms. Gelder MG, et al., eds. New Oxford Textbook of Psychiatry. Oxford University Press, 2000, p. 490"
+    },
+    {
+        "question": "An 18-year-old boy was brought to the A&E by police after being picked up wandering near Tower Bridge. He was angry, agitated, and suspicious. He was concerned about people trying to ‘get him’. On examination, he showed evidence of stereotyped behaviour, tachycardia, pupillary dilation and elevated blood pressure. Soon after initial evaluation, he developed seizures. What is the most likely substance that may have led to this presentation?",
+        "options": {
+            "A": "Alcohol",
+            "B": "Cannabis",
+            "C": "Heroin",
+            "D": "Amphetamine",
+            "E": "Inhalant"
+        },
+        "correct_answer": "D",
+        "explanation": "The features described in the clinical scenario are that of amphetamine intoxication. The clinching points are the sympathetic activity due to release of catecholamines and the stereotyped behaviour, which are characteristic of amphetamine use. According to DSM-IV, the diagnostic criteria for intoxication with amphetamine includes behavioural or psychological changes such as euphoria or affective blunting; changes in sociability; hypervigilance; interpersonal sensitivity; anxiety, tension, or anger; stereotyped behaviours; and impaired judgment. Physical symptoms/signs include tachycardia or bradycardia, pupillary dilation, elevated or lowered blood pressure, perspiration or chills with nausea or vomiting. Psychomotor changes include agitation or retardation. Patients may complain of muscular weakness, chest pain; some may develop cardiac arrhythmias and seizures. Gelder MG. et al., eds. New Oxford Textbook of Psychiatry. Oxford University Press, 2000, p. 531"
+    },
+    {
+        "question": "Cocaine intake is associated with all of the following phenomena except",
+        "options": {
+            "A": "Dopamine reuptake inhibition",
+            "B": "Serotonin reuptake inhibition",
+            "C": "Noradrenaline reuptake inhibition",
+            "D": "Corticotrophin releasing hormone secretion",
+            "E": "Prolactin release"
+        },
+        "correct_answer": "E",
+        "explanation": "Cocaine inhibits the normal reuptake of monoamines from the synaptic cleft by binding to transporter proteins. Its reinforcing effects are primarily due to its actions at the dopamine transporter, producing high levels of dopamine in the synapse. Cocaine also inhibits reuptake of noradrenaline and serotonin. The increase in noradrenaline concentration is important for some of cocaine’s toxic effects. The drug produces increases in adrenocorticotropic hormone (ACTH) and cortisol by stimulating release of hypothalamic corticotropin-releasing hormone (CRH). Acutely, cocaine also stimulates the release of luteinizing hormone and follicle-stimulating hormone (FSH) and suppresses the release of prolactin. Goldman D, Oroszi G and Ducci F. The genetics of addictions: uncovering the genes. Focus 2005; 4: 401–415"
+    },
+    {
+        "question": "Martin has been admitted to the addictions unit to undergo detoxification from opiates. He has been known to suffer from low blood pressure. Which of the following would be the best agent to treat his withdrawal symptoms?",
+        "options": {
+            "A": "Buprenorphine",
+            "B": "Naloxone",
+            "C": "Clonidine",
+            "D": "Dihydrocodeine",
+            "E": "Lofexidine"
+        },
+        "correct_answer": "A",
+        "explanation": "Buprenorphine is preferable to α2 adrenergic agonists if there are concerns about bradycardia or hypotension. Buprenorphine results in lower severity of withdrawal symptoms than α2 adrenergic agonists. Buprenorphine can be used for short-term opioid withdrawal and has a better outcome than clonidine. Methadone and α2 adrenergic agonists (e.g. clonidine and lofexidine) also have a good evidence base for reducing withdrawal symptoms. If a short duration of treatment is desirable, α2 adrenergic agonists are preferable to methadone. Methadone treatment is more successful if carried out slowly or with a linear dose reduction. Methadone can be used during pregnancy, and there are emerging studies regarding the use of buprenorphine. α2 adrenergic agonists should not be prescribed in pregnancy. Lingford-Hughes AR, Welch S, Nutt DJ. Evidence-based guidelines for the pharmacological management of substance misuse, addiction and comorbidity: recommendations from the British Association for Psychopharmacology. Journal of Psychopharmacology 2004; 18: 293–335"
+    },
+    {
+        "question": "Tolerance doesn’t develop to which of the following symptoms/signs in opiate dependence?",
+        "options": {
+            "A": "Sedation",
+            "B": "Euphoria",
+            "C": "Constipation",
+            "D": "Miosis",
+            "E": "Insomnia"
+        },
+        "correct_answer": "C",
+        "explanation": "Recent research has shed new light on the mechanisms involved in the development of opioid tolerance and dependence. Stimulation of opioid receptors located on critical cells such as those located in the locus coeruleus produces a decrease in cell firing. This effect reflects cellular hyperpolarization that results from both the activation of potassium channels and the inhibition of slowly depolarizing sodium channels. These actions occur in conjunction with a decrease in intracellular cyclic adenosine monophosphate (cAMP) levels. Among the given choices, both constipation and miosis have been traditionally thought to be resistant to tolerance. Kollars and Larson reviewed the two studies conducted in the late 60s which are often quoted to show that miosis does not develop tolerance. They quote a number of other studies which have shown that miosis is susceptible to tolerance. There are comparatively few data refuting the lack of tolerance response for constipation. Clinical experience hints that constipation is a major problem that persists without development of tolerance, especially in elderly people who are prescribed opiates as analgesics. This can be very difficult to treat, at times requiring enemas and in severe cases requiring manual evacuation. Kollars JP and Larson M. tolerance to miotic effects of opioids. Anesthesiology: 2005; 102: 701. Higgins S, Stitzer M, McCaul M, et al. Pupillary response to methadone challenge in heroin users. Clinical Pharmacology and Therapeutics 1985; 37: 460–463"
+    },
+    {
+        "question": "Donna is an active opiate user, who recently found out that she is pregnant. She approaches her GP saying she wants to stop her substance use and is not considering maintenance therapy with methadone. She is worried about withdrawal symptoms. Her GP calls you about the best time for Donna to undergo opiate withdrawal during pregnancy. Which of the following is the most appropriate answer?",
+        "options": {
+            "A": "First trimester",
+            "B": "Second trimester",
+            "C": "Third trimester",
+            "D": "Any of the above",
+            "E": "Withdrawal should never be considered during pregnancy"
+        },
+        "correct_answer": "B",
+        "explanation": "The view of treatment of opiate dependence has changed over the past 25 years. Previously it was thought that all patients should undergo withdrawal prior to delivery. Current practice acknowledges the fact that an abstinence state is almost impossible to achieve in this population. Hence most experts now advocate methadone maintenance as a way to reduce illegal drug use and remove the woman from a hazardous drug-seeking environment. Current consensus is that undertaking a medical withdrawal regimen could be accomplished most safely during the second trimester, with careful monitoring of foetal welfare by perinatal experts. The consensus is that opiate withdrawal could be best accomplished through stabilization with methadone followed by gradual reduction of the methadone dosage by 2–2.5 mg every 7–10 days. This should ideally be done only in a secondary care setting with the involvement of obstetricians and neonatologists. Lowinson JH, Ruiz P, Millman RB and Langrod JG. Substance Abuse: A Comprehensive Textbook, 4th edn. Lippincott Williams & Wilkins, 2005, p. 808"
+    },
+    {
+        "question": "Which of the following symptoms is NOT found in opiate withdrawal?",
+        "options": {
+            "A": "Abdominal pain",
+            "B": "Dry eyes",
+            "C": "Dilated pupils",
+            "D": "Vomiting",
+            "E": "Sweating"
+        },
+        "correct_answer": "B",
+        "explanation": "Lacrimation – not dry eyes – is a symptom seen in opiate withdrawal. DSM-IV states that opiate withdrawal can be precipitated by cessation of (or reduction in) opioid use that has been heavy and prolonged (several weeks or longer) or administration of an opioid antagonist after a period of opioid use. Other symptoms typically associated with withdrawal are dysphoric mood, nausea or vomiting, muscle aches, rhinorrhoea, pupillary dilation, piloerection, sweating, diarrhoea, yawning, fever, and insomnia. Piloerection along with general ‘secretion’ from most of the glands is called the ‘cold turkey’, when people tend to detox without medical help. Sadock BJ and Sadock VA. Kaplan and Sadock’s Synopsis of Psychiatry: Behavioral Sciences/clinical Psychiatry, 10th edn. Lippincott Williams & Wilkins, 2007, p. 447"
+    },
+    {
+        "question": "Which of the following treatments for opioid dependence has been shown to reduce risk-taking behaviours associated with HIV transmission?",
+        "options": {
+            "A": "Naltrexone use",
+            "B": "Methadone maintenance",
+            "C": "Narcotics anonymous programme",
+            "D": "Antidepressant treatment",
+            "E": "Oral morphine prescription"
+        },
+        "correct_answer": "B",
+        "explanation": "Systematic reviews of methadone maintenance vs. non-opioid therapy conducted by the Cochrane collaboration shows that methadone has a superior retention rate than control conditions. Methadone maintenance treatment has also been shown to reduce risk behaviours (specifically reduction in needle sharing) and thereby has achieved a reduction in the transmission of HIV. Intake of illicit opioids decreased in the methadone maintenance group, as shown by fewer positive urine tests for ‘morphine’ in these groups. Although criminal activity was found to be less in the group that was on methadone maintenance, the statistics did not show a significant difference. Nevertheless, individual randomized controlled trials have shown that methadone maintenance decreases criminal activity. In addition, methadone maintenance has shown to decrease rates of suicide and overdose in this population. Mattick RP, Breen C, Kimber J, et al. Methadone maintenance therapy versus no opioid replacement therapy for opioid dependence. Cochrane Database of Systematic Reviews 2003, Issue 2. Art. No.: CD002209"
+    },
+    {
+        "question": "The half life of methadone in a patient with opioid dependence is",
+        "options": {
+            "A": "4–6 hours",
+            "B": "10–20 hours",
+            "C": "24–36 hours",
+            "D": "72–90 hours",
+            "E": "None of the above"
+        },
+        "correct_answer": "C",
+        "explanation": "Elimination of most synthetic opioids is complex. The peak plasma concentrations of oral methadone are reached within 2–6 hours, and initially plasma half-life is 4–6 hours in opioid-naive people and 24–36 hours after steady dosing of any type of opioid. It generally requires once-daily dosing. Methadone is highly protein bound and equilibrates widely throughout the body, which ensures little post-dosage variation in steady-state plasma concentrations. Methadone can be used for short-term detoxification (7–30 days), long-term detoxification (up to 180 days), and maintenance (treatment beyond 180 days) of opioid-dependent individuals. In contrast, the elimination of a sublingual dosage of buprenorphine occurs in two phases: an initial phase with a half-life of 3–5 hours and a terminal phase with a half-life of more than 24 hours. Buprenorphine dissociates from its receptor binding site slowly, which permits an every-other-day dosing schedule. Sadock BJ and Sadock VA. Kaplan and Sadock’s Synopsis of Psychiatry: Behavioral Sciences/clinical Psychiatry, 10th edn. Lippincott Williams & Wilkins, 2007; p. 1072"
+    },
+    {
+        "question": "Which of the receptors is implicated in the respiratory depressant action of opioids?",
+        "options": {
+            "A": "Mu",
+            "B": "Kappa",
+            "C": "Delta",
+            "D": "Sigma",
+            "E": "ORL1"
+        },
+        "correct_answer": "A",
+        "explanation": "Mu (MOP) receptors are found in the brain in the cortex, thalamus, striosomes, and periaqueductal grey. The Mu1 subtype is responsible for supraspinal analgesia and physical dependence. The Mu 2 subtype is responsible for respiratory depression, euphoria, constipation, physical dependence, and miosis. Kappa (KOP) receptors are found in the hypothalamus, claustrum, and periaqueductal grey regions of the brain and the substantia gelatinosa of the spinal cord. They are involved in spinal analgesia, sedation, miosis, and inhibition of ADH release. Delta (DOP) receptors are seen in the brain in the regions of the pons, amygdala, olfactory bulbs, and the deep cortex. Their function includes analgesia, euphoria, and physical dependence. Sigma receptors, which mediate the antitussive action, are no longer considered to be opioid receptors. A new receptor called ORL1 has recently been identified, with an endogenous ligand called nociceptin. The ORL1 receptors do not bind opioid peptides or opiate drugs. This system is widely distributed in the brain and spinal cord. Its activation produces hyperalgesia in most instances. Many do not consider ORL1 as an opiate receptor. The International Union of Basic and Clinical Pharmacology has recently agreed to rename mu, kappa, and delta to MOP, KOP and DOP receptors respectively. Corbett AD, Henderson G, McKnight AT, Paterson SJ. 75 years of opioid research: the exciting but vain quest for the Holy Grail. British Journal of Pharmacology 2006; 147: S153–162"
+    },
+    {
+        "question": "What is the equivalent dose of methadone for 0.5 g of street heroin?",
+        "options": {
+            "A": "5–15 mL of 1 mg/mL mixture",
+            "B": "10–20 mL of 1 mg/mL mixture",
+            "C": "30–40 mL of 1 mg/mL mixture",
+            "D": "80–100 mL of 1 mg/ml mixture",
+            "E": "1–2 mL of 1mg/mL mixture"
+        },
+        "correct_answer": "C",
+        "explanation": "Assessing the methadone dose equivalent of reported street heroin use is difficult because of the reliance on self-report and the variable purity of illicit heroin. Broadly speaking, 30–40 mL of 1 mg/mL mixture is approximately equivalent to 0.5 g of street heroin. Gelder mg et al., eds. New Oxford Textbook of Psychiatry. Oxford University Press, 2000, p. 527"
+    },
+    {
+        "question": "Amotivational syndrome has been described with the use of which of the following substance?",
+        "options": {
+            "A": "Cocaine",
+            "B": "Amphetamine",
+            "C": "Cannabis",
+            "D": "Alcohol",
+            "E": "LSD"
+        },
+        "correct_answer": "C",
+        "explanation": "A controversial cannabis-related syndrome is amotivational syndrome. Whether the syndrome is related to cannabis use or reflects characterological traits in a subgroup of people regardless of cannabis use is under debate. Traditionally, amotivational syndrome has been associated with long-term heavy use and has been characterized by a person’s unwillingness to persist in a task. Persons are described as becoming apathetic and anergic, and appearing indolent. Field studies of chronic heavy cannabis users in societies with a tradition of such use have not produced consistent evidence to demonstrate the existence of amotivational syndrome. Critics have questioned the methodological issues of the study. However, the possibility has been kept alive by reports that regular cannabis users experience a loss of ambition and impaired school and occupational performance. Sadock BJ and Sadock VA. Kaplan and Sadock’s Synopsis of Psychiatry: Behavioral Sciences/clinical Psychiatry, 10th edn. Lippincott Williams & Wilkins, 2007, p. 419"
+    },
+    {
+        "question": "Maternal smoking during pregnancy has been best associated with which of the following?",
+        "options": {
+            "A": "Learning disability",
+            "B": "Autistic spectrum disorder",
+            "C": "Conduct disorder",
+            "D": "Autism",
+            "E": "Mood disorders"
+        },
+        "correct_answer": "C",
+        "explanation": "Maternal smoking during pregnancy has been consistently associated with conduct disorder and delinquency and attention-deficit hyperactivity disorder (ADHD) in offspring during childhood and adolescence. This association has been found even after controlling for confounding variables such as socioeconomic status, maternal age, birth weight, and maternal psychopathology. This may be due to the effect of nicotine or may be genetically mediated. There may be other environmental risks that play a part in its development. More recent research has shown that the behavioural problems may not be a direct risk of smoking itself, but the presence of other genetic factors that may mediate the association between maternal smoking and conduct problems in children. Button TM, Thapar A and McGuffin P. Relationship between antisocial behaviour, attention-deficit hyperactivity disorder and maternal prenatal smoking. British Journal of Psychiatry 2005; 187: 155–160"
+    },
+    {
+        "question": "Following recent consumption of LSD, it can be detected in urine for up to",
+        "options": {
+            "A": "24 hours",
+            "B": "1–3 days",
+            "C": "10–15 days",
+            "D": "15–30 days",
+            "E": "More than 30 days"
+        },
+        "correct_answer": "B",
+        "explanation": "LSD and its metabolites are detectable in human urine for as long as 4 days after the ingestion of 0.2 mg of the drug. Amphetamines can be detected for 2–4 days; cocaine can be present for up to 3 days. Marijuana users may test positive in urine samples for up to 3 days after casual use; this can extend to up to 30 days for regular high-dose users. Lowinson JH, Ruiz P, Millman RB and Langrod JG. Substance Abuse: A Comprehensive Textbook, 4th edn. Lippincott Williams & Wilkins, 2005, p. 572"
+    }
+]
