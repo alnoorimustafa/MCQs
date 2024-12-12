@@ -3,7 +3,7 @@
         "question": "Which of the following is NOT a facilitative message?",
         "options": {
             "A": "‘Run on’ question",
-            "B": "Self disclosure",
+            "B": "Self-disclosure",
             "C": "‘I want’ message",
             "D": "Silence",
             "E": "Interpretation"
@@ -36,7 +36,7 @@
         "explanation": "A question whose answer cannot be a simple yes or no, or a single factual answer that can be classified as right or wrong, is an open-ended question, such as the question given in 3. A. (See also Question 2). Kay J and Tasman A. Essentials of Psychiatry. John Wiley & Sons, 2006, p. 44."
     },
     {
-        "question": "During a clinical interview the following statement is made by the clinician: ‘So you have been anxious since these changes occurred at your work place.’ Which of the following interview technique best describes the above statement?",
+        "question": "During a clinical interview the following statement is made by the clinician: ‘So you have been anxious since these changes occurred at your workplace.’ Which of the following interview technique best describes the above statement?",
         "options": {
             "A": "Facilitation",
             "B": "Open-ended question",
@@ -63,7 +63,7 @@
         "question": "Which of the following is a supportive intervention during a clinical interview process?",
         "options": {
             "A": "Open-ended questions",
-            "B": "Acknowledgement of affect",
+            "B": "Acknowledgment of affect",
             "C": "Confrontation",
             "D": "Taking a medical history",
             "E": "Summarization"
@@ -72,16 +72,16 @@
         "explanation": "Being empathetic and acknowledging a patient’s emotional state helps in facilitating progression of clinical interview. These are supportive interventions required in various degrees by patients. Summarization is not an intervention but a technique facilitating a clinician’s understanding of a patient’s story. Confrontation may be helpful in some situations, but it cannot be considered as a supportive intervention during clinical interview. Kay J and Tasman A. Essentials of Psychiatry. John Wiley & Sons, 2006, p. 44."
     },
     {
-        "question": "Which of the following statements is true when enquiring about suicidal ideation?",
+        "question": "Which of the following statements is true when inquiring about suicidal ideation?",
         "options": {
             "A": "This should not be asked unless the patient volunteers information",
-            "B": "Asking about suicidal ideation can instil suicidal ideas in a person",
+            "B": "Asking about suicidal ideation can instill suicidal ideas in a person",
             "C": "A person who intends to attempt suicide will never divulge",
-            "D": "Passive suicidal ideas must be enquired further for any plans made",
+            "D": "Passive suicidal ideas must be inquired further for any plans made",
             "E": "The aim of the assessment is to corner the patient into a disclosure"
         },
         "correct_answer": "D",
-        "explanation": "Thoughts of self harm should always be enquired about. Contemplation of suicide is very common among the mentally ill. There is no evidence that enquiring about suicidal ideations increases the risk of committing suicide. In fact many patients would welcome an opportunity to discuss any suicidal thoughts with a professional. Semple DM et al., eds. Oxford Handbook of Psychiatry, 1st edn. Oxford University Press, 2005, p. 45."
+        "explanation": "Thoughts of self harm should always be inquired about. Contemplation of suicide is very common among the mentally ill. There is no evidence that inquiring about suicidal ideations increases the risk of committing suicide. In fact many patients would welcome an opportunity to discuss any suicidal thoughts with a professional. Semple DM et al., eds. Oxford Handbook of Psychiatry, 1st edn. Oxford University Press, 2005, p. 45."
     },
     {
         "question": "‘Do you ever hear voices commenting on what you are doing?’ This question is usually asked to ascertain the presence of which one of the following?",
@@ -111,7 +111,7 @@
         "question": "Assessment of insight is an integral part of mental state examination in psychiatric practice. Regarding insight, which of the following statements is true?",
         "options": {
             "A": "Patients with schizophrenia will never have insight into their illness",
-            "B": "OCD being a neurosis, insight is always intact",
+            "B": "OCD, being a neurosis, insight is always intact",
             "C": "Intellectual insight is present when patients’ awareness and understanding of their symptoms lead to a change in behaviour",
             "D": "Intellectual insight is the highest level of insight",
             "E": "Loss of insight is similar to the concept of anosognosia in neurological illness"
@@ -256,7 +256,7 @@
         "options": {
             "A": "Mood is short-lived while affect is longer lasting",
             "B": "Mood is objective while affect is subjective",
-            "C": "Affect is transient but diffi cult to interpret",
+            "C": "Affect is transient but difficult to interpret",
             "D": "Affect is transient and self reported",
             "E": "None of the above"
         },

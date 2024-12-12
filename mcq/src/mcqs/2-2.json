@@ -30,7 +30,7 @@
       "B": "Total south-east London population in the year 1997",
       "C": "Census of south-east London population aged more than 16 in the year 1981",
       "D": "Census of south-east London population aged more than 16 in the year 1965",
-      "E": "Census of south-east London population aged more than 16 in the year 199750 EPIDEMIOLOGY | QUESTIONS"
+      "E": "Census of south-east London population aged more than 16 in the year 1997"
     },
     "correct_answer": "C",
     "explanation": "Lifetime prevalence is the proportion of individuals in the population who have ever manifested a disorder, who are alive on a given day. This is ascertained by surveying a population cross-sectionally and finding out if they ever satisfied the criteria for a disorder in the past or at the present time. As one can observe, although this method is commonly used in epidemiological surveys, it is prone to recall bias. Lifetime morbid risk refers to risk of contracting a disease for each individual in a birth cohort if they live long enough to reach the average life expectancy of the population. This must be clearly differentiated from prevalence estimates. Prevalence is largely a population measure, while lifetime morbid risk is more close to an individual’s chances of being diagnosed with an illness. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
@@ -44,8 +44,8 @@
       "D": "Incidence rate = mortality rate × prevalence",
       "E": "Prevalence = mortality rate × incidence × duration of disease"
     },
-    "correct_answer": "C",
-    "explanation": "Incidence is a ratio between the number of newly diagnosed cases within a specified time period in a population and the total number of people living in the area (total population). To be accurate, such comparisons must exclude those who are not at risk, though this is generally not done for non-infectious, non-epidemic diseases such as psychiatric illnesses. It is essential that the denominator and numerator are not mutually exclusive, that is the diseased group must be a part of the studied population. Hence, when measuring the incidence of psychosis, the population above the age of 16 is the relevant denominator. The year 1981 is the midinterval period between 1965 and 1997. Boydell J, Van Os J, Lambri M et al. Incidence of schizophrenia in south-east London between 1965 and 1997 British Journal of Psychiatry 2003; 182: 45–49.66 EPIDEMIOLOGY | ANSWERS"
+    "correct_answer": "A",
+    "explanation": "Incidence is a ratio between the number of newly diagnosed cases within a specified time period in a population and the total number of people living in the area (total population). To be accurate, such comparisons must exclude those who are not at risk, though this is generally not done for non-infectious, non-epidemic diseases such as psychiatric illnesses. It is essential that the denominator and numerator are not mutually exclusive, that is the diseased group must be a part of the studied population. Hence, when measuring the incidence of psychosis, the population above the age of 16 is the relevant denominator. The year 1981 is the midinterval period between 1965 and 1997. Boydell J, Van Os J, Lambri M et al. Incidence of schizophrenia in south-east London between 1965 and 1997 British Journal of Psychiatry 2003; 182: 45–49."
   },
   {
     "question": "A major cause of mortality in schizophrenia is cardiovascular problems. If a new class of antipsychotics with favourable metabolic profile that reduces cardiac risk is introduced, which of the following could happen?",
@@ -80,7 +80,7 @@
       "D": "Number of anorexia-related deaths in a year/ 1-year prevalence of anorexia",
       "E": "Number of all cause deaths in a year/ number of anorexia-related deaths in the same year"
     },
-    "correct_answer": "D",
+    "correct_answer": "B",
     "explanation": "Mortality rates are a special type of incidence rates where ‘death’ is the defined ‘case’ of interest. Crude mortality rate is the ratio between number of deaths due to all cause in a population and total population size. Cause-specific mortality rate, for example alcohol-specific mortality, refers to the ratio between the number of deaths due to alcohol in a population and total population size. A standardized rate is a rate applicable to a hypothetical population with an adjusted variable, for example age. As population samples are heterogeneous, crude rates from one population may not be comparable to another population. For example suicide rates in inner London may not be comparable to rates in rural Yorkshire, as the working-age population may be higher in London, spuriously increasing suicide rates. Hence, standardized hypothetical populations are used on which observed rates from a population are applied and adjusted values are derived. These standardized values are easily comparable, but they are not subgroup incidence rates. US Department of Health and Human Services. Principles of Epidemiology, 2nd edn. www2a.cdc. gov/phtn/catalog/pdf-file/Epi_Course.pdf (accessed 19.08.2008), p. 100."
   },
   {
@@ -90,10 +90,10 @@
       "B": "True value of the number of deaths in a population is given by a standardized rate.",
       "C": "Standardized rates can be expressed in meaningful units while crude rates do not have a specific unit for expression.",
       "D": "Standardized rates provide an idea about cause of deaths in a population.",
-      "E": "The accuracy of measurement is increased by using standardized rates.EPIDEMIOLOGY | QUESTIONS 51"
+      "E": "The accuracy of measurement is increased by using standardized rates."
     },
     "correct_answer": "B",
-    "explanation": "Proportionate mortality rate is a measure of the contribution of a disease to societal mortality burden. It is given by the ratio between deaths due to a specific cause and total number of deaths in a population. Case fatality rate is the ratio between the number of deaths due to a specific disease and number of persons affected by the disease in a population. It is a measure of the fatal severity of the disease studied. For example 15 patients out of 100 with anorexia will die due to its complications. Choice A refers to cause-specific mortality rate while choice D refers to case fatality rate. US Department of Health and Human Services. Principles of Epidemiology, 2nd edn. www2a.cdc. gov/phtn/catalog/pdf-file/Epi_Course.pdf (accessed 19.08.2008), p. 100.EPIDEMIOLOGY | ANSWERS 67"
+    "explanation": "Proportionate mortality rate is a measure of the contribution of a disease to societal mortality burden. It is given by the ratio between deaths due to a specific cause and total number of deaths in a population. Case fatality rate is the ratio between the number of deaths due to a specific disease and number of persons affected by the disease in a population. It is a measure of the fatal severity of the disease studied. For example 15 patients out of 100 with anorexia will die due to its complications. Choice A refers to cause-specific mortality rate while choice D refers to case fatality rate. US Department of Health and Human Services. Principles of Epidemiology, 2nd edn. www2a.cdc. gov/phtn/catalog/pdf-file/Epi_Course.pdf (accessed 19.08.2008), p. 100."
   },
   {
     "question": "There are 65 suicides in a population of 1300 patients with schizophrenia. The rate 65/1300 refers to which one of the following?",
@@ -150,10 +150,10 @@
       "B": "Histrionic, borderline, and antisocial",
       "C": "Dependent and anxious avoidant",
       "D": "Sadistic and narcissistic",
-      "E": "Obsessive compulsive and passive aggressive52 EPIDEMIOLOGY | QUESTIONS"
+      "E": "Obsessive compulsive and passive aggressive"
     },
-    "correct_answer": "D",
-    "explanation": "Nearly 40% of depressive episodes do not come to clinical attention even in developed nations (NESARC study). The World Mental Health Survey initiative organized by the WHO revealed that older generational cohorts of depressed people, men, those with earlier age of depression onset, and those who are living in developing compared to developed countries are poor seekers of treatment for depression. The situation is even worse for anxiety and substance- use disorders. An encouraging finding was that those with severe illness sought treatment more often than those with milder illnesses. WHO World Mental Health Survey Consortium. Prevalence, severity, and unmet need for treatment of mental disorders in the World Health Organization World Mental Health Surveys. JAMA 2004; 291: 2581–2590.68 EPIDEMIOLOGY | ANSWERS"
+    "correct_answer": "B",
+    "explanation": "Nearly 40% of depressive episodes do not come to clinical attention even in developed nations (NESARC study). The World Mental Health Survey initiative organized by the WHO revealed that older generational cohorts of depressed people, men, those with earlier age of depression onset, and those who are living in developing compared to developed countries are poor seekers of treatment for depression. The situation is even worse for anxiety and substance- use disorders. An encouraging finding was that those with severe illness sought treatment more often than those with milder illnesses. WHO World Mental Health Survey Consortium. Prevalence, severity, and unmet need for treatment of mental disorders in the World Health Organization World Mental Health Surveys. JAMA 2004; 291: 2581–2590."
   },
   {
     "question": "Major depressive disorder often coexists with personality disorders. What is the proportion of patients with major depression and lifetime comorbidity of personality disorders in community samples?",
@@ -176,7 +176,7 @@
       "D": "Audit",
       "E": "Comorbidity survey"
     },
-    "correct_answer": "E",
+    "correct_answer": "A",
     "explanation": "It is important to note that the prevalence of personality disorders in those who attend psychiatric services or primary-care services are higher than community prevalence rates. The rate of personality disorders is recorded to be very high in institutions such as prisons and psychiatric hospitals providing long-term services. The prevalence of any personality disorder in community samples is estimated to be around 13% in the UK. The comorbid association of diagnosable personality disorder and depression was explored in NESARC study, which revealed 30% of depressed patients in the community have a comorbid personality disorder. Hasin DS, Goodwin RD, Stinson FS et al. Epidemiology of major depressive disorder: Results From the National Epidemiologic Survey on Alcoholism and Related Conditions. Archives of General Psychiatry 2005; 62: 1097–1106."
   },
   {
@@ -188,8 +188,8 @@
       "D": "Bradford Hill",
       "E": "Gauss"
     },
-    "correct_answer": "A",
-    "explanation": "This is called capture–recapture technique. It is useful in estimating the size of a population that cannot be directly estimated as only a fraction is observable when using sampling techniques. Initially, a random sample from the population of interest is drawn (e.g. mentally ill homeless population). After registering these patients they are allowed to mix with the population (using a registration tag, they can be identified again). When complete mixture with the total population has occurred, a second random sample is drawn. From the prevalence of the registered patients in the second sample, the size of the total population may be calculated. This technique is being used in animal research to provide estimates of census of animals. Burger H and Neeleman J. A glossary on psychiatric epidemiology. Journal of Epidemiology and Community Health 2007; 61: 185–189."
+    "correct_answer": "B",
+    "explanation": "The term comorbidity refers to the existence of two different diagnoses at the same time in an individual. In psychiatric epidemiology, comorbidity is a rule rather than exception. This high degree of comorbidity is partly due to the overlapping nature of diagnostic entities in psychiatry. Comorbidity in epidemiological research throws light onto possible aetiological underpinnings and meaningful outcome variables. Feinstein coined the term comorbidity. The various types of comorbidity are:"
   },
   {
     "question": "Which of the following is the best estimate of the incidence of schizophrenia if a rigorous systematic review of various epidemiological studies to date is carried out?",
@@ -201,7 +201,7 @@
       "E": "5 per 100 000"
     },
     "correct_answer": "B",
-    "explanation": "The term comorbidity refers to the existence of two different diagnoses at the same time in an individual. In psychiatric epidemiology, comorbidity is a rule rather than exception. This high degree of comorbidity is partly due to the overlapping nature of diagnostic entities in psychiatry. Comorbidity in epidemiological research throws light onto possible aetiological underpinnings and meaningful outcome variables. Feinstein coined the term comorbidity. The various types of comorbidity are:"
+    "explanation": "The rigorous, systematic review mentioned in the question was carried out by McGrath and colleagues. Prior to this, in 1986, the WHO published results from the International Pilot Study on Schizophrenia from seven countries; incidence of ICD 9 schizophrenia was estimated to be around 16 to 42 per 100 000 in a year. When schizophrenia was narrowly defined, this rate dropped to 7 to 14 per 100 000. McGrath et al. showed a fivefold difference in the incidence rates of schizophrenia across various sites in their systematic review and meta-analysis of various epidemiological studies on schizophrenia. According to this work, it is concluded that the median global incidence rate of schizophrenia is 15 per 100 000; but this global rate is not as meaningful as site-specific rates due to the degree of variation demonstrated. This view is endorsed by the AESOP study, which showed significant variation in incidence of schizophrenia among three major cities in England. McGrath J, Saha S, Welham J et al. A systematic review of the incidence of schizophrenia: the distribution of rates and the influence of sex, urbanicity, migrant status and methodology. BMC Medicine 2004; 2: 13."
   },
   {
     "question": "The male to female risk ratio for developing schizophrenia is calculated to be which of the following values?",
@@ -213,7 +213,7 @@
       "E": "4 : 1"
     },
     "correct_answer": "A",
-    "explanation": "The rigorous, systematic review mentioned in the question was carried out by McGrath and colleagues. Prior to this, in 1986, the WHO published results from the International Pilot Study on Schizophrenia from seven countries; incidence of ICD 9 schizophrenia was estimated to be around 16 to 42 per 100 000 in a year. When schizophrenia was narrowly defi ned, this rate dropped to 7 to 14 per 100 000. McGrath et al. showed a fi vefold difference in the incidence rates of schizophrenia across various sites in their systematic review and meta-analysis of various epidemiological studies on schizophrenia. According to this work, it is concluded that the median global incidence rate of schizophrenia is 15 per 100 000; but this global rate is not as meaningful as site-specifi c rates due to the degree of variation demonstrated. This view is endorsed by the AESOP study, which showed signifi cant variation in incidence of schizophrenia among three major cities in England. McGrath J, Saha S, Welham J et al. A systematic review of the incidence of schizophrenia: the distribution of rates and the infl uence of sex, urbanicity, migrant status and methodology. BMC Medicine 2004; 2: 13. Kirkbride JB, Fearon P, Morgan C et al. Heterogeneity in incidence rates of schizophrenia and other psychotic syndromes: fi ndings from the 3-center AESOP study. Archives of General Psychiatry 2006; 63: 250–258."
+    "explanation": "The rigorous, systematic review mentioned in the question was carried out by McGrath and colleagues. Prior to this, in 1986, the WHO published results from the International Pilot Study on Schizophrenia from seven countries; incidence of ICD 9 schizophrenia was estimated to be around 16 to 42 per 100 000 in a year. When schizophrenia was narrowly defined, this rate dropped to 7 to 14 per 100 000. McGrath et al. showed a fivefold difference in the incidence rates of schizophrenia across various sites in their systematic review and meta-analysis of various epidemiological studies on schizophrenia. According to this work, it is concluded that the median global incidence rate of schizophrenia is 15 per 100 000; but this global rate is not as meaningful as site-specific rates due to the degree of variation demonstrated. This view is endorsed by the AESOP study, which showed significant variation in incidence of schizophrenia among three major cities in England. McGrath J, Saha S, Welham J et al. A systematic review of the incidence of schizophrenia: the distribution of rates and the influence of sex, urbanicity, migrant status and methodology. BMC Medicine 2004; 2: 13."
   },
   {
     "question": "The risk ratio for developing schizophrenia in migrants compared to a native population is",
@@ -237,19 +237,19 @@
       "E": "Cumulative incidence"
     },
     "correct_answer": "C",
-    "explanation": "Being born in an urban area increases the risk of schizophrenia twofold compared to individuals born in a rural area. Living in a city is also noted to increase incidence of schizophrenia. The incidence of schizophrenia is three to fi ve times more common in migrants than a native population (median 4.6); this difference reduces to 1.8 when considering prevalence rates. Fluctuations in schizophrenia incidence have been reported over many decades. This may be related to changing structure of the population. Irrespective of broad or narrow defi nitions, the incidence of schizophrenia has defi nitely increased in certain urban areas over the last 40 years. McGrath J, Saha S, Welham J, et al. A systematic review of the incidence of schizophrenia: the distribution of rates and the infl uence of sex, urbanicity, migrant status and methodology. BMC Medicine 2004; 2: 13."
+    "explanation": "Being born in an urban area increases the risk of schizophrenia twofold compared to individuals born in a rural area. Living in a city is also noted to increase incidence of schizophrenia. The incidence of schizophrenia is three to five times more common in migrants than a native population (median 4.6); this difference reduces to 1.8 when considering prevalence rates. Fluctuations in schizophrenia incidence have been reported over many decades. This may be related to changing structure of the population. Irrespective of broad or narrow definitions, the incidence of schizophrenia has definitely increased in certain urban areas over the last 40 years. McGrath J, Saha S, Welham J, et al. A systematic review of the incidence of schizophrenia: the distribution of rates and the influence of sex, urbanicity, migrant status and methodology. BMC Medicine 2004; 2: 13."
   },
   {
-    "question": "Which of the following could be estimated using the summation of age-specifi c incidence rate of schizophrenia throughout the average life expectancy of a population?",
+    "question": "Which of the following could be estimated using the summation of age-specific incidence rate of schizophrenia throughout the average life expectancy of a population?",
     "options": {
-      "A": "Age-specifi c prevalence rate of schizophrenia",
+      "A": "Age-specific prevalence rate of schizophrenia",
       "B": "Lifetime morbid risk of schizophrenia",
       "C": "Lifetime prevalence of schizophrenia",
       "D": "Cumulative incidence of schizophrenia",
       "E": "Period prevalence estimate of schizophrenia"
     },
     "correct_answer": "B",
-    "explanation": "Lifetime prevalence needs to be distinguished from lifetime morbid risk (LMR). LMR is the probability of a person developing the disorder during entire period of their life (often a specifi ed period, defi ned by the life expectancy of the population studied). LMR includes the entire lifetime of a birth cohort, both past and future, and includes those deceased at the time of the survey. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141.70 EPIDEMIOLOGY | ANSWERS"
+    "explanation": "Lifetime prevalence needs to be distinguished from lifetime morbid risk (LMR). LMR is the probability of a person developing the disorder during entire period of their life (often a specified period, defined by the life expectancy of the population studied). LMR includes the entire lifetime of a birth cohort, both past and future, and includes those deceased at the time of the survey. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
   },
   {
     "question": "The male: female ratio for prevalence of schizophrenia is estimated to be",
@@ -261,7 +261,7 @@
       "E": "2 : 3"
     },
     "correct_answer": "B",
-    "explanation": "For low-incidence disorders such as schizophrenia, summation of age-specifi c incidence rates gives approximate lifetime morbid risk values. The lifetime morbid risk for schizophrenia is 7.2/1000. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
+    "explanation": "For low-incidence disorders such as schizophrenia, summation of age-specific incidence rates gives approximate lifetime morbid risk values. The lifetime morbid risk for schizophrenia is 7.2/1000. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
   },
   {
     "question": "The lifetime morbidity ratio associated with schizophrenia is estimated to be",
@@ -273,7 +273,7 @@
       "E": "5 per 100 000"
     },
     "correct_answer": "A",
-    "explanation": "The median prevalence of schizophrenia was 4.6/1000 for point prevalence, 3.3/1000 for period prevalence, and 4.0/1000 for lifetime prevalence. There were no signifi cant differences observed between males and females, or between urban, rural, and mixed sites with respect to the prevalence rates of schizophrenia. Migrants and homeless people had higher rates of schizophrenia and developing countries had lower prevalence rates. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
+    "explanation": "The median prevalence of schizophrenia was 4.6/1000 for point prevalence, 3.3/1000 for period prevalence, and 4.0/1000 for lifetime prevalence. There were no significant differences observed between males and females, or between urban, rural, and mixed sites with respect to the prevalence rates of schizophrenia. Migrants and homeless people had higher rates of schizophrenia and developing countries had lower prevalence rates. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
   },
   {
     "question": "The population attributable fraction for seasonal birth in the incidence of schizophrenia is estimated to be around",
@@ -297,7 +297,7 @@
       "E": "The disease is a fatal condition"
     },
     "correct_answer": "D",
-    "explanation": "Population attributable fraction refers to the proportion of a disease in the whole population that the group exposed to specifi c risk factors represents. It is calculated by fi nding out the difference between incidence rates in the total population and the exposed population, and expressing this difference as a proportion of the total population’s incidence rate. It is different from simple attributable risk, which expresses the difference in incidence rates between the exposed and non-exposed groups. Winter/ spring birth increases the risk of schizophrenia to a small extent (RR 1.11), but as the prevalence of birth itself is common in winter/ spring, 10.5% of all schizophrenia incidences can be attributed to the seasonal birth. The winter/ spring excess is positively associated with latitude. McGrath JJ. Variations in the incidence of schizophrenia: data versus dogma. Schizophrenia Bulletin 2006; 32: 195–197."
+    "explanation": "Population attributable fraction refers to the proportion of a disease in the whole population that the group exposed to specific risk factors represents. It is calculated by finding out the difference between incidence rates in the total population and the exposed population, and expressing this difference as a proportion of the total population’s incidence rate. It is different from simple attributable risk, which expresses the difference in incidence rates between the exposed and non-exposed groups. Winter/ spring birth increases the risk of schizophrenia to a small extent (RR 1.11), but as the prevalence of birth itself is common in winter/ spring, 10.5% of all schizophrenia incidences can be attributed to the seasonal birth. The winter/ spring excess is positively associated with latitude. McGrath JJ. Variations in the incidence of schizophrenia: data versus dogma. Schizophrenia Bulletin 2006; 32: 195–197."
   },
   {
     "question": "The frequency of adults reporting lifetime presence of mental health problems in Europe is estimated to be around",
@@ -309,31 +309,31 @@
       "E": "1 in 100"
     },
     "correct_answer": "D",
-    "explanation": "If the measurement methodologies differ between how a case is ascertained for incidence and prevalence, then such differences will be uniformly present across various sites. Recall bias will not infl uence incidences measured using case notes or case registers. On the other hand, lifetime prevalence rates are susceptible to recall bias. Respondent bias, if present, must again operate uniformly and should affect various areas consistently, provided the same methods are used. A fatal disease must reduce prevalence rates uniformly. The most likely explanation is that the factors predisposing or precipitating the onset are different from the factors that serve to maintain the illness chronicity. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
+    "explanation": "If the measurement methodologies differ between how a case is ascertained for incidence and prevalence, then such differences will be uniformly present across various sites. Recall bias will not influence incidences measured using case notes or case registers. On the other hand, lifetime prevalence rates are susceptible to recall bias. Respondent bias, if present, must again operate uniformly and should affect various areas consistently, provided the same methods are used. A fatal disease must reduce prevalence rates uniformly. The most likely explanation is that the factors predisposing or precipitating the onset are different from the factors that serve to maintain the illness chronicity. Saha S, Chant D, Welham J, and McGrath J. A systematic review of the prevalence of schizophrenia. PLoS Medicine 2005; 2: e141."
   },
   {
-    "question": "Considering pathways of care in mental health, which of the following is not a major fi lter for help seeking?",
+    "question": "Considering pathways of care in mental health, which of the following is not a major filter for help seeking?",
     "options": {
-      "A": "Self-recognition of emotional diffi culties",
+      "A": "Self-recognition of emotional difficulties",
       "B": "Diagnostic ability of a general practitioner",
       "C": "Acceptance rate at secondary care",
       "D": "Occupational health initiatives at a place of employment",
       "E": "In-patient admission facilities at local psychiatric services"
     },
     "correct_answer": "A",
-    "explanation": "ESEMeD was the fi rst major multicentre European psychiatric epidemiological study; it was not conducted in the UK. It used both Composite International Diagnostic Interview (CIDI) version"
+    "explanation": "ESEMeD was the first major multicentre European psychiatric epidemiological study; it was not conducted in the UK. It used both Composite International Diagnostic Interview (CIDI) version"
   },
   {
     "question": "In epidemiological surveys across life span, the term persistence refers to which of the following?",
     "options": {
       "A": "Number of patients with lifetime prevalence who have 12 months prevalence",
-      "B": "N umber of patients with 12 months prevalence who will develop chronic problems if followed up",
-      "C": "N umber of patients with lifetime prevalence who spent more than 1/3 of life with the disease",
-      "D": "N umber of patients with lifetime prevalence who spent more than 1/2 of life with the disease",
+      "B": "Number of patients with 12 months prevalence who will develop chronic problems if followed up",
+      "C": "Number of patients with lifetime prevalence who spent more than 1/3 of life with the disease",
+      "D": "Number of patients with lifetime prevalence who spent more than 1/2 of life with the disease",
       "E": "Number of patients with lifetime prevalence who are seeking health-care input"
     },
     "correct_answer": "D",
-    "explanation": "Also called the fi lter model, the ‘pathways of care’ model was developed by Goldberg and Huxley to account for how mental illness interacts with the health-care system. Five levels of mental illness occurrence were described: the community, the primary-care attendees, the correctly diagnosed primary-care attendees (in whom the mental illness has been recognized), the level of the psychiatrist, and that at the level of psychiatric in-patient care. Four fi lters explain the decreasing incidence when going from the general population to in-patient psychiatric care:"
+    "explanation": "Also called the filter model, the ‘pathways of care’ model was developed by Goldberg and Huxley to account for how mental illness interacts with the health-care system. Five levels of mental illness occurrence were described: the community, the primary-care attendees, the correctly diagnosed primary-care attendees (in whom the mental illness has been recognized), the level of the psychiatrist, and that at the level of psychiatric in-patient care. Four filters explain the decreasing incidence when going from the general population to in-patient psychiatric care:"
   },
   {
     "question": "Epidemiological catchment area study is one of the major surveys in psychiatric epidemiology. Which of the following instruments was used for clinical diagnosis in this survey?",
@@ -345,7 +345,7 @@
       "E": "Revised clinical interview schedule"
     },
     "correct_answer": "A",
-    "explanation": "Persistence is defi ned as the total number of patients with lifetime prevalence of a disorder who also satisfy a defi ned period prevalence, say 12 months, criteria at the time of survey. It is a measure of illness chronicity, response to treatment, and burden. Burger H and Neeleman J. A glossary on psychiatric epidemiology. Journal of Epidemiology and Community Health 2007; 61: 185–189."
+    "explanation": "Persistence is defined as the total number of patients with lifetime prevalence of a disorder who also satisfy a defined period prevalence, say 12 months, criteria at the time of survey. It is a measure of illness chronicity, response to treatment, and burden. Burger H and Neeleman J. A glossary on psychiatric epidemiology. Journal of Epidemiology and Community Health 2007; 61: 185–189."
   },
   {
     "question": "Which of the following could explain the differential outcome for schizophrenia between developing and developed nations?",
@@ -357,7 +357,7 @@
       "E": "None of the above"
     },
     "correct_answer": "B",
-    "explanation": "The Epidemiological Catchment Area study (ECA) was an investigation of the prevalence of psychiatric morbidity which was undertaken during 1976–80 in fi ve sites in the USA. More than 20 000 people were interviewed using the Diagnostic Interview Schedule (DIS). ECA is regarded as a milestone study in psychiatric epidemiology, after which a new generation of epidemiological enquiry concentrating on community samples fl ourished. However, ECA was criticized for its use of lifetime diagnoses, which may be unreliable due to recollection bias. DIS was the foremost layperson-usable diagnostic instrument designed for psychiatric diagnoses. Burger H and Neeleman J. A glossary on psychiatric epidemiology. Journal of Epidemiology and Community Health 2007; 61: 185–189."
+    "explanation": "The Epidemiological Catchment Area study (ECA) was an investigation of the prevalence of psychiatric morbidity which was undertaken during 1976–80 in five sites in the USA. More than 20,000 people were interviewed using the Diagnostic Interview Schedule (DIS). ECA is regarded as a milestone study in psychiatric epidemiology, after which a new generation of epidemiological enquiry concentrating on community samples flourished. However, ECA was criticized for its use of lifetime diagnoses, which may be unreliable due to recollection bias. DIS was the foremost layperson-usable diagnostic instrument designed for psychiatric diagnoses. Burger H and Neeleman J. A glossary on psychiatric epidemiology. Journal of Epidemiology and Community Health 2007; 61: 185–189."
   },
   {
     "question": "Which of the following was a WHO-sponsored survey of outcome in schizophrenia across different countries?",
@@ -369,7 +369,7 @@
       "E": "ECA study"
     },
     "correct_answer": "E",
-    "explanation": "The differential outcome of schizophrenia between developed and developing nations was fi rst highlighted through the results of the International Pilot Study on Schizophrenia conducted by the WHO (IPSS). IPSS assessed 1202 persons diagnosed with schizophrenia in nine countries. The results showed that persons with schizophrenia in the ‘developing’ world (e.g. Columbia, India, and Nigeria) had better outcomes than persons in ‘developed’ countries (e.g. Moscow, London, Washington, Prague, and Aarhus in Denmark). In total, 52% of persons in the developing countries were assessed to be in the ‘best’ outcome category (defi ned as a single episode only, followed by full or partial recovery) compared with 39% in the developed countries. There was a claim that acute onset of psychosis, being more common in the developing nations, confounded the IPSS results, but a subsequent, large-scale, multinational study sponsored by WHO, excluded mode of onset as being a confounding factor for the observed differences in outcome. Differential follow-up rates, differential outcome measures, differential sex and age distribution, and diagnostic ambiguities did not confound the above results, as proved later by Hopper and Wanderling. Hopper K and Wanderling J. Revisiting the developed versus developing country distinction in course and outcome in schizophrenia: results from ISoS, the WHO collaborative follow-up project. International Study of Schizophrenia. Schizophrenia Bulletin 2000; 26: 835–846.72 EPIDEMIOLOGY | ANSWERS"
+    "explanation": "The differential outcome of schizophrenia between developed and developing nations was first highlighted through the results of the International Pilot Study on Schizophrenia conducted by the WHO (IPSS). IPSS assessed 1202 persons diagnosed with schizophrenia in nine countries. The results showed that persons with schizophrenia in the ‘developing’ world (e.g. Columbia, India, and Nigeria) had better outcomes than persons in ‘developed’ countries (e.g. Moscow, London, Washington, Prague, and Aarhus in Denmark). In total, 52% of persons in the developing countries were assessed to be in the ‘best’ outcome category (defined as a single episode only, followed by full or partial recovery) compared with 39% in the developed countries. There was a claim that acute onset of psychosis, being more common in the developing nations, confounded the IPSS results, but a subsequent, large-scale, multinational study sponsored by WHO, excluded mode of onset as being a confounding factor for the observed differences in outcome. Differential follow-up rates, differential outcome measures, differential sex and age distribution, and diagnostic ambiguities did not confound the above results, as proved later by Hopper and Wanderling. Hopper K and Wanderling J. Revisiting the developed versus developing country distinction in course and outcome in schizophrenia: results from ISoS, the WHO collaborative follow-up project. International Study of Schizophrenia. Schizophrenia Bulletin 2000; 26: 835–846.72 EPIDEMIOLOGY | ANSWERS"
   },
   {
     "question": "According to results from the World Mental Health Survey Initiative, which of the following is true?",
@@ -381,7 +381,7 @@
       "E": "Most patients who receive treatment have severe illness."
     },
     "correct_answer": "B",
-    "explanation": "Determinants of Outcome of Severe Mental Disorder and the reduction of disability study (DOSMeD) was conducted by WHO primarily to explore the nature of the differential outcome between developed and developing nations shown by the International Pilot Study of Schizophrenia (IPSS). DOSMeD used more rigorous criteria and followed more than 1300 patients in 10 countries and, similar to the IPSS, discovered that the highest rates of recovery occurred in the developing world. The Netherlands Mental Health Survey and Incidence Study (NEMESIS study) was not a multinational study. DEPRES stands for Depression Research in European Society study. DEPRES was the fi rst pan-European, six-country, multinational study on the prevalence of depression in the general population. Lepine JP, Gastpar M, Mendlewicz J, and Tylee A. Depression in the community: the fi rst pan-European study DEPRES (Depression Research in European Society). International Clinical Psychopharmacology 1997; 12: 19–29. Edgerton RB and Cohen A. Culture and schizophrenia: the DOSMD challenge. British Journal of Psychiatry 1994; 164: 222–231."
+    "explanation": "Determinants of Outcome of Severe Mental Disorder and the reduction of disability study (DOSMeD) was conducted by WHO primarily to explore the nature of the differential outcome between developed and developing nations shown by the International Pilot Study of Schizophrenia (IPSS). DOSMeD used more rigorous criteria and followed more than 1300 patients in 10 countries and, similar to the IPSS, discovered that the highest rates of recovery occurred in the developing world. The Netherlands Mental Health Survey and Incidence Study (NEMESIS study) was not a multinational study. DEPRES stands for Depression Research in European Society study. DEPRES was the first pan-European, six-country, multinational study on the prevalence of depression in the general population. Lepine JP, Gastpar M, Mendlewicz J, and Tylee A. Depression in the community: the first pan-European study DEPRES (Depression Research in European Society). International Clinical Psychopharmacology 1997; 12: 19–29. Edgerton RB and Cohen A. Culture and schizophrenia: the DOSMD challenge. British Journal of Psychiatry 1994; 164: 222–231."
   },
   {
     "question": "In Europe, the age group with highest prevalence of mental health problems is",
@@ -393,7 +393,7 @@
       "E": "35 to 50"
     },
     "correct_answer": "A",
-    "explanation": "TheWMH Survey Consortium was formed in 1998 and 28 countries were included in a large, ambitious population survey across countries at different economical stages of development. The method employed was a multistage household probability survey. Important fi ndings from the WMH survey initiative were:"
+    "explanation": "The WMH Survey Consortium was formed in 1998 and 28 countries were included in a large, ambitious population survey across countries at different economical stages of development. The method employed was a multistage household probability survey. Important findings from the WMH survey initiative were:"
   },
   {
     "question": "In any given year, the proportion of Europeans who receive antidepressants for their depression is estimated to be around",
@@ -405,7 +405,7 @@
       "E": "90%"
     },
     "correct_answer": "C",
-    "explanation": "ESEMeD is the fi rst major, multicentre, European psychiatric epidemiological study. ESEMeD is a part of World Mental health survey initiative of the WHO. Six European countries (not including the UK) were surveyed and a 60% response rate was achieved. The results showed that the highest rate of mental disorder was in the age group 18–24. Notably, while surveys such as NCS and NEMESIS excluded elderly populations, ESEMeD had nearly one in two respondents over 65 years of age. ESEMeD ⁄MHEDEA 2000 Investigators. Prevalence of mental disorders in Europe: results from the European Study of the Epidemiology of Mental Disorders (ESEMeD) project. Acta Psychiatrica Scandinavia 2004; 109 (Suppl. 420): 21–27.EPIDEMIOLOGY | ANSWERS 73"
+    "explanation": "ESEMeD is the first major, multi-center, European psychiatric epidemiological study. ESEMeD is a part of World Mental health survey initiative of the WHO. Six European countries (not including the UK) were surveyed and a 60% response rate was achieved. The results showed that the highest rate of mental disorder was in the age group 18–24. Notably, while surveys such as NCS and NEMESIS excluded elderly populations, ESEMeD had nearly one in two respondents over 65 years of age. ESEMeD ⁄MHEDEA 2000 Investigators. Prevalence of mental disorders in Europe: results from the European Study of the Epidemiology of Mental Disorders (ESEMeD) project. Acta Psychiatrica Scandinavia 2004; 109 (Suppl. 420): 21–27.EPIDEMIOLOGY | ANSWERS 73"
   },
   {
     "question": "Among people who experience panic attacks, which of the following is the most common presentation?",
@@ -417,10 +417,10 @@
       "E": "Physical disorder causing panic attacks"
     },
     "correct_answer": "A",
-    "explanation": "According to the ESEMeD survey, only 37% of Europeans with mood disorders and 21% with anxiety disorders sought help from health-care services. Only 21% of depressed patients received antidepressants in a year. One-third of identifi ed cases had consulted their general practitioner in the preceding 12 months. Nearly one-third of those who sought help had never seen a mental health professional. Nearly 21% remained untreated in spite of seeking help. Comorbidity signifi cantly infl uenced disability and functional impairment. ESEMeD ⁄MHEDEA 2000 Investigators. Prevalence of mental disorders in Europe: results from the European Study of the Epidemiology of Mental Disorders (ESEMeD) project. Acta Psychiatrica Scandinavia 2004; 109 (Suppl. 420): 21–27."
+    "explanation": "According to the ESEMeD survey, only 37% of Europeans with mood disorders and 21% with anxiety disorders sought help from health-care services. Only 21% of depressed patients received antidepressants in a year. One-third of identified cases had consulted their general practitioner in the preceding 12 months. Nearly one-third of those who sought help had never seen a mental health professional. Nearly 21% remained untreated in spite of seeking help. Comorbidity significantly influenced disability and functional impairment. ESEMeD ⁄MHEDEA 2000 Investigators. Prevalence of mental disorders in Europe: results from the European Study of the Epidemiology of Mental Disorders (ESEMeD) project. Acta Psychiatrica Scandinavia 2004; 109 (Suppl. 420): 21–27."
   },
   {
-    "question": "The proportion of Europeans with mental health diffi culties who have sought help from a psychiatrist within the last 1 year is estimated to be around",
+    "question": "The proportion of Europeans with mental health difficulties who have sought help from a psychiatrist within the last 1 year is estimated to be around",
     "options": {
       "A": "20%",
       "B": "40%",
@@ -429,7 +429,7 @@
       "E": "90%"
     },
     "correct_answer": "B",
-    "explanation": "Panic can exist in different forms. Major classifi cation systems recognize panic disorder, agoraphobia, and comorbid panic disorder with agoraphobia. DSM considers panic disorder as a primary dysfunction while ICD focuses on agoraphobia. To diagnose panic disorder there must be frequent panic attacks within a specifi ed time interval. It is increasingly realized that panic attacks can occur without fully satisfying panic disorder criteria. The National Comorbidity Survey Replication (NCS-R) collected data on four composite groups: isolated panic attacks, panic attacks with agoraphobia, panic disorder, and panic disorder with agoraphobia. Lifetime prevalence of panic attacks was only 28% compared to 4.7% who had a diagnosis of lifetime panic disorder only. Panic with agoraphobia had around 1% lifetime prevalence. Kessler RC, Chiu WT, Jin R et al. The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. Archives of General Psychiatry 2006; 63: 415–424."
+    "explanation": "Panic can exist in different forms. Major classification systems recognize panic disorder, agoraphobia, and comorbid panic disorder with agoraphobia. DSM considers panic disorder as a primary dysfunction while ICD focuses on agoraphobia. To diagnose panic disorder there must be frequent panic attacks within a specified time interval. It is increasingly realized that panic attacks can occur without fully satisfying panic disorder criteria. The National Comorbidity Survey Replication (NCS-R) collected data on four composite groups: isolated panic attacks, panic attacks with agoraphobia, panic disorder, and panic disorder with agoraphobia. Lifetime prevalence of panic attacks was only 28% compared to 4.7% who had a diagnosis of lifetime panic disorder only. Panic with agoraphobia had around 1% lifetime prevalence. Kessler RC, Chiu WT, Jin R et al. The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. Archives of General Psychiatry 2006; 63: 415–424."
   },
   {
     "question": "The mean age of onset of panic disorder or agoraphobia is estimated to be around",
@@ -441,7 +441,7 @@
       "E": "11 years"
     },
     "correct_answer": "A",
-    "explanation": "ESEMeD revealed the degree of unmet health-care needs in Europe. A signifi cant number of those with depression do not seek treatment. Of those depressed patients who seek help, most receive care from primary-care physicians. Only 21% of those who seek health-care support have seen a psychiatrist in the last 12 months. Alonso J, Kovess V, Angermeyer MC et al. Population level of unmet need for mental healthcare in Europe. British Journal of Psychiatry 2007; 190: 299–306."
+    "explanation": "ESEMeD revealed the degree of unmet health-care needs in Europe. A significant number of those with depression do not seek treatment. Of those depressed patients who seek help, most receive care from primary-care physicians. Only 21% of those who seek health-care support have seen a psychiatrist in the last 12 months. Alonso J, Kovess V, Angermeyer MC et al. Population level of unmet need for mental healthcare in Europe. British Journal of Psychiatry 2007; 190: 299–306."
   },
   {
     "question": "Women outnumber men in prevalence of most anxiety disorders. Which of the following anxiety disorders is noted more commonly in men than women attending health-care services?",
@@ -450,13 +450,13 @@
       "B": "Panic disorder",
       "C": "Agoraphobia",
       "D": "Social phobia",
-      "E": "Specifi c phobia"
+      "E": "Specific phobia"
     },
     "correct_answer": "A",
     "explanation": "According to the National Comorbidity Survey Replication, mean age of onset of any panic attack irrespective of diagnosis is around 22 years. Kessler RC, Chiu WT, Jin R et al. The epidemiology of panic attacks, panic disorder, and agoraphobia in the National Comorbidity Survey Replication. Archives of General Psychiatry 2006; 63: 415–424."
   },
   {
-    "question": "Which of the following types of specifi c phobia often starts before the age of 10?",
+    "question": "Which of the following types of specific phobia often starts before the age of 10?",
     "options": {
       "A": "Blood injury phobia",
       "B": "Space phobia",
@@ -477,13 +477,13 @@
       "E": "Making the responses unstructured but descriptive"
     },
     "correct_answer": "A",
-    "explanation": "The estimated lifetime prevalence of blood–injection–injury phobia is around 3.5%. The median age of onset is around 5 to 6 years. Subjects with blood–injection–injury phobia have higher lifetime histories of fainting and seizures. Prevalence was lower in the elderly and higher in females and persons with less education. Patients with this phobia almost never seek psychiatric help, but they have signifi cantly higher than expected lifetime prevalence of other psychiatric conditions, including substance use, depression, anxiety disorders, and OCD. Bienvenu OJ and Eaton WW. The epidemiology of blood-injury-injection phobia. Psychological Medicine 1998; 28: 1129–1136."
+    "explanation": "The estimated lifetime prevalence of blood–injection–injury phobia is around 3.5%. The median age of onset is around 5 to 6 years. Subjects with blood–injection–injury phobia have higher lifetime histories of fainting and seizures. Prevalence was lower in the elderly and higher in females and persons with less education. Patients with this phobia almost never seek psychiatric help, but they have significantly higher than expected lifetime prevalence of other psychiatric conditions, including substance use, depression, anxiety disorders, and OCD. Bienvenu OJ and Eaton WW. The epidemiology of blood-injury-injection phobia. Psychological Medicine 1998; 28: 1129–1136."
   },
   {
-    "question": "In the Stirling County Study of the prevalence of depression and anxiety, the questions used to diagnose depression in 1952 were modifi ed in 1992. Which of the following best explains why this was done?",
+    "question": "In the Stirling County Study of the prevalence of depression and anxiety, the questions used to diagnose depression in 1952 were modified in 1992. Which of the following best explains why this was done?",
     "options": {
       "A": "The concept of depression changed in 40 years.",
-      "B": "Diagnostic schemes changed in 40 years, necessitating modifi cation of questions.",
+      "B": "Diagnostic schemes changed in 40 years, necessitating modification of questions.",
       "C": "Vernacular terms used in describing depression changed over 40 years.",
       "D": "Availability of treatment differed between 1952 and 1992.",
       "E": "Severity of depression changed in 40 years."
@@ -501,7 +501,7 @@
       "E": "National Comorbidity Survey Replication, 2002"
     },
     "correct_answer": "C",
-    "explanation": "The Stirling County Study is one of the foremost psychiatric epidemiological studies. It was conducted on cross-sectional samples of the population living in Stirling County, Canada, in 1952, 1970, and 1992. The epidemiological data was revisited in 2000 and it showed that vernacular changes in semantic use of terms such as dysphoria could affect results of epidemiological surveys. Using the same diagnostic system (called DPAX-1) in 1952 and 1970, no increases in point prevalence of depression were noted, but when the same criteria were employed in 1992 a drop in prevalence was noted. This was due to a change in use of the term dysphoria in the studied population; this term went out of use by 1992, leading to a drop in the sensitivity of the diagnostic instrument DPAX-1. By increasing the number of questions exploring the mood state and changing the diagnostic system (to DPAX-2), similar prevalence rates were detected in 1992. Note that though the diagnostic categories changed between 1952 and 1992 this did not have a direct infl uence on the Stirling County Survey, which used a purpose-built instrument to measure the prevalence. Murphy JM, Laird NM, Monson RR et al. A 40-year perspective on the prevalence of depression: the Stirling County Study. Archives of General Psychiatry 2000; 57: 209–215.EPIDEMIOLOGY | ANSWERS 75"
+    "explanation": "The Stirling County Study is one of the foremost psychiatric epidemiological studies. It was conducted on cross-sectional samples of the population living in Stirling County, Canada, in 1952, 1970, and 1992. The epidemiological data was revisited in 2000 and it showed that vernacular changes in semantic use of terms such as dysphoria could affect results of epidemiological surveys. Using the same diagnostic system (called DPAX-1) in 1952 and 1970, no increases in point prevalence of depression were noted, but when the same criteria were employed in 1992 a drop in prevalence was noted. This was due to a change in use of the term dysphoria in the studied population; this term went out of use by 1992, leading to a drop in the sensitivity of the diagnostic instrument DPAX-1. By increasing the number of questions exploring the mood state and changing the diagnostic system (to DPAX-2), similar prevalence rates were detected in 1992. Note that though the diagnostic categories changed between 1952 and 1992 this did not have a direct influence on the Stirling County Survey, which used a purpose-built instrument to measure the prevalence. Murphy JM, Laird NM, Monson RR et al. A 40-year perspective on the prevalence of depression: the Stirling County Study. Archives of General Psychiatry 2000; 57: 209–215.EPIDEMIOLOGY | ANSWERS 75"
   },
   {
     "question": "The prevalence of hallucinatory experiences in healthy British respondents from community samples is estimated to be around",
@@ -513,7 +513,7 @@
       "E": "0.2%"
     },
     "correct_answer": "C",
-    "explanation": "Various studies, including NCS and its replication NCS-R, NESARC (National epidemiological Survey on Alcohol and Related Conditions) and ECA (Epidemiological Catchment Area Study), have implicated that lifetime prevalence of depression is changing. The Stirling County Study did not reveal such a signifi cant change in rates of depression. This apparent change in prevalence could be attributed to the use of different diagnostic instruments. DIS (Diagnostic Interview Schedule), used in the ECA, and its modifi ed improvised versions used in other studies relied on recall of lifetime prevalence. Signifi cant recall bias is expected for a progressively older cohort who will deny or could not recall their depressive episodes. This might have resulted in a spurious effect. NCS used DSM IIIR (10.1% depression 12-month period prevalence) while its replication used DSM IV (8.7% depression prevalence), with its clinical impairment and distress criteria making it possible that less patients will be diagnosed with DSM IV. In fact, it was later shown that if DSM IV criteria were reapplied then prevalence of depression drops from 10.1% to 6.4% in the NCS 1994. In addition, NCS excluded all those above age 54 but included a 15 to 17 age group (in contrast to NCS-R), inadvertently choosing the most prevalent population that might have infl ated the prevalence value. These fl aws were absent in NESARC, which showed nearly doubled point prevalence estimate of depression from 3.3 to 7% from 1992 to 2002. Hasin DS, Goodwin RD, Stinson FS et al. Epidemiology of major depressive disorder: Results From the National Epidemiologic Survey on Alcoholism and Related Conditions. Archives of General Psychiatry 2005; 62: 1097–1106."
+    "explanation": "Various studies, including NCS and its replication NCS-R, NESARC (National epidemiological Survey on Alcohol and Related Conditions) and ECA (Epidemiological Catchment Area Study), have implicated that lifetime prevalence of depression is changing. The Stirling County Study did not reveal such a significant change in rates of depression. This apparent change in prevalence could be attributed to the use of different diagnostic instruments. DIS (Diagnostic Interview Schedule), used in the ECA, and its modified improvised versions used in other studies relied on recall of lifetime prevalence. Significant recall bias is expected for a progressively older cohort who will deny or could not recall their depressive episodes. This might have resulted in a spurious effect. NCS used DSM IIIR (10.1% depression 12-month period prevalence) while its replication used DSM IV (8.7% depression prevalence), with its clinical impairment and distress criteria making it possible that less patients will be diagnosed with DSM IV. In fact, it was later shown that if DSM IV criteria were reapplied then prevalence of depression drops from 10.1% to 6.4% in the NCS 1994. In addition, NCS excluded all those above age 54 but included a 15 to 17 age group (in contrast to NCS-R), inadvertently choosing the most prevalent population that might have inflated the prevalence value. These flaws were absent in NESARC, which showed nearly doubled point prevalence estimate of depression from 3.3 to 7% from 1992 to 2002. Hasin DS, Goodwin RD, Stinson FS et al. Epidemiology of major depressive disorder: Results From the National Epidemiologic Survey on Alcoholism and Related Conditions. Archives of General Psychiatry 2005; 62: 1097–1106."
   },
   {
     "question": "A sample of healthy British community respondents was surveyed for self-reported psychiatric symptoms. Most respondents would rate themselves to have had which of the following symptoms?",
@@ -525,10 +525,10 @@
       "E": "Strange experiences"
     },
     "correct_answer": "A",
-    "explanation": "A nationally representative sample of nearly 8500 adults aged 16–74 years living in private households in Great Britain were interviewed by lay interviewers and were classifi ed according to their score on the Clinical Interview Schedule–Revised (Psychiatric morbidity survey, Offi ce of National Statistics). The Psychosis Screening questionnaire was used to collect self- reported symptoms of psychosis. In the sample, 4.2% said that there had been times when they heard or saw things that other people could not, but only 0.7% reported hearing voices saying quite a few words or sentences when there was no-one around that might account for it. Johns LC, Singleton N, Murray RM et al. Prevalence and correlates of self-reported psychotic symptoms in the British population. British Journal of Psychiatry 2004; 185: 298–305."
+    "explanation": "A nationally representative sample of nearly 8500 adults aged 16–74 years living in private households in Great Britain were interviewed by lay interviewers and were classified according to their score on the Clinical Interview Schedule–Revised (Psychiatric morbidity survey, Office of National Statistics). The Psychosis Screening questionnaire was used to collect self-reported symptoms of psychosis. In the sample, 4.2% said that there had been times when they heard or saw things that other people could not, but only 0.7% reported hearing voices saying quite a few words or sentences when there was no-one around that might account for it. Johns LC, Singleton N, Murray RM et al. Prevalence and correlates of self-reported psychotic symptoms in the British population. British Journal of Psychiatry 2004; 185: 298–305."
   },
   {
-    "question": "In epidemiological surveys of preschool children, which of the following factors observed around age 3 of a child predicts behavioural diffi culties by age 8?",
+    "question": "In epidemiological surveys of preschool children, which of the following factors observed around age 3 of a child predicts behavioural difficulties by age 8?",
     "options": {
       "A": "Mother being a house-wife",
       "B": "More than two children in the household",
@@ -537,7 +537,7 @@
       "E": "Physical health problems at age 3"
     },
     "correct_answer": "B",
-    "explanation": "In the Offi ce of National Statistics–Psychiatric Morbidity Survey in the UK, a self- reported instrument, called the Psychosis Screening Questionnaire, was used to detect self- reported psychotic symptoms. The questionnaire measured symptoms in fi ve domains, namely, hallucinations, hypomania, strange experiences, paranoia, and thought insertion. Nearly half of the respondents thought that they experienced at least one hypomanic symptom when questioned, but, when explored further, more than half of the respondents had valid reasons for feeling very happy for many days without a break. Only 0.6% reported their friends or relatives commenting on such a prolonged ‘happy’ state. Johns LC, Singleton N, Murray RM et al. Prevalence and correlates of self-reported psychotic symptoms in the British population. British Journal of Psychiatry 2004; 185: 298–305.76 EPIDEMIOLOGY | ANSWERS"
+    "explanation": "In the Office of National Statistics–Psychiatric Morbidity Survey in the UK, a self-reported instrument, called the Psychosis Screening Questionnaire, was used to detect self-reported psychotic symptoms. The questionnaire measured symptoms in five domains, namely, hallucinations, hypomania, strange experiences, paranoia, and thought insertion. Nearly half of the respondents thought that they experienced at least one hypomanic symptom when questioned, but, when explored further, more than half of the respondents had valid reasons for feeling very happy for many days without a break. Only 0.6% reported their friends or relatives commenting on such a prolonged ‘happy’ state. Johns LC, Singleton N, Murray RM et al. Prevalence and correlates of self-reported psychotic symptoms in the British population. British Journal of Psychiatry 2004; 185: 298–305.76 EPIDEMIOLOGY | ANSWERS"
   },
   {
     "question": "Mental health and problem behaviours in a community sample of 10- to 11-year-old children were recorded in the Isle of Wight study in 1960. The prevalence of diagnosable psychiatric disorders in this study was approximately",
@@ -549,31 +549,31 @@
       "E": "30%"
     },
     "correct_answer": "C",
-    "explanation": "Surveys of preschool children have recorded a high prevalence of problem behaviours. The most commonly reported problem is that of bedwetting, seen in around 37% of a sample. Boys and girls show equal prevalence of these problems while those with expressive language disorders show more behavioural diffi culties. Maternal depression and family discord at 3 years strongly predict behavioural disorder by the age of 8. Richman N, Stevenson J, and Graham P. Prevalence of behaviour problems in 3 year old children: An epidemiological study in a London borough. Journal of Child Psychology and Psychiatry 1975; 16: 277–287."
+    "explanation": "Surveys of preschool children have recorded a high prevalence of problem behaviours. The most commonly reported problem is that of bedwetting, seen in around 37% of a sample. Boys and girls show equal prevalence of these problems while those with expressive language disorders show more behavioural difficulties. Maternal depression and family discord at 3 years strongly predict behavioural disorder by the age of 8. Richman N, Stevenson J, and Graham P. Prevalence of behaviour problems in 3 year old children: An epidemiological study in a London borough. Journal of Child Psychology and Psychiatry 1975; 16: 277–287."
   },
   {
     "question": "Which of the following statements regarding epidemiological surveys in child and adolescent mental health is true?",
     "options": {
       "A": "Psychiatric disorders decrease with increase in age.",
       "B": "Adolescents have more burden of psychiatric diseases than younger children.",
-      "C": "T he marital relationship of parents infl uences the severity but not prevalence of psychiatric diagnoses.",
-      "D": "P arents and teachers have a high degree of agreement as to which child is having mental health problems.",
+      "C": "The marital relationship of parents influences the severity but not prevalence of psychiatric diagnoses.",
+      "D": "Parents and teachers have a high degree of agreement as to which child is having mental health problems.",
       "E": "Most children diagnosed in community surveys were known to mental health services."
     },
     "correct_answer": "A",
-    "explanation": "The Isle of Wight Study was one of the earliest epidemiological studies on children, carried out by Rutter et al. in 1960. In this study, all 10- to 11-year-old children in the Isle of Wight were surveyed using both parent and teacher questionnaires separately. A 5.7% prevalence of diagnosable psychiatric disorders was identifi ed. Boys had more problems than girls in the ratio 2: 1. But only 10% of these children were known to psychiatric services at the time of this study. Rutter M, Tizand J, Yule W et al. Research report: Isle of Wight Studies, 1964–1974. Psychological Medicine 1976; 6: 313–332."
+    "explanation": "The Isle of Wight Study was one of the earliest epidemiological studies on children, carried out by Rutter et al. in 1960. In this study, all 10- to 11-year-old children in the Isle of Wight were surveyed using both parent and teacher questionnaires separately. A 5.7% prevalence of diagnosable psychiatric disorders was identified. Boys had more problems than girls in the ratio 2: 1. But only 10% of these children were known to psychiatric services at the time of this study. Rutter M, Tizand J, Yule W et al. Research report: Isle of Wight Studies, 1964–1974. Psychological Medicine 1976; 6: 313–332."
   },
   {
     "question": "Questionnaires used in epidemiological surveys can be administered either by clinicians or trained non-clinicians. Which of the following is true about these instruments?",
     "options": {
-      "A": "T he rate of psychiatric diagnoses is more when using clinician administered instruments.",
+      "A": "The rate of psychiatric diagnoses is more when using clinician administered instruments.",
       "B": "The rate of psychiatric diagnoses is the same irrespective of the type of instrument.",
-      "C": "H igh level of agreement exists between SCAN (clinician administered) and CIS-R (layperson administered).",
+      "C": "High level of agreement exists between SCAN (clinician administered) and CIS-R (layperson administered).",
       "D": "Clinician administered instruments are superior for screening purposes.",
-      "E": "O ften a structured lay interview is followed by clinical diagnostic assessment for case ascertainment.EPIDEMIOLOGY | QUESTIONS 59"
+      "E": "Often a structured lay interview is followed by clinical diagnostic assessment for case ascertainment."
     },
     "correct_answer": "B",
-    "explanation": "It is observed that adolescents have more psychiatric diffi culties than younger children. The Isle of Wight Study was repeated when the cohort was around 14–15 years of age and the prevalence of psychiatric disorders was found to have increased from 5.7% to 8%. Marital disharmony predicted development of psychiatric problems by adolescence. A similar study carried out using a cohort followed up at Dunedin, New Zealand, revealed similar results. Graham P and Rutter M. Psychiatric disorder in the young adolescent. Proceedings of the Royal Society of Medicine 1973; 66: 1226–1229. McGee R, Feehan M, Williams S et al. DSM-III disorders in a large sample of adolescents. Journal of the American Academy of Child and Adolescent Psychiatry 1990; 29: 611–619."
+    "explanation": "It is observed that adolescents have more psychiatric difficulties than younger children. The Isle of Wight Study was repeated when the cohort was around 14–15 years of age and the prevalence of psychiatric disorders was found to have increased from 5.7% to 8%. Marital disharmony predicted development of psychiatric problems by adolescence. A similar study carried out using a cohort followed up at Dunedin, New Zealand, revealed similar results. Graham P and Rutter M. Psychiatric disorder in the young adolescent. Proceedings of the Royal Society of Medicine 1973; 66: 1226–1229. McGee R, Feehan M, Williams S et al. DSM-III disorders in a large sample of adolescents. Journal of the American Academy of Child and Adolescent Psychiatry 1990; 29: 611–619."
   },
   {
     "question": "With regard to surveys of suicidal ideation, the transition from ideas to plans or attempts occurs most frequently in which of the following time intervals?",
@@ -585,7 +585,7 @@
       "E": "Within 10 years of the ideation"
     },
     "correct_answer": "E",
-    "explanation": "In most of the large-scale epidemiological surveys of the last two decades, screening is carried out in a population sample using layperson-administered, structured tools to identify ‘caseness’. This is later followed by clinician-led diagnostic assessment to confi rm such cases. It has been shown repeatedly that layperson diagnostic instruments diagnose more mental illness than those identifi ed by clinician administered, standardized instruments. The agreement between these two types of diagnostic tools is poor, around a kappa of 0.1 to 0.4 only, but no single instrument can be claimed to be superior for case ascertainment purposes. Brugha T, Bebbington PE, Jenkins R et al. Cross validation of a general population survey diagnostic interview: a comparison of CIS-R with SCAN ICD-10 diagnostic categories. Psychological Medicine 1999; 5: 1029–1042."
+    "explanation": "In most of the large-scale epidemiological surveys of the last two decades, screening is carried out in a population sample using layperson-administered, structured tools to identify ‘caseness’. This is later followed by clinician-led diagnostic assessment to confirm such cases. It has been shown repeatedly that layperson diagnostic instruments diagnose more mental illness than those identified by clinician administered, standardized instruments. The agreement between these two types of diagnostic tools is poor, around a kappa of 0.1 to 0.4 only, but no single instrument can be claimed to be superior for case ascertainment purposes. Brugha T, Bebbington PE, Jenkins R et al. Cross validation of a general population survey diagnostic interview: a comparison of CIS-R with SCAN ICD-10 diagnostic categories. Psychological Medicine 1999; 5: 1029–1042."
   },
   {
     "question": "In epidemiological surveys of suicidal ideation, which of the following factors is not associated with increased suicidal ideation?",
@@ -597,7 +597,7 @@
       "E": "Having a psychiatric diagnosis"
     },
     "correct_answer": "D",
-    "explanation": "Using the data from 17 countries that participated in the WMH survey initiative, the cross-national lifetime prevalence of suicidal ideation is estimated to be 9.2%. Planning for suicide is estimated to occur in 3.1% while actual attempts take place in 2.7% of the sample; 60% of transitions from ideation to plan and attempt occur within the fi rst year after ideation onset. Consistent, cross-national risk factors included being female, younger, less educated, unmarried, and having a mental disorder. Nock MK, Borges G, Bromet EJ et al. Cross-national prevalence and risk factors for suicidal ideation, plans and attempts. British Journal of Psychiatry 2008; 192: 98–105.EPIDEMIOLOGY | ANSWERS 77"
+    "explanation": "Using the data from 17 countries that participated in the WMH survey initiative, the cross-national lifetime prevalence of suicidal ideation is estimated to be 9.2%. Planning for suicide is estimated to occur in 3.1% while actual attempts take place in 2.7% of the sample; 60% of transitions from ideation to plan and attempt occur within the first year after ideation onset. Consistent, cross-national risk factors included being female, younger, less educated, unmarried, and having a mental disorder. Nock MK, Borges G, Bromet EJ et al. Cross-national prevalence and risk factors for suicidal ideation, plans and attempts. British Journal of Psychiatry 2008; 192: 98–105.EPIDEMIOLOGY | ANSWERS 77"
   },
   {
     "question": "Which of the following terms refers to the number of new cases observed per person-year of observation?",
@@ -609,7 +609,7 @@
       "E": "Incidence ratio"
     },
     "correct_answer": "D",
-    "explanation": "The signifi cant risk factors strongly related to suicidal ideation in cross-sectional samples are being female, previously married, age less than 25 years, being poorly educated, and having one or more diagnosable psychiatric disorders. These risk factors are strongly associated with suicidal ideation rather than conversion of ideas to attempts. In fact, suicides are more common in men than women across all age groups. Nock MK, Borges G, Bromet EJ et al. Cross-national prevalence and risk factors for suicidal ideation, plans and attempts. British Journal of Psychiatry 2008; 192: 98–105."
+    "explanation": "The significant risk factors strongly related to suicidal ideation in cross-sectional samples are being female, previously married, age less than 25 years, being poorly educated, and having one or more diagnosable psychiatric disorders. These risk factors are strongly associated with suicidal ideation rather than conversion of ideas to attempts. In fact, suicides are more common in men than women across all age groups. Nock MK, Borges G, Bromet EJ et al. Cross-national prevalence and risk factors for suicidal ideation, plans and attempts. British Journal of Psychiatry 2008; 192: 98–105."
   },
   {
     "question": "Which of the following is the main focus of the current (third) generation of epidemiological studies in mental health?",
