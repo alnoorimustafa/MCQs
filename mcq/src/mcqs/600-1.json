@@ -9,7 +9,7 @@
       "D": "Oligodendrocytes",
       "E": "Schwann cells"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Neuroglial cells surround the neurons providing them with support and protection. They play a significant role in phagocytosis and myelin production. Neuroglial cells are of two main types known as microglia and macroglia. Microglia are specialised macrophages found in the central nervous system (CNS) whereas macroglia are found in both CNS and the peripheral nervous system (PNS). Schwann cell s, satellite cells and enteric glial cells are macroglia found in the PNS. Astrocytes, ependymal cells, oligodendrocytes and radial glial cells are macroglia found in the CNS. The most abundant type of macroglia in the PNS is the Schwann cells. However, overall, the most abundant type of macroglia is astrocytes."
   },
   {
@@ -22,7 +22,7 @@
       "D": "Neuroma",
       "E": "Oligodendroglioma"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Intrinsic brain tumours include various grades of glioma, astrocytoma, oligodendroglioma, medulloblastoma, lymphoma and ependymoma. Oligodendroglioma is found in 10% of adults and 4% of children with primary brain tumour. The most common form of astrocytoma is gliobastoma multiforme. Extrinsic brain tumours include meningioma, neuroma, epidermoid tumour, glomus jugulare and chordoma."
   },
   {
@@ -35,7 +35,7 @@
       "D": "Midbrain",
       "E": "Pons"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Dentate nucleus is one of the four deep cerebellar nuclei that connect cerebellum to other regions of brain. It is phylogenetically the most recent and lateral nuclei. It is located in deep white matter. Other three deep cerebellar nuclei are called fastigial, globose and emboliform nuclei. The largest deep cerebellar nucleus is dentate nucleus and the smallest is an interposed nucleus which is a combined globose and emboliform nucleus."
   },
   {
@@ -48,7 +48,7 @@
       "D": "18, 19, 20",
       "E": "22, 42"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Astereognosia is associated with a lesion in the somatosensory association cortex that is located in Brodmann's areas 5 and 7. Loss of saccadic eye movement and impaired visual search is linked to lesions in the frontal eye fields (Brodmann's area 8) and dorsolateral prefrontal cortex (Brodmann's area 9). Impulsive behaviour and perseveration can be seen as a result of lesions in the dorsolateral prefrontal cortex (Brodmann's area 9) and anterior prefrontal cortex (Brodmann's area 10). Visual object agnosia is related to lesions in the secondary visual cortex (Brodmann's area 18), associative visual cortex (Brodmann's area 19) and inferior temporal gyrus (Brodmann's area 20). Auditory agnosia can occur as a result of lesions in the superior temporal gyrus (Brodmann's area 22) and primary auditory cortex (Brodmann's area 42)."
   },
   {
@@ -61,7 +61,7 @@
       "D": "Alexia without agraphia",
       "E": "Gerstmann's syndrome"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "The lesion in area 6 is associated with agraphia without alexia and those in areas 7 and 40 are associated with Gerstmann's syndrome. Lesions 18 and 19 can cause alexia without agraphia. However, lesions 39 and 40, and the frontal lobe lesion can cause acalculia. The lesion in area 22 gives rise to Wernicke's aphasia."
   },
   {
@@ -74,7 +74,7 @@
       "D": "Significant differences found in hippocampal area",
       "E": "Slight and insignificant reduction in brain mass"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Neuroimaging studies have found that parahippocampal gyrus is smaller in patients with schizophrenia compared with controls. Other structural changes noticed in schizophrenia include reduction in the brain mass, temporal lobe, cerebral volumes and overall brain length. There is ventricular enlargement, particularly involving the temporal horn. There is no significant difference in the hippocampal area."
   },
   {
@@ -87,7 +87,7 @@
       "D": "Thickening of the corpus callosum",
       "E": "Ventricular shrinkage"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Punch-drunk syndrome, also known as boxer's dementia or dementia pugilistica, occurs in professional boxers who are subjected to repeated blows, resulting in concussions. It is a neurodegenerative disease in which individuals present with symptoms suggestive of dementia, parkinsonism, memory loss, and gait and speech problems. On macroscopic examination of the postmortem brain there is evidence of perforation of the septum pellucidum, cerebral atrophy, ventricular enlargement, thinning of the corpus callosum, brain tissue scarring and hydrocephalus. On microscopic examination there is evidence of neuronal loss, collections of senile plaques and neurofibrillary tangles."
   },
   {
@@ -100,7 +100,7 @@
       "D": "Substantia nigra",
       "E": "Temporal lobe"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Macroscopic changes in Alzheimer's disease include global brain atrophy, ventricular brain enlargement and widening of the sulci. In this disease, atrophy is most significant in the frontal and temporal lobes of the brain."
   },
   {
@@ -113,7 +113,7 @@
       "D": "Symmetrical atrophy of the anterior temporal lobes",
       "E": "Ventricular shrinkage"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Pick's disease is a rare neurodegenerative disorder. In this disorder there is asymmetrical atrophy of the frontal and temporal lobes with sparing of the occipital and parietal lobes. The cerebral atrophy is so severe that some of the gyri are extremely thin, which is also known as knife blade gyri."
   },
   {
@@ -126,7 +126,7 @@
       "D": "Neuronal loss",
       "E": "Ventricular shrinkage"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Creutzfeldt–Jakob disease (CJD) is a fatal degenerative brain disease. CJD is transmitted by infection with a prion, which is a protein in misfolded form. There are several types of CJD such as sporadic, variant, familial and iatrogenic types. In CJD there is selective cerebellar atrophy, generalised cerebral atrophy and ventricular enlargement."
   },
   {
@@ -139,7 +139,7 @@
       "D": "Somatostatins",
       "E": "Thyroid-stimulating hormone"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Growth hormone is secreted by somatotrophic cells which are located within the anterior pituitary gland. It is under the stimulatory effect of growth hormone-releasing factor (GHRH or somatocrinin) and the inhibitory effect of somatostatins, both of which are released from neurosecretory cells in the hypothalamus."
   },
   {
@@ -152,7 +152,7 @@
       "D": "Na+ channels",
       "E": "Potassium channels"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "The ion channels are classified into families on the basis of genetic sequence, homology and possibly pore lining α-sub unit type. The main families are transmembrane agents (6 TM, 4/8 TM, 2 TM), inotropic glutamate receptors, nicotinic-related receptors, intracellular calcium ion channels and chloride ion channels. Glutamate receptor is a ligand-gated ion channel."
   },
   {
@@ -165,7 +165,7 @@
       "D": "8 cm²",
       "E": "10 cm²"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "International 10–20 system is a recognised system that describes the electrode placement on the scalp in an electroencephalogram (EEG) investigation. In this system, the scalp is divided into a grid that helps in compensating for the different head size in different patients. Each electrode records approximately 6 cm² of the cortical area."
   },
   {
@@ -178,7 +178,7 @@
       "D": "Polymorphic activity is usually sinusoidal",
       "E": "There is variations in both the strength and the density of the current loops"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Waveforms on an EEG can be monomorphic, polymorphic, sinusoidal or transient. The variations in both strength and density of the current loops lead to development of the characteristic sinusoidal waveform."
   },
   {
@@ -191,7 +191,7 @@
       "D": "Positive feedback on pituitary",
       "E": "Released from adrenal medulla"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Cortisol has a negative feedback effect on the hypothalamus, hippocampus and pituitary gland. It is a glucocorticoid steroid hormone that is secreted by zona fasciculata found in the adrenal cortex."
   },
   {
@@ -204,7 +204,7 @@
       "D": "Glutamate",
       "E": "Neurotensin"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "A monoamine neurotransmitter can be both a neurotransmitter and a neuromodulator. Aromatic amino acids such as phenylalanince, tryptophan, thyroid hormones and tyrosine produce monoamine neurotransmitters."
   },
   {
@@ -217,7 +217,7 @@
       "D": "D3 – increase adenylyl cyclase",
       "E": "D4 – increase adenylyl cyclase"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "The dopamine receptors are coupled to G-proteins. The main effectors of dopamine receptors are D1 which increases adenylyl cyclase, D2 which decreases adenylyl cyclase, D3 which decreases adenylyl cyclase, D4 which decreases adenylyl cyclase and D5 which increases adenylyl cyclase."
   },
   {
@@ -230,7 +230,7 @@
       "D": "Neurotransmitter",
       "E": "Neurotrophin"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "A neurohormone is a peptide secretion from neuroendocrine cells. It is released directly into the blood and reaches the systemic circulation, e.g. corticotrophin-releasing hormone."
   },
   {
@@ -243,7 +243,7 @@
       "D": "Metabotrophic receptor",
       "E": "Type of glycine receptor"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "N-Methyl- d-aspartate (NMDA) is a type of glutamate receptor, and an excitatory amino acid neurotransmitter."
   },
   {
@@ -256,7 +256,7 @@
       "D": "Long-term alcohol abuse",
       "E": "Parkinson's disease"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Focal atrophy of the caudate nucleus is often seen on CT or MRI in Huntington's disease."
   },
   {
@@ -269,7 +269,7 @@
       "D": "Normal ageing",
       "E": "Sarcoidosis"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Neuroimaging, mainly MRI, is helpful in diagnosis and follow-up of patients with multiple sclerosis."
   },
   {
@@ -282,7 +282,7 @@
       "D": "Positron emission tomography (PET)",
       "E": "Single photon emission computed tomography (SPECT)"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "A technique that is dependent on the blood oxygenation level is used in functional MRI (fMRI) to detect images that are based on cerebral blood flow and regional activity."
   },
   {
@@ -295,7 +295,7 @@
       "D": "17O",
       "E": "31P"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Magnetic resonance spectroscopy (MRS) is used to measure metabolic changes in conditions such as stroke, brain tumours, Alzheimer's dementia and other neurological illnesses."
   },
   {
@@ -308,7 +308,7 @@
       "D": "Monoamine reuptake inhibitor",
       "E": "Serotonin reuptake inhibition"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Opioids inhibit noradrenaline release, and discontinuation of opioids causes a rebound release of noradrenaline. Lofexidine, an α2-adrenoceptor agonist, acts by reducing the noradrenergic storm that follows discontinuation of opioids."
   },
   {
@@ -321,7 +321,7 @@
       "D": "Busulphan",
       "E": "Butyrophenone"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Buprenorphine is a partial m agonist opioid, used for analgesia and treatment of opioid dependence."
   },
   {
@@ -1296,7 +1296,7 @@
       "D": "This is best considered a form of parental psychopathology",
       "E": "This is exploitation of a vulnerable and defenceless child"
     },
-    "correct_answer": "E",
+    "correct_answer": "B",
     "explanation": "The child is harmed directly or indirectly, leading to a variety of presentations."
   },
   {
@@ -1309,7 +1309,7 @@
       "D": "Puberty lasts longer than in previous generations",
       "E": "There is no change in the age of maturation of boys"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "The age of reaching puberty has decreased in the western population from 17 years to below 12–13 years. The average age of menarche in Britain is 12 years and 10 months. One in six girls reaches puberty before the age of 8 years and one in fourteen 8-year-old boys have pubic hair. Puberty starts earlier and lasts longer according to the children of the 1990s' study conducted by Bristol University's Institute of Child Health."
   },
   {
@@ -1322,7 +1322,7 @@
       "D": "35%",
       "E": "40%"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Thomas et al (1968) conducted a study of temperament in infants in the 1950s. Data was gathered initially by parental interviews that looked at nine traits that were combined to describe three temperament types. Easy temperament was identified in 40% of the cohort."
   },
   {
@@ -1335,7 +1335,7 @@
       "D": "Parents are willing to discuss with children",
       "E": "Parents do not set limits"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "There are three main parenting styles described. An authoritarian parenting style is where parents do not negotiate and are strict. The boundaries set are clear and rigid."
   },
   {
@@ -1348,7 +1348,7 @@
       "D": "Privation is not possible",
       "E": "Child's response in strange situation test shows a disorganised attachment"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "According to Bowlby, if a child before the age of 1 year is separated from the mother when she is working, maternal deprivation is likely to occur."
   },
   {
@@ -1361,7 +1361,7 @@
       "D": "Studies use it in the context of intergenerational transfer of attachment patterns",
       "E": "It is used mainly to identify the individual who might have been sexually abused as a child"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "The adult attachment interview is a structured interview that explores an individual's experience of attachment relationships in childhood. Studies mainly use it in the context of intergenerational transfer of attachment patterns."
   },
   {
@@ -1374,7 +1374,7 @@
       "D": "The paranoid–depressive positions are never fully resolved in adult life",
       "E": "It uses defence mechanisms such as sexualisation and idealisation"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "The work with regard to paranoid and depressive positions was led primarily by Melanie Klein. In this case, an infant divides the caregiver into an external object that is all good or an internal object that is all bad."
   },
   {
@@ -1387,7 +1387,7 @@
       "D": "Klein",
       "E": "Winnicott"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Winnicot proposed the concept of the 'good-enough mother' who needs to be responsive but not extreme, to ensure adequate emotional development in the infant."
   },
   {
@@ -1400,7 +1400,7 @@
       "D": "It refers to what we dream about and are aware of on waking",
       "E": "More than one dream idea is combined into a single mental image"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Condensation is more than one dream's idea combined into a single mental image."
   },
   {
@@ -1413,7 +1413,7 @@
       "D": "The symptoms are often 'mental'",
       "E": "The underlying cause is rarely 'physical'"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Neurotic symptoms are viewed as similar to dreams. The symptoms are felt to be the expression of an unconscious and may symbolise the wish to which it is linked."
   },
   {
@@ -1426,7 +1426,7 @@
       "D": "Negative assumptions which generate acts that reinforce the assumptions",
       "E": "Patient helped to recognise recurrences of unrevised patterns"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Snags occur when the appropriate roles or goals are abandoned because the individual makes an assumption that others would oppose, or because they are perceived as forbidden or dangerous."
   },
   {
@@ -1439,7 +1439,7 @@
       "D": "Reaction formation",
       "E": "Sublimation"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Displacement is shifting of the emotion from the real target onto a substitute."
   },
   {
@@ -1452,7 +1452,7 @@
       "D": "It is made up of the individual's unique experiences involving repression",
       "E": "It includes the mind's inherited characteristics that influence the reactions"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "According to Jung there are three levels that make up the psyche such as consciousness, personal unconscious and collective unconscious. The consciousness has four basic functions, namely thinking, feeling, sensing and intuiting."
   },
   {
@@ -1465,7 +1465,7 @@
       "D": "Model helpful behaviours of other members",
       "E": "Recognition of common experiences and that it reflects experiences in wider society"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Catharsis is when the individual feels unburdened difficult emotions, by expressing affect in a supportive environment."
   },
   {
@@ -1478,7 +1478,7 @@
       "D": "Tasks are assigned to family members to complete between sessions, which involve a change in their actions to see how it affects the system",
       "E": "Thought is given to how to live with symptoms if they cannot be altered"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Members of the family are 'prescribed' their symptom which can paradoxically lead to an alteration."
   },
   {
@@ -1491,7 +1491,7 @@
       "D": "Systemic desensitisation",
       "E": "Systemic family therapy"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Systemic family therapy is the treatment of choice for adolescents with anorexia nervosa and is particularly effective with early onset anorexia."
   },
   {
@@ -1504,7 +1504,7 @@
       "D": "Supportive counselling",
       "E": "Systemic family therapy"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Cognitive–behavioural therapy (CBT) is recommended as a psychological intervention in depression."
   },
   {
@@ -1517,7 +1517,7 @@
       "D": "Dichotomous thinking",
       "E": "Over-generalising"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Excessive responsibility is assuming personal responsibility for all negative outcomes."
   },
   {
@@ -1530,7 +1530,7 @@
       "D": "It involves only group work",
       "E": "The therapy is intensive with group and individual work"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Dialectic behavioural therapy (DBT) is an integrative therapy developed by Marsha Linehan."
   },
   {
@@ -1543,7 +1543,7 @@
       "D": "Habit reversal training",
       "E": "Target assessment"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Target assessment is one of the stages of eye movement desensitisation and reprocessing (EMDR)."
   },
   {
@@ -1556,7 +1556,7 @@
       "D": "Step 4 – considered if there is high risk of self-harm",
       "E": "Step 5 – CBT or drug treatment can be initiated"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Step 4 is considered if there is high risk of self-harm, self-neglect, failed step 3 or complex GAD condition."
   },
   {
@@ -1569,7 +1569,7 @@
       "D": "There has been significant formal development of psychological interventions for ASPD",
       "E": "There is a good research base for psychological management for comorbid disorders seen in ASPD"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "There is a good research base for psychological management for comorbid disorders seen in ASPD."
   },
   {
@@ -1582,7 +1582,7 @@
       "D": "The combination of CBT and antidepressant medication may be as effective as either alone in severe depression",
       "E": "The combination of CBT and medication in mild-to-moderate depression is more effective than either alone"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Drug treatments have a higher relapse rate than CBT on discontinuation in generalised anxiety disorder."
   },
   {
@@ -1595,7 +1595,7 @@
       "D": "Trauma-focused CBT",
       "E": "Eye-movement desensitisation and reprocessing"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "The National Institute for Health and Care Excellence (NICE) guidance does not recommend debriefing as it can be more harmful."
   },
   {
@@ -1608,7 +1608,7 @@
       "D": "Relaxation therapy",
       "E": "Systemic desensitisation"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Flooding occurs in vivo and is also known as implosion, where the therapist exposes the patient to a controlled environment to evoke anxiety."
   },
   {
@@ -1621,7 +1621,7 @@
       "D": "Severe incompatibility with one or more group members",
       "E": "Tendency to assume deviant role"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Motivation to change is an inclusion criterion for group therapy."
   },
   {
@@ -1634,7 +1634,7 @@
       "D": "Systemic desensitisation",
       "E": "Systemic family therapy"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Dialectical behavioural therapy (DBT) is the most appropriate psychological therapy for individuals with borderline personality disorder."
   },
   {
@@ -1647,7 +1647,7 @@
       "D": "Short-term deprivation includes separation after a divorce",
       "E": "There are no long-term effects of short-term deprivation in children"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "After long-term deprivation, children may become self-sufficient through detachment."
   },
   {
@@ -1660,7 +1660,7 @@
       "D": "Older age of parents",
       "E": "Small family size"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Risk characteristics of parents who abuse children include being a single parent, young age, abused themselves as a child, low self-esteem, unrealistic expectations of the child's development, and inconsistent or punishment-oriented discipline."
   },
   {
@@ -1673,7 +1673,7 @@
       "D": "Divorce rates peak after 10–12 years of marriage",
       "E": "Divorce rates are highest in individuals in late 30s"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "About 60% of couples cohabit before they marry."
   },
   {
@@ -1686,7 +1686,7 @@
       "D": "Parents have an education status below the GCSE level",
       "E": "Parents have other mental health problems"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "The presence of the following vulnerability factors in parents can be useful in identifying children at risk of developing conduct problems: Parents with other mental health problems."
   },
   {
@@ -1699,7 +1699,7 @@
       "D": "There is enough evidence to show an association between sexual abuse and obsessive–compulsive disorder",
       "E": "There is a statistically significant association between sexual abuse and lifetime diagnosis of sleep disorders"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "There is a statistically significant association between sexual abuse and lifetime diagnosis of sleep disorders."
   }
 ]

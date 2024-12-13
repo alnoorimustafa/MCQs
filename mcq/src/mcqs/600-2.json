@@ -9,7 +9,7 @@
       "D": "Parkinsonism",
       "E": "Wilson's disease"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "This rare movement disorder occurs after a lesion in the subthalamic nucleus, resulting in involuntary movements of the extremities on the side of the body."
   },
   {
@@ -22,7 +22,7 @@
       "D": "Purkinje cells",
       "E": "Stellate cells"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Golgi cells are the smallest neurons in the cerebellum, located in the granular layer."
   },
   {
@@ -35,7 +35,7 @@
       "D": "Longitudinal fissure separates the cerebellum into left and right hemispheres",
       "E": "Parieto-occipital sulcus separates the occipital and parietal cortex on the lateral aspect of hemisphere"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "The lateral fissure, also known as the Sylvian fissure, separates the temporal and frontal lobes."
   },
   {
@@ -48,7 +48,7 @@
       "D": "Optic nerve",
       "E": "Trochlear nerve"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "The optic nerve (Cranial Nerve II) has a pure sensory function, responsible for vision."
   },
   {
@@ -61,7 +61,7 @@
       "D": "Tectum",
       "E": "Trapezoid body"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "The trapezoid body is a structure in the brainstem involved in the auditory pathway."
   },
   {
@@ -74,7 +74,7 @@
       "D": "Marked atrophy of the corpus striatum",
       "E": "Small brain with a reduced mass"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "In Parkinson's disease, there is depigmentation of the locus ceruleus and substantia nigra."
   },
   {
@@ -87,7 +87,7 @@
       "D": "Pick's bodies",
       "E": "Proliferation of cholinergic neurons"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Hirano's bodies in the hippocampus are microscopic changes seen in Alzheimer's disease."
   },
   {
@@ -100,7 +100,7 @@
       "D": "Medulloblastomas",
       "E": "Neurilemmomas"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Neurilemmomas, also known as schwannomas, are derived from Schwann cells."
   },
   {
@@ -113,7 +113,7 @@
       "D": "Neurofibrillary tangles are intraneuronal aggregations",
       "E": "Neurofibrillary tangles are dephosphorylated protein"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Neurofibrillary tangles are intraneuronal aggregations of tau protein."
   },
   {
@@ -126,7 +126,7 @@
       "D": "Pick's bodies",
       "E": "Prion deposition"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Bielschowsky's stain is used to demonstrate amyloid plaques and neurofibrillary tangles in Alzheimer's disease."
   },
   {
@@ -139,7 +139,7 @@
       "D": "NREM stage 4",
       "E": "REM"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "NREM stage 2 constitutes approximately 45% of sleep time in young adults."
   },
   {
@@ -152,7 +152,7 @@
       "D": "13 μm",
       "E": "15 μm"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Ad cutaneous temperature and pain afferents have a diameter of 13 μm."
   },
   {
@@ -165,7 +165,7 @@
       "D": "13–24 Hz",
       "E": "24–28 Hz"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Alpha waves (8–13 Hz) are typically seen when an individual is awake with eyes closed."
   },
   {
@@ -178,7 +178,7 @@
       "D": "Periodic discharge with focal δ activity over temporal lobes",
       "E": "Triphasic 1–2 Hz discharge"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Triphasic 1–2 Hz discharge is associated with sporadic Creutzfeldt–Jakob disease."
   },
   {
@@ -191,7 +191,7 @@
       "D": "g-Aminobutyric acid B",
       "E": "Serotonin (or 5-HT1)"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Acetylcholine (nicotinic) receptors are ionotropic receptors."
   },
   {
@@ -204,7 +204,7 @@
       "D": "Reduced corticotrophin-releasing hormone",
       "E": "Reduced size of adrenal glands"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Depression is associated with down-regulation of glucocorticoid receptors."
   },
   {
@@ -217,7 +217,7 @@
       "D": "Glycine",
       "E": "Glutamate"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Cholecystokinin is a peptide neurotransmitter."
   },
   {
@@ -230,7 +230,7 @@
       "D": "Noradrenaline",
       "E": "Serotonin"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Serotonin is synthesized from the precursor tryptophan."
   },
   {
@@ -243,7 +243,7 @@
       "D": "Increased glutamatergic function at NMDA",
       "E": "Increased glutamatergic function at g-aminobutyric acid"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Decreased glutamatergic function at NMDA receptors is associated with psychotic symptoms in schizophrenia."
   },
   {
@@ -256,7 +256,7 @@
       "D": "Dopamine b hydroxylase",
       "E": "Histidine"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Histidine is the precursor in the synthesis of histamine."
   },
   {
@@ -269,7 +269,7 @@
       "D": "Localised atrophy in the hippocampal area",
       "E": "Reduced medial temporal lobe width at level of brain stem"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Reduced medial temporal lobe width at the level of the brain stem is expected in Alzheimer's dementia."
   },
   {
@@ -282,7 +282,7 @@
       "D": "Small infarcts",
       "E": "White matter lesions"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "T1-weighted images provide high resolution and definition of anatomical structures."
   },
   {
@@ -295,7 +295,7 @@
       "D": "[18F]-Fluorodopa",
       "E": "[18F]-Setoperone"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "[11C]Raclopride is used as a ligand for dopamine receptors D2/D3 in PET scans."
   },
   {
@@ -308,7 +308,7 @@
       "D": "Positron emission tomography",
       "E": "Single photon emission computed tomography"
     },
-    "correctAnswer": "D",
+    "correct_answer": "E",
     "explanation": "Positron emission tomography (PET) uses radioactive tracers to measure cerebral functions."
   },
   {
@@ -321,7 +321,7 @@
       "D": "2–3 T",
       "E": "3–4 T"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Clinical MRI scanners typically operate within the range of 0.3–2.0 teslas."
   },
   {
@@ -334,7 +334,7 @@
       "D": "5 mg",
       "E": "6 mg"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "For an estimated glomerular filtration rate (eGFR) of 10–50 mL/min per 1.73 m², the maximum prescribed dose of paliperidone tablet is 3 mg/day."
   },
   {
@@ -347,7 +347,7 @@
       "D": "Quetiapine",
       "E": "Risperidone"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Haloperidol is recommended for use in patients with moderate-to-severe liver impairment due to its extensive evidence base."
   },
   {
@@ -360,7 +360,7 @@
       "D": "Inhibit alcohol dehydrogenase",
       "E": "Partial agonist of 5-HT1A"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Acamprosate acts as an antagonist of glutamate receptors, helping to maintain abstinence in alcohol-dependent individuals."
   },
   {
@@ -373,7 +373,7 @@
       "D": "Phenytoin",
       "E": "Sodium valproate"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Sodium valproate blocks the transaminase enzyme that converts GABA to glutamate, thereby increasing GABA levels."
   },
   {
@@ -386,7 +386,7 @@
       "D": "Oxazepam",
       "E": "Temazepam"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Oxazepam has the shortest elimination half-life among the listed benzodiazepines."
   },
   {
@@ -399,7 +399,7 @@
       "D": "Paliperidone",
       "E": "Ziprasidone"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Aripiprazole acts as a partial agonist at dopamine D2 receptors."
   },
   {
@@ -412,7 +412,7 @@
       "D": "It is also available as a depot injection formulation",
       "E": "It is licensed to be used in bipolar affective disorder as a mood stabiliser in the UK"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Paliperidone is available in both oral and depot injection formulations."
   },
   {
@@ -425,7 +425,7 @@
       "D": "Sodium valproate",
       "E": "Venlafaxine"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "St John's wort induces cytochrome P450 enzymes, reducing the anticoagulant effect of warfarin."
   },
   {
@@ -438,7 +438,7 @@
       "D": "Sodium valproate",
       "E": "Venlafaxine"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "St John's wort reduces the effectiveness of contraceptive pills by inducing metabolic enzymes."
   },
   {
@@ -451,7 +451,7 @@
       "D": "Mianserin",
       "E": "Trazodone"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Lofepramine is less associated with weight gain compared to other tricyclic antidepressants."
   },
   {
@@ -464,7 +464,7 @@
       "D": "Pipothiazine palmitate",
       "E": "Olanzapine embonate"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Olanzapine embonate can cause post-injection syndrome, presenting with symptoms similar to overdose."
   },
   {
@@ -477,7 +477,7 @@
       "D": "M3-Receptor blockade",
       "E": "M2-Receptor stimulation"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Clozapine causes hypersalivation through impaired deglutition."
   },
   {
@@ -490,7 +490,7 @@
       "D": "200 mg/kg",
       "E": "250 mg/kg"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "A dose of 150 mg/kg of paracetamol taken within 24 hours can cause hepatocellular necrosis."
   },
   {
@@ -503,7 +503,7 @@
       "D": "Longer duration of treatment with antipsychotics poses greater risk",
       "E": "Slow decrease in dosage of antipsychotics increases the risk"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Women are at lesser risk than men for developing neuroleptic malignant syndrome."
   },
   {
@@ -516,7 +516,7 @@
       "D": "Sertraline",
       "E": "Trazadone"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Duloxetine should be withdrawn before starting venlafaxine to avoid potential interactions."
   },
   {
@@ -529,7 +529,7 @@
       "D": "450 mg",
       "E": "500 mg"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "A female patient who smokes excessively may require an approximate dose of 450 mg of clozapine for treatment-resistant schizophrenia."
   },
   {
@@ -542,7 +542,7 @@
       "D": "433 mg",
       "E": "538.2 mg"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "500 mg of sodium valproate is equivalent to approximately 433 mg of valproic acid."
   },
   {
@@ -555,7 +555,7 @@
       "D": "Sertraline",
       "E": "Venlafaxine"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Sertraline is recommended as the preferred antidepressant after a myocardial infarction."
   },
   {
@@ -568,7 +568,7 @@
       "D": "Sodium valproate",
       "E": "Topiramate"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Topiramate has been reported to reduce drinking days and increase abstinence in alcohol-dependent individuals."
   },
   {
@@ -581,7 +581,7 @@
       "D": "20 mg",
       "E": "40 mg"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "20 mg of temazepam is approximately equivalent to 10 mg of diazepam."
   },
   {
@@ -594,7 +594,7 @@
       "D": "Transcription",
       "E": "Translation"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Replication is the process by which duplicate DNA copies are produced from a template."
   },
   {
@@ -607,7 +607,7 @@
       "D": "X chromosome",
       "E": "Y chromosome"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Chromosome 1 is the largest human chromosome in terms of size."
   },
   {
@@ -620,7 +620,7 @@
       "D": "S phase",
       "E": "O phase"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "DNA synthesis occurs during the S (synthesis) phase of the cell cycle."
   },
   {
@@ -633,7 +633,7 @@
       "D": "It means that different genotypes cause the same phenotype but each genotype is associated with very different risks",
       "E": "It means that multiple genes give rise to multiple phenotypes or disorders"
     },
-    "correctAnswer": "B",
+    "correct_answer": "D",
     "explanation": "Genetic heterogeneity means that a single gene can give rise to multiple phenotypes or disorders."
   },
   {
@@ -646,7 +646,7 @@
       "D": "Trisomy 16",
       "E": "Trisomy 21"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "45, X/46, XX mosaicism (Turner's syndrome) is associated with an increased risk of schizophrenia."
   },
   {
@@ -659,7 +659,7 @@
       "D": "65%",
       "E": "90%"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "The prevalence of schizophrenia in 22q11.2 syndrome is around 23–25%. This syndrome accounts for approximately 1% of all schizophrenia cases."
   },
   {
@@ -672,7 +672,7 @@
       "D": "46%",
       "E": "56%"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "The lifetime risk of developing schizophrenia in offspring when both parents have schizophrenia is 46%."
   },
   {
@@ -685,7 +685,7 @@
       "D": "Chromosomes 6p and 8p",
       "E": "Chromosomes 6q and 8q"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Genome-wide significant evidence for linkage for bipolar affective disorder types 1 and 2 has been found on chromosomes 6q and 8q."
   },
   {
@@ -698,7 +698,7 @@
       "D": "Phobic disorder",
       "E": "Somatoform disorder"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Panic disorder is the most common comorbidity seen in a familial subtype of bipolar affective disorder."
   },
   {
@@ -711,7 +711,7 @@
       "D": "Recombinant allele",
       "E": "Translocation allele"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "The deletion allele of the serotonin transporter gene (5-HTTLPR) is associated with an increased risk for major depression and suicidality in patients exposed to stressful life events."
   },
   {
@@ -724,7 +724,7 @@
       "D": "Real-time, polymerase chain reaction gene, expression profiling",
       "E": "Microsatellite analysis"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Microarray analysis is consistent with comparative genomic use, allowing the detection and comparison of submicroscopic regions of chromosomes."
   },
   {
@@ -737,7 +737,7 @@
       "D": "Non-additive interaction of alleles within a locus",
       "E": "Responsible for the additive genetic variance"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Epistasis refers to the non-additive interaction of alleles at different loci, also known as gene–gene interaction."
   },
   {
@@ -750,7 +750,7 @@
       "D": "Monozygotic twins reared in same environment",
       "E": "Twins who are mistaken about their zygosity"
     },
-    "correctAnswer": "C",
+    "correct_answer": "D",
     "explanation": "Monozygotic twins reared in different environments best allow examination of the effects of environmental sharing."
   },
   {
@@ -763,7 +763,7 @@
       "D": "It is an eclectic mix of various appropriate statistical methods used in genetics",
       "E": "It is a representation of raw data that is then analysed according to the principles of 'model fitting' in genetics"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Path analysis estimates genetic and environmental contributions using a simple diagrammatic method."
   },
   {
@@ -776,7 +776,7 @@
       "D": "It is inherited as an X-linked recessive condition",
       "E": "There is no pervasive growth failure"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Approximately 99.5% of Rett's disorder cases are a single occurrence in a family."
   },
   {
@@ -789,7 +789,7 @@
       "D": "Residual schizophrenia",
       "E": "Simple schizophrenia"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Paranoid schizophrenia is less familial and has a lower monozygotic twin concordance rate."
   },
   {
@@ -802,7 +802,7 @@
       "D": "65%",
       "E": "80%"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "The heritability of social anxiety disorder in female twins is approximately 50%."
   },
   {
@@ -815,7 +815,7 @@
       "D": "Prader–Willi syndrome",
       "E": "Williams' syndrome"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Williams' syndrome is caused by a microdeletion of 7q11."
   },
   {
@@ -828,7 +828,7 @@
       "D": "Myoclonic dystrophy",
       "E": "Myoclonus epilepsy"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Fragile X syndrome is caused by an expansion of the CGG trinucleotide repeat in the FMR1 gene."
   },
   {
@@ -841,7 +841,7 @@
       "D": "Sensation seeking",
       "E": "Tolerance"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "A reduction in P300 amplitude is associated with impulsivity, which is an endophenotype of alcohol dependence."
   },
   {
@@ -854,7 +854,7 @@
       "D": "John and Lewis",
       "E": "Michael Rutter"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Gottesman and Shields proposed the concept of endophenotypes in psychiatry."
   },
   {
@@ -867,7 +867,7 @@
       "D": "Endophenotypes are rarely seen in a normal population",
       "E": "Endophenotypes are state dependent"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Endophenotypes and the illness co-segregate, meaning they occur together within families."
   },
   {
@@ -880,7 +880,7 @@
       "D": "GABAb gene",
       "E": "GABRA2 gene"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "The GABRA2 gene, which encodes the GABA-A receptor alpha-2 subunit, is associated with alcohol dependence."
   },
   {
@@ -893,12 +893,12 @@
       "D": "Monozygotic co-twins are 95% concordant for the disorder",
       "E": "Multiple low-penetrance common variants contribute little or no risk for schizophrenia"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Common variants in the genes neuregulin-1, dysbindin, and d-amino acid oxidase activator contribute a small increase in the risk for schizophrenia."
   },
   {
     "number": 70,
-    "question": "You analysed twin studies in a rare psychiatric disorder. The concordance rate of development of the disorder in both monozygotic and dizygotic twins was 30%. What does this mean?",
+    "question": "You analysed twin studies in a rare psychiatric disorder. The concordance rate of development of the disorder in both monozygotic and dizygotic twins was 30%. What does this mean? note: AI suggested A but the book chose C",
     "options": {
       "A": "Environmental factors play a more important role in the development of disorder than genetic factors",
       "B": "Genetic factors play a more important role in the development of disorder than the environment",
@@ -906,7 +906,7 @@
       "D": "There is no role for genetic factors in the development of the disorder",
       "E": "This finding does not give any conclusive evidence as to whether genetic or environmental factors play a major role in the development of the disorder"
     },
-    "correctAnswer": "A",
+    "correct_answer": "C",
     "explanation": "If both monozygotic and dizygotic twins have the same concordance rate, it suggests that environmental factors play a more significant role than genetic factors."
   },
   {
@@ -919,7 +919,7 @@
       "D": "Huntington's disease",
       "E": "Schizophrenia"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Linkage analysis is particularly useful in identifying the genetic basis of Huntington's disease, a condition caused by single-gene mutations."
   },
   {
@@ -932,7 +932,7 @@
       "D": "No financial worries",
       "E": "Religious upbringing"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Living in urban areas is associated with increased heritability estimates for certain mental disorders, likely due to environmental complexity."
   },
   {
@@ -945,7 +945,7 @@
       "D": "Situations in which individuals can structure the environment",
       "E": "Situations in which researchers structure the environment"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Structured situations provide clear and unambiguous cues that guide behaviour, reducing the influence of individual genetic differences."
   },
   {
@@ -958,7 +958,7 @@
       "D": "6%",
       "E": "7%"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "The prevalence of specific phobias in patients with learning disabilities is approximately 6%."
   },
   {
@@ -971,7 +971,7 @@
       "D": "Low aggression",
       "E": "Poor insight"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "High education level is associated with an increased risk of suicide in patients with schizophrenia."
   },
   {
@@ -984,7 +984,7 @@
       "D": "Negative symptoms",
       "E": "Thought disorders"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Depression is a significant risk factor for suicide in patients with schizophrenia."
   },
   {
@@ -997,7 +997,7 @@
       "D": "First episode in later years of life",
       "E": "White ethnicity"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "White ethnicity is associated with the highest risk of suicide in patients with schizophrenia."
   },
   {
@@ -1010,7 +1010,7 @@
       "D": "New Zealand",
       "E": "Switzerland"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "China is the only country among the options listed that has a higher female than male suicide rate."
   },
   {
@@ -1023,7 +1023,7 @@
       "D": "There are significant differences between male and female prevalence",
       "E": "There are significant differences in urban and rural prevalence"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "The lifetime prevalence of schizophrenia is approximately 4 per 1000 individuals."
   },
   {
@@ -1036,7 +1036,7 @@
       "D": "Help-seeking behaviour of family",
       "E": "Insidious onset"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "An insidious onset of psychosis is associated with a longer duration of untreated psychosis (DUP)."
   },
   {
@@ -1049,7 +1049,7 @@
       "D": "3%",
       "E": "5%"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Approximately 5% of patients with schizophrenia are implicated in homicides in the UK."
   },
   {
@@ -1062,7 +1062,7 @@
       "D": "80%",
       "E": "100%"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Psychotic symptoms occur in around 50% of patients with delirium."
   },
   {
@@ -1075,7 +1075,7 @@
       "D": "Left-handedness",
       "E": "Right-handedness"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Abnormal motor and speech development before 2 years of age increases the incidence of schizophrenia."
   },
   {
@@ -1088,7 +1088,7 @@
       "D": "Stressful life event",
       "E": "Withdrawal of antipsychotics"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Withdrawal of antipsychotics is the best short-term predictor of relapse in psychosis."
   },
   {
@@ -1101,7 +1101,7 @@
       "D": "North east",
       "E": "West Midlands"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "The East of England has the lowest suicide rate for men in the UK."
   },
   {
@@ -1114,7 +1114,7 @@
       "D": "60%",
       "E": "70%"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Approximately 50% of people with mental illness in the UK consume tobacco regularly."
   },
   {
@@ -1127,7 +1127,7 @@
       "D": "1 every 40 seconds",
       "E": "1 every 50 seconds"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "The estimated rate of suicide worldwide is approximately 1 every 40 seconds."
   },
   {
@@ -1140,7 +1140,7 @@
       "D": "Montgomery–Asberg depression rating scale",
       "E": "Yale–Brown obsessive compulsive scale"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "The General Health Questionnaire is a self-rating scale used to detect psychiatric disorders."
   },
   {
@@ -1153,7 +1153,7 @@
       "D": "Number needed to treat",
       "E": "Odds ratio"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Incidence is a measure of disease frequency, indicating the number of new cases in a population over a specified period."
   },
   {
@@ -1166,7 +1166,7 @@
       "D": "Major depression inventory",
       "E": "Montgomery–Asberg depression rating scale"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "The Montgomery–Asberg depression rating scale is highly sensitive to changes in depressive symptoms."
   },
   {
@@ -1179,7 +1179,7 @@
       "D": "Kaplan–Meier method",
       "E": "Log-rank test"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Galbraith's plot is used to investigate heterogeneity in meta-analyses."
   },
   {
@@ -1192,7 +1192,7 @@
       "D": "Young's mania rating scale",
       "E": "Zung self-rating scale"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "The Bech–Rafaelsen rating scale is suitable for assessing both mania and depression."
   },
   {
@@ -1205,7 +1205,7 @@
       "D": "Minnesota multiphasic personality inventory",
       "E": "Rorschach's test"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "The Defensive Functioning Scale assesses personality based on an individual's coping strategies."
   },
   {
@@ -1218,7 +1218,7 @@
       "D": "Loss of immediate memory",
       "E": "Retained anterograde memory"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Intact procedural memory is a defining feature of an amnestic syndrome."
   },
   {
@@ -1231,7 +1231,7 @@
       "D": "Impairments in long-term memory",
       "E": "Impairments in procedural memory"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Impairments in executive functioning are commonly found in patients with schizophrenia."
   },
   {
@@ -1244,7 +1244,7 @@
       "D": "Somatotonic",
       "E": "Viscerotonic"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Viscerotonic traits relate to food, comfort, people, and affection."
   },
   {
@@ -1257,7 +1257,7 @@
       "D": "Maladaptive behaviour",
       "E": "Periodic presentation"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Maladaptive behaviour is a core criterion in the diagnostic guidelines for personality disorders."
   },
   {
@@ -1270,7 +1270,7 @@
       "D": "Irresponsible attitude",
       "E": "Persistent irritability"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "An irresponsible attitude is a key criterion for dissocial personality disorder in ICD-10."
   },
   {
@@ -1283,7 +1283,7 @@
       "D": "Histrionic personality disorder",
       "E": "Obsessive–compulsive personality disorder"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Histrionic personality disorder is linked to difficulties during the oedipal phase of psychosexual development."
   },
   {
@@ -1296,7 +1296,7 @@
       "D": "Patients receiving DBT are twice as likely to make a suicide attempt",
       "E": "Patients receiving DBT are more likely to require hospitalisation due to suicidal ideations"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "DBT has been shown to result in reduced suicide attempts in patients with borderline personality disorder."
   },
   {
@@ -1309,12 +1309,12 @@
       "D": "Four types of attachment behaviours were identified from the experiment",
       "E": "The baby treats the stranger and the mother in the same way in the anxious–resistant type of attachment"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Almost three-quarters of children are found to be securely attached according to the strange situation experiment devised by Ainsworth and Wittig."
   },
   {
     "number": 102,
-    "question": "Which of the following statements about Piaget's four stages of development is correct?",
+    "question": "Which of the following statements about Piaget's four stages of development is correct? note: AI chose C but the book chose D",
     "options": {
       "A": "Concrete operational stage occurs between age 2 and 7 years",
       "B": "Egocentrism happens in the formal operational stage",
@@ -1322,7 +1322,7 @@
       "D": "Object permanence develops in the preoperational stage",
       "E": "Transductive reasoning develops in the concrete operational stage"
     },
-    "correctAnswer": "C",
+    "correct_answer": "D",
     "explanation": "Idea manipulations and propositions happen in the formal operational stage of Piaget's theory of cognitive development."
   },
   {
@@ -1335,7 +1335,7 @@
       "D": "Parents are seen as authority figures in the phallic stage",
       "E": "Powerful demands in the form of heterosexual desires occur in the genital stage"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "In Freud's theory, powerful demands in the form of heterosexual desires occur in the genital stage."
   },
   {
@@ -1348,7 +1348,7 @@
       "D": "Preconventional morality corresponds to a preoperational stage in Piaget's development",
       "E": "Universal ethical principle is stage 5 of moral development"
     },
-    "correctAnswer": "B",
+    "correct_answer": "D",
     "explanation": "Kohlberg differentiated two types of moral orientation: heteronomous and autonomous."
   },
   {
@@ -1361,7 +1361,7 @@
       "D": "Gender questioning",
       "E": "Gender relativism"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Gender consistency is a stage in the development of gender identity as suggested by Kohlberg."
   },
   {
@@ -1374,7 +1374,7 @@
       "D": "There is no evidence base to support its use",
       "E": "It was originally called 'the conversational model'"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Psychodynamic interpersonal therapy was originally called 'the conversational model.'"
   },
   {
@@ -1387,7 +1387,7 @@
       "D": "It is of a limited value in depressed patients",
       "E": "It was developed to understand acting-out behaviour"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Faulty procedures in the procedural sequence model include snags, traps, and dilemmas."
   },
   {
@@ -1400,7 +1400,7 @@
       "D": "The patient's family are the focus of the therapy",
       "E": "This approach was developed to assess at which stage of change the patient is"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "One of the techniques in motivational interviewing is to emphasise personal choice and control."
   },
   {
@@ -1413,7 +1413,7 @@
       "D": "Reciprocal inhibition occurs in aversion therapy",
       "E": "Systematic desensitisation represents a form of counter-conditioning"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Systematic desensitisation represents a form of counter-conditioning in behaviour therapy."
   },
   {
@@ -1426,7 +1426,7 @@
       "D": "Stage 4 refers to resolving problems in living",
       "E": "The last two stages are unlikely to be available in most public healthcare settings"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "The last two stages of DBT are unlikely to be available in most public healthcare settings."
   },
   {
@@ -1439,7 +1439,7 @@
       "D": "Multisystemic therapy",
       "E": "Positive reinforcement and punishment"
     },
-    "correctAnswer": "D",
+    "correct_answer": "D",
     "explanation": "Multisystemic therapy is recommended for managing antisocial behavior and aggression in adolescents."
   },
   {
@@ -1452,7 +1452,7 @@
       "D": "Time out",
       "E": "Diaries"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Shaping is a behavioural technique used to gradually increase a desired behaviour."
   },
   {
@@ -1465,7 +1465,7 @@
       "D": "Interpersonal psychotherapy",
       "E": "Systemic family therapy"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Eye movement desensitisation and reprocessing (EMDR) is the therapy of choice for PTSD symptoms like flashbacks and nightmares."
   },
   {
@@ -1478,7 +1478,7 @@
       "D": "Reality principle is associated with the super-ego",
       "E": "Super-ego deals with deferred gratification"
     },
-    "correctAnswer": "C",
+    "correct_answer": "C",
     "explanation": "Moral conflicts in Freud's theory occur between the super-ego and the ego."
   },
   {
@@ -1491,7 +1491,7 @@
       "D": "Number of sessions of CBT offered to patients is significantly less than for those with axis I disorders",
       "E": "Systems training for emotional predictability and problem solving is a CBT-based skills development package"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Systems training for emotional predictability and problem solving is a CBT-based skills development package used for borderline personality disorder."
   },
   {
@@ -1504,7 +1504,7 @@
       "D": "It uses a psychodynamic approach",
       "E": "It is used primarily for patients with depression"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Systems training for emotional predictability and problem solving is delivered over 20 weeks."
   },
   {
@@ -1517,7 +1517,7 @@
       "D": "Projective identification",
       "E": "Snags"
     },
-    "correctAnswer": "E",
+    "correct_answer": "E",
     "explanation": "Snags are used in cognitive–analytical therapy to describe obstacles in thought processes."
   },
   {
@@ -1530,7 +1530,7 @@
       "D": "There is a good evidence base for psychological therapy to increase medication adherence",
       "E": "There is a good evidence base for psychological therapies in managing comorbid substance misuse in a BPAD"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Aims of psychological therapy in BPAD include reduction in mood fluctuations and maintaining a stable mental state."
   },
   {
@@ -1543,7 +1543,7 @@
       "D": "There is a large evidence base for its efficacy in anorexia nervosa",
       "E": "Therapist should not allow parents to take a central role in the early stages of treatment"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Family interventions for adolescents with anorexia should focus on how the disorder impacts family relationships."
   },
   {
@@ -1556,7 +1556,7 @@
       "D": "Misidentification",
       "E": "Visual hallucinations"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "Cognitive Behavioural Therapy (CBT) has shown better outcomes in addressing delusional beliefs in psychosis."
   },
   {
@@ -1569,7 +1569,7 @@
       "D": "Selective cognition",
       "E": "Selective exaggeration"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Arbitrary inference is a cognitive bias in Beck's theory of depression."
   },
   {
@@ -1582,7 +1582,7 @@
       "D": "Non-facilitated self-help",
       "E": "Psychoeducational groups"
     },
-    "correctAnswer": "A",
+    "correct_answer": "A",
     "explanation": "Cognitive Behavioural Therapy (CBT) is considered a high-intensity psychological treatment."
   },
   {
@@ -1595,7 +1595,7 @@
       "D": "Total score of life change unit (LCU) > 200 in a year is classed as a major crisis",
       "E": "Total score of LCU < 200 in a year is not classed as a crisis"
     },
-    "correctAnswer": "B",
+    "correct_answer": "B",
     "explanation": "The Social Readjustment Rating Scale (SRRS) assumes that any change in life is by definition stressful."
   }
 ]
