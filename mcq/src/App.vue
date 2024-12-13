@@ -39,10 +39,42 @@ let page = ref("");
       </ul>
     </nav>
   </div>
-  <div class="container">
-    <BestOfFive v-if="page === 'bof'" />
-    <Book600 v-if="page === '600'" />
+  <div class="hh">
+    <div class="container">
+      <BestOfFive v-if="page === 'bof'" />
+      <Book600 v-if="page === '600'" />
+    </div>
+    <footer >
+      <p class="primary">&copy; 2024. Dr. Mustafa Alnoori. All rights reserved.</p>
+    </footer>
   </div>
 </template>
 
-<style></style>
+<style scoped>
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.hh {
+  display: flex;
+  flex-direction: column;
+  min-height: 90vh; /* Ensure the container takes full height */
+}
+
+.container {
+  flex-grow: 1; /* Allow the main content to grow */
+}
+
+.azure {
+color: #017FC0;
+}
+
+footer {
+  text-align: center;
+  padding: 1em;
+  background-color: #f1f1f1;
+  width: 100%;
+}
+</style>

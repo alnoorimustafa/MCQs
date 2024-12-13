@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed } from "vue";
+import { ref, computed, onMounted } from "vue";
 
 const props = defineProps(["questionsData"]);
 
@@ -8,6 +8,14 @@ const questions = ref(props.questionsData); // Initialize questions with data fr
 const selectedOptions = ref(Array(questions.value.length).fill(null)); // Track the selected option for each question
 const score = ref(0); // Initialize score
 const wrong = ref(0); // Initialize score
+const loading = ref(true); // Loading state
+
+// Simulate loading questions (replace this with actual loading logic)
+onMounted(() => {
+  setTimeout(() => {
+    loading.value = false; // Set loading to false after loading is complete
+  }, 1000); // Simulate a 1 second loading time
+});
 
 // Function to handle option selection
 const selectOption = (
@@ -39,8 +47,10 @@ const IncorrectAnswers = computed(() => wrong.value);
 </script>
 
 <template>
-  <div class="container">
-    <div id="app">
+  <div>
+    <article v-if="loading" aria-busy="true">Loading...</article>
+    <div v-else class="container">
+      <div id="app">
         <div class="score-display">
           <div class="score-row">
             <span class="label">Score:</span>
@@ -103,22 +113,17 @@ const IncorrectAnswers = computed(() => wrong.value);
       <div v-else class="placeholder">
         <p>Select A Chapter to Show MCQs</p>
       </div>
+    </div>
   </div>
 </template>
 
 <style scoped>
-/* Container for the app */
-#app {
-  font-family: "Rubik", sans-serif;
-}
-
-/* Styling for score display */
 
 .score-display {
   min-width: 15%;
   max-width: 50%;
   position: fixed;
-  bottom: 20px;
+  bottom: 40px;
   right: 20px;
   color: #333;
   background-color: rgba(172, 172, 172, 0.505);
@@ -194,6 +199,5 @@ const IncorrectAnswers = computed(() => wrong.value);
 
 .container {
   padding: 0;
- 
 }
 </style>
