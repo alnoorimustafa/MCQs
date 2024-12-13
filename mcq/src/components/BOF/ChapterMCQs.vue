@@ -7,6 +7,7 @@ const props = defineProps(["questionsData"]);
 const questions = ref(props.questionsData); // Initialize questions with data from mcq1.json
 const selectedOptions = ref(Array(questions.value.length).fill(null)); // Track the selected option for each question
 const score = ref(0); // Initialize score
+const wrong = ref(0); // Initialize score
 
 // Function to handle option selection
 const selectOption = (
@@ -20,6 +21,8 @@ const selectOption = (
     selectedOptions.value[index] = option; // Set the selected option for this question
     if (letter === correctAnswer) {
       score.value += 1; // Increment score for correct answer
+    } else if (letter !== correctAnswer) {
+      wrong.value += 1; // Increment score for correct answer
     }
   }
 };
@@ -32,15 +35,30 @@ const percentageScore = computed(() => {
 // Computed properties for total questions, correct answers, and wrong answers
 const totalQuestions = computed(() => questions.value.length);
 const correctAnswers = computed(() => score.value);
+const IncorrectAnswers = computed(() => wrong.value);
 </script>
 
 <template>
   <div class="container">
     <div id="app">
-      <div class="score-display">
-        <div>Score: {{ percentageScore.toFixed(2) }}%</div>
-        <div>Total Questions: {{ totalQuestions }}</div>
-        <div>Correct Answers: {{ correctAnswers }}/{{ totalQuestions }}</div>
+        <div class="score-display">
+          <div class="score-row">
+            <span class="label">Score:</span>
+            <span class="value">{{ percentageScore.toFixed(0) }}/100</span>
+          </div>
+          <div class="score-row">
+            <span class="label">Total Questions:</span>
+            <span class="value">{{ totalQuestions }}</span>
+          </div>
+          <div class="score-row">
+            <span class="label">Correct Answers:</span>
+            <span class="value">{{ correctAnswers }}</span>
+          </div>
+          <div class="score-row">
+            <span class="label">Incorrect Answers:</span>
+            <span class="value">{{ IncorrectAnswers }}</span>
+          </div>
+        </div>
       </div>
       <!-- Display additional information -->
       <div v-if="questions.length" class="questions-container">
@@ -85,7 +103,6 @@ const correctAnswers = computed(() => score.value);
       <div v-else class="placeholder">
         <p>Select A Chapter to Show MCQs</p>
       </div>
-    </div>
   </div>
 </template>
 
@@ -96,7 +113,10 @@ const correctAnswers = computed(() => score.value);
 }
 
 /* Styling for score display */
+
 .score-display {
+  min-width: 15%;
+  max-width: 50%;
   position: fixed;
   bottom: 20px;
   right: 20px;
@@ -105,6 +125,19 @@ const correctAnswers = computed(() => score.value);
   padding: 5px;
   border-radius: 5px;
   font-size: 0.8rem;
+}
+
+.score-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.label {
+  text-align: left;
+}
+
+.value {
+  text-align: right;
 }
 
 .question-card {
