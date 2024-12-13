@@ -44,8 +44,8 @@ let page = ref("");
       <BestOfFive v-if="page === 'bof'" />
       <Book600 v-if="page === '600'" />
     </div>
-    <footer >
-      <p class="primary">&copy; 2024. Dr. Mustafa Alnoori. All rights reserved.</p>
+    <footer>
+      <p class="copyright">&copy; 2024. Dr. Mustafa Alnoori. All rights reserved.</p>
     </footer>
   </div>
 </template>
@@ -76,5 +76,9 @@ footer {
   padding: 1em;
   background-color: #f1f1f1;
   width: 100%;
+}
+
+.copyright {
+  color: #0172ad;
 }
 </style>

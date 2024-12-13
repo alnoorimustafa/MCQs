@@ -1,0 +1,1640 @@
+[
+  {
+    "number": 1,
+    "question": "During an assessment interview, the clinician asked a 23-year-old man questions such as, 'What did your mother say when your father said this to your brother?' . Which interview technique is used in this case?",
+    "options": {
+      "A": "Closed question",
+      "B": "Circular question",
+      "C": "Direct question",
+      "D": "Open question",
+      "E": "Put-down question"
+    },
+    "correct_answer": "B",
+    "explanation": "Circular questioning can be confusing and obstructive in eliciting information."
+  },
+  {
+    "number": 2,
+    "question": "During a therapy session of a family consisting of the couple, two daughters and a son, the son had been quiet and said very little, if anything. On the other hand, the couple and their daughters tended to fill the silence by saying almost anything, or having a silly laugh. The therapist then asked the couple, 'If your son spoke now what might he say?' . Which interview technique is used in this case?",
+    "options": {
+      "A": "Facilitation",
+      "B": "Hypothetical question",
+      "C": "Interpretation",
+      "D": "Positive reinforcement",
+      "E": "'Run-on' questioning"
+    },
+    "correct_answer": "B",
+    "explanation": "This type of question leads to an imaginative or unspoken response in the therapy sessions."
+  },
+  {
+    "number": 3,
+    "question": "A 21-year-old man told his doctor that Jesus spoke to him whenever he started his motorbike and stopped talking to him whenever he switched the engine off. He found this very distressing and confusing, so could not use his motorbike to go to work. Which of the following explains this experience?",
+    "options": {
+      "A": "Affective illusion",
+      "B": "Anxious foreboding",
+      "C": "Extracampine hallucination",
+      "D": "Functional hallucination",
+      "E": "Kinaesthetic hallucination"
+    },
+    "correct_answer": "D",
+    "explanation": "Functional hallucination requires the presence of another real sensory modality."
+  },
+  {
+    "number": 4,
+    "question": "A 37-year-old single American man informed his doctor that, whenever he saw President Obama on television, he got sharp pains in his right leg. He was convinced that President Obama was controlling him through the television. Which of the following can explain this man's experience?",
+    "options": {
+      "A": "Hemisomatognosis",
+      "B": "Hyperschemazia",
+      "C": "Hyposchemazia",
+      "D": "Paraschemazia",
+      "E": "Reflex hallucination"
+    },
+    "correct_answer": "E",
+    "explanation": "This is a form of synaesthesia where a stimulus of one sensory modality produces a sensory experience in another."
+  },
+  {
+    "number": 5,
+    "question": "A 61-year-old business executive had an exploratory laparotomy 5 days ago. He told the nurses that he saw tiny pink elephants and white tigers dancing outside the windowsills. He has a history of alcohol dependence. Which of the following explains his experience?",
+    "options": {
+      "A": "Hypnagogic hallucinations",
+      "B": "Hypnopompic hallucinations",
+      "C": "Lilliputian hallucinations",
+      "D": "Paraschemazia",
+      "E": "Pareidolia"
+    },
+    "correct_answer": "C",
+    "explanation": "Lilliputian hallucinations are visual hallucinations where the person sees tiny people or objects."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following is an example of a closed question?",
+    "options": {
+      "A": "'Have you been sleeping well?'",
+      "B": "'How are your sleep and appetite?'",
+      "C": "'So, do I understand this correctly that … ?'",
+      "D": "'What brought you to the emergency department today?'",
+      "E": "'You were not sleeping at that time?'"
+    },
+    "correct_answer": "A",
+    "explanation": "A closed question typically has a straightforward 'yes' or 'no' answer or a single word response."
+  },
+  {
+    "number": 7,
+    "question": "What does the three-stage command in the mini-mental state examination (MMSE) test?",
+    "options": {
+      "A": "Concentration",
+      "B": "Delayed recall",
+      "C": "Language naming",
+      "D": "Language understanding",
+      "E": "Verbal fluency"
+    },
+    "correct_answer": "D",
+    "explanation": "The three-stage command is used to assess language understanding."
+  },
+  {
+    "number": 8,
+    "question": "A 48-year-old married man was concerned that he might be developing Parkinson's disease. Which of the following clinical features is diagnostic?",
+    "options": {
+      "A": "A 10- to 12-Hz resting tremor",
+      "B": "Board-like muscular rigidity",
+      "C": "Exaggerated arm swinging",
+      "D": "Facial hypomimia",
+      "E": "Macrographia"
+    },
+    "correct_answer": "D",
+    "explanation": "Facial hypomimia is a classic sign associated with Parkinson's disease."
+  },
+  {
+    "number": 9,
+    "question": "Which of the following is the most appropriate and quickest assessment test for performance IQ?",
+    "options": {
+      "A": "MMSE",
+      "B": "National adult reading test",
+      "C": "Raven's progressive matrices",
+      "D": "Stanford–Binet scale",
+      "E": "Wechsler adult intelligence scale IV"
+    },
+    "correct_answer": "C",
+    "explanation": "Raven's progressive matrices is a non-verbal test widely used for assessing performance IQ."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following statements about Addenbrooke's cognitive examination is correct?",
+    "options": {
+      "A": "Possible outcomes include delirium, dementia and depression with psychotic symptoms",
+      "B": "Scores of < 82 predict dementia with 100% specificity",
+      "C": "Scores of < 82 predict dementia with 100% sensitivity",
+      "D": "Scores of < 90 predict dementia with 100% sensitivity",
+      "E": "The MMSE should be conducted separately"
+    },
+    "correct_answer": "C",
+    "explanation": "Scores of < 82 predict dementia with 100% sensitivity."
+  },
+  {
+    "number": 11,
+    "question": "Which of the following is assessed by the clock-drawing test?",
+    "options": {
+      "A": "Attention",
+      "B": "Comprehension",
+      "C": "Concentration",
+      "D": "Insight",
+      "E": "Orientation to time and person"
+    },
+    "correct_answer": "B",
+    "explanation": "The clock-drawing test is used to assess orientation to time and person."
+  },
+  {
+    "number": 12,
+    "question": "You are assessing the language function in a 50-year-old man with a history of cerebrovascular accident. He says 'litter for letter'. What is this an example of?",
+    "options": {
+      "A": "Nominal aphasia",
+      "B": "Phonemic paraphasia",
+      "C": "Semantic deficit",
+      "D": "Semantic paraphasia",
+      "E": "Superordinate response"
+    },
+    "correct_answer": "B",
+    "explanation": "This is an example of phonemic paraphasia where words with similar sounds are substituted."
+  },
+  {
+    "number": 13,
+    "question": "Which of the following is a non-verbal test for semantic memory?",
+    "options": {
+      "A": "Boston naming test",
+      "B": "Cactus and camel test",
+      "C": "Category fluency test",
+      "D": "Similarities test",
+      "E": "Word-to-picture matching"
+    },
+    "correct_answer": "B",
+    "explanation": "The cactus and camel test is designed to assess semantic memory non-verbally."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following can be assessed by the word stem completion task?",
+    "options": {
+      "A": "Declarative memory",
+      "B": "Episodic memory",
+      "C": "Priming",
+      "D": "Semantic memory",
+      "E": "Working memory"
+    },
+    "correct_answer": "C",
+    "explanation": "The word stem completion task assesses priming, a type of implicit memory."
+  },
+  {
+    "number": 15,
+    "question": "Which of the following lobe functions is assessed by the Iowa gambling test assess?",
+    "options": {
+      "A": "Frontal lobe",
+      "B": "Left parietal lobe",
+      "C": "Left temporal lobe",
+      "D": "Right parietal lobe",
+      "E": "Right temporal lobe"
+    },
+    "correct_answer": "A",
+    "explanation": "The Iowa gambling task primarily assesses decision-making capabilities linked to the frontal lobe."
+  },
+  {
+    "number": 16,
+    "question": "A 31-year-old man presented with a spinal injury. On examination, you diagnosed that he had spastic paralysis of the lower limbs. You tested his sensations and found that he had sensation above the umbilicus. Where is the spinal cord lesion?",
+    "options": {
+      "A": "C4",
+      "B": "L3",
+      "C": "S1",
+      "D": "T4",
+      "E": "T10"
+    },
+    "correct_answer": "E",
+    "explanation": "Sensations below T10 would be disrupted with an injury at this level."
+  },
+  {
+    "number": 17,
+    "question": "Which of the following is present in the Brown–Séquard syndrome with a right-sided lesion?",
+    "options": {
+      "A": "Decreased reflexes on the right",
+      "B": "Left hemiplegia of the arm and leg",
+      "C": "Left monoplegia",
+      "D": "Loss of pain and temperature sensation on the left side",
+      "E": "Loss of proprioception and vibration sense on the left side"
+    },
+    "correct_answer": "D",
+    "explanation": "In Brown–Séquard syndrome, pain and temperature sensation are lost contralaterally due to a right-sided lesion."
+  },
+  {
+    "number": 18,
+    "question": "A 33-year-old man was hit on his head during a fight. He was suspected of having an extradural haematoma. Which of the following signs is the first indication of raised intracranial pressure causing compression of cranial nerve III?",
+    "options": {
+      "A": "Constriction of the ipsilateral pupil",
+      "B": "Dilatation of the ipsilateral pupil",
+      "C": "Ipsilateral eyeball abducted and directed slightly inferiorly",
+      "D": "Ipsilateral ptosis",
+      "E": "Ipsilateral slowness of the pupillary response"
+    },
+    "correct_answer": "E",
+    "explanation": "The first sign indicating raised intracranial pressure affecting cranial nerve III is ipsilateral slowness of the pupillary response to light."
+  },
+  {
+    "number": 19,
+    "question": "A 55-year-old man diagnosed with hypothyroidism complained that he had an aching pain in his right hand with paraesthesia, occurring mainly at night. Which sign are you most likely to elicit?",
+    "options": {
+      "A": "Ability to oppose the thumb",
+      "B": "Loss of pronation of the forearm",
+      "C": "No sensory loss over the palm",
+      "D": "Sensory loss over the little finger",
+      "E": "Wasting of the thenar muscles"
+    },
+    "correct_answer": "E",
+    "explanation": "Wasting of the thenar muscles is indicative of carpal tunnel syndrome."
+  },
+  {
+    "number": 20,
+    "question": "A 70-year-old woman presented with hearing loss and tinnitus. Investigations led to a diagnosis of acoustic neuroma. You examine the patient's cranial nerves. What sign are you most likely to elicit?",
+    "options": {
+      "A": "Facial hyperaesthesia",
+      "B": "Facial weakness",
+      "C": "Impaired gag reflex",
+      "D": "Intact corneal reflex",
+      "E": "Ptosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Facial weakness is common with acoustic neuroma due to cranial nerve involvement."
+  },
+  {
+    "number": 21,
+    "question": "You were called to assess an 83-year-old man who was found wandering by the police. During the MMSE, you asked him to remember three objects but he was unable to repeat them after 1 minute. Which type of memory deficit has been elicited?",
+    "options": {
+      "A": "Anterograde memory",
+      "B": "Declarative memory",
+      "C": "Episodic memory",
+      "D": "Retrograde memory",
+      "E": "Working memory"
+    },
+    "correct_answer": "E",
+    "explanation": "The patient's inability to recall the three objects indicates a deficit in working memory."
+  },
+  {
+    "number": 22,
+    "question": "A 79-year-old widow with Alzheimer's disease attended the day hospital regularly. She continued enjoying knitting, which she used to do before developing her condition. Which of her memories remains intact?",
+    "options": {
+      "A": "Declarative memory",
+      "B": "Episodic memory",
+      "C": "Procedural memory",
+      "D": "Retrograde memory",
+      "E": "Semantic memory"
+    },
+    "correct_answer": "C",
+    "explanation": "Procedural memory, which includes skills such as knitting, often remains intact in dementia."
+  },
+  {
+    "number": 23,
+    "question": "A 31-year-old man was unconscious for 1 week after a road traffic accident. On examination, he had no memory for any events for a period of 2 weeks before the accident. What type of memory loss does this refer to?",
+    "options": {
+      "A": "Anterograde memory",
+      "B": "Episodic memory",
+      "C": "Retrograde memory",
+      "D": "Semantic memory",
+      "E": "Working memory"
+    },
+    "correct_answer": "C",
+    "explanation": "Retrograde memory loss refers to the inability to recall events that occurred before the injury."
+  },
+  {
+    "number": 24,
+    "question": "A 23-year-old man with schizophrenia presented with complaints of visual hallucinations, restlessness and marked thirst. On examination, he was agitated and had a raised body temperature, dilated pupils, dry mouth and urinary retention. Which of the following is most likely to account for this clinical presentation?",
+    "options": {
+      "A": "Antimuscarinic intoxication",
+      "B": "Benzodiazepine withdrawal",
+      "C": "Catatonia",
+      "D": "Cocaine withdrawal",
+      "E": "Opioid intoxication"
+    },
+    "correct_answer": "A",
+    "explanation": "Antimuscarinic intoxication can present with these symptoms, including agitation and physiological changes."
+  },
+  {
+    "number": 25,
+    "question": "Which of the following single-photon emission computed tomography (SPECT) scan reports is characteristic of Alzheimer's disease?",
+    "options": {
+      "A": "Increased perfusion in the frontal lobes",
+      "B": "Increased perfusion in the lateral temporal lobes",
+      "C": "Increased perfusion in the parietal lobes",
+      "D": "Reduced perfusion in the occipital lobes",
+      "E": "Reduced perfusion in the posterior temporal lobes"
+    },
+    "correct_answer": "E",
+    "explanation": "Reduced perfusion in the posterior temporal lobes is a characteristic finding on SPECT in Alzheimer's disease."
+  },
+  {
+    "number": 26,
+    "question": "Which of the following tests is used to assess executive function?",
+    "options": {
+      "A": "Adaptive behaviour scales",
+      "B": "Goldstein object sorting test",
+      "C": "Hayling's sentence completion test",
+      "D": "MMSE",
+      "E": "Rey–Osterrieth complex figure test"
+    },
+    "correct_answer": "C",
+    "explanation": "Hayling's sentence completion test assesses executive function by evaluating response initiation and suppression."
+  },
+  {
+    "number": 27,
+    "question": "Which of the following is a specific test for frontal lobe dysfunction?",
+    "options": {
+      "A": "Cognitive estimates test",
+      "B": "Digit-span task",
+      "C": "Raven's progressive matrices",
+      "D": "Repertory grid test",
+      "E": "Wechsler memory scale"
+    },
+    "correct_answer": "A",
+    "explanation": "The cognitive estimates test requires educated guesses and is indicative of frontal lobe functioning."
+  },
+  {
+    "number": 28,
+    "question": "Polymorphism of genes is associated with an increased risk of depression when exposed to psychosocial stressors. Which of the following is affected?",
+    "options": {
+      "A": "Dopamine D2-receptor",
+      "B": "Dopamine transporter",
+      "C": "Monoamine oxidase A",
+      "D": "Monoamine oxidase B",
+      "E": "Serotonin transporter"
+    },
+    "correct_answer": "E",
+    "explanation": "Variation in the serotonin transporter gene is linked to mood disorders and the trait of neuroticism."
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is a risk factor for attention deficit hyperactivity disorder?",
+    "options": {
+      "A": "Being a first-born child",
+      "B": "High levels of homovanillic acid",
+      "C": "High levels of noradrenaline metabolites (3-methyl-4-hydrophenyl glycol)",
+      "D": "Large family size",
+      "E": "Polymorphism in the dopamine D4 transporter gene"
+    },
+    "correct_answer": "E",
+    "explanation": "Polymorphism in the dopamine D4 transporter gene has been linked to an increased likelihood of developing ADHD."
+  },
+  {
+    "number": 30,
+    "question": "An 82-year-old widow living with her son presented with the first onset of somatic and auditory hallucinations accompanied by persecutory delusions. Which of the following is a risk factor for this presentation?",
+    "options": {
+      "A": "Alcohol abuse",
+      "B": "Being a widow",
+      "C": "Benzodiazepine addiction",
+      "D": "HLA-DR15-DQ6",
+      "E": "Impaired hearing"
+    },
+    "correct_answer": "E",
+    "explanation": "Impaired hearing can increase the risk of psychotic symptoms in older adults."
+  },
+  {
+    "number": 31,
+    "question": "The current evidence suggests that the risk of developing psychiatric illness is increased within 6 months of a significant life event. By what factor is this risk increased?",
+    "options": {
+      "A": "1–2",
+      "B": "2–7",
+      "C": "7–10",
+      "D": "10–14",
+      "E": "14–20"
+    },
+    "correct_answer": "B",
+    "explanation": "Research indicates that the risk is increased by 2–7 times following significant life events."
+  },
+  {
+    "number": 32,
+    "question": "With what is HLA-DQB1-*0602 mainly associated?",
+    "options": {
+      "A": "Alzheimer's disease",
+      "B": "Huntington's disease",
+      "C": "Klein–Levin syndrome",
+      "D": "Narcolepsy",
+      "E": "Schizophrenia"
+    },
+    "correct_answer": "D",
+    "explanation": "HLA-DQB1-*0602 is prominently linked with narcolepsy."
+  },
+  {
+    "number": 33,
+    "question": "Which of the following parts of the brain is likely to be involved in the difference between homosexual and heterosexual men?",
+    "options": {
+      "A": "Cortex",
+      "B": "Hypothalamus",
+      "C": "Medulla",
+      "D": "Pons",
+      "E": "Thalamus"
+    },
+    "correct_answer": "B",
+    "explanation": "Research indicates structural differences in the hypothalamus between homosexual and heterosexual men."
+  },
+  {
+    "number": 34,
+    "question": "An 8-year-old girl frequently got into trouble at school because she disturbed the other pupils and could not sit still in the classroom. However, when she was alone with her tutor she worked well and productively. What is the most likely aetiology of this child's problem?",
+    "options": {
+      "A": "Excessive punishment",
+      "B": "Food additives",
+      "C": "Lead exposure",
+      "D": "Neurological dysfunction",
+      "E": "Over-leniency"
+    },
+    "correct_answer": "D",
+    "explanation": "Neurological dysfunction is a likely underlying cause of attention-related behaviors."
+  },
+  {
+    "number": 35,
+    "question": "With what is tuberous sclerosis most likely to be associated?",
+    "options": {
+      "A": "ADHD",
+      "B": "Autism",
+      "C": "Conduct disorders",
+      "D": "Encopresis",
+      "E": "Enuresis"
+    },
+    "correct_answer": "B",
+    "explanation": "Tuberous sclerosis has a strong association with autism spectrum disorders."
+  },
+  {
+    "number": 36,
+    "question": "A 25-year-old female postgraduate student became extremely angry when her college thesis committee refused to approve her project. She claimed, 'They are just jealous of me because I will be the most brilliant scientist in the United Kingdom'. It has been observed that she has had such attitudes all her life. What is the most likely diagnosis?",
+    "options": {
+      "A": "Anxious (avoidant) personality disorder",
+      "B": "Emotionally unstable personality disorder",
+      "C": "Histrionic personality disorder",
+      "D": "Narcissistic personality disorder",
+      "E": "Passive–aggressive personality disorder"
+    },
+    "correct_answer": "D",
+    "explanation": "The features of grandiosity and a need for admiration suggest narcissistic personality disorder."
+  },
+  {
+    "number": 37,
+    "question": "A 30-year-old female nurse had recurrent intrusive thoughts of stabbing a patient with a hypodermic needle. She found the thoughts unpleasant, horrible and anxiety provoking, but was able to resist them. What is the most likely diagnosis?",
+    "options": {
+      "A": "Antisocial personality disorder",
+      "B": "Dependent personality disorder",
+      "C": "Emotionally unstable personality disorder",
+      "D": "Generalised anxiety disorder",
+      "E": "Obsessive–compulsive disorder"
+    },
+    "correct_answer": "E",
+    "explanation": "The presence of intrusive thoughts that are resisted suggests obsessive–compulsive disorder."
+  },
+  {
+    "number": 38,
+    "question": "A 26-year-old man liked wearing clothes of the opposite sex. He did not get any sexual gratification from the act but just enjoyed membership of the opposite sex. There was no desire for a sex change. What is the most likely diagnosis?",
+    "options": {
+      "A": "Dual-role transvestism",
+      "B": "Fetishistic transvestism",
+      "C": "Sadomasochism",
+      "D": "Transsexualism",
+      "E": "Voyeurism"
+    },
+    "correct_answer": "A",
+    "explanation": "Dual-role transvestism involves wearing clothing of the opposite gender for social belonging without sexual gratification."
+  },
+  {
+    "number": 39,
+    "question": "An 18-year-old man presented with transient perceptual abnormalities and incongruent affect. He was noticed to be giggling to himself. There were affective changes and some evidence of a thought disorder. What is the most likely diagnosis?",
+    "options": {
+      "A": "Catatonic schizophrenia",
+      "B": "Hebephrenic (disorganised) schizophrenia",
+      "C": "Paranoid schizophrenia",
+      "D": "Schizotypal disorder",
+      "E": "Simple schizophrenia"
+    },
+    "correct_answer": "B",
+    "explanation": "Hebephrenic schizophrenia is characterized by disorganized behavior and affective abnormalities."
+  },
+  {
+    "number": 40,
+    "question": "According to the International Classification of Diseases, 10th revision (ICD-10), which of the following is a diagnostic criterion of paranoid personality disorder?",
+    "options": {
+      "A": "Being excessively sensitive to setbacks and rebuffs",
+      "B": "Excessive efforts to avoid abandonment",
+      "C": "Inability to experience guilt",
+      "D": "Lack of desire for close friends or confiding relationships",
+      "E": "Rigidity and stubbornness"
+    },
+    "correct_answer": "A",
+    "explanation": "Excessive sensitivity to setbacks and rebuffs is a key feature of paranoid personality disorder."
+  },
+  {
+    "number": 41,
+    "question": "On which DSM-IV (Diagnostic and Statistical Manual of Mental Disorders, 4th edn) axis, is a medical condition coexisting with a mental disorder recorded?",
+    "options": {
+      "A": "Axis I only",
+      "B": "Axis III only",
+      "C": "Axis V only",
+      "D": "Axis I and axis III",
+      "E": "Axis I and axis V"
+    },
+    "correct_answer": "D",
+    "explanation": "General medical conditions are recorded on Axis III, while clinical disorders are on Axis I."
+  },
+  {
+    "number": 42,
+    "question": "What is the main difference between the DSM-IV-TR and the ICD-10 criteria used for the diagnosis of post-traumatic stress disorder?",
+    "options": {
+      "A": "Avoidance",
+      "B": "Exposure to traumatic event",
+      "C": "Functional impairment",
+      "D": "Hypervigilance",
+      "E": "Reliving"
+    },
+    "correct_answer": "C",
+    "explanation": "The DSM-IV-TR specifies criteria for functional impairment, which are not included in ICD-10."
+  },
+  {
+    "number": 43,
+    "question": "According to the ICD-10 classification, onset of symptoms in post-traumatic stress disorder should be within a specified period of time. What is this duration?",
+    "options": {
+      "A": "1 month",
+      "B": "3 months",
+      "C": "4 months",
+      "D": "6 months",
+      "E": "12 months"
+    },
+    "correct_answer": "D",
+    "explanation": "The ICD-10 requires that symptoms develop within 6 months of the traumatic event for PTSD diagnosis."
+  },
+  {
+    "number": 44,
+    "question": "Which publication of the ICD had included a section on mental disorders for the first time?",
+    "options": {
+      "A": "ICD-4",
+      "B": "ICD-5",
+      "C": "ICD-6",
+      "D": "ICD-7",
+      "E": "ICD-8"
+    },
+    "correct_answer": "C",
+    "explanation": "ICD-6 was the first publication to include a section on mental disorders."
+  },
+  {
+    "number": 45,
+    "question": "You get a call from the duty physician about a 38-year-old man with bipolar affective disorder whose mental state had been stable on lithium. The duty physician would like to start him on a diuretic as soon as possible. Which of the following diuretics does not interfere with the serum concentration of lithium?",
+    "options": {
+      "A": "Bendroflumethiazide",
+      "B": "Furosemide",
+      "C": "Indapamide",
+      "D": "Mannitol",
+      "E": "Spironolactone"
+    },
+    "correct_answer": "B",
+    "explanation": "Furosemide is a loop diuretic that generally does not affect lithium clearance."
+  },
+  {
+    "number": 46,
+    "question": "A 45-year-old man with a family history of diabetes mellitus presented with psychotic symptoms. Which of the following antipsychotics does not interfere with blood sugar?",
+    "options": {
+      "A": "Amisulpride",
+      "B": "Haloperidol",
+      "C": "Olanzapine",
+      "D": "Quetiapine",
+      "E": "Risperidone"
+    },
+    "correct_answer": "A",
+    "explanation": "Amisulpride has been shown to have a lesser impact on blood glucose levels compared to the others listed."
+  },
+  {
+    "number": 47,
+    "question": "You get a call from the duty obstetrician about a 32-year-old woman who was 15 weeks' pregnant and her bipolar affective disorder was stabilised on lithium. Which of the following statements about use of lithium in pregnancy is correct?",
+    "options": {
+      "A": "Lithium is not excreted in breast milk.",
+      "B": "Lithium use does not affect the fetus in the second trimester",
+      "C": "Lithium use in the first trimester is associated with neural tube defects in the fetus",
+      "D": "Serum lithium levels increase in the third trimester of pregnancy",
+      "E": "Serum lithium levels increase in the immediate postpartum period"
+    },
+    "correct_answer": "E",
+    "explanation": "Lithium use in the first trimester is associated with an increased risk of neural tube defects."
+  },
+  {
+    "number": 48,
+    "question": "Which of the following mood stabilisers has the best evidence for reducing the rates of completed suicides in bipolar affective disorder?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Gabapentin",
+      "C": "Lamotrigine",
+      "D": "Lithium",
+      "E": "Valproate"
+    },
+    "correct_answer": "D",
+    "explanation": "Lithium has been shown to significantly reduce the risk of both attempted and completed suicides in bipolar disorder."
+  },
+  {
+    "number": 49,
+    "question": "You review a 42-year-old man with a psychotic episode on the ward. He had been prescribed quetiapine since his admission last week. He went on leave and had a glass of grapefruit juice at home. How does grapefruit juice affect quetiapine metabolism?",
+    "options": {
+      "A": "Chemical components of grapefruit juice can free more quetiapine from protein-binding site",
+      "B": "Grapefruit juice decreases the excretion of quetiapine",
+      "C": "Grapefruit juice has no effect on quetiapine metabolism",
+      "D": "Grapefruit juice irreversibly blocks intestinal cytochrome P450",
+      "E": "Grapefruit juice reversibly blocks intestinal cytochrome P450"
+    },
+    "correct_answer": "D",
+    "explanation": "Grapefruit juice irreversibly inhibits cytochrome P450 3A4, increasing the effects of medications metabolized by this pathway."
+  },
+  {
+    "number": 50,
+    "question": "A 45-year-old man wanted to stop smoking and therefore engaged himself in a therapy programme, where the act of smoking was paired with imagining a horrible taste. On every occasion thereafter, every time he got an urge to smoke, he imagined the horrible taste. This approach helped him to stop smoking. What technique has his therapist used to help him stop smoking?",
+    "options": {
+      "A": "Aversion therapy",
+      "B": "Covert sensitisation",
+      "C": "Flooding",
+      "D": "Implosion",
+      "E": "Systematic desensitisation"
+    },
+    "correct_answer": "B",
+    "explanation": "Covert sensitisation uses imagery to create negative associations with the undesired behavior."
+  },
+  {
+    "number": 51,
+    "question": "Systemic desensitisation is an application of classic conditioning. What is the principle involved?",
+    "options": {
+      "A": "Covert sensitisation and implosion",
+      "B": "Flooding and reciprocal inhibition",
+      "C": "Flooding and systemic desensitisation",
+      "D": "Implosion and reciprocal inhibition",
+      "E": "Reciprocal inhibition and systemic desensitisation"
+    },
+    "correct_answer": "E",
+    "explanation": "Systemic desensitisation combines reciprocal inhibition with graded exposure to the feared object."
+  },
+  {
+    "number": 52,
+    "question": "Which of the following statements about assimilation in Piaget's theory of cognitive development is correct?",
+    "options": {
+      "A": "It is a process through which a child interprets new experiences by incorporating them into an existing schema",
+      "B": "It is a process by which the child modifies existing schema to incorporate new experiences",
+      "C": "It leads to development of new schema",
+      "D": "It occurs after accommodation",
+      "E": "It occurs before adaptation"
+    },
+    "correct_answer": "A",
+    "explanation": "Assimilation involves incorporating new experiences into existing schemas without changing the schemas."
+  },
+  {
+    "number": 53,
+    "question": "At what age does object permanence occur?",
+    "options": {
+      "A": "6–12 months",
+      "B": "12–18 months",
+      "C": "18–24 months",
+      "D": "24–30 months",
+      "E": "30–36 months"
+    },
+    "correct_answer": "C",
+    "explanation": "Object permanence typically develops between 18 to 24 months of age according to Piaget."
+  },
+  {
+    "number": 54,
+    "question": "What do we call drawing inferences about the relationship between two things based on a single shared attribute? AI chose E",
+    "options": {
+      "A": "Conservation",
+      "B": "Egocentricism",
+      "C": "Hypothetico-deductive reasoning",
+      "D": "Object permanence",
+      "E": "Transductive reasoning"
+    },
+    "correct_answer": "A",
+    "explanation": "Transductive reasoning involves inferring relationships based on a shared attribute without clear logic."
+  },
+  {
+    "number": 55,
+    "question": "Which of the following occurs in the sensorimotor stage of Piaget's theory of cognitive development? AI chose D",
+    "options": {
+      "A": "Animism",
+      "B": "Conservation",
+      "C": "Egocentrism",
+      "D": "Reflex activity",
+      "E": "Transductive reasoning"
+    },
+    "correct_answer": "E",
+    "explanation": "The sensorimotor stage involves basic reflex actions and sensory experiences."
+  },
+  {
+    "number": 56,
+    "question": "Which of the following statements about Piaget's stages of cognitive development is correct? AI chose C",
+    "options": {
+      "A": "In the sensorimotor stage, the child is egocentric",
+      "B": "Lack of conservation is a feature of the formal operational stage",
+      "C": "Logical reasoning is not present until the formal operational stage",
+      "D": "Non-logical thought is a feature of children aged 7–11 years",
+      "E": "The preoperational stage lasts for about 5 years"
+    },
+    "correct_answer": "D",
+    "explanation": "Logical reasoning begins during the concrete operational stage, which follows the preoperational stage."
+  },
+  {
+    "number": 57,
+    "question": "Which of the behavioural theorists first described the concept of operant conditioning?",
+    "options": {
+      "A": "Kohlberg",
+      "B": "Pavlov",
+      "C": "Piaget",
+      "D": "Seligman",
+      "E": "Skinner"
+    },
+    "correct_answer": "E",
+    "explanation": "B.F. Skinner is known for his work on operant conditioning, focusing on how rewards and punishments shape behavior."
+  },
+  {
+    "number": 58,
+    "question": "An 8-month-old girl enjoyed picking up toys and bringing them to her mouth. She was often seen sucking them. What phase of Freud's psychosexual development is she going through?",
+    "options": {
+      "A": "Anal phase",
+      "B": "Genital phase",
+      "C": "Latency phase",
+      "D": "Oral phase",
+      "E": "Phallic phase"
+    },
+    "correct_answer": "D",
+    "explanation": "The oral phase occurs from birth to around 18 months, focusing on oral activities such as sucking and biting."
+  },
+  {
+    "number": 59,
+    "question": "According to Freud, during psychosexual development a boy focuses his love on his mother. This can reach a stage where a boy becomes jealous of his father and wants to kill him. However, he cannot do this for fear of castration and so represses these urges as he moves to the next stage of development. Which of the following describes the boy's psychosocial development?",
+    "options": {
+      "A": "Anal phase",
+      "B": "Genital phase",
+      "C": "Latency phase",
+      "D": "Oedipus complex",
+      "E": "Phallic phase"
+    },
+    "correct_answer": "D",
+    "explanation": "The Oedipus complex describes a boy's feelings of desire for his mother and jealousy towards his father."
+  },
+  {
+    "number": 60,
+    "question": "A child copies a circle, uses basic grammatically correct sentences, shows cooperative play, has a fear of animals and the dark, and also has his own sexual identity. What is his age?",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "4 years",
+      "D": "5 years",
+      "E": "6 years"
+    },
+    "correct_answer": "B",
+    "explanation": "A 3-year-old child can exhibit these developments in play and language skills."
+  },
+  {
+    "number": 61,
+    "question": "A 24-year-old man exhibited an outpouring of emotions during a lengthy discussion of childhood memories. He was often angry, rambled excessively, and was distressed and tearful. Which category of Mary Main's adult attachment interview is he representing?",
+    "options": {
+      "A": "Deprivation",
+      "B": "Dismissing",
+      "C": "Disorganised",
+      "D": "Preoccupied/Entangled",
+      "E": "Secure/Autonomous"
+    },
+    "correct_answer": "D",
+    "explanation": "Preoccupied attachment is characterized by emotional responses and difficulty in maintaining a coherent narrative."
+  },
+  {
+    "number": 62,
+    "question": "A child encountered a horse for the first time and called it a 'doggie'. What is the term developed by Jean Piaget for this cognitive process?",
+    "options": {
+      "A": "Adaptation",
+      "B": "Accommodation",
+      "C": "Assimilation",
+      "D": "Equilibration",
+      "E": "Schemas"
+    },
+    "correct_answer": "C",
+    "explanation": "This is an example of assimilation, where the child applies an already existing schema to a new object."
+  },
+  {
+    "number": 63,
+    "question": "At which stage of Margaret Mahler's theory of cognitive development does a child perceive his or her mother and self as one unit?",
+    "options": {
+      "A": "Autism",
+      "B": "Differentiation",
+      "C": "Object constancy",
+      "D": "Practising",
+      "E": "Symbiosis"
+    },
+    "correct_answer": "E",
+    "explanation": "In the symbiotic stage, the child sees mother and self as a unified whole."
+  },
+  {
+    "number": 64,
+    "question": "With what is Lawrence Kohlberg associated?",
+    "options": {
+      "A": "Cognitive reasoning in adults",
+      "B": "Description of the four major stages of morality",
+      "C": "Description of the good mother",
+      "D": "Extension of Mary Main's theory of cognitive development in children",
+      "E": "Moral reasoning in adults"
+    },
+    "correct_answer": "E",
+    "explanation": "Kohlberg is known for his work on the stages of moral development and moral reasoning."
+  },
+  {
+    "number": 65,
+    "question": "Which of the following statements about catharsis is correct?",
+    "options": {
+      "A": "It is always necessary to discharge or reduce aggression",
+      "B": "Catharsis is most unlikely to be associated with aggression",
+      "C": "It is most effective in the management of violent behaviour",
+      "D": "It leads to more aggression in patients undergoing catharsis",
+      "E": "It is predominantly effective in the long-term management of aggression"
+    },
+    "correct_answer": "D",
+    "explanation": "While catharsis can provide temporary relief, it may actually increase aggressive behavior in some individuals."
+  },
+  {
+    "number": 66,
+    "question": "In which stage of cognitive development, are phenomenalistic causality and animistic thinking are seen?",
+    "options": {
+      "A": "Concrete operational",
+      "B": "Concrete sensorimotor",
+      "C": "Formal operational",
+      "D": "Preoperational",
+      "E": "Presensorimotor"
+    },
+    "correct_answer": "D",
+    "explanation": "Phenomenalistic causality and animistic thinking are characteristic of the preoperational stage."
+  },
+  {
+    "number": 67,
+    "question": "A 21-year-old woman always felt that she was not as good as her older sister. Which one of Argyle's four dimensions does the above describe?",
+    "options": {
+      "A": "Ego-strength",
+      "B": "Integration of the self",
+      "C": "Self-esteem",
+      "D": "Self-image",
+      "E": "The ego-ideal"
+    },
+    "correct_answer": "C",
+    "explanation": "Self-esteem refers to how one values oneself in comparison to others."
+  },
+  {
+    "number": 68,
+    "question": "Teachers tend to take the credit for a student's academic success but will attribute a student's poor performance to his or her laziness. Which of the following describes the 'fundamental attribution error'? AI chose B",
+    "options": {
+      "A": "He failed the examination because he did not have enough time to finish his paper",
+      "B": "He failed the examination because he did not study hard enough",
+      "C": "He failed the examination due to the ambiguous questions set by the examiners",
+      "D": "He passed the examination due to my hard work and academic prowess",
+      "E": "He failed the examination because the exam hall was too noisy"
+    },
+    "correct_answer": "D",
+    "explanation": "The fundamental attribution error refers to the tendency to overemphasize personal characteristics and downplay situational factors when interpreting others' behaviors."
+  },
+  {
+    "number": 69,
+    "question": "French and Raven described the social power derived from the ability to allocate resources. What is this called?",
+    "options": {
+      "A": "Authority",
+      "B": "Coercive",
+      "C": "Expert",
+      "D": "Referent",
+      "E": "Reward"
+    },
+    "correct_answer": "E",
+    "explanation": "Reward power is derived from the ability to give benefits or rewards to others."
+  },
+  {
+    "number": 70,
+    "question": "Which of the following increases prejudice?",
+    "options": {
+      "A": "Cooperative effort",
+      "B": "Equal status",
+      "C": "Exposure to non-stereotypical individual",
+      "D": "Social environment favouring equality",
+      "E": "Stereotyping of the victim of prejudice"
+    },
+    "correct_answer": "E",
+    "explanation": "Stereotyping victims reinforces prejudicial attitudes."
+  },
+  {
+    "number": 71,
+    "question": "What does the valid test of orientation in a 25-year-old delirious patient include?",
+    "options": {
+      "A": "Ability to perform mental arithmetic",
+      "B": "Awareness of the role of the interviewer",
+      "C": "Giving correct date of birth",
+      "D": "Giving correct information about their family",
+      "E": "Giving current address"
+    },
+    "correct_answer": "B",
+    "explanation": "Awareness of the role of the interviewer is a vital component to assess orientation in delirious patients."
+  },
+  {
+    "number": 72,
+    "question": "Which of the following statements about the serial sevens test is correct?",
+    "options": {
+      "A": "It is a bedside diagnostic test of Alzheimer's disease",
+      "B": "It is a good indicator of concentration",
+      "C": "It can differentiate cognitive impairment due to a variety of reasons",
+      "D": "It is impaired in a psychotic patient",
+      "E": "It serves as an indicator of the patient's mathematical ability"
+    },
+    "correct_answer": "B",
+    "explanation": "The serial sevens test assesses attention and concentration, not formal mathematical ability."
+  },
+  {
+    "number": 73,
+    "question": "Which of the following statements about Kelly's personal construct theory is correct?",
+    "options": {
+      "A": "It forms the basis of a therapy that aims to help people construct more effective interpretations and theories of the world",
+      "B": "We are unable to develop constructs in order to deal with all kinds of situation or events in later life",
+      "C": "We are unable to identify invalid theories that hinder us in later life",
+      "D": "We can construct our lives or reconstruct the progress in our lives, following our impulses",
+      "E": "We can engage in unconscious mental activities and consequently know about ourselves and the world"
+    },
+    "correct_answer": "A",
+    "explanation": "Kelly's theory emphasizes the importance of personal constructs in shaping how we view the world, guiding therapeutic approaches."
+  },
+  {
+    "number": 74,
+    "question": "A 35-year-old man with alcohol problem undergoes a psychological assessment. He was now willing to accept positive advice for change, make plans for behaviour change, set goals and assess past successes and failures. At which of Prochaska and Diclemente's (1993) stages of behaviour is he at present? AI chose C",
+    "options": {
+      "A": "Awareness",
+      "B": "Contemplation",
+      "C": "Preparation",
+      "D": "Ready for action",
+      "E": "Termination"
+    },
+    "correct_answer": "D",
+    "explanation": "The preparation stage is characterized by individuals making plans and taking small steps towards change."
+  },
+  {
+    "number": 75,
+    "question": "A 15-year-old girl told you that she had been repeatedly sexually abused by her stepfather. Which is the first-line management step that you should take?",
+    "options": {
+      "A": "Cognitive–analytic therapy",
+      "B": "Cognitive–behavioural therapy",
+      "C": "Post-traumatic debriefing",
+      "D": "Refer to social services",
+      "E": "Systemic family therapy"
+    },
+    "correct_answer": "D",
+    "explanation": "The first line of action in cases of abuse is to ensure the safety of the child and refer to social services."
+  },
+  {
+    "number": 76,
+    "question": "A 59-year-old man presented complaining bitterly that he had recently been diagnosed with a malignancy. During the assessment, he objected to the statement that he led a healthy lifestyle. Which of the following describes this situation?",
+    "options": {
+      "A": "Emotional reasoning",
+      "B": "Fallacy of fairness",
+      "C": "Mental filtering",
+      "D": "Reductionism",
+      "E": "Self-righteous cognition"
+    },
+    "correct_answer": "B",
+    "explanation": "The fallacy of fairness describes an unreasonable expectation of fairness from life events."
+  },
+  {
+    "number": 77,
+    "question": "A 23-year-old female graduate was assessed for cognitive–behavioural therapy for generalised anxiety disorder. According to the cognitive therapy of anxiety, which of the following is correct?",
+    "options": {
+      "A": "Anxiety is a disorder of thinking",
+      "B": "Anxiety is associated with hyperarousal",
+      "C": "Anxiety is associated with physical symptoms",
+      "D": "Catastrophisation is a major mechanism",
+      "E": "Sensitisation is an essential mechanism"
+    },
+    "correct_answer": "D",
+    "explanation": "Catastrophisation involves misinterpreting situations to predict desperately negative outcomes, a significant factor in anxiety."
+  },
+  {
+    "number": 78,
+    "question": "A 28-year-old single man had been taking crack cocaine for a few years. He attended a drug advisory centre at the request of his girlfriend. He did not consider this a problem and believed that his girlfriend's worries were excessive. Which of Prochaska and Diclemente's stages of change is reflected here? AI chose B",
+    "options": {
+      "A": "Preaction",
+      "B": "Precontemplation",
+      "C": "Predecision",
+      "D": "Pre-evaluation",
+      "E": "Premotivation"
+    },
+    "correct_answer": "D",
+    "explanation": "In the precontemplation stage, individuals are often unaware of their problematic behavior and not considering change. AI chose D"
+  },
+  {
+    "number": 79,
+    "question": "Which of the following statements about benzodiazepine receptors is correct?",
+    "options": {
+      "A": "Benzodiazepine receptors are associated with excitatory neurotransmitters",
+      "B": "Chlormethiazole binds to the same site as benzodiazepines",
+      "C": "These receptors are linked to sodium channels",
+      "D": "Zolpidem binds to a subtype benzodiazepine receptor-1",
+      "E": "Zopiclone binds to same site as benzodiazepines"
+    },
+    "correct_answer": "C",
+    "explanation": "Zolpidem specifically binds to the GABA receptor subtype, benzodiazepine receptor-1, enhancing its effects."
+  },
+  {
+    "number": 80,
+    "question": "Which of the following statements about lithium is correct?",
+    "options": {
+      "A": "Lithium blood samples are taken 18 hours after the last dose",
+      "B": "Only concentrations > 2.0 mmol/L are associated with an increased risk of toxicity",
+      "C": "Regular monitoring can lead to poor compliance",
+      "D": "Serum lithium concentrations should be measured with changing renal function",
+      "E": "Target lithium concentrations range between 0.1 and 0.2 mmol/L"
+    },
+    "correct_answer": "D",
+    "explanation": "Changes in renal function can significantly influence lithium levels, necessitating careful monitoring."
+  },
+  {
+    "number": 81,
+    "question": "Pharmacokinetic interactions occur when one drug interferes with the actions of another drug during absorption, distribution and elimination. Which of the following statements is correct?",
+    "options": {
+      "A": "Cytochrome 450 allows psychotropic metabolism",
+      "B": "Diuretics alter the availability of lithium",
+      "C": "Monoamine oxidase inhibitors increase the metabolism of dietary amines",
+      "D": "Paracetamol reduces absorption of amitriptyline by about 50%",
+      "E": "Valproate is displaced from protein-binding sites by phenytoin"
+    },
+    "correct_answer": "B",
+    "explanation": "Diuretics can significantly impact lithium concentration, affecting its therapeutic levels."
+  },
+  {
+    "number": 82,
+    "question": "Which of the following statements about treatment of depressive illness without psychotic symptoms is correct?",
+    "options": {
+      "A": "Antidepressants are effective in 90% of patients",
+      "B": "Antidepressants are effective in only 50% of patients",
+      "C": "Failure of adequate trials occurs in 25% of patients",
+      "D": "Failure of adequate trial of an antidepressant occurs in 15% of patients",
+      "E": "Nearly 60% of the partial responders to antidepressants benefit from addition of lithium"
+    },
+    "correct_answer": "C",
+    "explanation": "Approximately 25% of patients with depressive illness may fail to find relief from antidepressants."
+  },
+  {
+    "number": 83,
+    "question": "Which of the following statements about the adverse effects of lithium is correct?",
+    "options": {
+      "A": "10–20% of patients show morphological kidney changes with long-term therapy",
+      "B": "After 6–18 months of treatment, 60% of women develop hypothyroidism",
+      "C": "More than 10% of patients develop irreversible kidney failure after 10 years of treatment",
+      "D": "The estimated risk of major congenital abnormalities for lithium-exposed babies is 80%",
+      "E": "Up to 70% of patients treated with lithium experience side effects"
+    },
+    "correct_answer": "A",
+    "explanation": "Long-term lithium therapy can lead to morphological changes in approximately 10-20% of patients."
+  },
+  {
+    "number": 84,
+    "question": "Which of the following statements about the sedative property of tricyclic and tetracyclic antidepressants is correct?",
+    "options": {
+      "A": "Amitriptyline is the least sedating tricyclic antidepressant",
+      "B": "Desipramine is the most sedating tricyclic antidepressant",
+      "C": "Tetracyclic antidepressants have a sedative effect due to anticholinergic properties",
+      "D": "Trazodone is a highly sedative tetracyclic antidepressant",
+      "E": "Tricyclic antidepressants have a sedative effect due to 5-hydroxytryptamine (5-HT2) antagonism"
+    },
+    "correct_answer": "D",
+    "explanation": "Trazodone is known for its significant sedative properties among tetracyclic antidepressants."
+  },
+  {
+    "number": 85,
+    "question": "A 57-year-old man with hypertension, myocardial infarction and depression received treatment with fluoxetine. However, he developed severe hyponatraemia. Which of the following medications is most suitable in this case for the treatment of depression? AI chose A",
+    "options": {
+      "A": "Citalopram",
+      "B": "Mirtazapine",
+      "C": "Quetiapine",
+      "D": "Reboxetine",
+      "E": "Sertraline"
+    },
+    "correct_answer": "C",
+    "explanation": "Citalopram is known to have a lower risk of inducing hyponatraemia compared to other SSRIs."
+  },
+  {
+    "number": 86,
+    "question": "In the treatment of bipolar depression, the National Institute for Health and Care Excellence (NICE) recommends the use of quetiapine, provided that it satisfies one of the following criteria. What is that criterion? AI chose A",
+    "options": {
+      "A": "An antimanic agent has not been prescribed",
+      "B": "An antimanic has already been prescribed",
+      "C": "An antipsychotic and antimanic have not been previously tried",
+      "D": "An antipsychotic has already been prescribed",
+      "E": "An antipsychotic has not been prescribed"
+    },
+    "correct_answer": "E",
+    "explanation": "NICE recommends quetiapine for bipolar depression when no antimanic agent has been used."
+  },
+  {
+    "number": 87,
+    "question": "In the treatment of post-stroke depression of a patient who is also taking warfarin, which of the following is the most suitable antidepressant?",
+    "options": {
+      "A": "Citalopram",
+      "B": "Dapoxetine",
+      "C": "Fluoxetine",
+      "D": "Fluvoxamine",
+      "E": "Paroxetine"
+    },
+    "correct_answer": "A",
+    "explanation": "Citalopram has the least interaction with warfarin compared to other SSRIs."
+  },
+  {
+    "number": 88,
+    "question": "A 17-year-old man presented to the outpatient clinic with symptoms suggestive of psychosis. He reported having smoked cannabis on a regular basis since a young age. Which of the following statements about cannabis and onset of psychosis is correct?",
+    "options": {
+      "A": "Age of onset of psychosis is 2.7 years earlier in cannabis users",
+      "B": "Alcohol use is linked with a younger age of onset of psychosis",
+      "C": "Cannabis does not influence the age of onset of psychosis",
+      "D": "Cannabis users have a delayed onset of psychosis",
+      "E": "Cannabis is the only illicit drug linked with an earlier onset of psychosis"
+    },
+    "correct_answer": "A",
+    "explanation": "Evidence shows that cannabis use is associated with an earlier onset of psychotic symptoms."
+  },
+  {
+    "number": 89,
+    "question": "A 27-year-old man has recovered from his first episode of psychosis. His family does not want him to take medication for 'longer than is needed' due to side effects. Which of the following statements about the first 5 years after the onset of a first episode of psychosis is correct? AI chose C",
+    "options": {
+      "A": "Most patients who experience a single episode of psychosis never relapse after remission",
+      "B": "Up to half of patients who experience a first episode of psychosis relapse within 3 years of remission",
+      "C": "Up to half of patients who experience a first episode psychosis relapse within 5 years of remission",
+      "D": "Up to 20% of patients who experience a first episode psychosis relapse within 5 years of remission",
+      "E": "Up to 80% of patients who experience a first episode psychosis relapse within 5 years of remission"
+    },
+    "correct_answer": "E",
+    "explanation": "Studies suggest that approximately half of the patients will experience a relapse within five years after the first episode."
+  },
+  {
+    "number": 90,
+    "question": "Which of the following statements about childhood abuse is correct?",
+    "options": {
+      "A": "Boys experience more physical abuse than girls",
+      "B": "Boys experience more sexual abuse than girls",
+      "C": "Fathers are more likely to physically abuse their children",
+      "D": "Mothers are more likely to sexually abuse their children",
+      "E": "Mothers are as likely as fathers to sexually abuse their children"
+    },
+    "correct_answer": "A",
+    "explanation": "Statistical evidence indicates that boys are more frequently victims of physical abuse than girls."
+  },
+  {
+    "number": 91,
+    "question": "Which of the following is an example of sensory deception?",
+    "options": {
+      "A": "Derealisation",
+      "B": "Increased sensitivity to noise",
+      "C": "Perceived irregularity of the shape of an object",
+      "D": "Seeing vivid pictures in clouds",
+      "E": "Yellow colouring of visual perception"
+    },
+    "correct_answer": "D",
+    "explanation": "Seeing vivid pictures in clouds is a form of pareidolia, a type of sensory deception."
+  },
+  {
+    "number": 92,
+    "question": "Which of the following is a sensory distortion?",
+    "options": {
+      "A": "Dysmegalopsia",
+      "B": "Hallucinosis",
+      "C": "Pareidolia",
+      "D": "Phantom limb",
+      "E": "Synaesthesia"
+    },
+    "correct_answer": "A",
+    "explanation": "Dysmegalopsia refers to a distortion in the perception of size, making it a sensory distortion."
+  },
+  {
+    "number": 93,
+    "question": "Which of the following statements about illusions is correct?",
+    "options": {
+      "A": "Affect illusions are clinically different from hallucinations",
+      "B": "Auditory illusions are the most common modality of illusions",
+      "C": "Illusions do not occur in delirium",
+      "D": "Illusions in themselves indicate psychopathology",
+      "E": "Pareidolia consists of vivid illusions without any extra effort"
+    },
+    "correct_answer": "E",
+    "explanation": "Pareidolia involves seeing familiar patterns, such as faces, in random stimuli, typically without conscious effort."
+  },
+  {
+    "number": 94,
+    "question": "Which of the following statements about hallucinations is correct?",
+    "options": {
+      "A": "Charles Bonnet syndrome includes clouding of consciousness",
+      "B": "Hallucinations are pathognomonic of psychotic disorders",
+      "C": "Hallucinosis is a characteristic feature of alcohol intoxication",
+      "D": "Lesions of the diencephalon can lead to auditory hallucinations",
+      "E": "Normal people can be persuaded to hallucinate"
+    },
+    "correct_answer": "E",
+    "explanation": "Studies have shown that under specific conditions, even non-psychotic individuals can be induced to experience hallucinations."
+  },
+  {
+    "number": 95,
+    "question": "A 24-year-old man smelt burning rubber when he saw red signal at traffic lights and was convinced of the link between them. What is this phenomenon known as?",
+    "options": {
+      "A": "Extracampine hallucination",
+      "B": "Functional hallucination",
+      "C": "Primary delusion",
+      "D": "Reflex hallucination",
+      "E": "Sensory distortion"
+    },
+    "correct_answer": "D",
+    "explanation": "Reflex hallucination refers to sensory experience triggered by an external stimulus, suggesting a link that is not present."
+  },
+  {
+    "number": 96,
+    "question": "A 45-year-old man has been diagnosed as having locked-in syndrome. Which of the following statements is correct? AI chose B",
+    "options": {
+      "A": "All the muscles are paralysed",
+      "B": "It is caused by a lesion in motor pathways in the dorsal pons",
+      "C": "It is characterised by akinetic mutism",
+      "D": "Consciousness is clouded",
+      "E": "Joints in the arms and legs get locked, leading to rigidity"
+    },
+    "correct_answer": "C",
+    "explanation": "Locked-in syndrome usually results from lesions in the ventral pons affecting motor pathways while sparing consciousness."
+  },
+  {
+    "number": 97,
+    "question": "A 69-year-old woman was found wandering in the streets. She was disoriented on assessment in the accident and emergency department. Which of the following statements about orientation is correct?",
+    "options": {
+      "A": "Disorientation rules out a functional psychiatric illness",
+      "B": "Established disorientation in time and place requires clouding of consciousness",
+      "C": "Hysterical dissociation is present with apparent disorientation",
+      "D": "Loss of the knowledge of the patient's own name and identity occurs before the disorientation of others' identity",
+      "E": "Orientation in space is disturbed before orientation in time"
+    },
+    "correct_answer": "C",
+    "explanation": "Hysterical dissociation can present with apparent disorientation, emphasizing the complexity of orientation issues."
+  },
+  {
+    "number": 98,
+    "question": "A 52-year-old man with a long history of alcohol dependence and memory problems presents with confabulation. Which one of the following is correct with regard to confabulation? AI chose B",
+    "options": {
+      "A": "Memory of actual events displaced in space or time",
+      "B": "Diagnostic feature of Korsakoff's syndrome",
+      "C": "False memory syndrome as the memory is impaired",
+      "D": "Effects on autobiographical memory rare",
+      "E": "Patient aware of memory deficits"
+    },
+    "correct_answer": "A",
+    "explanation": "Confabulation is a classic feature of Korsakoff's syndrome, where the patient generates fabricated memories."
+  },
+  {
+    "number": 99,
+    "question": "Which of the following is pathognomonic of organic brain disease?",
+    "options": {
+      "A": "Amnesia",
+      "B": "Confabulation",
+      "C": "Confusion",
+      "D": "Disorientation",
+      "E": "Perseveration"
+    },
+    "correct_answer": "E",
+    "explanation": "Perseveration can be a distinct indicator related to organic brain damage."
+  },
+  {
+    "number": 100,
+    "question": "A 24-year-old man suddenly collapsed on hearing the news of his country winning the world cup. What is the most likely phenomenon?",
+    "options": {
+      "A": "Catalepsy",
+      "B": "Cataplexy",
+      "C": "Catatonia",
+      "D": "Dissociative paralysis",
+      "E": "Sleep paralysis"
+    },
+    "correct_answer": "B",
+    "explanation": "Cataplexy is characterized by sudden loss of muscle tone, often triggered by strong emotions."
+  },
+  {
+    "number": 101,
+    "question": "A 21-year-old man saw a car flashing its indicator to turn right and immediately believed that he was the heir to the throne. What is this phenomenon called? AI chose A",
+    "options": {
+      "A": "Delusions of grandeur",
+      "B": "Misidentification syndrome",
+      "C": "Primary delusion",
+      "D": "Reflex hallucination",
+      "E": "Secondary delusion"
+    },
+    "correct_answer": "C",
+    "explanation": "Delusions of grandeur involve an inflated sense of self-importance or special status."
+  },
+  {
+    "number": 102,
+    "question": "A 26-year-old woman believed that she was the owner of the Manchester United Football Club. Which of the following dimensions best describes the severity of the delusion? AI chose A",
+    "options": {
+      "A": "Content",
+      "B": "Diagnosis",
+      "C": "Duration",
+      "D": "Frequency",
+      "E": "Pressure"
+    },
+    "correct_answer": "E",
+    "explanation": "The content dimension refers to the specific beliefs encompassed in a delusion, like ownership."
+  },
+  {
+    "number": 103,
+    "question": "A patient says 'I am well today-ay-ay-ay-ay…'. What is this an example of?",
+    "options": {
+      "A": "Automatic obedience",
+      "B": "Echolalia",
+      "C": "Echopraxia",
+      "D": "Logoclonia",
+      "E": "Stuttering"
+    },
+    "correct_answer": "D",
+    "explanation": "Logoclonia involves the repetition of syllables, often occurring in neurological conditions."
+  },
+  {
+    "number": 104,
+    "question": "You administered the MMSE to a 65-year-old man. On asking about the day of the week, he said 'Monday'. Then you asked him about the month and he still said 'Monday'. When you asked him about the year, he told you 'Monday'. What is this best described as?",
+    "options": {
+      "A": "Automatism",
+      "B": "Mannerism",
+      "C": "Perseveration",
+      "D": "Stereotypy",
+      "E": "Stuttering"
+    },
+    "correct_answer": "C",
+    "explanation": "Perseveration occurs when a response continues beyond its relevance, indicated by the repeated 'Monday' responses."
+  },
+  {
+    "number": 105,
+    "question": "Which of the following is a characteristic feature of depersonalisation?",
+    "options": {
+      "A": "Affect can be pleasant in some cases",
+      "B": "Ego boundaries get dissolved",
+      "C": "Insight is often impaired",
+      "D": "It is a subjective experience",
+      "E": "It is clearly distinguishable from derealisation"
+    },
+    "correct_answer": "D",
+    "explanation": "Depersonalisation is defined as a subjective experience where individuals feel detached from themselves."
+  },
+  {
+    "number": 106,
+    "question": "What does the 'serial sevens' test assess?",
+    "options": {
+      "A": "Attention",
+      "B": "Concentration",
+      "C": "Executive functions",
+      "D": "Orientation",
+      "E": "Retention"
+    },
+    "correct_answer": "B",
+    "explanation": "The serial sevens test primarily assesses concentration and mental arithmetic."
+  },
+  {
+    "number": 107,
+    "question": "A doctor, when carrying out a physical examination of the cardiovascular system on a female patient, asked her to unbutton her 'skirt' instead of her 'shirt'. What is this described as?",
+    "options": {
+      "A": "Logoclonia",
+      "B": "Neologism",
+      "C": "Paragrammatism",
+      "D": "Parapraxis",
+      "E": "Stock word"
+    },
+    "correct_answer": "D",
+    "explanation": "Parapraxis, or a Freudian slip, occurs when a mistake reveals unconscious thoughts."
+  },
+  {
+    "number": 108,
+    "question": "What is Broca's dysphasia characterised by?",
+    "options": {
+      "A": "Conduction aphasia",
+      "B": "Fluent aphasia",
+      "C": "Scanning speech",
+      "D": "Staccato speech",
+      "E": "Telegraphic speech"
+    },
+    "correct_answer": "E",
+    "explanation": "Broca's dysphasia is characterized by telegraphic speech, where speech is non-fluent and lacks grammatical structure."
+  },
+  {
+    "number": 109,
+    "question": "Which of following is not an extreme form of cooperation?",
+    "options": {
+      "A": "Advertence",
+      "B": "Echopraxia",
+      "C": "Gegenhalten",
+      "D": "Mitgehen",
+      "E": "Mitmachen"
+    },
+    "correct_answer": "D",
+    "explanation": "Advertence is not classified as a form of cooperation or compliance"
+  },
+  {
+    "number": 110,
+    "question": "What is familiarity with an unfamiliar situation called?",
+    "options": {
+      "A": "Déjà-vu",
+      "B": "Jamais-vu",
+      "C": "Recognition",
+      "D": "Recollection",
+      "E": "Retrieval"
+    },
+    "correct_answer": "A",
+    "explanation": "Jamais-vu describes the feeling of unfamiliarity in a familiar situation, the opposite of déjà-vu."
+  },
+  {
+    "number": 111,
+    "question": "Which of the following explains memory impairment accurately?",
+    "options": {
+      "A": "Confabulation is an example of a problem with 'retention'",
+      "B": "Following a cerebral trauma, retrograde amnesia occurs due to problems in registration",
+      "C": "In Korsakoff's syndrome, memory impairment occurs due to a problem in recall",
+      "D": "Memory impairment due to electroconvulsive therapy includes apparent loss of memory stores",
+      "E": "Memory stays intact in a fugue state"
+    },
+    "correct_answer": "A",
+    "explanation": "Confabulation involves generating false memories to fill gaps, often associated with retention issues."
+  },
+  {
+    "number": 112,
+    "question": "According to the Kübler–Ross model, which of the following constitutes one of the stages of grief?",
+    "options": {
+      "A": "Anger",
+      "B": "Anxiety",
+      "C": "Flashbacks",
+      "D": "Insomnia",
+      "E": "Mourning"
+    },
+    "correct_answer": "A",
+    "explanation": "Anger is one of the recognized stages of grief in the Kübler-Ross model."
+  },
+  {
+    "number": 113,
+    "question": "A 35-year-old man believed that this world was a dirty place to live in. He washed his hands several times and took a bath twice a day. He drank only bottled water, washed his clothes in hot water with a particular detergent, got medically examined every 6 months and stayed away from pets. He does not think that there is anything wrong in such thinking. Which of the following describes the psychopathology?",
+    "options": {
+      "A": "Delusion of contamination",
+      "B": "No psychopathology",
+      "C": "Obsession and compulsion",
+      "D": "Overvalued idea",
+      "E": "Specific phobia of contamination"
+    },
+    "correct_answer": "D",
+    "explanation": "The behaviors indicate both obsession (intrusive thoughts) and compulsion (ritualistic cleaning)."
+  },
+  {
+    "number": 114,
+    "question": "A 22-year-old medical student, confronted with an enormous mass of information and responsibility, became engrossed in her work, and felt less anxious and mentally stronger for continuing her studies. Which of the following coping mechanisms can explain the situation?",
+    "options": {
+      "A": "Denial",
+      "B": "Humour",
+      "C": "Mastery and control",
+      "D": "Reaction formation",
+      "E": "Sublimation"
+    },
+    "correct_answer": "C",
+    "explanation": "Mastery and control refers to actively engaging with stressors to improve psychological well-being."
+  },
+  {
+    "number": 115,
+    "question": "During an individual psychotherapy session, the therapist began talking excessively and confronted the patient. This was probably a result of something in the patient's behaviour and his interaction with the therapist. What is this an example of?",
+    "options": {
+      "A": "Countertransference",
+      "B": "Displacement",
+      "C": "Projection",
+      "D": "Projective identification",
+      "E": "Transference"
+    },
+    "correct_answer": "A",
+    "explanation": "Countertransference refers to the therapist's emotional reactions influenced by the patient's behavior."
+  },
+  {
+    "number": 116,
+    "question": "Who was associated with replacing 'dementia praecox' by the term 'schizophrenia'?",
+    "options": {
+      "A": "Adolf Mayer",
+      "B": "Eugen Bleuler",
+      "C": "Kahlbaum",
+      "D": "Kraepelin",
+      "E": "Schneider"
+    },
+    "correct_answer": "B",
+    "explanation": "Eugen Bleuler is credited with introducing the term schizophrenia, shifting away from the earlier concept of dementia praecox."
+  },
+  {
+    "number": 117,
+    "question": "Who was responsible for translating 'démence précoce' into 'dementia praecox'?",
+    "options": {
+      "A": "Adolf Mayer",
+      "B": "Eugen Bleuler",
+      "C": "Kahlbaum",
+      "D": "Kraepelin",
+      "E": "Schneider"
+    },
+    "correct_answer": "D",
+    "explanation": "Kraepelin translated 'démence précoce' into 'dementia praecox', reflecting his diagnostic approach."
+  },
+  {
+    "number": 118,
+    "question": "Who coined the term 'démence précoce'?",
+    "options": {
+      "A": "Adolf Mayer",
+      "B": "Eugen Bleuler",
+      "C": "Kahlbaum",
+      "D": "Kraepelin",
+      "E": "Morel"
+    },
+    "correct_answer": "E",
+    "explanation": "Benedict Morel was the first to use the term 'démence précoce' to describe early-onset mental illness."
+  },
+  {
+    "number": 119,
+    "question": "In 1983, Raven developed Raven's progressive matrices test to overcome which of the following limitations of previous tests?",
+    "options": {
+      "A": "Age bias in IQ testing",
+      "B": "Blindness while IQ testing",
+      "C": "Cultural bias in IQ testing",
+      "D": "Language bias in IQ testing",
+      "E": "Racial bias in IQ testing"
+    },
+    "correct_answer": "C",
+    "explanation": "Raven's matrices were designed to eliminate cultural and language biases in IQ testing."
+  },
+  {
+    "number": 120,
+    "question": "What does Plutchik's wheel represent?",
+    "options": {
+      "A": "Emotions",
+      "B": "Intelligence",
+      "C": "Memory",
+      "D": "Perception",
+      "E": "Personality"
+    },
+    "correct_answer": "A",
+    "explanation": "Plutchik's wheel is a model of emotions, illustrating primary emotions and their relationships."
+  },
+  {
+    "number": 121,
+    "question": "Who is associated with the concept of 'good-enough mothers'?",
+    "options": {
+      "A": "Ainsworth",
+      "B": "Bowlby",
+      "C": "Harlow",
+      "D": "Mahler",
+      "E": "Winnicott"
+    },
+    "correct_answer": "E",
+    "explanation": "Donald Winnicott introduced the idea of 'good-enough mothers' to describe responsive yet imperfect caregiving."
+  },
+  {
+    "number": 122,
+    "question": "Which of the following statements about Freud's 'interpretation of dreams' is correct?",
+    "options": {
+      "A": "Dream work is the process by which unconscious wishes are processed into dreams",
+      "B": "Secondary revision refers to dreams that recur time and again",
+      "C": "Dreams are manifestations of unconscious fears",
+      "D": "The manifest content is not accessible to the dreamer",
+      "E": "The latent content of the dreams refers to the meaning behind them"
+    },
+    "correct_answer": "A",
+    "explanation": "The latent content of dreams represents the underlying meaning of the dream as interpreted by Freud."
+  },
+  {
+    "number": 123,
+    "question": "Which of the following is credited to Benedict Morel?",
+    "options": {
+      "A": "Described bizarre symptoms in hebephrenia",
+      "B": "Described schizophrenia in people with an 'asthenic' body type",
+      "C": "Described 'true schizophrenia'",
+      "D": "Differentiated patients with schizophrenia and manic–depressive psychosis",
+      "E": "Using the term 'démence précoce'"
+    },
+    "correct_answer": "E",
+    "explanation": "Benedict Morel is known for coining the term 'démence précoce' in his work related to schizophrenia."
+  },
+  {
+    "number": 124,
+    "question": "Which of the following statements about the findings of the International pilot study of schizophrenia is correct?",
+    "options": {
+      "A": "Catatonic symptoms were frequent among patients in developing countries",
+      "B": "Delusions and hallucinations were more frequent in western populations",
+      "C": "Standardised assessment and diagnostic measures were not applicable to all populations",
+      "D": "The core symptoms of schizophrenia varied across cultures",
+      "E": "Two-year outcome was better in developed centres"
+    },
+    "correct_answer": "A",
+    "explanation": "The study found that catatonic symptoms were indeed more frequently observed among patients from developing countries."
+  },
+  {
+    "number": 125,
+    "question": "Which of the following statements about the cultural phenomenon of psychosis is correct?",
+    "options": {
+      "A": "At the 2-year follow-up, patients from developed countries were better",
+      "B": "Incidence of core schizophrenia showed a three-fold difference across centres",
+      "C": "Psychotic experiences in mania are more common in Europeans than African–Caribbean patients",
+      "D": "The broad diagnosis of schizophrenia (lacking schneiderian symptoms) showed a three-fold difference across countries",
+      "E": "The incidence of mania is the same in ethnic minorities living in developed countries as that of their native populations"
+    },
+    "correct_answer": "E",
+    "explanation": "The core symptoms of schizophrenia varied across cultures, showing significant differences in incidence."
+  },
+  {
+    "number": 126,
+    "question": "Which of the following statements about the strange situation procedure is correct?",
+    "options": {
+      "A": "Sixty-five percent of infants securely are attached by 12 months",
+      "B": "Assessment can be done in adolescence",
+      "C": "This procedure was developed by Winnicott",
+      "D": "The infant is exposed to escalating amounts of stress",
+      "E": "Its protocol has six steps"
+    },
+    "correct_answer": "D",
+    "explanation": "The strange situation exposes infants to escalating levels of stress to assess attachment behavior."
+  }
+]
