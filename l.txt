@@ -1,0 +1,785 @@
+1. A 52-year-old woman was recently diagnosed with a lesion in her subthalamic nucleus. Which of 
+the following is the most likely effect of this lesion?
+ A Bradykinesia
+ B Hemiballismus
+ C Huntington's disease
+ D Parkinsonism
+ E Wilson's disease
+2. Which of the following cells are the smallest of all neurons in the cerebellum?
+ A Basket cells
+ B Golgi cells
+ C Granule cells
+ D Purkinje cells
+ E Stellate cells
+3. Which of the following statements about the subdivisions of the brain is correct?
+ A Central sulcus delineates the border between parietal and temporal lobes
+ B Heschl's gyrus delineates the border between temporal and occipital lobes
+ C Lateral fissure separates the temporal and frontal lobes
+ D Longitudinal fissure separates the cerebellum into left and right hemispheres
+ E  Parieto-occipital sulcus separates the occipital and parietal cortex on the lateral aspect of hemisphere
+4. Which of the following cranial nerves has a pure sensory component?
+ A Abducens nerve
+ B Facial nerve
+ C Hypoglossal nerve
+ D Optic nerve
+ E Trochlear nerve
+5. Which of the following structures is involved in the auditory pathway?
+ A Corona radiata
+ B Lateral geniculate body
+ C Myer's loop
+ D Tectum
+ E Trapezoid body Test questions: 2 50
+6. A 64-year-old man was diagnosed with Parkinson's disease. Which of the following macroscopic 
+changes would be present in the brain?
+ A Changes in the locus ceruleus
+ B Dilatation of the lateral and third ventricles
+ C Marked atrophy of the cerebral cortex
+ D Marked atrophy of the corpus striatum
+ E Small brain with a reduced mass
+7. A 84-year-old man died 10 years after a diagnosis of Alzheimer's disease. Which of the following microscopic changes would be seen on postmortem examination of his brain?
+ A Ballooned neurons
+ B Focal neuronal loss
+ C Hirano's bodies in hippocampus
+ D Pick's bodies
+ E Proliferation of cholinergic neurons
+8. Which of the following tumours are derived from Schwann cells?
+ A Gliomas
+ B Haemangioblastomas
+ C Pituitary adenomas
+ D Medulloblastomas
+ E Neurilemmomas
+9. Which of the following statements about amyloid plaques and neurofibrillary tangles is correct?
+ A Amyloid plaques are intracellular accumulations
+ B Amyloid plaques are soluble, composed of BA4 amyloid
+ C Both are pathognomonic of Alzheimer's dementia
+ D Neurofibrillary tangles are intraneuronal aggregations
+ E Neurofibrillary tangles are dephosphorylated protein
+10. Which lesions can be demonstrated by using Bielschowsky's stain?
+ A Amyloid plaques
+ B Huntington's disease inclusions
+ C Lewy bodies
+ D Pick's bodies
+ E Prion deposition
+11. Which of the following stages constitute the longest percentage of sleep time in a young adult?
+ A Non-rapid eye movement (NREM) stage1
+ B NREM stage 2
+ C NREM stage 3
+ D NREM stage 4
+ E REM
+12. According to Erlanger/Gasser, what is the diameter of Ad cutaneous temperature and pain afferents?
+ A 3 μm
+ B 5 μm
+ C 8 μm
+ D 13 μm
+ E 15 μm Questions: MCQs 51
+13. A normal 38-year-old man had undergone an electroencephalogram (EEG) investigation. He 
+was awake but with his eyes closed. What frequency waves would you expect to see on EEG recordings?
+ A 0–4 Hz
+ B 4–8 Hz
+ C 8–13 Hz
+ D 13–24 Hz
+ E 24–28 Hz
+14. A 58-year-old man was diagnosed with sporadic Creutzfeldt–Jakob disease. Which of the following EEG changes will be seen?
+ A 3-Hz spike-and-wave activity
+ B Hypsarrhythmia
+ C Normal or non-specific EEG
+ D Periodic discharge with focal d activity over temporal lobes
+ E Triphasic 1–2 Hz discharge
+15. Which of the following is the inotropic receptor?
+ A Acetylcholine (muscarinic)
+ B Acetylcholine (nicotinic)
+ C Dopamine
+ D g-Aminobutyric acid B
+ E Serotonin (or 5-HT
+1)
+16. A 45-year-old man was diagnosed with depression. What abnormalities can be noted on hypothalamic–pituitary axis regulation?
+ A Decreased cortisol levels
+ B Decreased adrenal vasopressin
+ C Down-regulation of glucocorticoid receptor
+ D Reduced corticotrophin-releasing hormone
+ E Reduced size of adrenal glands
+NEUROSCIENCES: NEUROCHEMISTRY
+17. Which of the following is a peptide neurotransmitter?
+ A Cholecystokinin
+ B Dopamine
+ C Adrenaline
+ D Glycine
+ E Glutamate
+18. Which of the following is a precursor of tryptophan?
+ A Adrenaline
+ B Acetylcholine
+ C Dopamine
+ D Noradrenaline
+ E Serotonin Test questions: 2 52
+19. A 34-year-old man was diagnosed with schizophrenia and had active psychotic symptoms. 
+Which neurochemical changes in the glutamate receptor could be responsible for his psychotic symptoms?
+ A Decreased glutamatergic function at N-methyl-d-aspartate (NMDA)
+ B  Decreased glutamatergic function at the AMPA (a-amino-3-hydroxy-5-methyl-4-
+isoxazolepropionic acid) receptor
+ C Decreased glutamatergic function at kainate receptors
+ D Increased glutamatergic function at NMDA
+ E Increased glutamatergic function at g-aminobutyric acid
+20. Which of the following is the precursor in the synthesis of histamine?
+ A Choline
+ B l-Tryptophan
+ C l-Tyrosine
+ D Dopamine b hydroxylase
+ E Histidine
+21. A 70-year-old man was diagnosed with Alzheimer's dementia. What would you expect to see on brain neuroimaging?
+ A Disease in and around the front parietal lobes
+ B Increase in grey matter lesions
+ C Increase in ventricular dilatation of 5% per year
+ D Localised atrophy in the hippocampal area
+ E Reduced medial temporal lobe width at level of brain stem
+22. What information can be obtained by using a T1-weighted image on MRI of brain?
+ A Anatomical structures
+ B Brain/cerebrospinal fluid contrast
+ C Definition of soft-tissue pathology
+ D Small infarcts
+ E White matter lesions
+23. What ligand is used for dopamine receptors D
+2/D3 in positron emission tomography?
+ A [11C]Hyoscine
+ B [11C]Raclopride
+ C [18F]-Flumazenil
+ D [18F]-Fluorodopa
+ E [18F]-Setoperone
+24. Which of the following scans uses a radioactive tracer to measure cerebral functions?
+ A CT
+ B fMRI
+ C MRI
+ D Positron emission tomography
+ E Single photon emission computed tomography
+25. MRI magnets are rated in teslas units. What is the usual range of MRI scanners used for clinical purpose?
+ A 0.001–003 T
+ B 0.01–0.03 T
+ C 0.3–2.0 T
+ D 2–3 T
+ E 3–4 T Questions: MCQs 53
+PSYCHOPHARMACOLOGY: PHARMACOKINETICS
+26. If the estimated glomerular filtration rate is 10–50 mL/min per 1.73 m² then what is the maximum 
+dose of prescribed paliperidone tablet?
+ A 2 mg
+ B 3 mg
+ C 4 mg
+ D 5 mg
+ E 6 mg
+27. Which of the following antipsychotics has the best available evidence for use in patients with moderate-to-severe liver impairment?
+ A Aripiprazole
+ B Haloperidol
+ C Paliperidone
+ D Quetiapine
+ E Risperidone
+PSYCHOPHARMACOLOGY: PHARMACODYNAMICS
+28. Which of the following about acamprosate is correct?
+ A Antagonist of glutamate receptor
+ B Antagonist of 5-HT3
+ C Dopamine agonist
+ D Inhibit alcohol dehydrogenase
+ E Partial agonist of 5-HT1A
+29. Which of the following drugs blocks the transaminase enzyme that converts g-aminobutyric acid 
+to glutamate?
+ A Barbiturates
+ B Benzodiazepine
+ C Carbamazepine
+ D Phenytoin
+ E Sodium valproate
+30. Which of the following benzodiazepines has the shortest elimination half-life?
+ A Diazepam
+ B Lorazepam
+ C Nitrazepam
+ D Oxazepam
+ E Temazepam
+31. Which of the following drugs is a partial agonist of dopamine receptors?
+ A Amisulpiride
+ B Aripiprazole
+ C Clobazam
+ D Paliperidone
+ E Ziprasidone Test questions: 2 54
+32. What of the following statements about Paliperidone is correct?
+ A Anticholinergic side effects are common
+ B It acts as an agonist on 5-HT2A receptors
+ C It is a precursor of risperidone
+ D It is also available as a depot injection formulation
+ E It is licensed to be used in bipolar affective disorder as a mood stabiliser in the UK
+33. Which of the following drugs reduces the anticoagulant effect of warfarin?
+ A Mirtazepine
+ B Selective serotonin reuptake inhibitors
+ C St John's wort
+ D Sodium valproate
+ E Venlafaxine
+34. A 32-year-old woman on contraceptive pills discovered that she was pregnant. Which of the 
+following drugs was she most probably taking along with the pills?
+ A Fluoxetine
+ B Olanzapine
+ C St John's wort
+ D Sodium valproate
+ E Venlafaxine
+PSYCHOPHARMACOLOGY: ADVERSE REACTIONS
+35. Which of the following antidepressants can be used in patients who are worried about weight gain?
+ A Amitriptyline
+ B Imipramine
+ C Lofepramine
+ D Mianserin
+ E Trazadone
+36. Which of the following depot antipsychotic injections is associated with post-injection syndrome?
+ A Fluphenazine decanoate
+ B Flupenthixol decanoate
+ C Risperidal Consta
+ D Pipothiazine palmitate
+ E Olanzapine embonate
+37. Which of the following explains hypersalivation due to clozapine?
+ A a
+1-Receptor antagonism
+ B Extrapyramidal side effects
+ C Impaired deglutition
+ D M3-Receptor blockade
+ E M2-Receptor stimulation
+38. What is the minimum dose of paracetamol overdose taken within 24 hours that might give rise to hepatocellular necrosis?
+ A 50 mg/kg
+ B 100 mg/kg Questions: MCQs 55
+ C 150 mg/kg
+ D 200 mg/kg
+ E 250 mg/kg
+39. Which of the following statements about risk factors for neuroleptic malignant syndrome (NMS) 
+is correct?
+ A Dose of antipsychotics affects the risk
+ B Family history of NMS is inversely related to the risk of NMS
+ C Women are at lesser risk than men
+ D Longer duration of treatment with antipsychotics poses greater risk
+ E Slow decrease in dosage of antipsychotics increases the risk
+PSYCHOPHARMACOLOGY: THEORIES OF ACTION
+40. Which of the following drugs should be withdrawn before starting venlafaxine?
+ A Duloxetine
+ B Mirtazapine
+ C Reboxetine
+ D Sertraline
+ E Trazadone
+41. What is the approximate dose of clozapine required for treatment-resistant schizophrenia in a female patient who smokes excessively?
+ A 300 mg
+ B 350 mg
+ C 400 mg
+ D 450 mg
+ E 500 mg
+42. How many milligrams of valproic acid is equivalent to 500 mg of sodium valproate?
+ A 100 mg
+ B 250 mg
+ C 400 mg
+ D 433 mg
+ E 538.2 mg
+43. A 65-year-old woman with a history of ischaemic heart disease was noted to be depressed after a recent myocardial infarction. What would be the most appropriate antidepressant to start?
+ A Fluoxetine
+ B Imipramine
+ C Paroxetine
+ D Sertraline
+ E Venlafaxine
+44. Which antiepileptic drug was reported to improve drinking behaviour?
+ A Carbamazepine
+ B Gabapentin
+ C Lamotrigine
+ D Sodium valproate
+ E Topiramate Test questions: 2 56
+45. A 43-year-old man dependent on 20 mg temazepam every day attended the drug and alcohol 
+service with the aim of stopping it. The consultant wanted to convert temazepam to an equivalent dose of diazepam. What is the dose of diazepam prescribed that is equivalent to temazepam 20 mg?
+ A 2 mg
+ B 5 mg
+ C 10 mg
+ D 20 mg
+ E 40 mg
+GENETICS: CELLULAR  AND  MOLECULAR  GENETICS
+46. What is the mechanism of production of duplicate DNA copies from template DNA called?
+ A Modification
+ B Replication
+ C Synapsis
+ D Transcription
+ E Translation
+47. Which of the following chromosomes is largest in size?
+ A Chromosome 1
+ B Chromosome 2
+ C Chromosome 3
+ D X chromosome
+ E Y chromosome
+48. In which of the following phases of cell cycle does DNA synthesis occur?
+ A M phase
+ B G1 phase
+ C G2 phase
+ D S phase
+ E O phase
+49. Which of the following statements describes genetic heterogeneity?
+ A  It is a phenomenon in which genes interact with other factors in ways not well understood and difficult to quantify
+ B It means that a single gene can give rise to multiple phenotypes or disorders
+ C  It means that different genotypes cause the same phenotype and are associated with the same risks of developing the phenotype or disorder
+ D  It means that different genotypes cause the same phenotype but each genotype is associated with very different risks
+ E It means that multiple genes give rise to multiple phenotypes or disorders
+50. Which of the following is associated with schizophrenia?
+ A 45, X
+ B 45, X/46, XX
+ C 47, XYY
+ D Trisomy 16
+ E Trisomy 21 Questions: MCQs 57
+51. What is the prevalence rate of schizophrenia in 22q11.2 syndrome?
+ A 10%
+ B 25%
+ C 50%
+ D 65%
+ E 90%
+52. What is the lifetime empirical risk of developing schizophrenia in offspring when both parents 
+have schizophrenia?
+ A 6%
+ B 10%
+ C 13%
+ D 46%
+ E 56%
+53. Which of the following chromosome pairs indicate genome-wide significant evidence for linkage for bipolar affective disorder types 1 and 2?
+ A Chromosomes 10q and 12q
+ B Chromosomes 2p and 4p
+ C Chromosomes 2q and 4q
+ D Chromosomes 6p and 8p
+ E Chromosomes 6q and 8q
+54. What is the most common comorbidity seen in a familial subtype of bipolar affective disorder?
+ A Generalised anxiety disorder
+ B Obsessive–compulsive disorder
+ C Panic disorder
+ D Phobic disorder
+ E Somatoform disorder
+55. Which allele is associated with the risk for major depression and suicidality in patients exposed to stressful life events?
+ A Deletion allele
+ B Insertion allele
+ C Inversion allele
+ D Recombinant allele
+ E Translocation allele
+56. Which of the following is consistent with comparative genomic use?
+ A Macroarray analysis
+ B Microarray analysis
+ C Microformat analysis
+ D Real-time, polymerase chain reaction gene, expression profiling
+ E Microsatellite analysis
+GENETICS: BEHAVIOURAL GENETICS
+57. What is epistasis in behavioural genetics?
+ A Gene–environment correlation
+ B Gene–environment interaction Test questions: 2 58
+ C Non-additive interaction of alleles at different loci (gene–gene interaction)
+ D Non-additive interaction of alleles within a locus
+ E Responsible for the additive genetic variance
+58. Which of the following observations is the best way to examine the effects of environmental 
+sharing in twins?
+ A Dizygotic twins reared in different environments
+ B Dizygotic twins reared in the same environment
+ C Monozygotic twins reared in different environments
+ D Monozygotic twins reared in same environment
+ E Twins who are mistaken about their zygosity
+59. Which of the following statements about path analysis in qualitative genetics is correct?
+ A It estimates genetic and environmental contributions using a simple diagrammatic method
+ B  It is a traditional twin design to represent genetic data for showing genetic and environmental contributions
+ C It is a type of multiple regression analysis used in genetics
+ D It is an eclectic mix of various appropriate statistical methods used in genetics
+ E  It is a representation of raw data that is then analysed according to the principles of 'model fitting' in genetics
+60. The commonest cause of profound intellectual disability in girls and women is Rett's disorder. Which of the following statements about Rett's disorder is correct?
+ A Approximately 99.5% of cases are a single occurrence in a family
+ B Gene mutation occurs in the MECP5 gene
+ C It is an autosomal dominant condition
+ D It is inherited as an X-linked recessive condition
+ E There is no pervasive growth failure
+61. Which of the following types of schizophrenia is less familial and also associated with a lower monozygotic twin concordance rate?
+ A Catatonic schizophrenia
+ B Hebephrenic schizophrenia
+ C Paranoid schizophrenia
+ D Residual schizophrenia
+ E Simple schizophrenia
+62. The heritability of social anxiety disorder is 25% in male twins. What is the heritability in female twins?
+ A 25%
+ B 40%
+ C 50%
+ D 65%
+ E 80%
+63. Which of the following syndromes is caused by microdeletion of 7q 11?
+ A Angelman's syndrome
+ B Cri-du-chat syndrome
+ C DiGeorge's syndrome
+ D Prader–Willi syndrome
+ E Williams' syndrome Questions: MCQs 59
+64. Which of the following conditions is caused by CGG trinucleotide repeat?
+ A Fragile X syndrome
+ B Friedreich's ataxia
+ C Huntington's disease
+ D Myoclonic dystrophy
+ E Myoclonus epilepsy
+GENETICS: ENDOPHENOTYPES
+65. P300 amplitude elicited from visual odd ball task is used as an endophenotype of alcohol 
+dependence. What is a P300 amplitude reduction due to?
+ A Craving
+ B Executive dysfunction
+ C Impulsivity
+ D Sensation seeking
+ E Tolerance
+66. Who proposed the concept of endophenotypes in psychiatry?
+ A Falconer
+ B Gottesman and Shields
+ C Gregor Mendel
+ D John and Lewis
+ E Michael Rutter
+67. Which of the following statements about an endophenotype is most accurate?
+ A Endophenotypes and the illness co-segregate
+ B Endophenotypes are described in family members of affected individuals
+ C Endophenotypes are not heritable
+ D Endophenotypes are rarely seen in a normal population
+ E Endophenotypes are state dependent
+GENETICS: GENETIC EPIDEMIOLOGY
+68. Collaborative studies on genetics of alcoholism study have found some chromosomes and genes that are involved in alcohol dependence. Which of the following is associated with alcohol dependence?
+ A 5HTT  gene
+ B Chromosomes 14 and 22
+ C DAT 1 gene
+ D GABAb  gene
+ E GABRA 2 gene
+GENETICS: GENE–ENVIRONMENT INTERACTION
+69. Which of the following statements about familiality and genetic factors in schizophrenia is correct? 
+ A Common high penetrance variants are high-risk factors for schizophrenia Test questions: 2 60
+ B  Common variants in the genes neuregulin-1 and dysbindin and d-amino acid oxidase 
+activator contribute a small increase to the risk for schizophrenia
+ C Dizygotic co-twins are 50% concordant for the disorder
+ D Monozygotic co-twins are 95% concordant for the disorder
+ E Multiple low-penetrance common variants contribute little or no risk for schizophrenia
+70. You analysed twin studies in a rare psychiatric disorder. The concordance rate of development of the disorder in both monozygotic and dizygotic twins was 30%. What does this mean?
+ A  Environmental factors play a more important role in the development of disorder than genetic factors
+ B  Genetic factors play a more important role in the development of disorder than the environment 
+ C There is no role for environmental factors in the development of the disorder 
+ D There is no role for genetic factors in the development of the disorder 
+ E  This finding does not give any conclusive evidence as to whether genetic or environmental factors play a major role in the development of the disorder
+71. In which of the following conditions is linkage analysis useful?
+ A Autism
+ B Bipolar affective disorder 
+ C Depression 
+ D Huntington's disease 
+ E Schizophrenia 
+72. In which of the following situations is heritability of a mental disorder noticed to be increased? 
+ A Having a secure job 
+ B Living in urban areas 
+ C Married status
+ D No financial worries 
+ E Religious upbringing 
+73. In a gene–environment interaction, what do structured situations mean? 
+ A How society structures the environment
+ B Situations that provide relatively unambiguous cues to guide behaviour
+ C Situations in which individuals' genetic make-up structures the environment
+ D Situations in which individuals can structure the environment
+ E Situations in which researchers structure the environment
+EPIDEMIOLOGY: SURVEYS ACROSS THE LIFESPAN
+74. What is the prevalence of specific phobias in patients with learning disability? 
+ A 1.5% 
+ B 2.5% 
+ C 3% 
+ D 6% 
+ E 7%
+75. Which of the following factors is associated with an increased risk of suicide in patients with schizophrenia?
+ A Good compliance with treatment
+ B High education level Questions: MCQs 61
+ C Low IQ
+ D Low aggression
+ E Poor insight
+76. Which of the following increases the risk of suicide in patients with schizophrenia?
+ A Delusions
+ B Depression
+ C Hallucinations
+ D Negative symptoms
+ E Thought disorders
+77. Which of the following factors is associated with the highest risk of suicide in patients with 
+schizophrenia?
+ A African–Caribbean ethnicity
+ B Being a female 
+ C Delayed discharge from hospital
+ D First episode in later years of life
+ E White ethnicity
+78. Which country has a higher female than male suicide rate?
+ A China
+ B Denmark
+ C India
+ D New Zealand
+ E Switzerland
+79. Which of the following statements about the prevalence of schizophrenia is correct?
+ A Developing countries have a higher prevalence
+ B Life-time prevalence is 4/1000
+ C Migrants have a lower risk
+ D There are significant differences between male and female prevalence
+ E There are significant differences in urban and rural prevalence
+80. The study of the aetiology and ethnicity of schizophrenia and other psychoses investigated the clinical and social determinants of duration of untreated psychosis (DUP) in patients with a first episode of psychosis. Which of the following was associated with a longer DUP?
+ A Affective psychosis
+ B Employment 
+ C Frank psychotic symptoms
+ D Help-seeking behaviour of family
+ E Insidious onset
+81. Approximately what percentage of patients with schizophrenia is implicated in homicides in the UK?
+ A 0.5% 
+ B 0.8% 
+ C 1% 
+ D 3%  
+ E 5%
+82. How common are psychotic symptoms in patients with delirium?
+ A 25% 
+ B 50%  Test questions: 2 62
+ C 70% 
+ D 80% 
+ E 100% 
+83. Which of the following increases the incidence of schizophrenia? 
+ A Abnormal motor and speech development before 2 years 
+ B Being born in developing countries
+ C Being born in developed countries
+ D Left-handedness
+ E Right-handedness
+84. What is the best short-term predictor of relapse in a patient with psychosis?
+ A Duration of untreated psychosis 
+ B Heavy cannabis use 
+ C Highly expressed emotions 
+ D Stressful life event 
+ E Withdrawal of antipsychotics 
+85. Which part of the UK has the lowest suicide rate for men?
+ A East of England
+ B East Midlands 
+ C North west 
+ D North east 
+ E West Midlands 
+86. What percentage of people with mental illness consumes tobacco regularly in the UK? 
+ A 30% 
+ B 40% 
+ C 50% 
+ D 60% 
+ E 70% 
+87. What is the estimated rate of suicide in the world? 
+ A 1 every 10 seconds 
+ B 1 every 20 seconds 
+ C 1 every 30 seconds 
+ D 1 every 40 seconds 
+ E 1 every  50 seconds 
+88. Which of the following is a self-rating scale?
+ A Brief psychiatric rating scale
+ B General health questionnaire
+ C Hamilton's rating scale for depression
+ D Montgomery–Asberg depression rating scale
+ E Yale–Brown obsessive compulsive scale
+89. Which of the following is a measure of disease frequency? 
+ A Absolute risk reduction
+ B Attributable risk
+ C Incidence
+ D Number needed to treat
+ E Odds ratio Questions: MCQs 63
+90. Which of the following rating scales is most sensitive to change in depressive symptoms?
+ A Beck's depression inventory
+ B Bech–Rafaelsen melancholia scale
+ C Hamilton rating scale for depression
+ D Major depression inventory
+ E Montgomery–Asberg depression rating scale
+91. Which of the following is used to investigate heterogeneity? 
+ A Cox's proportional hazard analysis
+ B Fixed effect analysis
+ C Galbraith's plot
+ D Kaplan–Meier method
+ E Log-rank test
+92. A study was designed to investigate both mania and depression. Which of the following scales will 
+be the most appropriate?
+ A Bech–Rafaelsen rating scale
+ B Beck's depression inventory
+ C Hopelessness scale
+ D Young's mania rating scale
+ E Zung self-rating scale
+93. Which of the following is a personality assessment scale based on an individual's coping strategies?
+ A Defensive functioning scale
+ B Global assessment of relational functioning 
+ C Million clinical mini-inventory 
+ D Minnesota multiphasic personality inventory 
+ E Rorschach's test 
+ADVANCED PSYCHOLOGICAL PROCESSES  
+AND TREATMENTS: NEUROPSYCHOLOGY
+94. Which of the following is thought to be the defining feature of an amnestic syndrome? 
+ A Intact iconic memory 
+ B Intact procedural memory 
+ C Intact semantic memory 
+ D Loss of immediate memory 
+ E Retained anterograde memory 
+95. Which of the following neuropsychological abnormalities is found in patients with 
+schizophrenia?
+ A Astereognosis 
+ B Impairments in executive functioning 
+ C Impairments in intelligence 
+ D Impairments in long-term memory 
+ E Impairments in procedural memory  Test questions: 2 64
+ADVANCED PSYCHOLOGICAL PROCESSES AND 
+TREATMENTS: PERSONALITY AND PERSONALITY DISORDER
+96. In the early twentieth century, Sheldon tried to establish a link between body type and 
+personality. Which of the following traits relates to food, comfort, people and affection? 
+ A Cerebrotonic 
+ B Ectomorphic 
+ C Mesomorphic 
+ D Somatotonic
+ E Viscerotonic
+97. Which of the following is included in the general diagnostic guidelines for personality disorders? 
+ A Attributable to other psychiatric disorder 
+ B Distress to others but not to oneself 
+ C Harmonious attitudes and behaviours 
+ D Maladaptive behaviour
+ E Periodic presentation
+98. Which of the following is included in the diagnostic criteria of the ICD-10 diagnosis of dissocial personality disorder? 
+ A Blames self
+ B Conduct disorder in childhood
+ C Increased interest in sexual experiences 
+ D Irresponsible attitude 
+ E Persistent irritability  
+99. According to thepsychodynamic theory of aetiology of personality disorders, difficulties in the oedipal phase of psychosexual development are implicated. In which of the following personality disorders might this be the case? 
+ A Anxious–avoidant personality disorder 
+ B Dependant personality disorder 
+ C Emotionally unstable, dissocial personality disorder 
+ D Histrionic personality disorder 
+ E Obsessive–compulsive personality disorder 
+100. With regard to dialectic behaviour therapy (DBT) and suicidality in borderline personality disorder, which of the following statements is correct? 
+ A It is associated with higher medical risk if suicide was attempted
+ B DBT appears to result in reduced suicide attempts 
+ C Effectiveness of DBT is attributed to general factors associated with expert psychotherapy 
+ D Patients receiving DBT are twice as likely to make a suicide attempt
+ E Patients receiving DBT are more likely to require hospitalisation due to suicidal ideations   Questions: MCQs 65
+ADVANCED PSYCHOLOGICAL PROCESSES AND 
+TREATMENTS: DEVELOPMENTAL PSYCHOPATHOLOGY  (INCLUDING TEMPERAMENT)
+101. Which of the following statements is most accurate about the strange situation experiment? 
+ A Almost a third of children have anxious avoidant attachment styles 
+ B Almost three-quarters of children are found to be securely attached
+ C It was devised by Ainsworth and Wittig in 1869 
+ D Four types of attachment behaviours were identified from the experiment 
+ E  The baby treats the stranger and the mother in the same way in the anxious–resistant type of 
+attachment 
+102. Which of the following statements about Piaget's four stages of development is correct? 
+ A Concrete operational stage occurs between age 2 and 7 years 
+ B Egocentrism happens in the formal operational stage 
+ C Idea manipulations and propositions happen in the formal operational stage 
+ D Object permanence develops in the preoperational stage 
+ E Transductive reasoning develops in the concrete operational stage 
+103. Which of the following statements about Freud's stages of psychosexual development is correct? 
+ A Balance of id, ego and superego is best maintained in the genital stage 
+ B Latency period spans 3–6 years 
+ C Oedipus complex develops in the latency phase 
+ D Parents are seen as authority figures in the phallic stage 
+ E Powerful demands in the form of heterosexual desires occur in the genital stage
+104. Which of the following is the most accurate statement about Kohlberg's theory of moral development? 
+ A Conventional morality is seen after the age of 5 years
+ B Kohlberg differentiated two types of moral orientation: heteronomous and autonomous 
+ C Postconventional morality includes interpersonal concordance orientation 
+ D Preconventional morality corresponds to a preoperational stage in Piaget's development 
+ E Universal ethical principle is stage 5 of moral development
+105. Which of the following is the stage in development of gender identity as suggested by Kohlberg? 
+ A Gender comparison 
+ B Gender consistency 
+ C Gender instability 
+ D Gender questioning 
+ E Gender relativism 
+ADVANCED PSYCHOLOGICAL PROCESSES AND 
+TREATMENTS: THERAPY MODELS, METHODS, 
+PROCESSES AND OUTCOMES
+106. Which of the following statements about psychodynamic interpersonal therapy is correct? 
+ A It was developed by Linehan 
+ B It has five components  Test questions: 2 66
+ C It is suitable only for a short-term intervention 
+ D There is no evidence base to support its use 
+ E It was originally called 'the conversational model' 
+107. According to cognitive–analytic therapy, which of the following statements about the procedural 
+sequence model is correct? 
+ A Faulty procedures include snags, traps and dilemmas 
+ B It involves only feelings and acting-out behaviour
+ C It is based on Sigmund Freud's principles of human psychosexual development
+ D It is of a limited value in depressed patients
+ E It was developed to understand acting-out behaviour
+108. Which of the following statements about motivational interviewing is correct? 
+ A One of the techniques is to emphasise personal choice and control 
+ B It is useful only to manage alcohol addiction  
+ C Strategies include setting tasks such as activity scheduling 
+ D The patient's family are the focus of the therapy 
+ E This approach was developed to assess at which stage of change the patient is
+109. Which of the following statements about behaviour therapy is correct? 
+ A Behaviour therapy is based on operant conditioning 
+ B Behaviour modification is based on classic conditioning 
+ C Flooding has been found to be minimally useful for the treatment of phobias 
+ D Reciprocal inhibition occurs in aversion therapy 
+ E Systematic desensitisation represents a form of counter-conditioning 
+110. Four stages of treatment are described in DBT for patients with borderline personality disorder. Which of the following statements is correct? 
+ A Stage 1 involves emotionally processing the past 
+ B Stage 2 involves achieving behavioural control 
+ C Stage 3 refers to the capacity to experience sustained joy 
+ D Stage 4 refers to resolving problems in living 
+ E The last two stages are unlikely to be available in most public healthcare settings
+111. A 15-year-old boy was caught shoplifting. He was known to play truant and lie frequently. There were some concerns about him because he had been more aggressive and getting into fights with the children in the neighbourhood. Which intervention is recommended to manage his presentation? 
+ A Cognitive–behavioural therapy 
+ B DBT 
+ C Habit reversal and competing interests 
+ D Multisystemic therapy 
+ E Positive reinforcement and punishment 
+112. Which of the following is a behavioural technique that increases a desired behaviour? 
+ A Extinction 
+ B Stimulus control 
+ C Shaping 
+ D Time out 
+ E Diaries  Questions: MCQs 67
+113. A 24-year-old solider who returned from Afghanistan presented with recurrent flashbacks and 
+nightmares. Which of the following is the psychological therapy of choice?
+ A Cognitive–analytic therapy 
+ B DBT 
+ C Eye movement desensitisation and reprocessing 
+ D Interpersonal psychotherapy 
+ E Systemic family therapy 
+114. Which of the following statements about Freud's psychoanalytic theory is correct? 
+ A Ego is the moral judicial part of the personality 
+ B Ego is the presocialised part of the personality 
+ C Moral conflicts happen between the super-ego and the ego 
+ D Reality principle is associated with the super-ego 
+ E Super-ego deals with deferred gratification 
+115. Which of the following statements about psychological interventions in patients with borderline personality disorder is correct? 
+ A Art therapy is an effective treatment for these patients 
+ B Cognitive–behaviour therapy (CBT) delivered to patients focuses on the 'here and now' 
+ C  Complementary therapies have gradually gained popularity in the management of these patients
+ D  Number of sessions of CBT offered to patients is significantly less than for those with axis I disorders 
+ E  Systems training for emotional predictability and problem solving is a CBT-based skills development package 
+116. Which of the following statements about systems training for emotional predictability and problem solving is correct? 
+ A Family and significant others are part of each session delivered 
+ B It is delivered over 20 weeks 
+ C The sessions of the therapy last 50–60 minutes 
+ D It uses a psychodynamic approach 
+ E It is used primarily for patients with depression 
+117. Which of the following terms is used in the description of thought processes in cognitive–analytical therapy? 
+ A Altruism 
+ B Black-and-white thinking 
+ C Minimisation 
+ D Projective identification 
+ E Snags 
+118. Which of the following statements about psychological therapies for a bipolar affective disorder (BPAD) is correct?
+ A  Aims of psychological therapy include reduction in mood fluctuations and maintaining a stable mental state
+ B CBT is commonly used in children with bipolar affective disorder
+ C Individually structured therapy is best used in the acute phase of the disorder 
+ D There is a good evidence base for psychological therapy to increase medication adherence 
+ E  There is a good evidence base for psychological therapies in managing comorbid substance misuse in a BPAD  Test questions: 2 68
+119. Which of the following statements about family-based psychological interventions for 
+adolescents with anorexia is correct? 
+ A Family interventions should focus on how the disorder impacts on family relationships 
+ B Issues such as consent should be overridden by parents or clinicians 
+ C Seeing patients and parents separately is not beneficial; they should be seen together 
+ D There is a large evidence base for its efficacy in anorexia nervosa 
+ E Therapist should not allow parents to take a central role in the early stages of treatment 
+120. With regard to CBT and psychosis, which of the following psychotic symptoms has shown better outcomes for CBT? 
+ A Audible thoughts
+ B Delusional beliefs 
+ C Delusional memory 
+ D Misidentification 
+ E Visual hallucinations 
+121. Which of the following is a cognitive bias in Beck's theory of depression?
+ A Arbitrary inference 
+ B Over-projection 
+ C Projection bias 
+ D Selective cognition 
+ E Selective exaggeration 
+122. Which of the following is considered a high-intensity psychological treatment?
+ A CBT
+ B Computerised CBT 
+ C Guided self-help 
+ D Non-facilitated self-help 
+ E Psychoeducational groups 
+ADVANCED PSYCHOLOGICAL PROCESSES AND 
+TREATMENTS: PSYCHOSOCIAL INFLUENCES
+123. Which of the following statements about the social readjustment rating scale (SRRS) is correct? 
+ A SRRS was generated from the work of Lazarus
+ B SRRS assumes that any change in life is by definition stressful
+ C There are 40 life events included in the SRRS
+ D Total score of life change unit (LCU) > 200 in a year is classed as a major crisis
+ E Total score of LCU < 200 in a year is not classed as a crisis Questions: MCQs 69
