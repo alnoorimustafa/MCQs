@@ -1,4 +1,5 @@
-[{
+[
+  {
     "question": "Which of the following is the commonest neuroglia found in the peripheral nervous system?",
     "options": {
       "A": "Astrocytes",
@@ -566,5 +567,746 @@
       "C": "RNA splicing, capping and polyadenylation are pretranscriptional",
       "D": "Tryptophan is specified by several codons",
       "E": "Usual termination codon is AUG"
+    }
+  },
+  {
+    "question": "What is the commonest cause of inherited learning disability?",
+    "options": {
+      "A": "Down's syndrome",
+      "B": "Fragile X syndrome",
+      "C": "Phenylketonuria",
+      "D": "Trisomy X",
+      "E": "Tuberous sclerosis"
+    }
+  },
+  {
+    "question": "Which of the following perturbations is most convincingly linked with aggregates in families in panic disorder of adults?",
+    "options": {
+      "A": "Heart rate perturbations",
+      "B": "Respiratory perturbations",
+      "C": "Salivary fluid secretion perturbations",
+      "D": "Sweating rate perturbations",
+      "E": "Temperature regulation perturbations"
+    }
+  },
+  {
+    "question": "In a third of children with autism, there is an increased peripheral level of a neurotransmitter. Which of the following neurotransmitters is implicated?",
+    "options": {
+      "A": "Catecholamine",
+      "B": "Dopamine",
+      "C": "g-Aminobutyric acid",
+      "D": "Glutamate",
+      "E": "Serotonin"
+    }
+  },
+  {
+    "question": "What is the percentage ratio genetic liability: depression by direct effect or indirect effect respectively?",
+    "options": {
+      "A": "20:80",
+      "B": "40:60",
+      "C": "50:50",
+      "D": "60:40",
+      "E": "80:20"
+    }
+  },
+  {
+    "question": "The concordance rate of bulimia nervosa in dizygotic twins is 30%. What is the likely concordance rate in monozygotic twins?",
+    "options": {
+      "A": "15%",
+      "B": "35%",
+      "C": "45%",
+      "D": "50%",
+      "E": "55%"
+    }
+  },
+  
+      {
+        "question": "Which of the following terms describes the probability of manifestation of a disorder given a particular genotype?",
+        "options": {
+          "A": "Ascertainment",
+          "B": "Expression",
+          "C": "Gamete imprinting",
+          "D": "Gamete penetrance",
+          "E": "Penetrance"
+        }
+      },
+      {
+        "question": "Which of the following personality traits is an endophenotype for suicide behaviour?",
+        "options": {
+          "A": "Borderline – hysterical continuum",
+          "B": "Impulsive – assertiveness continuum",
+          "C": "Neuroticism",
+          "D": "Paranoid – schizoid continuum",
+          "E": "Schizoid – schizotypal continuum"
+        }
+      },
+      {
+        "question": "Which of the following is the neurochemical endophenotype in suicidal behaviour?",
+        "options": {
+          "A": "Cerebrospinal fluid 5-hydroxyindoleacetic acid A (5-HIAA) levels",
+          "B": "Serum 5-HIAA levels",
+          "C": "Serum cortisol levels",
+          "D": "Urinary vanillylmandelic acid levels",
+          "E": "Urinary 5-HIAA levels"
+        }
+      },
+      {
+        "question": "Which of the following electroencephalogram (EEG) changes have been used as an endophenotype in linkage studies for alcohol dependence?",
+        "options": {
+          "A": "Frontal d activity",
+          "B": "K-complexes",
+          "C": "Low-voltage a activity",
+          "D": "Occipital Ω activity",
+          "E": "Spindle activity"
+        }
+      },
+      {
+        "question": "Which of the following factors about the family history of alcoholism is correct?",
+        "options": {
+          "A": "Behavioural disturbances in childhood are associated with higher rates of alcoholism",
+          "B": "Children of alcoholics are less likely to be exposed to high-risk environments",
+          "C": "Female alcoholics with a family history of alcoholism have poorer outcomes",
+          "D": "Late onset of alcoholism is associated with increased rates of alcoholism in the family",
+          "E": "The rates of familial alcoholism are independent of socioeconomic status"
+        }
+      },
+      {
+        "question": "Which of the following statements is one of the results of the Irish affected sibling pair study?",
+        "options": {
+          "A": "Alcohol dependence is environmentally mediated",
+          "B": "Chromosomal variations in chromosome 14 are strongly related to alcoholism",
+          "C": "Chromosomal variations in chromosome 3 are strongly related to alcoholism",
+          "D": "Chromosomal variations in chromosome 4 are strongly related to alcoholism",
+          "E": "Chromosomal variations in chromosome 21 are strongly related to alcoholism"
+        }
+      },
+      {
+        "question": "In which of the following conditions is the effect of genetic predisposition strongest?",
+        "options": {
+          "A": "Anxiety disorders",
+          "B": "Autism",
+          "C": "Bipolar affective disorder",
+          "D": "Eating disorder",
+          "E": "Schizophrenia"
+        }
+      },
+      {
+        "question": "Which of the following transcription factors is implicated in anxiety, alcohol abuse and substance dependence?",
+        "options": {
+          "A": "C-fos",
+          "B": "C-Jun",
+          "C": "CREB",
+          "D": "FRA1",
+          "E": "TATA motif"
+        }
+      },
+      {
+        "question": "Which of the following statements about cannabis-induced psychosis is correct?",
+        "options": {
+          "A": "Cannabis misuse causing psychosis is an intoxication phenomenon",
+          "B": "Cannabis misuse causing psychosis is reversible in all individuals",
+          "C": "If a boy misuses cannabis from 11 years of age and stops in a year, the chances of developing psychosis are the same as in the general population",
+          "D": "Individuals with the COMT (catechol-O-methyl transferase) gene met/met allele are at high risk of developing cannabis-induced psychosis",
+          "E": "Individuals with the COMT gene val/val allele are at high risk of developing cannabis-induced psychosis"
+        }
+      },
+      {
+        "question": "What does the term 'envirome' mean?",
+        "options": {
+          "A": "Internal as well as external environment of the individual",
+          "B": "The environmental factors that predispose as well trigger psychiatric disorders",
+          "C": "The immediate environment of an individual in which he or she lives",
+          "D": "The internal environment of the individual that leads to a psychiatric disorder",
+          "E": "The work and household environment of an individual that are stressful and lead to a psychiatric disorder"
+        }
+      },
+      {
+        "question": "Abnormalities of chromosomes can lead to a psychosis that is similar to schizophrenia. Which of the following chromosomes is implicated in psychosis?",
+        "options": {
+          "A": "Chromosome 16",
+          "B": "Chromosome 22",
+          "C": "Chromosome 4",
+          "D": "Chromosome 8",
+          "E": "Chromosome X"
+        }
+      },
+      {
+        "question": "What does the term 'ontogenic niche' mean?",
+        "options": {
+          "A": "The ecological and social settings that an individual shares with parents",
+          "B": "The ecological and social settings that an individual shares with peers",
+          "C": "The ecological environment in which a person lives that modifies the genes",
+          "D": "The internal environment of an individual that modifies the genes",
+          "E": "The social environment in which a person lives that modifies the genes"
+        }
+      },
+      {
+        "question": "You conducted a family study of patients with recurrent depressive disorder. Your findings showed that there was an increased risk of developing depression in parents' siblings and offsprings as probands, whereas second- and third-degree relatives do not have the increased risk. What does this mean?",
+        "options": {
+          "A": "Environmental factors play a more important role in the development of depression than genetic factors",
+          "B": "Genetic factors play a more important role in the development of depression than environment",
+          "C": "There is no role for environmental factors in the development of depression",
+          "D": "There is no role for genetic factors in the development of depression",
+          "E": "This finding does not give any conclusive evidence as to whether genetic or environmental factors play a major role in the development of depression"
+        }
+      },
+      {
+        "question": "What is the 12-month prevalence of mental disorders in Europe?",
+        "options": {
+          "A": "1 in 4",
+          "B": "1 in 6",
+          "C": "1 in 10",
+          "D": "1 in 20",
+          "E": "1 in 100"
+        }
+      },
+      {
+        "question": "According to a 10-year follow-up study of patients with borderline personality disorder, what is the median time to remission of the abandonment symptom?",
+        "options": {
+          "A": "0–2 years",
+          "B": "2–4 years",
+          "C": "4–6 years",
+          "D": "6–8 years",
+          "E": "8–10 years"
+        }
+      },
+      {
+        "question": "What is the reported prevalence of late-onset paraphrenia among elderly people in the community?",
+        "options": {
+          "A": "<1%",
+          "B": "1–5%",
+          "C": "5–10%",
+          "D": "10–15%",
+          "E": ">15%"
+        }
+      },
+      {
+        "question": "What is the prevalence of late-onset paraphrenia in elderly people in a psychiatric hospital population?",
+        "options": {
+          "A": "5%",
+          "B": "10%",
+          "C": "25%",
+          "D": "20%",
+          "E": "25%"
+        }
+      },
+      {
+        "question": "If the prevalence of dementia is to be reduced by 50%, by how many years should the onset of dementia need to be delayed?",
+        "options": {
+          "A": "2 years",
+          "B": "5 years",
+          "C": "7 years",
+          "D": "10 years",
+          "E": "15 years"
+        }
+      },
+      {
+        "question": "Elimination of depression from the elderly population can lead to a reduction in the number of new cases over a period of 7 years. What is the mean reduction expected?",
+        "options": {
+          "A": "5%",
+          "B": "7%",
+          "C": "10%",
+          "D": "12%",
+          "E": "15%"
+        }
+      },
+      {
+        "question": "With regard to problem behaviour in patients with learning disability, which of the following is correct?",
+        "options": {
+          "A": "Common in females",
+          "B": "Mainly one type of problem behaviour found",
+          "C": "Prevalence of 10–15%",
+          "D": "Prevalent in 30- to 45-year age group",
+          "E": "Tendency to be short-lived"
+        }
+      },
+      {
+        "question": "Which of the following statements about alcohol-related dementia is correct?",
+        "options": {
+          "A": "Early onset is associated with a poor prognosis",
+          "B": "It accounts for 15% of the dementia population",
+          "C": "It occurs more in areas of high socioeconomic status",
+          "D": "It presents most commonly at the age of 40–50 years",
+          "E": "The prevalence of Wernicke's aphasia/Korsakoff's syndrome is on the decrease"
+        }
+      },
+      {
+        "question": "Which one of the following is not a predictor of course and outcome in schizophrenia?",
+        "options": {
+          "A": "Characteristics of the onset of the illness",
+          "B": "Features of initial clinical state and treatment response",
+          "C": "First rank symptoms at the baseline",
+          "D": "History of past psychotic episodes and treatment",
+          "E": "Premorbid personality and functioning"
+        }
+      },
+      {
+        "question": "Which of the following statements about a cross-sectional study is correct?",
+        "options": {
+          "A": "It is bias free",
+          "B": "It can explore multiple outcomes and exposures",
+          "C": "It is hard to design",
+          "D": "It is suitable for rare conditions",
+          "E": "It takes a long time to complete"
+        }
+      },
+      {
+        "question": "Which of the following statements is a characteristic feature of a qualitative study?",
+        "options": {
+          "A": "It is based on experiments",
+          "B": "It is based on a survey",
+          "C": "It is deductive",
+          "D": "It is useful to generate a hypothesis",
+          "E": "The sampling method used is statistical"
+        }
+      },
+      {
+        "question": "The suicide rate has increased worldwide in the last 45 years. Which of the following reflects the increased rate?",
+        "options": {
+          "A": "20%",
+          "B": "30%",
+          "C": "40%",
+          "D": "50%",
+          "E": "60%"
+        }
+      },
+      {
+        "question": "In which age group was the suicide rate highest by sex and age in the UK from 2000 to 2009?",
+        "options": {
+          "A": "15–44 years: males",
+          "B": "15–44 years: females",
+          "C": "45–74 years: females",
+          "D": "45–74 years: males",
+          "E": "75+ years: males/females"
+        }
+      },
+      {
+        "question": "What is the cross-sectional observation of the number of individuals with a disease in a specified population called?",
+        "options": {
+          "A": "Incidence",
+          "B": "Life-time prevalence",
+          "C": "Prevalence",
+          "D": "Period prevalence",
+          "E": "Point prevalence"
+        }
+      },
+      {
+        "question": "A disease under study has a high prevalence. What is the most likely possibility?",
+        "options": {
+          "A": "High incidence, short duration of disease",
+          "B": "High incidence, long duration of disease",
+          "C": "Low incidence, short duration of disease",
+          "D": "Low incidence, long duration of disease",
+          "E": "Low incidence due to rare disease"
+        }
+      },
+      {
+        "question": "What is the number of new cases of a disease over a period of time out of the total population at risk called?",
+        "options": {
+          "A": "Cumulative incidence",
+          "B": "Incidence rate",
+          "C": "Incidence density",
+          "D": "Period prevalence",
+          "E": "Point prevalence"
+        }
+      },
+      {
+        "question": "What does comparing observed deaths to expected deaths signify?",
+        "options": {
+          "A": "Crude mortality rate",
+          "B": "Odds ratio",
+          "C": "Relative risk",
+          "D": "Specific mortality rate",
+          "E": "Standardised mortality ratio"
+        }
+      },
+      {
+        "question": "Which of the following rating scales is a self-rating scale to measure symptom severity and change in a mental illness?",
+        "options": {
+          "A": "Beck's depression inventory",
+          "B": "Brief psychiatric rating scale",
+          "C": "Clinical global improvement scale",
+          "D": "Hamilton's rating scale for depression",
+          "E": "Yale–Brown obsessive–compulsive scale (Y-BOCS)"
+        }
+      },
+      {
+        "question": "Which of the following statements about the Y-BOCS is correct?",
+        "options": {
+          "A": "It also measures anxiety",
+          "B": "It is a diagnostic tool",
+          "C": "It is useful to assess obsessions",
+          "D": "It is useful to monitor the response to treatment",
+          "E": "It is used only in research settings"
+        }
+      },
+      {
+        "question": "What is the tendency of a rater to overestimate a patient's response based on prior assumptions called?",
+        "options": {
+          "A": "Ceiling effect",
+          "B": "Central limit theorem",
+          "C": "Ecological fallacy",
+          "D": "Halo effect",
+          "E": "Hawthorne effect"
+        }
+      },
+      {
+        "question": "What is the denominator in maternal mortality rate?",
+        "options": {
+          "A": "1000 live births",
+          "B": "10,000 live births",
+          "C": "100,000 live births",
+          "D": "All live births + still births",
+          "E": "All live births + still births + perinatal deaths"
+        }
+      },
+      {
+        "question": "Which of the following statements about memory is correct?",
+        "options": {
+          "A": "Encoding is related to concepts of memory storage",
+          "B": "Long-term memory is also known as working memory",
+          "C": "Long-term memory has unlimited capacity",
+          "D": "Transfer of memory to long-term memory begins 30 minutes after information enters short-term memory",
+          "E": "Unless rehearsed, storage in short-term memory is limited to 30 seconds"
+        }
+      },
+      {
+        "question": "Which of the following statements about neurocognition in schizophrenia is correct?",
+        "options": {
+          "A": "Attention-processing speed is impaired more than the executive function domain",
+          "B": "Deterioration in IQ is more rapid after the first episode of schizophrenia than the subsequent episodes",
+          "C": "Deficits in motor skills are more pronounced than in the verbal memory domain",
+          "D": "Illness chronicity accounts for most cognitive impairments in schizophrenia",
+          "E": "Neurocognitive impairments usually begin after the first episode of schizophrenia"
+        }
+      },
+      {
+        "question": "Which of the following statements about assessing the personality of an individual is correct?",
+        "options": {
+          "A": "This involves giving short-term acquaintances questionnaires",
+          "B": "The Minnesota multiphasic personality inventory is a poorly researched inventory",
+          "C": "The best method is by observation made during an episode of illness",
+          "D": "The trait approach is considered to be the most reliable method of assessment",
+          "E": "The trait approach to personality assessment is the basis for the ICD-10 classification"
+        }
+      },
+      {
+        "question": "A mother of a 7-year-old boy kept giving him laxatives in his food covertly and frequently took him to the hospital and insisted on his admission. Which of the following statements about this situation is correct?",
+        "options": {
+          "A": "It is considered child maltreatment, according to definitions used by the government in England and Wales",
+          "B": "Personality disorder is commonly observed among the perpetrators",
+          "C": "The child won't be harmed because he is being cared for in hospital",
+          "D": "This is best considered a form of parental psychopathology",
+          "E": "This is exploitation of a vulnerable and defenceless child"
+        }
+      },
+      {
+        "question": "According to current evidence, which of the following statements about the development of puberty compared with previous generations is correct?",
+        "options": {
+          "A": "Average age of menarche has reduced to below 11 years",
+          "B": "One in four girls reaches puberty before the age of 8 years",
+          "C": "One in ten 8-year-old boys has pubic hair",
+          "D": "Puberty lasts longer than in previous generations",
+          "E": "There is no change in the age of maturation of boys"
+        }
+      },
+      {
+        "question": "According to the New York longitudinal study, what percentage of the cohort was identified as having an easy temperament?",
+        "options": {
+          "A": "10%",
+          "B": "15%",
+          "C": "20%",
+          "D": "35%",
+          "E": "40%"
+        }
+      },
+      {
+        "question": "Which of the following statements about authoritarian parenting is correct?",
+        "options": {
+          "A": "Children are popular and sociable",
+          "B": "Children have poor impulse control",
+          "C": "Non-negotiable parents who are strict",
+          "D": "Parents are willing to discuss with children",
+          "E": "Parents do not set limits"
+        }
+      },
+      {
+        "question": "A girl was placed in a day care at the age of 6 months when her mother returned to part-time work of 24 hours a week. According to Bowlby, what is the most likely effect on her around her first birthday?",
+        "options": {
+          "A": "Attachment is unaffected",
+          "B": "Child experiences maternal deprivation",
+          "C": "Object permanence does not develop",
+          "D": "Privation is not possible",
+          "E": "Child's response in strange situation test shows a disorganised attachment"
+        }
+      },
+      {
+        "question": "The adult attachment interview is a tool used in research. Which of the following statements is correct about this tool?",
+        "options": {
+          "A": "Five possible attachment styles can be identified",
+          "B": "It identifies attachment relationships during adulthood",
+          "C": "It is a semi-structured interview",
+          "D": "Studies use it in the context of intergenerational transfer of attachment patterns",
+          "E": "It is used mainly to identify the individual who might have been sexually abused as a child"
+        }
+      },
+      {
+        "question": "Which of the following statements about object relations theory is correct?",
+        "options": {
+          "A": "It includes the paranoid–depressive positions",
+          "B": "Only external object relations can be achieved",
+          "C": "The work was lead primarily by Sigmund Freud",
+          "D": "The paranoid–depressive positions are never fully resolved in adult life",
+          "E": "It uses defence mechanisms such as sexualisation and idealisation"
+        }
+      },
+      {
+        "question": "Who described the 'good-enough mother'?",
+        "options": {
+          "A": "Bowlby",
+          "B": "Freud",
+          "C": "Jung",
+          "D": "Klein",
+          "E": "Winnicott"
+        }
+      },
+      {
+        "question": "Which of the following statements about condensation in dream analysis is correct?",
+        "options": {
+          "A": "Dream content substitutes the target of one's feelings onto another person or object",
+          "B": "It is also called dramatisation",
+          "C": "It makes sense of the manifest content",
+          "D": "It refers to what we dream about and are aware of on waking",
+          "E": "More than one dream idea is combined into a single mental image"
+        }
+      },
+      {
+        "question": "Which of the following statements is about neurotic symptoms in psychoanalysis?",
+        "options": {
+          "A": "They are considered by Freud to be the 'secret road to the unconscious'",
+          "B": "Dreams have different meanings from neurotic symptoms",
+          "C": "The symptoms may symbolise the wish with which they are linked",
+          "D": "The symptoms are often 'mental'",
+          "E": "The underlying cause is rarely 'physical'"
+        }
+      },
+      {
+        "question": "Which of the following describes snags in cognitive–analytical therapy?",
+        "options": {
+          "A": "Accurate description of autonomic procedures",
+          "B": "Appropriate roles or goals abandoned because they are perceived as forbidden or dangerous.",
+          "C": "Available action or possible roles limited to polarised alternatives",
+          "D": "Negative assumptions which generate acts that reinforce the assumptions",
+          "E": "Patient helped to recognise recurrences of unrevised patterns"
+        }
+      },
+      {
+        "question": "A 32-year-old man was reprimanded by his boss, although he did not react at the time. When he went home, he shouted at his wife and slapped her after a minor argument. What is the likely defence mechanism?",
+        "options": {
+          "A": "Denial",
+          "B": "Displacement",
+          "C": "Humour",
+          "D": "Reaction formation",
+          "E": "Sublimation"
+        }
+      },
+      {
+        "question": "According to jungian psychoanalysis, which of the following statements refers to consciousness?",
+        "options": {
+          "A": "It has four basic functions",
+          "B": "It is accessible through recall",
+          "C": "It includes archetypes",
+          "D": "It is made up of the individual's unique experiences involving repression",
+          "E": "It includes the mind's inherited characteristics that influence the reactions"
+        }
+      },
+      {
+        "question": "In Yalom's universal therapeutic factors, catharsis refers to which of the following?",
+        "options": {
+          "A": "Expression of affect in a supportive environment",
+          "B": "Filled with therapeutic optimism by seeing others improve",
+          "C": "Improving one's self-esteem by helping another",
+          "D": "Model helpful behaviours of other members",
+          "E": "Recognition of common experiences and that it reflects experiences in wider society"
+        }
+      },
+      {
+        "question": "Which of the following statements best describes the technique of paradoxical injunction used in systemic family therapy?",
+        "options": {
+          "A": "Different positions are assigned to parts of the family structure",
+          "B": "Members of the family are 'prescribed' their symptom which can paradoxically lead to an alteration",
+          "C": "Practical solutions are developed between family members",
+          "D": "Tasks are assigned to family members to complete between sessions, which involve a change in their actions to see how it affects the system",
+          "E": "Thought is given to how to live with symptoms if they cannot be altered"
+        }
+      },
+      {
+        "question": "Which of the following therapies is the treatment of choice for anorexia nervosa in adolescents?",
+        "options": {
+          "A": "Exposure response and reciprocal inhibition",
+          "B": "Eye-movement desensitisation and reprocessing",
+          "C": "Psychodynamic psychotherapy",
+          "D": "Systemic desensitisation",
+          "E": "Systemic family therapy"
+        }
+      },
+      {
+        "question": "A 20-year-old woman recently diagnosed with moderate depression would prefer a psychological therapy rather than taking medication. Which of the following therapies should be recommended?",
+        "options": {
+          "A": "Brief solution-focused therapy",
+          "B": "Cognitive–behavioural therapy (CBT)",
+          "C": "Psychodynamic interpersonal therapy",
+          "D": "Supportive counselling",
+          "E": "Systemic family therapy"
+        }
+      },
+      {
+        "question": "A 26-year-old school teacher felt that she was responsible for every child in her class passing the examination, otherwise her colleagues would view her as a failure. Which of the following cognitive errors does she have?",
+        "options": {
+          "A": "Assuming temporal causality",
+          "B": "Catastrophising",
+          "C": "Excessive responsibility",
+          "D": "Dichotomous thinking",
+          "E": "Over-generalising"
+        }
+      },
+      {
+        "question": "Which of the following statements about dialectical behavioural therapy is correct?",
+        "options": {
+          "A": "It can extend for a maximum of 6 months",
+          "B": "It was developed by Linehan",
+          "C": "It involves exploring childhood adversity with a therapist through free association",
+          "D": "It involves only group work",
+          "E": "The therapy is intensive with group and individual work"
+        }
+      },
+      {
+        "question": "Which of the following is one of the stages of eye-movement desensitisation and reprocessing?",
+        "options": {
+          "A": "Awareness",
+          "B": "Competing response",
+          "C": "Contingency management",
+          "D": "Habit reversal training",
+          "E": "Target assessment"
+        }
+      },
+      {
+        "question": "Which of the following statements about the National Institute for Health and Care Excellence's guideline for a stepped care approach to generalised anxiety disorder is correct?",
+        "options": {
+          "A": "Step 2 – identification and assessment",
+          "B": "Step 3 – low-intensity psychological interventions",
+          "C": "Step 3 – day hospital or inpatient care can be considered",
+          "D": "Step 4 – considered if there is high risk of self-harm",
+          "E": "Step 5 – CBT or drug treatment can be initiated"
+        }
+      },
+      {
+        "question": "Which of the following statements about psychological treatments for people with an antisocial personality disorder (ASPD) is correct?",
+        "options": {
+          "A": "Most of the psychological interventions delivered in the criminal justice system are largely based on concepts of conditioning",
+          "B": "Psychological interventions for almost all of the components of ASPD are well developed",
+          "C": "Roughly half of all interventions delivered in the criminal justice system are aimed at reducing offending behaviour",
+          "D": "There has been significant formal development of psychological interventions for ASPD",
+          "E": "There is a good research base for psychological management for comorbid disorders seen in ASPD"
+        }
+      },
+      {
+        "question": "Which of the following statements about combined CBT and antidepressants is correct?",
+        "options": {
+          "A": "After ending treatment, relapse rates of depression are similar in those treated with either CBT or antidepressants",
+          "B": "CBT is as effective as antidepressant medication in depressed inpatients",
+          "C": "Drug treatments have a higher relapse rate than CBT on discontinuation in generalised anxiety disorder",
+          "D": "The combination of CBT and antidepressant medication may be as effective as either alone in severe depression",
+          "E": "The combination of CBT and medication in mild-to-moderate depression is more effective than either alone"
+        }
+      },
+      {
+        "question": "Which of the following treatments is harmful in post-traumatic stress disorder?",
+        "options": {
+          "A": "Counselling",
+          "B": "Debriefing",
+          "C": "Drug treatment",
+          "D": "Trauma-focused CBT",
+          "E": "Eye-movement desensitisation and reprocessing"
+        }
+      },
+      {
+        "question": "A 44-year-old woman complained of intense and irrational fears about eating in front of other people. Her therapist arranged a session at which she consumed a meal in front of four strangers. During the session, they looked at her but did not talk to her. However, she occasionally observed them whispering to each other. What type of therapy has been described?",
+        "options": {
+          "A": "Assertiveness training",
+          "B": "Flooding",
+          "C": "Habit reversal",
+          "D": "Relaxation therapy",
+          "E": "Systemic desensitisation"
+        }
+      },
+      {
+        "question": "Which of the following is an inclusion criterion for group therapy?",
+        "options": {
+          "A": "Inability to tolerate group setting",
+          "B": "Motivation to change",
+          "C": "Problem areas incompatible with group goals",
+          "D": "Severe incompatibility with one or more group members",
+          "E": "Tendency to assume deviant role"
+        }
+      },
+      {
+        "question": "A 20-year-old female college student repeatedly self-harmed, expressed feelings of being miserable, lonely and abandoned by family and friends. She found it difficult to maintain romantic relationships. Which of the following is the most appropriate psychological therapy for treatment?",
+        "options": {
+          "A": "CBT",
+          "B": "Counselling",
+          "C": "Dialectical behavioural therapy",
+          "D": "Systemic desensitisation",
+          "E": "Systemic family therapy"
+        }
+      
+  },{
+    "question": "Which of the following statements is consistent with emotional deprivation in children?",
+    "options": {
+      "A": "A child will show either clinging or detachment after short-term deprivation",
+      "B": "After long-term deprivation children become self-sufficient through detachment",
+      "C": "Long-term deprivation includes a child going to stay with grandparents, while the mother is on holiday",
+      "D": "Short-term deprivation includes separation after a divorce",
+      "E": "There are no long-term effects of short-term deprivation in children"
+    }
+  },
+  {
+    "question": "Which of the following is a risk factor related to the parent/environment for child abuse?",
+    "options": {
+      "A": "Being abused as a child",
+      "B": "Good socioeconomic status and high-powered job of parents",
+      "C": "High self-esteem in parents",
+      "D": "Older age of parents",
+      "E": "Small family size"
+    }
+  },
+  {
+    "question": "Which of the following statements about couples and divorce in the UK is correct?",
+    "options": {
+      "A": "About 60% of couples cohabit before they marry",
+      "B": "After divorce, men have a lower rate of remarriage than women",
+      "C": "Couples who cohabit before marriage are unlikely to divorce later",
+      "D": "Divorce rates peak after 10–12 years of marriage",
+      "E": "Divorce rates are highest in individuals in late 30s"
+    }
+  },
+  {
+    "question": "Which of the following vulnerability factors in parents is considered in identifying children at risk of developing conduct problems?",
+    "options": {
+      "A": "All mothers are younger than 18 years",
+      "B": "At least one of the parents is on social security benefits",
+      "C": "At least one parent has a degree of contact with the criminal justice system",
+      "D": "Parents have an education status below the GCSE level",
+      "E": "Parents have other mental health problems"
+    }
+  },
+  {
+    "question": "Which of the following statements about association between sexual abuse and psychiatric disorder is correct?",
+    "options": {
+      "A": "Girls are more prone to psychiatric disorders than boys after sexual abuse",
+      "B": "A history of rape does not add any more to the risks of a psychiatric disorder if sexual abuse had already occurred",
+      "C": "Patients are more prone to psychiatric disorders when they were abused before the age of 10 years compared with after the age of 15 years",
+      "D": "There is enough evidence to show an association between sexual abuse and obsessive–compulsive disorder",
+      "E": "There is a statistically significant association between sexual abuse and lifetime diagnosis of sleep disorders"
     }
   }]

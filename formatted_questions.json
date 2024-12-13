@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which of the following statements is consistent with emotional deprivation in children?",
+    "options": {
+      "A": "A child will show either clinging or detachment after short-term deprivation",
+      "B": "After long-term deprivation children become self-sufficient through detachment",
+      "C": "Long-term deprivation includes a child going to stay with grandparents, while the mother is on holiday",
+      "D": "Short-term deprivation includes separation after a divorce",
+      "E": "There are no long-term effects of short-term deprivation in children"
+    }
+  },
+  {
+    "question": "Which of the following is a risk factor related to the parent/environment for child abuse?",
+    "options": {
+      "A": "Being abused as a child",
+      "B": "Good socioeconomic status and high-powered job of parents",
+      "C": "High self-esteem in parents",
+      "D": "Older age of parents",
+      "E": "Small family size"
+    }
+  },
+  {
+    "question": "Which of the following statements about couples and divorce in the UK is correct?",
+    "options": {
+      "A": "About 60% of couples cohabit before they marry",
+      "B": "After divorce, men have a lower rate of remarriage than women",
+      "C": "Couples who cohabit before marriage are unlikely to divorce later",
+      "D": "Divorce rates peak after 10–12 years of marriage",
+      "E": "Divorce rates are highest in individuals in late 30s"
+    }
+  },
+  {
+    "question": "Which of the following vulnerability factors in parents is considered in identifying children at risk of developing conduct problems?",
+    "options": {
+      "A": "All mothers are younger than 18 years",
+      "B": "At least one of the parents is on social security benefits",
+      "C": "At least one parent has a degree of contact with the criminal justice system",
+      "D": "Parents have an education status below the GCSE level",
+      "E": "Parents have other mental health problems"
+    }
+  },
+  {
+    "question": "Which of the following statements about association between sexual abuse and psychiatric disorder is correct?",
+    "options": {
+      "A": "Girls are more prone to psychiatric disorders than boys after sexual abuse",
+      "B": "A history of rape does not add any more to the risks of a psychiatric disorder if sexual abuse had already occurred",
+      "C": "Patients are more prone to psychiatric disorders when they were abused before the age of 10 years compared with after the age of 15 years",
+      "D": "There is enough evidence to show an association between sexual abuse and obsessive–compulsive disorder",
+      "E": "There is a statistically significant association between sexual abuse and lifetime diagnosis of sleep disorders"
+    }
+  }
+]
