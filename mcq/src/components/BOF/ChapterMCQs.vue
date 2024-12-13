@@ -122,7 +122,7 @@ const IncorrectAnswers = computed(() => wrong.value);
   right: 20px;
   color: #333;
   background-color: rgba(172, 172, 172, 0.505);
-  padding: 5px;
+  padding: 10px;
   border-radius: 5px;
   font-size: 0.8rem;
 }
@@ -141,19 +141,19 @@ const IncorrectAnswers = computed(() => wrong.value);
 }
 
 .question-card {
-  background-color: #f9f9f9;
-  border: 1px solid #ececec;
+  background-color: #f8f8f8;
+  border: 1px solid #ffffff;
   padding: 20px;
   border-radius: 8px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   text-align: left;
 }
 
 .question-text {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: bold;
-  margin-bottom: 10px;
-  color: #333;
+  margin-bottom: 15px;
+  color: #444444;
 }
 
 /* Styling for options list */
@@ -164,8 +164,8 @@ const IncorrectAnswers = computed(() => wrong.value);
 
 .option {
   background-color: #e9ecef;
-  margin: 5px 0;
-  padding: 8px;
+  margin: 8px 0px;
+  padding: 10px;
   border-radius: 5px;
   font-size: 1rem;
   color: #555;
@@ -194,5 +194,6 @@ const IncorrectAnswers = computed(() => wrong.value);
 
 .container {
   padding: 0;
+ 
 }
 </style>

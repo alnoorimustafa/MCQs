@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import BestOfFive from "./components/BestOfFive.vue";
+import Book600 from "./components/Book600.vue";
 let page = ref("");
 </script>
 
@@ -40,6 +41,7 @@ let page = ref("");
   </div>
   <div class="container">
     <BestOfFive v-if="page === 'bof'" />
+    <Book600 v-if="page === '600'" />
   </div>
 </template>
 
