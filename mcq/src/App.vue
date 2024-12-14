@@ -9,6 +9,7 @@ let selectedImage = ref<string | null>(null); // Track the selected image
 const selectImage = (image: string) => {
   console.log("Selected Image:", image); // Debugging line
   selectedImage.value = new URL(image, import.meta.url).href; // Use URL constructor for correct path
+  window.scrollTo(0, 0); // Scroll to the top of the page
 };
 
 const cancelSelection = () => {
@@ -17,6 +18,10 @@ const cancelSelection = () => {
 </script>
 
 <template>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+  />
   <div class="container">
     <nav>
       <ul>
@@ -24,28 +29,28 @@ const cancelSelection = () => {
       </ul>
       <ul>
         <li>
-          <button
+          <!-- <button
             :class="page === 'bof' ? 'primary' : 'secondary'"
             @click="page = 'bof'"
           >
             Best of Five
-          </button>
+          </button> -->
         </li>
         <li>
-          <button
+          <!-- <button
             :class="page === 'spmm' ? 'primary' : 'secondary'"
             @click="page = 'spmm'"
           >
             SPMM
-          </button>
+          </button> -->
         </li>
         <li>
-          <button
+          <!-- <button
             :class="page === '600' ? 'primary' : 'secondary'"
             @click="page = '600'"
           >
             600
-          </button>
+          </button> -->
         </li>
       </ul>
     </nav>
@@ -57,7 +62,7 @@ const cancelSelection = () => {
         v-if="!selectedImage"
         @click="selectImage('./assets/bof1.png')"
       >
-        <img src="./assets/bof1.png" alt="" />
+        <img @click="page = 'bof'" src="./assets/bof1.png" alt="" />
       </div>
       <div
         class="center"
@@ -93,22 +98,15 @@ const cancelSelection = () => {
       <div class="center" v-if="selectedImage">
         <div class="image-container">
           <img :src="selectedImage" alt="Selected Image" />
-          <button class="cancel-button" @click="cancelSelection">X</button>
+          <button class="cancel-button" @click="cancelSelection">
+            <i class="fas fa-times"></i>
+          </button>
         </div>
       </div>
     </div>
   </div>
-  <div class="hh">
-    <div class="container">
-      <BestOfFive v-if="page === 'bof'" />
-      <Book600 v-if="page === '600'" />
-    </div>
-    <footer>
-      <p class="copyright">
-        &copy; 2024. Dr. Mustafa Alnoori. All rights are not reserved.
-      </p>
-    </footer>
-  </div>
+  <BestOfFive v-if="page === 'bof'" />
+  <Book600 v-if="page === '600'" />
 </template>
 
 <style scoped>
@@ -127,7 +125,7 @@ body {
 .center img {
   width: 100%; /* or a specific width like 200px */
   height: auto; /* maintain aspect ratio */
-  max-width: 200px; /* set a maximum width */
+  max-width: 300px; /* set a maximum width */
   object-fit: cover; /* cover the area without distortion */
   border-radius: 2%;
 }
@@ -151,30 +149,27 @@ body {
   color: #017fc0;
 }
 
-footer {
-  text-align: center;
-  padding: 1em;
-  background-color: #f1f1f1;
-  width: 100%;
-}
-
-.copyright {
-  color: #0172ad;
-}
-
 .image-container {
   position: relative; /* Position relative for absolute positioning of the button */
 }
 
 .cancel-button {
   position: absolute;
-  top: 5px; /* Adjust as needed */
-  right: 5px; /* Adjust as needed */
-  background: rgb(255, 45, 45);
-  color: rgb(255, 255, 255); /* Change color as needed */
-  font-size: 20px; /* Adjust size as needed */
+  top: 10px; /* Adjust as needed */
+  right: 10px; /* Adjust as needed */
+  background: red;
+  border: none;
   cursor: pointer;
-  border-color: transparent;
-  font-family: sans-serif;
+  color: white; /* Change color as needed */
+  font-size: 24px; /* Adjust size as needed */
+}
+
+/* Media query for iPhone to show two columns */
+@media (max-width: 800px) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 20px; /* Adjust gap as needed */
+  }
 }
 </style>
