@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
-import ChapterMCQs from "./BOF/ChapterMCQs.vue";
+import ChapterMCQs from "./ChapterMCQs.vue";
 
 let page = ref("");
 let questionsData = ref<Record<string, any>>({});

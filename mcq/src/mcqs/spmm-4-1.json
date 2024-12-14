@@ -1,0 +1,730 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following has at least a preliminary evidence base for managing Treatment-Resistant Depression?",
+    "options": {
+      "A": "Fluoxetine and clonazepam",
+      "B": "Fluoxetine and mianserin",
+      "C": "Citalopram and valproate",
+      "D": "Venlafaxine and Mirtazapine",
+      "E": "Duloxetine and fluoxetine"
+    },
+    "correct_answer": "D",
+    "explanation": "Venlafaxine-mirtazapine combination is called Californian rocket fuel, which is recommended by NICE in the treatments of refractory depression. It is usually well tolerated, has reasonable literature support and is becoming more widely used."
+  },
+  {
+    "number": 2,
+    "question": "Buspirone is a?",
+    "options": {
+      "A": "GABA agonist",
+      "B": "5-HT1A partial agonist",
+      "C": "5-HT1A agonist",
+      "D": "5-HT1A antagonist",
+      "E": "GABA antagonist"
+    },
+    "correct_answer": "B",
+    "explanation": "It is a partial agonist."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is linked with intentional nonadherence?",
+    "options": {
+      "A": "Missed doses after long period on treatment",
+      "B": "High degree of trust on the treating doctor",
+      "C": "A desire for self-efficacy",
+      "D": "Receipt of adequate levels of drug information",
+      "E": "Higher severity of illness"
+    },
+    "correct_answer": "C",
+    "explanation": "Patients with a high desire for self-efficacy are found to have higher degree of intentional nonadherence."
+  },
+  {
+    "number": 4,
+    "question": "A placebo is best described as which one of the following?",
+    "options": {
+      "A": "A preparation of active compound without a label",
+      "B": "An active preparation of precursor molecules",
+      "C": "A preparation with higher than average propensity to cause side effects",
+      "D": "A compound that is active for an unrelated disorder",
+      "E": "A dummy preparation of inactive compound"
+    },
+    "correct_answer": "E",
+    "explanation": "The placebo effect is a psychobiological phenomenon that can be attributable to different mechanisms, including an expectation of clinical improvement and Pavlovian conditioning."
+  },
+  {
+    "number": 5,
+    "question": "Ethnic differences in psychiatric drug effects are noted in which of the following pharmacological actions?",
+    "options": {
+      "A": "Blood levels of haloperidol",
+      "B": "Hydroxylation of tricyclics",
+      "C": "All of the listed",
+      "D": "Prolactin response to antipsychotics",
+      "E": "Alcohol metabolism"
+    },
+    "correct_answer": "C",
+    "explanation": "Maximal haloperidol concentration in plasma after rapid tranquillisation is significantly high for Asians than Caucasians. These differences have been attributed to a greater incidence of slow hydroxylation among Asians."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following best describes lofexidine?",
+    "options": {
+      "A": "Natural opioid",
+      "B": "Alpha 1 antagonist",
+      "C": "Alpha 2 agonist",
+      "D": "Synthetic opioid",
+      "E": "Opioid antagonist"
+    },
+    "correct_answer": "C",
+    "explanation": "In opioid detoxification, if short duration of treatment is desirable, a2 adrenergic agonists such as lofexidine and clonidine are preferred to methadone."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following chemical class of drugs used as antidepressants can increase seizure risk heavily?",
+    "options": {
+      "A": "Triazolopyridine",
+      "B": "Hydrazine derivatives",
+      "C": "SSRIs",
+      "D": "Cyclopyrrolone",
+      "E": "Aminoketone"
+    },
+    "correct_answer": "E",
+    "explanation": "Aminoketone (Bupropion) is contraindicated in seizure disorder."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following is a substituted benzamide used as an antipsychotic?",
+    "options": {
+      "A": "Amisulpride",
+      "B": "Benzhedrine",
+      "C": "Paliperidone",
+      "D": "Risperidone",
+      "E": "Olanzapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Amisulpride is a substituted benzamide that has atypical antipsychotic activity."
+  },
+  {
+    "number": 9,
+    "question": "Choose a secondary amine from the below list:",
+    "options": {
+      "A": "Clomipramine",
+      "B": "Dothiepin",
+      "C": "Amitriptyline",
+      "D": "Amoxapine",
+      "E": "Imipramine"
+    },
+    "correct_answer": "D",
+    "explanation": "Secondary amines include desipramine, amoxapine, nortriptyline, and protriptyline which are more noradrenergic and less antihistaminic."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following best applies to the chemical structure of buspirone?",
+    "options": {
+      "A": "Imidazopyridine",
+      "B": "Benzisoxazole",
+      "C": "Thienobenzodiazepine",
+      "D": "Aminoketone",
+      "E": "Azaspirone-decanedione"
+    },
+    "correct_answer": "E",
+    "explanation": "Buspirone, anxiolytics, is an azaspirone."
+  },
+  {
+    "number": 11,
+    "question": "Buspirone belongs to the chemical class of?",
+    "options": {
+      "A": "Azaspirones",
+      "B": "Cyclopyrrolone",
+      "C": "Imidazopyridine",
+      "D": "Pyrazopyrimidine",
+      "E": "Butyrophenone"
+    },
+    "correct_answer": "A",
+    "explanation": "Buspirone is an azaspirodecanedione anxiolytic."
+  },
+  {
+    "number": 12,
+    "question": "The new antipsychotic drug paliperidone belongs to the class of?",
+    "options": {
+      "A": "dibenzothiazepines",
+      "B": "benzixosazoles",
+      "C": "thienobenzodiazepine",
+      "D": "dibenzodiazepines",
+      "E": "benzamides"
+    },
+    "correct_answer": "B",
+    "explanation": "Paliperidone belongs to the same class as risperidone."
+  },
+  {
+    "number": 13,
+    "question": "The drug alprazolam belongs to which of the following class of psychotropics?",
+    "options": {
+      "A": "Stimulant",
+      "B": "Antipsychotics",
+      "C": "Anticholinesterase",
+      "D": "Benzodiazepines",
+      "E": "Antidepressant"
+    },
+    "correct_answer": "D",
+    "explanation": "Alprazolam is a benzodiazepine used for panic disorder."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following is termed as a norepinephrine and dopamine re-uptake inhibitor?",
+    "options": {
+      "A": "Varenicline",
+      "B": "Nefazadone",
+      "C": "Buspirone",
+      "D": "Mirtazapine",
+      "E": "Bupropion"
+    },
+    "correct_answer": "E",
+    "explanation": "Bupropion is used in the USA as an antidepressant and inhibits the reuptake of both dopamine and noradrenaline."
+  },
+  {
+    "number": 15,
+    "question": "Discovery of psychotropic use of lithium is associated with?",
+    "options": {
+      "A": "Sen and Ghose",
+      "B": "Bleuler",
+      "C": "Delay and Deniker",
+      "D": "Cade",
+      "E": "Kane"
+    },
+    "correct_answer": "D",
+    "explanation": "Cade's experiments led him to focus on lithium urate and he subsequently conducted a clinical trial of lithium with ten manic patients."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following can be called a major tranquilliser?",
+    "options": {
+      "A": "Risperidone",
+      "B": "Chlorpromazine",
+      "C": "Propofol",
+      "D": "Chlordiazepoxide",
+      "E": "Secobarbital"
+    },
+    "correct_answer": "B",
+    "explanation": "Antipsychotics are known as major tranquilizers, while benzodiazepines are called minor tranquilizers."
+  },
+  {
+    "number": 17,
+    "question": "Which one of the following drugs is not correctly paired with its proponents?",
+    "options": {
+      "A": "Chlorpromazine-Delay and Deniker",
+      "B": "Imipramine-Kuhn",
+      "C": "Clozapine-Bowden",
+      "D": "Lithium- John Cade",
+      "E": "Haloperidol-Janssen"
+    },
+    "correct_answer": "C",
+    "explanation": "Clozapine has been regarded as an effective treatment for treatment-resistant schizophrenia."
+  },
+  {
+    "number": 18,
+    "question": "Which one of the following names is associated with the use of valproate in mania?",
+    "options": {
+      "A": "Delay and Deniker",
+      "B": "John Cade",
+      "C": "Kuhn",
+      "D": "Janssen",
+      "E": "Bowden"
+    },
+    "correct_answer": "E",
+    "explanation": "Bowden is associated with the use of valproate in mania."
+  },
+  {
+    "number": 19,
+    "question": "Zopiclone belongs to the chemical class of?",
+    "options": {
+      "A": "Butyrophenone",
+      "B": "Cyclopyrrolones",
+      "C": "Imidazopyridine",
+      "D": "Pyrazopyrimidine",
+      "E": "Azaspirones"
+    },
+    "correct_answer": "B",
+    "explanation": "Zopiclone is a cyclopyrrolone."
+  },
+  {
+    "number": 20,
+    "question": "Discovery of tranquilising properties of chlorpromazine is associated with?",
+    "options": {
+      "A": "Delay and Deniker",
+      "B": "Bleuler",
+      "C": "Cade",
+      "D": "Sen and Ghose",
+      "E": "Kane"
+    },
+    "correct_answer": "A",
+    "explanation": "Chlorpromazine was synthesized by Paul Charpentier and clinical investigations began with Delay and Deniker's team."
+  },
+  {
+    "number": 21,
+    "question": "Choose the correct match from the following pairs:",
+    "options": {
+      "A": "Risperidone: dibenzoxapine",
+      "B": "Droperidol: butyrophenones",
+      "C": "Aripiprazole: Benzisothiazole",
+      "D": "Thioridazine: diphenyl butyl piperidine",
+      "E": "Flupentixol: dihydroindole"
+    },
+    "correct_answer": "B",
+    "explanation": "Droperidol and haloperidol are classified as butyrophenones."
+  },
+  {
+    "number": 22,
+    "question": "A potential advancement in the treatment of dementia is?",
+    "options": {
+      "A": "Drugs acting on dendritic receptors",
+      "B": "Drugs acting on plasma enzymes",
+      "C": "Drugs acting on presynaptic receptors",
+      "D": "Drugs acting on intracellular mechanisms",
+      "E": "Drugs acting on synaptic enzymes"
+    },
+    "correct_answer": "D",
+    "explanation": "Drugs acting on ß-secretase are promising candidates for Alzheimer's disease."
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is an inhibitor of norepinephrine and serotonin re-uptake?",
+    "options": {
+      "A": "Reboxetine",
+      "B": "Bupropion",
+      "C": "Galantamine",
+      "D": "Duloxetine",
+      "E": "Aripiprazole"
+    },
+    "correct_answer": "D",
+    "explanation": "SNRIs include venlafaxine, milnacipran, and duloxetine."
+  },
+  {
+    "number": 24,
+    "question": "Which of the following antidepressant is an enantiomer of another antidepressant drug?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Paroxetine",
+      "C": "Citalopram",
+      "D": "Escitalopram",
+      "E": "Sertraline"
+    },
+    "correct_answer": "D",
+    "explanation": "Escitalopram may be more effective and has an earlier onset of action than citalopram."
+  },
+  {
+    "number": 25,
+    "question": "Which one among the following is a butyrophenone derivative?",
+    "options": {
+      "A": "Chlorpromazine",
+      "B": "Thioridazine",
+      "C": "Haloperidol",
+      "D": "Flupenthixol",
+      "E": "Zuclopenthixol"
+    },
+    "correct_answer": "C",
+    "explanation": "Haloperidol is a butyrophenone."
+  },
+  {
+    "number": 26,
+    "question": "Which one of the following led a trial that proved Clozapine's effectiveness in treating resistant schizophrenia?",
+    "options": {
+      "A": "Kretschmer",
+      "B": "Cade",
+      "C": "Kraepelin",
+      "D": "Kane",
+      "E": "Bleurer"
+    },
+    "correct_answer": "D",
+    "explanation": "The study published in 1988 by Kane and colleagues showed significant improvement in clozapine's effectiveness."
+  },
+  {
+    "number": 27,
+    "question": "Select the reason why clozapine was initially withdrawn before Kane's landmark trial:",
+    "options": {
+      "A": "High costs",
+      "B": "High fatality rates",
+      "C": "Lack of efficacy",
+      "D": "Unclear dosing schedule",
+      "E": "Excessive sedation"
+    },
+    "correct_answer": "B",
+    "explanation": "Clozapine was withdrawn due to reports of agranulocytosis and fatalities."
+  },
+  {
+    "number": 28,
+    "question": "Which of the following ethnic differences in pharmacogenetics create natural alcohol deterrence?",
+    "options": {
+      "A": "Low cholinesterase",
+      "B": "Lack of aldehyde dehydrogenase",
+      "C": "High aldehyde dehydrogenase",
+      "D": "High alcohol dehydrogenase",
+      "E": "High CYP 3A4"
+    },
+    "correct_answer": "B",
+    "explanation": "Nearly 40% Asians and around 60% South American Native Indians lack Aldehyde dehydrogenase enzyme."
+  },
+  {
+    "number": 29,
+    "question": "Which of the following psychotropic agents has the same pharmacokinetic properties in Asians and White Europeans?",
+    "options": {
+      "A": "Alprazolam",
+      "B": "Haloperidol",
+      "C": "Diazepam",
+      "D": "Chlorpromazine",
+      "E": "Lithium"
+    },
+    "correct_answer": "E",
+    "explanation": "Lithium is completely excreted renally; its excretion does not differ between Asians and Europeans."
+  },
+  {
+    "number": 30,
+    "question": "A 15-year-old boy has not been to his school for last few weeks as he has been disturbed by derogatory auditory hallucinations. He has been hearing voices in the third person for two months and is receiving messages from the television. The most likely treatment option is?",
+    "options": {
+      "A": "Parental Training",
+      "B": "Family Therapy",
+      "C": "Fluoxetine",
+      "D": "Cognitive Behavioural Therapy for anxiety",
+      "E": "Low dose risperidone"
+    },
+    "correct_answer": "E",
+    "explanation": "The diagnosis is early onset schizophrenia and treatment should be one of the second-generation antipsychotics like risperidone (low dose)."
+  },
+  {
+    "number": 31,
+    "question": "Which one of the following is the first antidepressant to be introduced?",
+    "options": {
+      "A": "SNRIs",
+      "B": "Tetracyclics",
+      "C": "SSRIs",
+      "D": "Tricyclics",
+      "E": "MAO inhibitors"
+    },
+    "correct_answer": "E",
+    "explanation": "Iproniazid is a monoamine oxidase inhibitor and was the first antidepressant developed."
+  },
+  {
+    "number": 32,
+    "question": "The antidementia drug with an NMDA receptor antagonistic property is:",
+    "options": {
+      "A": "Tacrine",
+      "B": "Galantamine",
+      "C": "Donepezil",
+      "D": "Rivastigmine",
+      "E": "Memantine"
+    },
+    "correct_answer": "E",
+    "explanation": "Memantine as an NMDA receptor antagonist can prevent the pathological stimulation of NMDA receptors."
+  },
+  {
+    "number": 33,
+    "question": "Which drugs among the following is classified as a reversible MAOI?",
+    "options": {
+      "A": "Isocarboxazid",
+      "B": "Tranylcypromine",
+      "C": "Moclobemide",
+      "D": "Raclopride",
+      "E": "Phenelzine"
+    },
+    "correct_answer": "C",
+    "explanation": "Reversible MAO inhibitors include moclobemide and are less likely to induce hypertensive crisis."
+  },
+  {
+    "number": 34,
+    "question": "A patient is diagnosed with mild cognitive impairment. Which one of the following is recommended for the prevention of dementia? (June 2008)",
+    "options": {
+      "A": "Arachidonic acid (unsaturated fatty acid)",
+      "B": "Donepezil",
+      "C": "No recommendation",
+      "D": "Memantine",
+      "E": "NSAIDS"
+    },
+    "correct_answer": "C",
+    "explanation": "Currently, there is no recommended prophylactic intervention for preventing the conversion of MCI to dementia."
+  },
+  {
+    "number": 35,
+    "question": "Placebo effect is NOT mediated via?",
+    "options": {
+      "A": "Nocebo response",
+      "B": "Natural remission",
+      "C": "classical conditioning",
+      "D": "expectancy",
+      "E": "operant conditioning"
+    },
+    "correct_answer": "A",
+    "explanation": "A nocebo makes patients feel worse in the same way."
+  },
+  {
+    "number": 36,
+    "question": "A 45-year-old man with paranoid schizophrenia is started on a thienobenzodiazepine. Which of the following drugs is prescribed here?",
+    "options": {
+      "A": "Paliperidone",
+      "B": "Piperazine",
+      "C": "Olanzapine",
+      "D": "Quetiapine",
+      "E": "Clozapine"
+    },
+    "correct_answer": "C",
+    "explanation": "Olanzapine is a thienobenzodiazepine."
+  },
+  {
+    "number": 37,
+    "question": "Which of the following is true about placebo response in drug trials?",
+    "options": {
+      "A": "No placebo response is seen in personality disorders",
+      "B": "A group of 'placebo reactors' with stereotyped personality can be identified",
+      "C": "Degree of placebo response is similar irrespective of the treatment studied",
+      "D": "Opioids may have a role to play in placebo response",
+      "E": "Placebo response to depression is gradual but persistent"
+    },
+    "correct_answer": "D",
+    "explanation": "Endogenous opioids play a significant role in mediating placebo-induced analgesia."
+  },
+  {
+    "number": 38,
+    "question": "Which of the following is a true statement about the placebo effect?",
+    "options": {
+      "A": "Placebo response is perceived to be better for tablets than capsules",
+      "B": "Placebo effects do not operate on active drugs",
+      "C": "Placebo response is likely if patient is of lower social class",
+      "D": "Severely depressed subjects respond well to placebos than mildly depressed ones",
+      "E": "Oral medications elicit a stronger placebo effect than injections"
+    },
+    "correct_answer": "C",
+    "explanation": "Placebo reactors are often less educated and belong to a lower social class."
+  },
+  {
+    "number": 39,
+    "question": "Before approval of a drug molecule, mutagenicity, carcinogenicity and organ system toxicity are studied at which phase of clinical trials?",
+    "options": {
+      "A": "Preclinical animal phase",
+      "B": "Phase 1",
+      "C": "Phase 3",
+      "D": "Postmarketing surveillance",
+      "E": "Phase 2"
+    },
+    "correct_answer": "A",
+    "explanation": "These extensive preclinical animal studies must be carried out on at least two different animal species."
+  },
+  {
+    "number": 40,
+    "question": "Reserpine was originally introduced as an antipsychotic. It is extracted from which of the following plants?",
+    "options": {
+      "A": "Hypericum alkaloids",
+      "B": "Solanacea Henbane",
+      "C": "Rauwolfia serpentina",
+      "D": "Hellebore",
+      "E": "Belladonna"
+    },
+    "correct_answer": "C",
+    "explanation": "Reserpine was isolated from Rauwolfia serpentina and provided insights into the role of neurotransmitters in the brain."
+  },
+  {
+    "number": 41,
+    "question": "Rivastigmine is a?",
+    "options": {
+      "A": "Irreversible inhibitor of AchEs",
+      "B": "NMDA receptor antagonist",
+      "C": "Reversible non-competitive inhibitor of AchEs",
+      "D": "Competitive inhibitor of AchEs",
+      "E": "Reversible competitive inhibitor of AchEs"
+    },
+    "correct_answer": "C",
+    "explanation": "Rivastigmine inhibits both acetylcholinesterase and butyrylcholinesterase in the CNS."
+  },
+  {
+    "number": 42,
+    "question": "Which one among the following is a benzisoxazole derivative?",
+    "options": {
+      "A": "Amisulpride",
+      "B": "Clozapine",
+      "C": "Risperidone",
+      "D": "Sulpiride",
+      "E": "Ziprasidone"
+    },
+    "correct_answer": "C",
+    "explanation": "Risperidone is a benzisoxazole derivative."
+  },
+  {
+    "number": 43,
+    "question": "Which of the following drugs is correctly matched with its metabolite?",
+    "options": {
+      "A": "Naloxone – naltrexone",
+      "B": "Imipramine – nomifensine",
+      "C": "Citalopram – escitalopram",
+      "D": "Risperidone – paliperidone",
+      "E": "Fluoxetine – duloxetine"
+    },
+    "correct_answer": "D",
+    "explanation": "Paliperidone is the active metabolite of risperidone."
+  },
+  {
+    "number": 44,
+    "question": "Duloxetine and milnacipran are classified as?",
+    "options": {
+      "A": "Monoamine oxidase inhibitors",
+      "B": "Tricyclic antidepressants",
+      "C": "Selective serotonin reuptake inhibitors",
+      "D": "Serotonergic and noradrenergic reuptake inhibitors",
+      "E": "Adrenergic type 2 antagonists"
+    },
+    "correct_answer": "D",
+    "explanation": "Both duloxetine and milnacipran belong to the same class as venlafaxine."
+  },
+  {
+    "number": 45,
+    "question": "Which drug is useful for the treatment of OCD?",
+    "options": {
+      "A": "Trazadone",
+      "B": "Duloxetine",
+      "C": "Phenelzine",
+      "D": "Venlafaxine",
+      "E": "Sertraline"
+    },
+    "correct_answer": "E",
+    "explanation": "SSRIs remain as the first-line treatments for OCD, and sertraline is effective in treating OCD in children."
+  },
+  {
+    "number": 46,
+    "question": "Venlafaxine is best described as a?",
+    "options": {
+      "A": "SNRI (Serotonin and noradrenaline reuptake inhibitor)",
+      "B": "SSRI (Selective serotonin reuptake inhibitors)",
+      "C": "NARI (Noradrenaline reuptake inhibitors)",
+      "D": "Tricyclic antidepressant",
+      "E": "Alpha 2 adrenoreceptor antagonist"
+    },
+    "correct_answer": "A",
+    "explanation": "Venlafaxine and duloxetine show selectivity in inhibiting the reuptake of both noradrenaline and serotonin."
+  },
+  {
+    "number": 47,
+    "question": "Which drug could be used for the treatment of mixed affective episodes of bipolar disorder?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Gabapentin",
+      "C": "Sodium Valproate",
+      "D": "Lithium",
+      "E": "Lamotrigine"
+    },
+    "correct_answer": "C",
+    "explanation": "Sodium valproate is a first-line option for acute manic episodes and can be used for mixed affective episodes."
+  },
+  {
+    "number": 48,
+    "question": "Zimeldine caused demyelination disorder on introduction, leading to its withdrawal. Which of the following class does it belong to?",
+    "options": {
+      "A": "MAO inhibitors",
+      "B": "Tricyclics",
+      "C": "Benzodiazepines",
+      "D": "Antipsychotics",
+      "E": "SSRIs"
+    },
+    "correct_answer": "E",
+    "explanation": "Zimeldine was an early SSRI but was withdrawn due to side effects."
+  },
+  {
+    "number": 49,
+    "question": "Acamprosate is a?",
+    "options": {
+      "A": "Synthetic taurine analogue",
+      "B": "Type of benzodiazepine",
+      "C": "Long acting opioid agonist",
+      "D": "Alpha-1 agonist",
+      "E": "Opioid receptor antagonist"
+    },
+    "correct_answer": "A",
+    "explanation": "Acamprosate is a synthetic taurine analogue that acts on glutamate and GABA neurotransmitter systems."
+  },
+  {
+    "number": 50,
+    "question": "What is cyproterone acetate?",
+    "options": {
+      "A": "Glucocorticoid analogue",
+      "B": "Testosterone antagonist",
+      "C": "Mineralocorticoid anatagonist",
+      "D": "Progesterone antagonist",
+      "E": "Testosterone partial agonist"
+    },
+    "correct_answer": "B",
+    "explanation": "Cyproterone works by preventing testosterone from binding to the receptors."
+  },
+  {
+    "number": 51,
+    "question": "You are giving a talk to your hospital staff about the importance of clinical trials. How would you explain the term 'standardised difference in effectiveness'?",
+    "options": {
+      "A": "The difference in the effect of treatment in the active treatment group compared to the placebo group after taking into account the variation in the treatment effect",
+      "B": "The effect of treatment in the active treatment group",
+      "C": "The difference in the effect of treatment in the active treatment group compared to the placebo group",
+      "D": "The number of patients that require one treatment compared to the other in order to detect one positive response",
+      "E": "The effect of treatment in the placebo group"
+    },
+    "correct_answer": "A",
+    "explanation": "The standardised mean difference is also called Cohen's d."
+  },
+  {
+    "number": 52,
+    "question": "The term active placebo refers to which one of the following?",
+    "options": {
+      "A": "None of the above",
+      "B": "The placebo produces side effects",
+      "C": "The placebo gains positive effect with repeated use.",
+      "D": "The placebo has activity against the treated illness.",
+      "E": "The placebo has some activity inherently"
+    },
+    "correct_answer": "E",
+    "explanation": "An 'active placebo' has some inherent activity but not against the treated condition."
+  },
+  {
+    "number": 53,
+    "question": "Which of the following psychotropics is well known to cause sudden death?",
+    "options": {
+      "A": "Temazepam",
+      "B": "Procyclidine",
+      "C": "Zopiclone",
+      "D": "Lithium",
+      "E": "Thioridazine"
+    },
+    "correct_answer": "E",
+    "explanation": "Antipsychotic related sudden death may be due to cardiac arrhythmias associated with drugs like thioridazine."
+  },
+  {
+    "number": 54,
+    "question": "Flupenthixol belongs to the chemical class of?",
+    "options": {
+      "A": "Diphenylbutylpiperidine",
+      "B": "Piperidine phenothiazine",
+      "C": "Thioxanthene",
+      "D": "Piperazine phenothiazine",
+      "E": "Aliphatic phenothiazine"
+    },
+    "correct_answer": "C",
+    "explanation": "Flupenthixol and zuclopenthixol are classified as thioxanthenes."
+  },
+  {
+    "number": 55,
+    "question": "Which of the following hormones is most commonly used in the treatment of depression?",
+    "options": {
+      "A": "Cortisol",
+      "B": "Vasopressin",
+      "C": "Prolactin",
+      "D": "Thyroid hormone",
+      "E": "Growth hormone"
+    },
+    "correct_answer": "D",
+    "explanation": "Thyroid hormone is commonly used with antidepressants, as hypothyroidism can accompany depression."
+  },
+  {
+    "number": 56,
+    "question": "An 81-year-old woman with dementia presented to the hospital with chest pain. Upon admission, she becomes acutely confused and agitated. She is combative and attacks a nurse who tried to pacify her. She refuses to accept a nurse to sit beside her and observe her continuously and threatens to kick anyone who attempts this. The best option available for the medical team is?",
+    "options": {
+      "A": "Use heavy sedation to prevent physical attacks",
+      "B": "Discharge her back to home",
+      "C": "Use temporary physical or pharmacological restraints with regular reevaluation of her medical status",
+      "D": "Continue to try verbal de-escalation to calm her down",
+      "E": "Transfer her to a psychiatric ward"
+    },
+    "correct_answer": "C",
+    "explanation": "Using temporary restraints is necessary for the elderly to reduce harm to themselves and health professionals, while regular re-evaluation of her medical status is important."
+  }
+]

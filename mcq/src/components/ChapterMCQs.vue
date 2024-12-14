@@ -118,12 +118,11 @@ const IncorrectAnswers = computed(() => wrong.value);
 </template>
 
 <style scoped>
-
 .score-display {
   min-width: 15%;
   max-width: 50%;
   position: fixed;
-  bottom: 40px;
+  bottom: 20px;
   right: 20px;
   color: #333;
   background-color: rgba(172, 172, 172, 0.505);

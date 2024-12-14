@@ -1,0 +1,418 @@
+[
+  {
+    "number": 1,
+    "question": "The macroscopic changes seen in Alzheimer's disease includes?",
+    "options": {
+      "A": "Senile plaques",
+      "B": "Neuronal loss",
+      "C": "Ventricular enlargement",
+      "D": "Vacuolisation",
+      "E": "Neurofibrillary tangles"
+    },
+    "correct_answer": "C",
+    "explanation": "Cerebral atrophy and ventricular enlargement are macroscopic changes, including enlargement of the lateral and third ventricles, global brain atrophy, reduction in brain weight, and sulcal widening."
+  },
+  {
+    "number": 2,
+    "question": "Lewy bodies contain which of the following materials?",
+    "options": {
+      "A": "Glial tissue",
+      "B": "Paired helical filaments",
+      "C": "Dopamine metabolites",
+      "D": "Tau protein",
+      "E": "Amyloid substance"
+    },
+    "correct_answer": "D",
+    "explanation": "Lewy bodies contain Tau protein, Ubiquitin, protein neurofilaments, granular material, dense core vesicles and microtubule assembly protein."
+  },
+  {
+    "number": 3,
+    "question": "The enzyme involved in the metabolism of amyloid precursor protein that prevents amyloid formation is?",
+    "options": {
+      "A": "Protein kinase",
+      "B": "Delta-secretase",
+      "C": "Gamma-secretase",
+      "D": "Alpha-secretase",
+      "E": "Beta-secretase"
+    },
+    "correct_answer": "D",
+    "explanation": "Alpha secretases are a family of proteolytic enzymes that cleave amyloid precursor protein in its transmembrane region, preventing amyloid formation."
+  },
+  {
+    "number": 4,
+    "question": "Hirano bodies are seen in brain autopsy of a patient who had a history of cognitive impairment. Which of the following diagnosis is most likely?",
+    "options": {
+      "A": "Vascular dementia",
+      "B": "Wilson disease",
+      "C": "Creutzfeldt Jakob disease",
+      "D": "Alzheimer's dementia",
+      "E": "Lewy body dementia"
+    },
+    "correct_answer": "D",
+    "explanation": "Hirano bodies are intracellular aggregates of actin and actin-associated proteins and are frequently seen in Alzheimer's dementia."
+  },
+  {
+    "number": 5,
+    "question": "The immunological staining used in detection of Pick's disease is?",
+    "options": {
+      "A": "Glycosaminoglycan.",
+      "B": "Amyloid P",
+      "C": "Basic fibroblast growth factor antibodies",
+      "D": "Anti-tau antibodies",
+      "E": "Heparan sulfate"
+    },
+    "correct_answer": "D",
+    "explanation": "The most efficient method is to use immunohistochemical staining with anti-tau and anti-ubiquitin antibodies to visualize Pick bodies."
+  },
+  {
+    "number": 6,
+    "question": "Which one of the following is a protective factor against Alzheimer's disease?",
+    "options": {
+      "A": "Down's syndrome",
+      "B": "Apolipoprotein e2 allele",
+      "C": "Head injury",
+      "D": "Post menopausal estrogen decline",
+      "E": "Age"
+    },
+    "correct_answer": "B",
+    "explanation": "Apolipoprotein e2 allele is a proven protective factor against Alzheimer's disease."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following is correct concerning white matter hyperintensities seen in mood disorders?",
+    "options": {
+      "A": "Best seen in T1 images of MRI",
+      "B": "Seen only in bipolar patients",
+      "C": "Associated with good recovery from mood episodes",
+      "D": "Associated with vascular risk factors",
+      "E": "Seen more often in younger patients"
+    },
+    "correct_answer": "D",
+    "explanation": "A strong association between mood disorder and the number and severity of focal signal hyperintensities has been established, with these seen in excess in patients with vascular risk factors."
+  },
+  {
+    "number": 8,
+    "question": "The pathological factor that correlates most with cognitive decline in Alzheimer's disease is?",
+    "options": {
+      "A": "Burden of diffuse plaques",
+      "B": "Burden of neurofibrillary tangles",
+      "C": "Burden of neuritic plaques",
+      "D": "Burden of gliosis",
+      "E": "Burden of vascular amyloid load"
+    },
+    "correct_answer": "B",
+    "explanation": "The burden of neurofibrillary tangles correlates well with the severity of dementia in Alzheimer's disease."
+  },
+  {
+    "number": 9,
+    "question": "Selective cerebellar atrophy as a neuropathological change is likely to be seen in which of the following dementias?",
+    "options": {
+      "A": "Lewy body dementia",
+      "B": "Creutzfeldt-Jakob Disease",
+      "C": "Alzheimer's dementia",
+      "D": "Normal Pressure Hydrocephalus",
+      "E": "Parkinson's disease dementia"
+    },
+    "correct_answer": "B",
+    "explanation": "Macroscopic changes in Creutzfeldt-Jakob disease would include generalized cerebral atrophy, sometimes a selective cerebellar atrophy and ventricular enlargement."
+  },
+  {
+    "number": 10,
+    "question": "A 55-year-old lady is a known alcoholic. She drinks in binges and presents with deficits in new learning though she could retain messages long enough to hold a conversation. The most prominent pathology in this patient will be seen in?",
+    "options": {
+      "A": "Hippocampus",
+      "B": "Dorsolateral prefrontal cortex",
+      "C": "Hypothalamus",
+      "D": "Dorsal medial thalamus",
+      "E": "Cerebellum"
+    },
+    "correct_answer": "D",
+    "explanation": "Wernicke's encephalopathy is characterized by degenerative changes around the structures surrounding the third ventricle and aqueduct, which includes the dorsal medial thalamus."
+  },
+  {
+    "number": 11,
+    "question": "Which of the following best describes the difference between CJD and vCJD? The variant CJD has?",
+    "options": {
+      "A": "Earlier onset of ataxia",
+      "B": "Negative tonsillar biopsy",
+      "C": "Absence of florid plaques on autopsy",
+      "D": "Earlier age of onset",
+      "E": "Typical EEG changes"
+    },
+    "correct_answer": "D",
+    "explanation": "Variant CJD affects younger people, with an average age of death of 29 years."
+  },
+  {
+    "number": 12,
+    "question": "A 33-year-old man presents with anxiety and depression. Soon he develops rapidly progressive cognitive impairment with myoclonus, ataxia and eventually akinetic mutism. Characteristic pathological change expected in brain autopsy, in this case, is?",
+    "options": {
+      "A": "Lewy bodies",
+      "B": "Extensive vacuole formation",
+      "C": "Ventricular dilatation",
+      "D": "Lack of gliosis",
+      "E": "Eosinophilic extraneuronal deposits"
+    },
+    "correct_answer": "B",
+    "explanation": "Microscopically, CJD shows spongiform encephalopathy secondary to neuropil vacuolisation."
+  },
+  {
+    "number": 13,
+    "question": "Neurofibrillary tangles are most commonly present in which of the following locations in Alzheimer's?",
+    "options": {
+      "A": "Brain stem",
+      "B": "Auditory association cortex",
+      "C": "Hippocampus",
+      "D": "Prefrontal cortex",
+      "E": "Insula"
+    },
+    "correct_answer": "C",
+    "explanation": "Neurofibrillary tangles occur in the hippocampus, along with senile plaques that are found in the same sites."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following is a true statement concerning human HIV disease?",
+    "options": {
+      "A": "Psychosis is the most common HIV related psychiatric problem.",
+      "B": "CSF viral load is the best predictor of HIV related CNS disease.",
+      "C": "HIV cross the blood brain barrier using macrophages",
+      "D": "CD4 count is the better indicator for severity than viral load",
+      "E": "HIV does not cause programmed cell death of neurons"
+    },
+    "correct_answer": "C",
+    "explanation": "HIV enters the CNS as a passenger in cells trafficking to the brain via CD4 T cells or monocytes."
+  },
+  {
+    "number": 15,
+    "question": "You have noticed some degree of cognitive decline and weight loss in an intravenous drug user. The most probable diagnosis is?",
+    "options": {
+      "A": "Neurosyphilis",
+      "B": "Alzheimer's dementia",
+      "C": "CADASIL",
+      "D": "Binswanger's disease",
+      "E": "HIV dementia"
+    },
+    "correct_answer": "E",
+    "explanation": "One of the common sources of acquiring HIV infection is intravenous drug use, leading to subcortical dementia."
+  },
+  {
+    "number": 16,
+    "question": "Marked atrophy of the caudate nucleus is seen in which of the following disorders?",
+    "options": {
+      "A": "Huntington's disease",
+      "B": "Punch drunk syndrome",
+      "C": "Alcoholic dementia",
+      "D": "Creutzfeldt-Jakob Disease",
+      "E": "Lewy Body dementia"
+    },
+    "correct_answer": "A",
+    "explanation": "Marked atrophy of the corpus striatum, particularly the caudate nucleus, is seen in Huntington's disease."
+  },
+  {
+    "number": 17,
+    "question": "Neurofibrillary tangles seen in Alzheimer's disease are made up of?",
+    "options": {
+      "A": "Hypophosphorylated tau protein",
+      "B": "Amyloid fibrils",
+      "C": "Actin filaments",
+      "D": "Synaptophysin",
+      "E": "Hyperphosphorylated tau protein"
+    },
+    "correct_answer": "E",
+    "explanation": "Neurofibrillary tangles are composed primarily of abnormally hyperphosphorylated tau protein."
+  },
+  {
+    "number": 18,
+    "question": "A 10 year old child in a special school has challenging behaviour associated with aggression and stereotyped motor activity. Which of the following seen in MRI is associated with autism?",
+    "options": {
+      "A": "Cerebral atrophy",
+      "B": "Hypoplastic cerebellum",
+      "C": "Medial temporal atrophy",
+      "D": "Caudate atrophy",
+      "E": "White matter hyperintensities"
+    },
+    "correct_answer": "B",
+    "explanation": "Hypoplasia of cerebellar vermis and to some extent the cerebellar hemispheres is documented in association with autism."
+  },
+  {
+    "number": 19,
+    "question": "In those with Mild Cognitive Impairment, which of the following biomarkers can detect worsening cognitive function?",
+    "options": {
+      "A": "Decreased tau protein in CSF",
+      "B": "Increased Tau-to-Amyloid ratio in CSF",
+      "C": "Decreased Ubiquitin-to-Amyloid ratio in CSF",
+      "D": "Decreased Tau-to-Amyloid ratio in CSF",
+      "E": "Increased beta amyloid in CSF"
+    },
+    "correct_answer": "B",
+    "explanation": "Increased CSF tau/A-beta (amyloid) ratios show promise as a preclinical biomarker to predict future dementia."
+  },
+  {
+    "number": 20,
+    "question": "Which of the following is correct with respect to planum temporale?",
+    "options": {
+      "A": "It is present only on dominant cerebral hemisphere",
+      "B": "It is normally larger on left side",
+      "C": "It specializes in visual processing",
+      "D": "In schizophrenia left More than right asymmetry is noted",
+      "E": "It is situated in anterior temporal surface"
+    },
+    "correct_answer": "B",
+    "explanation": "The planum temporale is noted for its marked leftward volume asymmetry related to right-handedness."
+  },
+  {
+    "number": 21,
+    "question": "Which of the following is a feature more likely to be seen in Pick's disease than other dementias?",
+    "options": {
+      "A": "Reactive astrocytosis",
+      "B": "Gliosis",
+      "C": "Tau proteins",
+      "D": "Ventricular shrinkage",
+      "E": "Knife blade gyri"
+    },
+    "correct_answer": "E",
+    "explanation": "Pick's disease is associated with specific asymmetrical atrophy of frontal and anterior temporal lobes, leading to knife blade gyri."
+  },
+  {
+    "number": 22,
+    "question": "Alpha-synuclein is a major constituent of which of the following?",
+    "options": {
+      "A": "Neurofibrillary tangles",
+      "B": "Pick's bodies",
+      "C": "Prion particles",
+      "D": "Neuritic plaques",
+      "E": "Lewy bodies"
+    },
+    "correct_answer": "E",
+    "explanation": "Lewy bodies contain accumulations of alpha-synuclein."
+  },
+  {
+    "number": 23,
+    "question": "Autopsy of an elderly man who suffered from marked tremors and a progressive cognitive decline shows cells negative for tau protein. What is the likely diagnosis?",
+    "options": {
+      "A": "Lewy body dementia",
+      "B": "Vascular dementia",
+      "C": "Alzheimer's dementia",
+      "D": "CJD",
+      "E": "Frontal lobe degeneration"
+    },
+    "correct_answer": "A",
+    "explanation": "Lewy body dementia is characterized by marked tremors and presence of other features but without tau protein deposits."
+  },
+  {
+    "number": 24,
+    "question": "A 40-year-old woman was found wandering on streets after the recent funeral of her husband. She can give her personal demographic details and has no past psychiatric history. She has no physical injuries. Which of the following deficits is likely?",
+    "options": {
+      "A": "Loss of semantic memory",
+      "B": "Loss of new learning capacity",
+      "C": "Continuous anterograde amnesia",
+      "D": "Loss of procedural memory",
+      "E": "Loss of memory of personal events well rehearsed"
+    },
+    "correct_answer": "E",
+    "explanation": "This describes dissociative amnesia where well-rehearsed personal events are lost."
+  },
+  {
+    "number": 25,
+    "question": "Arteriosclerotic changes in major arteries are most commonly found in which of the following types of dementia?",
+    "options": {
+      "A": "Multi-infarct dementia",
+      "B": "Lewy body dementia",
+      "C": "Alzheimer's dementia",
+      "D": "Parkinson's disease dementia",
+      "E": "Normal Pressure Hydrocephalus"
+    },
+    "correct_answer": "A",
+    "explanation": "In multi-infarct dementia, brain damage due to multiple cerebral infarcts leads to local or general brain atrophy and arteriosclerotic changes."
+  },
+  {
+    "number": 26,
+    "question": "Which disease can be studied by inducing 'autoimmune encephalomyelitis'?",
+    "options": {
+      "A": "Acquired brain injury",
+      "B": "Parkinson's disease",
+      "C": "Huntington's disease",
+      "D": "Multiple sclerosis",
+      "E": "Alzheimer's disease"
+    },
+    "correct_answer": "D",
+    "explanation": "Experimental autoimmune encephalomyelitis is used to study multiple sclerosis."
+  },
+  {
+    "number": 27,
+    "question": "The neuropathological findings in Punch Drunk syndrome include which of the following changes?",
+    "options": {
+      "A": "Knife blade gyri",
+      "B": "Basal ganglia enlargement",
+      "C": "Neurofibrillary tangles",
+      "D": "Caudate hypertrophy",
+      "E": "Pulvinar signs"
+    },
+    "correct_answer": "C",
+    "explanation": "Histological changes in Punch Drunk syndrome would include neuronal loss and neurofibrillary tangles."
+  },
+  {
+    "number": 28,
+    "question": "The spongiform appearance of brain tissue in CJD is due to?",
+    "options": {
+      "A": "Apoptosis of neuronal cells",
+      "B": "Glial proliferation",
+      "C": "Demyelination",
+      "D": "Neuropil vacuolation",
+      "E": "Excessive fibrosis"
+    },
+    "correct_answer": "D",
+    "explanation": "Microscopically, CJD shows a spongiform encephalopathy secondary to neuropil vacuolation."
+  },
+  {
+    "number": 29,
+    "question": "Depigmentation of the substantia nigra is seen in which of the following disorders?",
+    "options": {
+      "A": "Creutzfeldt-Jakob Disease",
+      "B": "Huntington's disease",
+      "C": "Dandy-Walker malformation",
+      "D": "Alzheimers disease",
+      "E": "Parkinson's disease"
+    },
+    "correct_answer": "E",
+    "explanation": "Depigmentation of the substantia nigra is a feature of idiopathic Parkinson's disease."
+  },
+  {
+    "number": 30,
+    "question": "Knife blade atrophy is seen in?",
+    "options": {
+      "A": "Pick's disease",
+      "B": "Alzheimer's disease",
+      "C": "Lewy body dementia",
+      "D": "CJD",
+      "E": "Progressive supranuclear palsy"
+    },
+    "correct_answer": "A",
+    "explanation": "Knife-blade type atrophy is characteristic of Pick's disease due to marked atrophy of the frontal and temporal lobes."
+  },
+  {
+    "number": 31,
+    "question": "In which of the following conditions both balloon cells and Hirano bodies are seen?",
+    "options": {
+      "A": "Alzheimer's disease",
+      "B": "HSE encephalitis",
+      "C": "Neurosyphilis",
+      "D": "CJD",
+      "E": "Pick's disease"
+    },
+    "correct_answer": "E",
+    "explanation": "Both Hirano bodies and Balloon cells are seen together in Pick's disease."
+  },
+  {
+    "number": 32,
+    "question": "Which of the following structures is larger on the left side compared to the right hemisphere in healthy right handed subjects?",
+    "options": {
+      "A": "Cingulate cortex",
+      "B": "Planum temporale",
+      "C": "Superior colliculus",
+      "D": "Thalamus",
+      "E": "Amygdala"
+    },
+    "correct_answer": "B",
+    "explanation": "The planum temporale shows marked leftward volume asymmetry related to right-handedness."
+  }
+]

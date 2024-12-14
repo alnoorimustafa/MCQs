@@ -1,0 +1,1678 @@
+[
+  {
+    "number": 1,
+    "question": "According to Thomas and Chess study, what percentage of children are considered to be 'difficult'?",
+    "options": {
+      "A": "25%",
+      "B": "40%",
+      "C": "60%",
+      "D": "10%",
+      "E": "1%"
+    },
+    "correct_answer": "D",
+    "explanation": "According to the 1963 New York Longitudinal Study, difficult children make up 10% of the population."
+  },
+  {
+    "number": 2,
+    "question": "Precocious puberty is suspected in girls before the age of?",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "10",
+      "D": "7",
+      "E": "11"
+    },
+    "correct_answer": "B",
+    "explanation": "Precocious puberty in girls is suspected before the age of 8."
+  },
+  {
+    "number": 3,
+    "question": "What percentage of patients eventually achieve level 3 post-conventional morality, described by Kohlberg's theory of moral development?",
+    "options": {
+      "A": "100",
+      "B": "15",
+      "C": "5",
+      "D": "50"
+    },
+    "correct_answer": "B",
+    "explanation": "Only 15% of individuals eventually achieve level 3 post-conventional morality according to Kohlberg's theory."
+  },
+  {
+    "number": 4,
+    "question": "Around 18 months of age, what percentage of infants has multiple attachments?",
+    "options": {
+      "A": "87",
+      "B": "18",
+      "C": "50",
+      "D": "3",
+      "E": "5"
+    },
+    "correct_answer": "A",
+    "explanation": "Around 87% of infants have multiple attachments by 18 months of age."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following is a normal stage of grief?",
+    "options": {
+      "A": "Ambivalence",
+      "B": "Anger",
+      "C": "Bargaining",
+      "D": "Mourning",
+      "E": "Protest"
+    },
+    "correct_answer": "E",
+    "explanation": "Protest is one of the stages of grief according to classic models of grieving."
+  },
+  {
+    "number": 6,
+    "question": "Which period refers to the autistic phase of Margaret Mahler's stages of child's early development?",
+    "options": {
+      "A": "6-36 months",
+      "B": "12-24 months",
+      "C": "0-2 months",
+      "D": "6-12 months",
+      "E": "2-6 Months"
+    },
+    "correct_answer": "C",
+    "explanation": "Mahler's autistic phase occurs during the first 1 to 2 months of life, where the infant is oblivious to everything but themselves."
+  },
+  {
+    "number": 7,
+    "question": "Stranger fear peaks at?",
+    "options": {
+      "A": "1 year",
+      "B": "0-3 months",
+      "C": "5-8 years",
+      "D": "3-6 months",
+      "E": "2-3 years"
+    },
+    "correct_answer": "A",
+    "explanation": "Stranger fear peaks around 12 to 18 months of age."
+  },
+  {
+    "number": 8,
+    "question": "The strange situation procedure is designed for use with children between the ages of?",
+    "options": {
+      "A": "6 months and 1 year",
+      "B": "18 months and 2 years",
+      "C": "1 month and 6 months",
+      "D": "1 year and 18 months",
+      "E": "2 years and 3 years"
+    },
+    "correct_answer": "D",
+    "explanation": "The strange situation procedure is mainly designed for children between 12 and 18 months."
+  },
+  {
+    "number": 9,
+    "question": "Average age of puberty in boys is?",
+    "options": {
+      "A": "8-9 years",
+      "B": "9-10 years",
+      "C": "14-15 years",
+      "D": "10-11 years",
+      "E": "11-12 years"
+    },
+    "correct_answer": "E",
+    "explanation": "Currently in the UK, the average age of puberty in boys is around 11-12 years."
+  },
+  {
+    "number": 10,
+    "question": "Three infants aged 3 months, 5 months and 12 months are present in a room with their mothers. When all three mothers attempt to leave the room, which of the following might happen?",
+    "options": {
+      "A": "5-months-old infant will cry",
+      "B": "All three infants will cry",
+      "C": "Depends on the degree of attachment",
+      "D": "12-months-old infant will cry",
+      "E": "3-months-old infant will cry"
+    },
+    "correct_answer": "D",
+    "explanation": "Separation anxiety is observed around age 12 months, so the 12-month-old infant is most likely to cry."
+  },
+  {
+    "number": 11,
+    "question": "Attachment behaviour typically peaks between?",
+    "options": {
+      "A": "5 and 7 months of age",
+      "B": "6 and 12 months of age",
+      "C": "12 and 18 months of age",
+      "D": "36 and 48 months of age",
+      "E": "7 and 9 months of age"
+    },
+    "correct_answer": "C",
+    "explanation": "Attachment behaviour peaks between 12 to 18 months of age."
+  },
+  {
+    "number": 12,
+    "question": "Fears of rejection by peer group peaks around the age of?",
+    "options": {
+      "A": "10 years",
+      "B": "15 years",
+      "C": "21 years",
+      "D": "17 years",
+      "E": "7 years"
+    },
+    "correct_answer": "B",
+    "explanation": "Fears of rejection by friends peak around 15 years of age."
+  },
+  {
+    "number": 13,
+    "question": "A child can use meaningful words without connecting words. Identify the possible age of the child.",
+    "options": {
+      "A": "18-30 months",
+      "B": "More than 30 months",
+      "C": "12-18 months",
+      "D": "More than 60 months",
+      "E": "0-12 months"
+    },
+    "correct_answer": "A",
+    "explanation": "Telegraphic speech occurs at 18-30 months, where children use meaningful words without connecting words."
+  },
+  {
+    "number": 14,
+    "question": "Gender identity in a normally growing child develops around?",
+    "options": {
+      "A": "2 years of age",
+      "B": "4 years of age",
+      "C": "1 year of age",
+      "D": "Early schooling",
+      "E": "Puberty"
+    },
+    "correct_answer": "A",
+    "explanation": "Gender identity typically begins to develop around 2 years of age."
+  },
+  {
+    "number": 15,
+    "question": "The theory of mind, the ability to conceptualize false beliefs, develops around?",
+    "options": {
+      "A": "4 years of age",
+      "B": "5 years of age",
+      "C": "3 years of age",
+      "D": "2 years of age",
+      "E": "6 years of age"
+    },
+    "correct_answer": "A",
+    "explanation": "The theory of mind typically develops around 4 years of age."
+  },
+  {
+    "number": 16,
+    "question": "According to Margaret Mahler, the separation individuation phase lasts from?",
+    "options": {
+      "A": "2 to 5 months",
+      "B": "5 months to 5 years",
+      "C": "10 to 18 months",
+      "D": "0 to 2 months",
+      "E": "18 to 24 months"
+    },
+    "correct_answer": "B",
+    "explanation": "The separation-individuation phase lasts from 5 months to 5 years of age."
+  },
+  {
+    "number": 17,
+    "question": "A boy was observed to be speaking in fully formed grammatical sentences similar to adult speech with his mother. By what age is this milestone generally achieved?",
+    "options": {
+      "A": "5 years",
+      "B": "1 year",
+      "C": "6 months",
+      "D": "3 years",
+      "E": "2 years"
+    },
+    "correct_answer": "A",
+    "explanation": "Children typically achieve adult speech approximating sentences by around 5 years."
+  },
+  {
+    "number": 18,
+    "question": "In a typically developing child, babbling is seen by what age?",
+    "options": {
+      "A": "6 weeks",
+      "B": "9-10 months",
+      "C": "6 months",
+      "D": "3 months",
+      "E": "12 months"
+    },
+    "correct_answer": "C",
+    "explanation": "Babbling is generally observed by around 6 months of age."
+  },
+  {
+    "number": 19,
+    "question": "Visual acuity reaches near adult levels by?",
+    "options": {
+      "A": "2 months of age",
+      "B": "4 months of age",
+      "C": "12 months of age",
+      "D": "1 month of age",
+      "E": "6 months of age"
+    },
+    "correct_answer": "E",
+    "explanation": "Visual acuity reaches near adult levels by 6 months of age."
+  },
+  {
+    "number": 20,
+    "question": "The age at which Erikson's stage of industry vs. inferiority is seen:",
+    "options": {
+      "A": "9-19 years",
+      "B": "4 - 5 years",
+      "C": "30-50 years",
+      "D": "6 to 11 years",
+      "E": "3 - 4 years"
+    },
+    "correct_answer": "D",
+    "explanation": "Industry vs. inferiority occurs between ages 6 and puberty."
+  },
+  {
+    "number": 21,
+    "question": "What is the most sensitive period for development of attachment behaviour in human beings?",
+    "options": {
+      "A": "6 to 18 months",
+      "B": "3 to 6 months",
+      "C": "1 to 3 months",
+      "D": "3 to 5 years",
+      "E": "18 months to 3 years"
+    },
+    "correct_answer": "A",
+    "explanation": "According to Bowlby, attachment develops in the period from 6 to 18 months."
+  },
+  {
+    "number": 22,
+    "question": "In Piaget's theory of cognitive development, the concrete operational stage lasts from?",
+    "options": {
+      "A": "12 years and above",
+      "B": "18 years and above",
+      "C": "Birth to 2 years",
+      "D": "2 to 7 years",
+      "E": "7-12 years"
+    },
+    "correct_answer": "E",
+    "explanation": "Concrete operational stage lasts from about 7 to 12 years."
+  },
+  {
+    "number": 23,
+    "question": "A child plays peek-a-boo games with his mother. At what age is this game first understood and enjoyed by the child?",
+    "options": {
+      "A": "6 months of age",
+      "B": "3 years of age",
+      "C": "3 months of age",
+      "D": "18 months of age",
+      "E": "9 months of age"
+    },
+    "correct_answer": "E",
+    "explanation": "Understanding and enjoyment of peek-a-boo games occurs around 9 months of age."
+  },
+  {
+    "number": 24,
+    "question": "Which of the following is INCORRECT concerning child development?",
+    "options": {
+      "A": "A 2 years old child can speak more than 50 words",
+      "B": "A child starts babbling at 3 months of age",
+      "C": "A 4 years old child speaks with correct grammar",
+      "D": "A 5 years old child can tell time by quarter of an hour accuracy",
+      "E": "A 12 months old child can speak up to 3 words"
+    },
+    "correct_answer": "D",
+    "explanation": "A 5-year-old child typically tells the time to the hour or the half hour, not by quarter hour."
+  },
+  {
+    "number": 25,
+    "question": "Kohlberg's concept of conventional morality is closely related to which of the following?",
+    "options": {
+      "A": "A child believes that the right thing is what satisfies one's needs",
+      "B": "A child believes that the right thing is what adults approve of",
+      "C": "A child believes that the right thing is to uphold ethical principles",
+      "D": "A child believes that the right thing is one that avoids punishments",
+      "E": "A child believes that the right thing is what the intuition suggests"
+    },
+    "correct_answer": "B",
+    "explanation": "Kohlberg identifies this belief as part of the conventional stage where approval from adults matters."
+  },
+  {
+    "number": 26,
+    "question": "Which one among the following has been used as a non-verbal method of assessing children's cognitive abilities?",
+    "options": {
+      "A": "Ability to draw human figures",
+      "B": "Ability to draw dinosaurs",
+      "C": "Ability to draw a fish",
+      "D": "Ability to draw a cat",
+      "E": "Ability to draw a bird"
+    },
+    "correct_answer": "A",
+    "explanation": "Children's ability to draw human figures has been used as a non-verbal method of assessing cognitive abilities."
+  },
+  {
+    "number": 27,
+    "question": "The Cambridge study by Farrington et al. identified risk factors in children between 8-10 years that can predict later delinquent behaviour by the age of 32. Which one of the following is not a risk factor identified by this study?",
+    "options": {
+      "A": "Low intelligence",
+      "B": "Aggression in children",
+      "C": "Family criminality",
+      "D": "Low educational attainment",
+      "E": "Antisocial behaviour"
+    },
+    "correct_answer": "B",
+    "explanation": "Aggression is not listed as a risk factor by the Cambridge study in predicting delinquent behaviour."
+  },
+  {
+    "number": 28,
+    "question": "Language is slower to develop in?",
+    "options": {
+      "A": "In neglected children",
+      "B": "Deaf children",
+      "C": "In twins",
+      "D": "Boys",
+      "E": "All of the listed"
+    },
+    "correct_answer": "E",
+    "explanation": "Language develops more slowly in boys, twins, larger families, and children from lower social classes."
+  },
+  {
+    "number": 29,
+    "question": "Imprinting is characterized by?",
+    "options": {
+      "A": "Specificity",
+      "B": "Irreversibility",
+      "C": "All of the listed",
+      "D": "Sensitive period",
+      "E": "Life long retention"
+    },
+    "correct_answer": "C",
+    "explanation": "Imprinting is characterized by irreversibility, sensitive period, specificity, and life-long retention."
+  },
+  {
+    "number": 30,
+    "question": "Klein's depressive position is related to the process of learning to cope with which of the following conflicts?",
+    "options": {
+      "A": "Hunger",
+      "B": "Depression",
+      "C": "Difficult relationships",
+      "D": "Ambivalence",
+      "E": "Sexual needs"
+    },
+    "correct_answer": "D",
+    "explanation": "Klein's depressive position involves learning to cope with the ambivalence of relationships."
+  },
+  {
+    "number": 31,
+    "question": "When children are deprived of parental care from their mother or a mother substitute during infancy and in the first few years of life which of the following conditions can develop?",
+    "options": {
+      "A": "ADHD",
+      "B": "Autism",
+      "C": "Anaclitic depression",
+      "D": "Childhood schizophrenia",
+      "E": "Anankastic personality disorder"
+    },
+    "correct_answer": "C",
+    "explanation": "Anaclitic depression is a set of symptoms seen in children deprived of maternal care in early childhood."
+  },
+  {
+    "number": 32,
+    "question": "Which of the following is not a feature of Piaget's sensorimotor stage?",
+    "options": {
+      "A": "Primary circular reflexes",
+      "B": "Exercising reflexes",
+      "C": "Object permanence",
+      "D": "Secondary circular reflexes",
+      "E": "Animism"
+    },
+    "correct_answer": "E",
+    "explanation": "Animism is a feature of Piaget's preoperational stage, not the sensorimotor stage."
+  },
+  {
+    "number": 33,
+    "question": "In a strange situation experiment, a 2-year-old continues to play without getting disturbed when the mother leaves the room and does not show any response when she comes back. What type of attachment is seen here?",
+    "options": {
+      "A": "Resistant attachment",
+      "B": "Disorganised attachment",
+      "C": "Absence of attachment",
+      "D": "Anxious avoidant attachment",
+      "E": "Secure attachment"
+    },
+    "correct_answer": "D",
+    "explanation": "Anxious avoidant attachment is characterized by indifference to the presence or absence of the caregiver."
+  },
+  {
+    "number": 34,
+    "question": "During the strange situation procedure, presence of minimal distress both at separation and on reunion with the caregiver is suggestive of?",
+    "options": {
+      "A": "Disorganised attachment",
+      "B": "Disorientated attachment",
+      "C": "Ambivalent/resistant attachment",
+      "D": "Anxious/avoidant attachment",
+      "E": "Secure attachment"
+    },
+    "correct_answer": "D",
+    "explanation": "Anxious/avoidant attachment is characterized by minimal distress during separation and reunion."
+  },
+  {
+    "number": 35,
+    "question": "Which one of the following types of infants poorly interact with the mother and do not appear particularly upset when left with a stranger?",
+    "options": {
+      "A": "Securely attached infants",
+      "B": "Disorganised infants",
+      "C": "Anxious/resistant infants",
+      "D": "Toddlers in daycare",
+      "E": "Anxious/avoidant infants"
+    },
+    "correct_answer": "E",
+    "explanation": "Anxious/avoidant infants show indifference to the caregiver's absence and are not notably upset when left with strangers."
+  },
+  {
+    "number": 36,
+    "question": "According to the Social Learning Theory which of the following plays no role in the development of gender appropriate behaviours?",
+    "options": {
+      "A": "Reinforcement by role models",
+      "B": "Archetypal Schema",
+      "C": "Differential treatment by adults",
+      "D": "Imitative behaviours",
+      "E": "Cognitive processes in children"
+    },
+    "correct_answer": "B",
+    "explanation": "Archetypal Schema is not a factor in the development of gender-appropriate behaviors according to Social Learning Theory."
+  },
+  {
+    "number": 37,
+    "question": "In Piaget's theory of cognitive development, the process of solving new problems using existing schemata is termed as?",
+    "options": {
+      "A": "Adaptation",
+      "B": "Maturation",
+      "C": "Schema",
+      "D": "Assimilation",
+      "E": "Accommodation"
+    },
+    "correct_answer": "D",
+    "explanation": "The process of solving new problems using existing schemata is known as assimilation."
+  },
+  {
+    "number": 38,
+    "question": "Which one of the following statements about attachment theory is not true?",
+    "options": {
+      "A": "Children can be attached as strongly to the father as the mother",
+      "B": "According to attachment theory, multiple attachments can occur",
+      "C": "Attachment behaviour ceases by puberty",
+      "D": "Attachment behaviour is most evident when the infant is stressed",
+      "E": "Attachment can develop despite frequent punishment from attachment figure"
+    },
+    "correct_answer": "C",
+    "explanation": "Attachment behaviour continues beyond childhood and does not cease by puberty."
+  },
+  {
+    "number": 39,
+    "question": "Identify the temperamental dimension not included originally by Buss and Plomin in their temperamental survey:",
+    "options": {
+      "A": "Activity",
+      "B": "Impulsivity",
+      "C": "Attention span and persistence",
+      "D": "Sociability",
+      "E": "Emotionality"
+    },
+    "correct_answer": "C",
+    "explanation": "Attention span and persistence were not originally included in Buss and Plomin's temperamental survey."
+  },
+  {
+    "number": 40,
+    "question": "Conventional stage of morality includes?",
+    "options": {
+      "A": "Ethical orientation",
+      "B": "Punishment orientation",
+      "C": "Reward orientation",
+      "D": "Authority orientation",
+      "E": "Obedience orientation"
+    },
+    "correct_answer": "D",
+    "explanation": "Authority orientation is a key characteristic of the conventional stage of morality."
+  },
+  {
+    "number": 41,
+    "question": "Mahler is associated with?",
+    "options": {
+      "A": "Anal phase",
+      "B": "Conventional morality",
+      "C": "Autistic phase",
+      "D": "Operational stage",
+      "E": "Individuality vs. inferiority"
+    },
+    "correct_answer": "C",
+    "explanation": "Mahler's theory includes phases such as the autistic phase and the symbiotic phase."
+  },
+  {
+    "number": 42,
+    "question": "Which one of the following attachment category has not been described in the adult attachment interview developed by Mary Main?",
+    "options": {
+      "A": "Disorganised",
+      "B": "Autonomous",
+      "C": "Dismissing",
+      "D": "Entangled",
+      "E": "Autocratic"
+    },
+    "correct_answer": "E",
+    "explanation": "Autocratic is not a category described in the adult attachment interview; the recognized categories include autonomous, dismissing, preoccupied/entangled, and unresolved/disorganized."
+  },
+  {
+    "number": 43,
+    "question": "In which psychiatric disorder, up to three quarters of patients report physical or sexual abuse and prolonged separation from parents in early childhood?",
+    "options": {
+      "A": "Obsessive compulsive disorder",
+      "B": "Schizophrenia",
+      "C": "Borderline personality disorder",
+      "D": "Paranoid personality disorder",
+      "E": "Atypical Grief reaction"
+    },
+    "correct_answer": "C",
+    "explanation": "Borderline personality disorder is often associated with histories of abuse and separation in early childhood."
+  },
+  {
+    "number": 44,
+    "question": "Who described human infants to have an 'innate state of helplessness and would most likely perish without a caregiver'?",
+    "options": {
+      "A": "Saunders",
+      "B": "Bowlby",
+      "C": "Klein",
+      "D": "Mahler",
+      "E": "Anna Freud"
+    },
+    "correct_answer": "B",
+    "explanation": "Bowlby proposed that infants are born in a state of helplessness and require caregiving for survival."
+  },
+  {
+    "number": 45,
+    "question": "Which one of the following terms refers to the bias towards focussing attention on only one aspect of a situation and the inability to attend to other features?",
+    "options": {
+      "A": "Symbolic thought",
+      "B": "Centration",
+      "C": "Egocentrism",
+      "D": "Circular reactions",
+      "E": "Irreversibility"
+    },
+    "correct_answer": "B",
+    "explanation": "Centration is a cognitive limitation often seen in children, where they focus on a single aspect of a situation."
+  },
+  {
+    "number": 46,
+    "question": "In Margaret Mahler's stages of early development, the term symbiosis refers to?",
+    "options": {
+      "A": "Child's perception of mother and self as one unit",
+      "B": "Child's lack of exploration of outer world",
+      "C": "Child's ability to gratify mother's emotional needs",
+      "D": "Child's nutritional dependence on breast milk",
+      "E": "Child's lack of exploration of inner world"
+    },
+    "correct_answer": "A",
+    "explanation": "Symbiosis in Mahler's theory describes the undifferentiated relationship perceived between mother and child."
+  },
+  {
+    "number": 47,
+    "question": "Who proposed that human beings are born with a 'Language Acquisition device' (LAD) that enables children to gather information about the rules of language use?",
+    "options": {
+      "A": "Melanie Klein",
+      "B": "Donald Winnicott",
+      "C": "Vygotsky",
+      "D": "Chomsky",
+      "E": "Margaret Mahler"
+    },
+    "correct_answer": "D",
+    "explanation": "Noam Chomsky proposed the concept of a Language Acquisition Device, an innate brain structure that facilitates language learning."
+  },
+  {
+    "number": 48,
+    "question": "A city council provides three different modes of support for abandoned and abused children – foster care, institutional support or supervised care within the family of origin. Which of the following outcome can be expected from the care provided?",
+    "options": {
+      "A": "Cognitive recovery occurs when institutionalized children are moved to foster care",
+      "B": "All three groups will have similar IQ profile",
+      "C": "Age at placement under social service care has no influence on cognitive outcome",
+      "D": "Never-institutionalized children will show lower than average IQ",
+      "E": "Indiscriminate sociability is seen in children reared within a family system"
+    },
+    "correct_answer": "A",
+    "explanation": "Cognitive recovery has been shown to occur significantly for younger children when they are moved from institutions to foster care."
+  },
+  {
+    "number": 49,
+    "question": "In which stage of Piaget's model can a boy make out the difference between the amount of water present in a tall glass and a wide mouthed container?",
+    "options": {
+      "A": "Conventional stage",
+      "B": "Formal operational",
+      "C": "Sensorimotor",
+      "D": "Pre operational",
+      "E": "Concrete operational"
+    },
+    "correct_answer": "E",
+    "explanation": "In the concrete operational stage, children learn the concept of conservation, including understanding volume differences."
+  },
+  {
+    "number": 50,
+    "question": "Which of the following experiments is not correctly matched with Piaget's stages of cognitive development?",
+    "options": {
+      "A": "Pendulum experiment – Formal operational stage",
+      "B": "Hiding objects – Sensorimotor stage",
+      "C": "Mountain tasks – Pre-operational stage",
+      "D": "Classification of objects according to rules – concrete operational stage",
+      "E": "Conservation tasks – sensorimotor stage"
+    },
+    "correct_answer": "E",
+    "explanation": "Conservation tasks are part of the concrete operational stage, not the sensorimotor stage."
+  },
+  {
+    "number": 51,
+    "question": "The visual cliff is a test of?",
+    "options": {
+      "A": "Touch perception",
+      "B": "Depth perception",
+      "C": "Height perception",
+      "D": "Sound perception",
+      "E": "Colour perception"
+    },
+    "correct_answer": "B",
+    "explanation": "The visual cliff test is designed to assess an infant's ability to perceive depth."
+  },
+  {
+    "number": 52,
+    "question": "In the strange situation test, the child undergoing the examination is rigid and frozen when mum returns and does not involve in seeking out contact with her. The attachment behaviour on display is best characterised as?",
+    "options": {
+      "A": "Disorganised attachment behaviour",
+      "B": "Anxious avoidant behaviour",
+      "C": "Anxious resistant behaviour",
+      "D": "Absence of attachment behaviour",
+      "E": "Securely attached"
+    },
+    "correct_answer": "A",
+    "explanation": "The rigid and frozen behaviour upon reunion typically indicates disorganised attachment, which is associated with unresolved trauma."
+  },
+  {
+    "number": 53,
+    "question": "An 18-month-old girl is a 'blessing to look after'. She has a regular sleep pattern; she calms down quickly when she cries. She has a friendly social smile with strangers. Her temperament is best termed as?",
+    "options": {
+      "A": "Insecure",
+      "B": "Slow to warm up",
+      "C": "Easy",
+      "D": "Difficult",
+      "E": "Secure"
+    },
+    "correct_answer": "C",
+    "explanation": "Her characteristics fit within the 'easy' temperament category which includes regular routines and positive reactions."
+  },
+  {
+    "number": 54,
+    "question": "In a simple experiment using cardboard and toys on a desk, a 4-year-old boy could not say what a person would see from the other side of the desk when only one side of an object was visible from that side of the desk. Which among the following feature is demonstrated in this 'mountain task' experiment?",
+    "options": {
+      "A": "Transductive reasoning",
+      "B": "Object permanence",
+      "C": "Egocentrism",
+      "D": "Hypothetico deductive reasoning",
+      "E": "Symbolic thought"
+    },
+    "correct_answer": "C",
+    "explanation": "Egocentrism is evident in this task as the child struggles to see things from another person's perspective."
+  },
+  {
+    "number": 55,
+    "question": "The parallel process in a female child that resembles the Oedipus complex in males is called?",
+    "options": {
+      "A": "Euripides complex",
+      "B": "Delphi complex",
+      "C": "Electra complex",
+      "D": "Cleopatra complex",
+      "E": "Jocasta complex"
+    },
+    "correct_answer": "C",
+    "explanation": "The Electra complex refers to a girl's psychosexual competition with her mother for her father's affection."
+  },
+  {
+    "number": 56,
+    "question": "A 55-year-old married lady is a mother of three girls who were all raised by her. All are now grown up and her last daughter left home to study recently. Now the mother feels lonely and despondent. Which one of the following terms describes this phenomenon?",
+    "options": {
+      "A": "Depression",
+      "B": "Empty nest distress",
+      "C": "Downshifting",
+      "D": "Mid-life crisis",
+      "E": "Separation anxiety"
+    },
+    "correct_answer": "B",
+    "explanation": "Empty nest distress refers to the feelings of loneliness that parents often experience when their children leave home."
+  },
+  {
+    "number": 57,
+    "question": "During an Adult Attachment Interview, the subject provides an emotional and long discussion of childhood memories and is often distressed and tearful. Based on this finding, identify the category of adult attachment:",
+    "options": {
+      "A": "Autonomous",
+      "B": "Autocratic",
+      "C": "Entangled",
+      "D": "Dismissing",
+      "E": "Disorganised"
+    },
+    "correct_answer": "C",
+    "explanation": "The entangled category refers to individuals who exhibit emotional responses and may struggle with their attachment experiences."
+  },
+  {
+    "number": 58,
+    "question": "Which one of the following is said to be achieved when all information properly fits into the schemas?",
+    "options": {
+      "A": "Assimilation",
+      "B": "Accommodation",
+      "C": "Equilibration",
+      "D": "Adaptation",
+      "E": "Object permanence"
+    },
+    "correct_answer": "C",
+    "explanation": "Equilibration is achieved when a child can effectively assimilate new information into existing schemas."
+  },
+  {
+    "number": 59,
+    "question": "Which one of the following fears is not characteristic of infancy?",
+    "options": {
+      "A": "Fear of strange people",
+      "B": "Separation anxiety",
+      "C": "Fear of the dark",
+      "D": "Fear of falling",
+      "E": "Fear of loud noises"
+    },
+    "correct_answer": "C",
+    "explanation": "Fear of the dark typically develops later in childhood, while the other fears are more common in infancy."
+  },
+  {
+    "number": 60,
+    "question": "According to Thomas and Chess study, all of the following temperamental characteristics are seen in slow to warm up children except?",
+    "options": {
+      "A": "Slow changes in mood",
+      "B": "Mild intensity of emotions",
+      "C": "Negative response to new stimuli",
+      "D": "Fiery emotionality",
+      "E": "Gradual adaptations"
+    },
+    "correct_answer": "D",
+    "explanation": "Fiery emotionality is characteristic of difficult children, not slow to warm up children."
+  },
+  {
+    "number": 61,
+    "question": "The ability to formulate hypothesis and carry out deductive reasoning is a feature of?",
+    "options": {
+      "A": "Concrete operational stage",
+      "B": "Sensorimotor stage",
+      "C": "Formal operational stage",
+      "D": "None of the above",
+      "E": "Preoperational stage"
+    },
+    "correct_answer": "C",
+    "explanation": "The formal operational stage is where children develop the ability to think abstractly and reason deductively."
+  },
+  {
+    "number": 62,
+    "question": "Children adopted before what age do well in terms of attachment patterns?",
+    "options": {
+      "A": "One or two years",
+      "B": "Eight years",
+      "C": "Four or five years",
+      "D": "Sixteen years",
+      "E": "Infancy"
+    },
+    "correct_answer": "C",
+    "explanation": "Research shows that children adopted before the age of four or five tend to do well in establishing healthy attachments."
+  },
+  {
+    "number": 63,
+    "question": "A 3-year-old boy prefers playing with toy cars and motorbikes. He appears offended when someone mistakes him for a girl. Which of the following capacity has developed in this child?",
+    "options": {
+      "A": "Gender identity",
+      "B": "Gender role",
+      "C": "Theory of mind",
+      "D": "Sexual orientation",
+      "E": "Gender awareness"
+    },
+    "correct_answer": "A",
+    "explanation": "The child is demonstrating gender identity, recognizing himself as male and having preferences aligned with that identity."
+  },
+  {
+    "number": 64,
+    "question": "Which one of the following statements about parental loss is incorrect?",
+    "options": {
+      "A": "Parental death has somewhat lesser impact than parental conflict and separation",
+      "B": "Higher rates of later life depression are seen in these children",
+      "C": "Providing day care for more than 4 months at less than 1 year age for >20hrs a week can increase insecure attachment.",
+      "D": "Girls are affected more than boys due to parental divorce",
+      "E": "Children who did not adapt well may result in poor academic achievement and low self-esteem"
+    },
+    "correct_answer": "D",
+    "explanation": "Boys are often more affected than girls in cases of parental divorce."
+  },
+  {
+    "number": 65,
+    "question": "According to Kohlberg, which stage is characterised by obedience in order to conform to the expectations of the society?",
+    "options": {
+      "A": "Social contract orientation of post-conventional morality",
+      "B": "Good boy/good girl orientation of conventional morality",
+      "C": "Preconventional morality",
+      "D": "Ethical principle orientation of post-conventional morality",
+      "E": "Authority orientation of conventional morality"
+    },
+    "correct_answer": "B",
+    "explanation": "Good boy/good girl orientation represents a conventional stage where individuals conform to social norms and expectations."
+  },
+  {
+    "number": 66,
+    "question": "Which term was used by Thomas and Chess to describe the reciprocal relationship between a baby's temperament and its social environment?",
+    "options": {
+      "A": "Regularity",
+      "B": "Consonance",
+      "C": "Rhythmicity",
+      "D": "Goodness of fit",
+      "E": "Adaptability"
+    },
+    "correct_answer": "D",
+    "explanation": "Goodness of fit refers to how well a child's temperament matches the expectations and demands of their environment."
+  },
+  {
+    "number": 67,
+    "question": "Which one among the following emotions arises around three years of age?",
+    "options": {
+      "A": "Disgust",
+      "B": "Fearfulness",
+      "C": "Sadness",
+      "D": "Surprise",
+      "E": "Guilt"
+    },
+    "correct_answer": "E",
+    "explanation": "Guilt is classified as a self-conscious emotion that typically arises around the age of three."
+  },
+  {
+    "number": 68,
+    "question": "Family instability affects the development of children at home. Which of the following is correct in this regard?",
+    "options": {
+      "A": "Boys are less affected than girls",
+      "B": "Hyperactive children are more affected than easy-going children",
+      "C": "There is no effect on cognitive development",
+      "D": "Younger children are less affected than older children",
+      "E": "Psychosis is the most common effect"
+    },
+    "correct_answer": "B",
+    "explanation": "Hyperactive children tend to be more adversely affected by family instability compared to those with easier temperaments."
+  },
+  {
+    "number": 69,
+    "question": "A teenager is worried about joining the 'all-boys band' group in his school. According to Erik Erikson, he is at what phase of psychosocial development stage?",
+    "options": {
+      "A": "Identity vs Role confusion",
+      "B": "Industry vs inferiority",
+      "C": "Intimacy vs isolation",
+      "D": "Generativity vs stagnation",
+      "E": "Initiative vs guilt"
+    },
+    "correct_answer": "A",
+    "explanation": "The teenager is undergoing the 'Identity vs Role confusion' stage, which occurs during adolescence."
+  },
+  {
+    "number": 70,
+    "question": "An animal behaviour in which an animal will follow the first moving object that it sees shortly after birth is called?",
+    "options": {
+      "A": "Cocooning",
+      "B": "Fixating",
+      "C": "Sojourning",
+      "D": "Bonding",
+      "E": "Imprinting"
+    },
+    "correct_answer": "E",
+    "explanation": "Imprinting is a rapid learning process that occurs during a critical period shortly after birth."
+  },
+  {
+    "number": 71,
+    "question": "Which of the following is NOT an effect of parental separation?",
+    "options": {
+      "A": "Changes in bowel habits",
+      "B": "Physical aggression",
+      "C": "Increased motivation for academic performance",
+      "D": "Suicidal ideas",
+      "E": "Guilt and accepting responsibility for separation"
+    },
+    "correct_answer": "C",
+    "explanation": "Increased motivation for academic performance is generally not an effect of parental separation."
+  },
+  {
+    "number": 72,
+    "question": "A 7-year-old boy is struggling at school for grades. According to Erik Erikson, he's at what phase of psychosocial development stage?",
+    "options": {
+      "A": "Initiative vs. guilt",
+      "B": "Basic trust vs. mistrust",
+      "C": "Autonomy vs. shame",
+      "D": "Industry vs. inferiority",
+      "E": "Identity vs. Role confusion"
+    },
+    "correct_answer": "D",
+    "explanation": "The boy is in the 'Industry vs. inferiority' stage, characterized by a focus on competence and achievement."
+  },
+  {
+    "number": 73,
+    "question": "Negative transition and risk taking behavior are generally less common in societies that mark transition to adulthood by?",
+    "options": {
+      "A": "Community ceremonies",
+      "B": "Final ceremonies",
+      "C": "Victory ceremonies",
+      "D": "Initiation ceremonies",
+      "E": "Termination ceremonies"
+    },
+    "correct_answer": "D",
+    "explanation": "Initiation ceremonies often help provide structure and support during the transition to adulthood, reducing negative behaviors."
+  },
+  {
+    "number": 74,
+    "question": "In Ainsworth strange situation experiment, the child shows no preference between mother and a complete stranger. Which type of attachment behavior is this?",
+    "options": {
+      "A": "Disorganized attachment behaviour",
+      "B": "Securely attached behaviour",
+      "C": "Insecurely attached anxious avoidant behaviour",
+      "D": "Insecurely attached anxious resistant behaviour",
+      "E": "Insecurely attached anxious-ambivalent behaviour"
+    },
+    "correct_answer": "C",
+    "explanation": "Insecurely attached anxious avoidant behaviour is characterized by a lack of preference for the caregiver over strangers."
+  },
+  {
+    "number": 75,
+    "question": "Which one among the following was the last stage of Erik Erikson's model of psychosocial development?",
+    "options": {
+      "A": "Initiative vs. guilt",
+      "B": "Identity vs. identity confusion",
+      "C": "Integrity vs. despair",
+      "D": "Intimacy vs. isolation",
+      "E": "Industry vs. inferiority"
+    },
+    "correct_answer": "C",
+    "explanation": "Integrity vs. despair is the final stage of Erikson's psychosocial development model, occurring in old age."
+  },
+  {
+    "number": 76,
+    "question": "Which one among the following concepts is not correctly linked with its proponent?",
+    "options": {
+      "A": "Thanatos - Sigmund Freud.",
+      "B": "Malignant Alienation - Morgan and Watts",
+      "C": "Splitting - Melanie Klein",
+      "D": "Sibling Rivalry - Alfred Adler",
+      "E": "Introversion and Extroversion - Winnicott"
+    },
+    "correct_answer": "E",
+    "explanation": "Introversion and extroversion were concepts developed by Carl Jung, not Winnicott."
+  },
+  {
+    "number": 77,
+    "question": "Which one of the following is not a feature of 'ex-institutional syndrome'?",
+    "options": {
+      "A": "They were less likely to be selective in choosing their friends",
+      "B": "They turned to peers less often for emotional support",
+      "C": "These young people related better to adults than to their peers",
+      "D": "It is defined in adopted children at the age of eight",
+      "E": "They were less likely to have a special friend"
+    },
+    "correct_answer": "D",
+    "explanation": "Ex-institutional syndrome is observed in children adopted from institutions; it is not specifically defined at age eight."
+  },
+  {
+    "number": 78,
+    "question": "Which one of the following is not considered to be a Neo-Freudian psychologist?",
+    "options": {
+      "A": "Jean Piaget",
+      "B": "Karen Horney",
+      "C": "Erich Fromm",
+      "D": "Alfred Adler",
+      "E": "Harry Stack Sullivan"
+    },
+    "correct_answer": "A",
+    "explanation": "Piaget is not considered a Neo-Freudian; he focused on cognitive development rather than psychosexual stages."
+  },
+  {
+    "number": 79,
+    "question": "Superego is formed at which stage of psychosexual development?",
+    "options": {
+      "A": "Phallic stage",
+      "B": "Anal stage",
+      "C": "Latency stage",
+      "D": "Oral stage",
+      "E": "Genital stage"
+    },
+    "correct_answer": "C",
+    "explanation": "The superego develops during the latency stage, which follows the resolution of the Oedipus complex."
+  },
+  {
+    "number": 80,
+    "question": "A 7-year-old Iranian boy had to flee from Iran as an asylum seeker together with his mother who was politically threatened. Upon arrival to UK, he starts sucking his thumb and exhibits intense anxiety that something terrible might happen to his mother. He refuses to go to local school but plays with his peer group in the proximity of his mother. In the above scenario, the psychosexual developmental stage of the child is most likely to be?",
+    "options": {
+      "A": "Anal stage",
+      "B": "Oedipal stage",
+      "C": "Genital stage",
+      "D": "Oral stage",
+      "E": "Latent stage"
+    },
+    "correct_answer": "E",
+    "explanation": "At age 7, the child is likely in the latent stage, where sexual urges are less pronounced."
+  },
+  {
+    "number": 81,
+    "question": "Which of the following cognitive functions is unlikely to be affected secondary to working memory dysfunction?",
+    "options": {
+      "A": "Error detection",
+      "B": "Long-term recall",
+      "C": "Executive function",
+      "D": "Decision-making",
+      "E": "Anterograde episodic memory"
+    },
+    "correct_answer": "B",
+    "explanation": "Long-term recall tends to remain intact even when working memory is impaired."
+  },
+  {
+    "number": 82,
+    "question": "Who was the most important person in the following list to be associated with the object relations theory?",
+    "options": {
+      "A": "Alfred Adler",
+      "B": "Carl Gustav Jung",
+      "C": "Sigmund Freud",
+      "D": "Anna Freud",
+      "E": "Melanie Klein"
+    },
+    "correct_answer": "E",
+    "explanation": "Melanie Klein was pivotal in developing object relations theory, focusing on the dynamics of long-term relationships."
+  },
+  {
+    "number": 83,
+    "question": "A child initially forms an attachment to a single caregiver, usually the mother. What term was used by Bowlby to describe this tendency?",
+    "options": {
+      "A": "Indiscriminate attachment",
+      "B": "Secure base effect",
+      "C": "Mothering",
+      "D": "Monotropy",
+      "E": "Clear-cut attachment"
+    },
+    "correct_answer": "D",
+    "explanation": "Monotropy describes the strong tendency for infants to attach primarily to one caregiver."
+  },
+  {
+    "number": 84,
+    "question": "Which of the following factors protects against child abuse in families?",
+    "options": {
+      "A": "Personality disorder in parents",
+      "B": "Young age of parents",
+      "C": "History of childhood maltreatment in parents",
+      "D": "Network of relatives",
+      "E": "High expectation of parents"
+    },
+    "correct_answer": "D",
+    "explanation": "Having a supportive network of relatives or friends is a protective factor against child abuse."
+  },
+  {
+    "number": 85,
+    "question": "How many categories of temperament were identified by Thomas and Chess in New York Longitudinal study?",
+    "options": {
+      "A": "Three",
+      "B": "Nine",
+      "C": "Eight",
+      "D": "Twelve",
+      "E": "Six"
+    },
+    "correct_answer": "B",
+    "explanation": "Thomas and Chess identified nine dimensions of temperament in their longitudinal study."
+  },
+  {
+    "number": 86,
+    "question": "All of the following terms are associated with Donald Winnicott except?",
+    "options": {
+      "A": "Potential space",
+      "B": "Transitional object",
+      "C": "Object permanence",
+      "D": "Holding environment",
+      "E": "Pathological mother"
+    },
+    "correct_answer": "C",
+    "explanation": "Object permanence is a concept developed by Piaget, not Winnicott."
+  },
+  {
+    "number": 87,
+    "question": "Insecure attachment during early childhood is associated with the development of which types of childhood disorders?",
+    "options": {
+      "A": "Childhood schizophrenia",
+      "B": "Mental retardation",
+      "C": "Heller's syndrome",
+      "D": "Tic disorders",
+      "E": "Oppositional defiant disorder"
+    },
+    "correct_answer": "E",
+    "explanation": "Insecure attachment is linked to a higher risk of developing oppositional defiant disorder."
+  },
+  {
+    "number": 88,
+    "question": "In a family, it is observed that the parents do not set strict limits for their children. They avoid confrontation with their children whenever possible, and are considered to be extremely flexible by their children. This parenting style is called?",
+    "options": {
+      "A": "Insecure parenting",
+      "B": "Authoritative parenting",
+      "C": "Permissive parenting",
+      "D": "Neglectful parenting",
+      "E": "Avoidant parenting"
+    },
+    "correct_answer": "C",
+    "explanation": "Permissive parenting is characterized by a lack of control and high nurturance."
+  },
+  {
+    "number": 89,
+    "question": "According to Freud's psychosexual theory, Oedipus complex develops during?",
+    "options": {
+      "A": "Oral stage",
+      "B": "Genital stage",
+      "C": "Phallic stage",
+      "D": "Anal stage",
+      "E": "Latent stage"
+    },
+    "correct_answer": "C",
+    "explanation": "The Oedipus complex occurs in the phallic stage, around ages 3 to 5."
+  },
+  {
+    "number": 90,
+    "question": "Castration anxiety is associated with which stage of psychosexual development?",
+    "options": {
+      "A": "Latency stage",
+      "B": "Oral stage",
+      "C": "Genital stage",
+      "D": "Anal stage",
+      "E": "Phallic stage"
+    },
+    "correct_answer": "E",
+    "explanation": "Castration anxiety arises during the phallic stage, linked to the Oedipus complex."
+  },
+  {
+    "number": 91,
+    "question": "A boy believes in obeying rules laid down by the teacher as the primary moral principle to avoid punishments. Which stage of moral development is he exhibiting?",
+    "options": {
+      "A": "Pre-conventional stage",
+      "B": "Post-conventional stage",
+      "C": "None of the above",
+      "D": "Conventional stage",
+      "E": "Automatic obedience"
+    },
+    "correct_answer": "A",
+    "explanation": "The boy is demonstrating the pre-conventional stage, where morality is based on obedience to avoid punishment."
+  },
+  {
+    "number": 92,
+    "question": "Egocentrism is a feature of which of the following stages described by Piaget?",
+    "options": {
+      "A": "Formal operational stage",
+      "B": "None of the above",
+      "C": "Concrete operational stage",
+      "D": "Preoperational stage",
+      "E": "Sensorimotor stage"
+    },
+    "correct_answer": "D",
+    "explanation": "Egocentrism is characteristic of the preoperational stage, where children cannot easily understand perspectives other than their own."
+  },
+  {
+    "number": 93,
+    "question": "Fear of animals comes to prominence in which of the following developmental stages?",
+    "options": {
+      "A": "Later childhood",
+      "B": "Infancy",
+      "C": "Early childhood",
+      "D": "Adult life",
+      "E": "Preschool children"
+    },
+    "correct_answer": "E",
+    "explanation": "Fear of animals typically peaks during preschool years, around ages 3 to 5."
+  },
+  {
+    "number": 94,
+    "question": "Failure to develop attachment can lead to affectionless psychopathy and developmental retardation according to Rutter. The term used to describe this adverse outcome is?",
+    "options": {
+      "A": "Privation",
+      "B": "Deprivation",
+      "C": "Anaclitic depression",
+      "D": "Enmeshed attachment",
+      "E": "Detachment"
+    },
+    "correct_answer": "A",
+    "explanation": "Privation refers to the lack of ability to form attachments, which can lead to severe emotional and developmental issues."
+  },
+  {
+    "number": 95,
+    "question": "Following separation from the mother, the first reaction exhibited by a child is most likely to be?",
+    "options": {
+      "A": "Despair",
+      "B": "Protest",
+      "C": "Clinging behaviour",
+      "D": "Anaclitic depression",
+      "E": "Detachment"
+    },
+    "correct_answer": "B",
+    "explanation": "Protest is usually the first response seen when a child is separated from their primary attachment figure."
+  },
+  {
+    "number": 96,
+    "question": "An 18-month-old child is aware of her vulnerability to separation from her mother. She is constantly concerned about her mother's location. In terms of Mahler's separation-individuation theory, this infant is in the stage of?",
+    "options": {
+      "A": "Object constancy",
+      "B": "Differentiation",
+      "C": "Practicing",
+      "D": "Rapprochement",
+      "E": "Symbiosis"
+    },
+    "correct_answer": "D",
+    "explanation": "The rapproachement phase is characterized by the child becoming aware of separation and showing anxiety towards the caregiver."
+  },
+  {
+    "number": 97,
+    "question": "Kubler-Ross described stages of coping in those facing impending death. Which of the following is NOT a stage included in this description?",
+    "options": {
+      "A": "Anger",
+      "B": "Bargaining",
+      "C": "Acceptance",
+      "D": "Depression",
+      "E": "Reaction formation"
+    },
+    "correct_answer": "E",
+    "explanation": "Reaction formation is not one of the stages identified by Kubler-Ross, which include denial, anger, bargaining, depression, and acceptance."
+  },
+  {
+    "number": 98,
+    "question": "A 4-year-old girl is often noted to talk to an imaginary friend that no one else can see. Her parents are concerned and bring her to the psychiatric clinic. The best possible course of action is?",
+    "options": {
+      "A": "Schedule the child for detailed psychiatric evaluation",
+      "B": "Examine for signs of physical abuse",
+      "C": "Notify social services",
+      "D": "Reassure the parents about age-related behaviour",
+      "E": "Explore history of sexual abuse"
+    },
+    "correct_answer": "D",
+    "explanation": "Having imaginary companions is a normal developmental phase and often does not indicate mental health issues."
+  },
+  {
+    "number": 99,
+    "question": "A 7-year-old Iranian boy had to flee from Iran as an asylum seeker together with his mother who was politically threatened. Upon arrival to UK, he starts sucking his thumb and exhibits intense anxiety that something terrible might happen to his mother. He refuses to go to local school but plays with his peer group in the proximity of his mother. The above reaction can be considered as?",
+    "options": {
+      "A": "Denial",
+      "B": "Regression",
+      "C": "Displacement",
+      "D": "Sublimation",
+      "E": "Modelling"
+    },
+    "correct_answer": "B",
+    "explanation": "Regression is seen when a child reverts to earlier behaviors in response to stress or trauma."
+  },
+  {
+    "number": 100,
+    "question": "The basis of object relations theory is that the primary motivational drive of an individual is to seek?",
+    "options": {
+      "A": "Pleasure",
+      "B": "Satisfaction",
+      "C": "Relationships",
+      "D": "Money",
+      "E": "Self actualisation"
+    },
+    "correct_answer": "C",
+    "explanation": "Object relations theory emphasizes the fundamental motivation of individuals to seek relationships with others."
+  },
+  {
+    "number": 101,
+    "question": "'This is an active process in which painful thoughts and memories are pushed to the inaccessible corners of the mind'. This statement refers to?",
+    "options": {
+      "A": "False memory syndrome",
+      "B": "Regression",
+      "C": "Re-integration",
+      "D": "Retrieval failure",
+      "E": "Repression"
+    },
+    "correct_answer": "E",
+    "explanation": "This statement describes repression, a defense mechanism where individuals unconsciously block painful memories from consciousness."
+  },
+  {
+    "number": 102,
+    "question": "Which one of the following is a feature of restricted language code?",
+    "options": {
+      "A": "It is used by the middle class and upper-class children",
+      "B": "Restricted language code is characterised by short, incomplete sentences, which focuses on the present",
+      "C": "It is frequently employed in the restricted language code",
+      "D": "It is characterized by longer, complex sentences that are context-independent",
+      "E": "It focuses on the past and future, employs 'I' commonly and allows for expression of abstract thought."
+    },
+    "correct_answer": "B",
+    "explanation": "Restricted language code tends to use short, context-dependent sentences and is commonly used by working-class children."
+  },
+  {
+    "number": 103,
+    "question": "Which category of play starts around five years of age?",
+    "options": {
+      "A": "Rule-governed play",
+      "B": "Symbolic play",
+      "C": "Sensorimotor play",
+      "D": "Co-operative play",
+      "E": "Solitary play"
+    },
+    "correct_answer": "A",
+    "explanation": "Rule-governed play begins around the age of five when children start to understand and create rules for games."
+  },
+  {
+    "number": 104,
+    "question": "The most common type of attachment behaviour in the Western world is?",
+    "options": {
+      "A": "Absence of attachment",
+      "B": "Secure",
+      "C": "Disorganised",
+      "D": "Anxious avoidant",
+      "E": "Anxious resistant"
+    },
+    "correct_answer": "B",
+    "explanation": "Most children in Western cultures are classified as securely attached, indicating a healthy attachment style."
+  },
+  {
+    "number": 105,
+    "question": "The scoring for adult attachment interview developed by Mary Main is based on all except?",
+    "options": {
+      "A": "The subject's ability to give a coherent account",
+      "B": "Meaning as well as language used",
+      "C": "The contents of the narratives provided by the interview",
+      "D": "Security of the attachment of the subject to any specific person",
+      "E": "The subject's ability to give an integrated account of the parenting experience"
+    },
+    "correct_answer": "D",
+    "explanation": "The adult attachment interview assesses overall attachment style rather than security towards any specific attachment figure."
+  },
+  {
+    "number": 106,
+    "question": "A 4-year-old child draws a tall matchstick figure representing her dad, and a short matchstick figure representing herself walking beside him. Which of the following features is she exhibiting?",
+    "options": {
+      "A": "Animism",
+      "B": "Conservation",
+      "C": "Lack of conservation",
+      "D": "Semiotic function",
+      "E": "Egocentricity"
+    },
+    "correct_answer": "D",
+    "explanation": "This demonstrates the semiotic function, where a child uses one object to represent another, in this case, drawing her dad and herself."
+  },
+  {
+    "number": 107,
+    "question": "Which one among the following ability has been demonstrated by the Rouge Test?",
+    "options": {
+      "A": "Depth perception",
+      "B": "Self-esteem",
+      "C": "Height perception",
+      "D": "Sense of self and self recognition",
+      "E": "Object permanence"
+    },
+    "correct_answer": "D",
+    "explanation": "The Rouge Test is used to assess a child’s self-recognition and awareness of their own individuality."
+  },
+  {
+    "number": 108,
+    "question": "According to Jean Piaget's cognitive development theory, primitive self-recognition begins during?",
+    "options": {
+      "A": "Pre operational stage",
+      "B": "Pre conceptual stage",
+      "C": "Sensorimotor stage",
+      "D": "Concrete operational stage",
+      "E": "Formal operational stage"
+    },
+    "correct_answer": "C",
+    "explanation": "Primitive self-recognition is typically observed in the sensorimotor stage, where infants begin to develop a sense of identity."
+  },
+  {
+    "number": 109,
+    "question": "Identify the incorrect statement about the EAS dimensions of temperament.",
+    "options": {
+      "A": "Predict adult personality traits",
+      "B": "It is genetically grounded",
+      "C": "It is highly inheritable",
+      "D": "Show less stability over developmental periods",
+      "E": "They are of evolutionary importance"
+    },
+    "correct_answer": "D",
+    "explanation": "The EAS dimensions of temperament generally show high stability across developmental periods."
+  },
+  {
+    "number": 110,
+    "question": "The baby exhibits its first social smile at about?",
+    "options": {
+      "A": "Four months of age",
+      "B": "Six weeks.",
+      "C": "Six months of age",
+      "D": "Three months of age",
+      "E": "Three weeks"
+    },
+    "correct_answer": "B",
+    "explanation": "A baby typically displays its first social smile around six weeks of age, indicating social engagement."
+  },
+  {
+    "number": 111,
+    "question": "Which of the following theories attempt to explain gender differences during development?",
+    "options": {
+      "A": "Stimulus preparedness theory",
+      "B": "Social learning theory",
+      "C": "Attachment theory",
+      "D": "Social exchange theory",
+      "E": "Kohlberg's theory"
+    },
+    "correct_answer": "B",
+    "explanation": "Social learning theory explains how gender differences in behavior are learned through observation and reinforcement."
+  },
+  {
+    "number": 112,
+    "question": "'Ageist society reduces the social interaction that older adults can have; withdrawal is not mutual, but forced'. This statement refers to which one of the following ageing theories of role change?",
+    "options": {
+      "A": "Social exchange theory",
+      "B": "Mid-life crisis theory",
+      "C": "Socio-emotional selectivity theory",
+      "D": "Social disengagement theory",
+      "E": "Social reengagement theory"
+    },
+    "correct_answer": "D",
+    "explanation": "Social disengagement theory posits that as people age, both society and individuals may withdraw from each other voluntarily or involuntarily."
+  },
+  {
+    "number": 113,
+    "question": "In Harlow's rhesus monkey studies, orphaned baby monkeys show a preference for clinging to?",
+    "options": {
+      "A": "Wire mesh surrogate mother that does not dispense milk",
+      "B": "Wire mesh surrogate mother irrespective of feeding",
+      "C": "Wire mesh surrogate mother that dispenses milk",
+      "D": "Soft cloth surrogate mother that provides food",
+      "E": "Soft cloth surrogate mother irrespective of feeding"
+    },
+    "correct_answer": "E",
+    "explanation": "Harlow's experiments showed that orphaned baby monkeys preferred the soft cloth surrogate mother for comfort, regardless of whether it provided food."
+  },
+  {
+    "number": 114,
+    "question": "A woman lost her husband one month ago. She is feeling low in mood with poor sleep. She also complains of a poor appetite. She hears the voice of her husband at night and feels his presence at home. She reports 'longing for some more days with him'. She is most likely to be experiencing?",
+    "options": {
+      "A": "Adjustment reaction",
+      "B": "Stage 3 of bereavement",
+      "C": "Delayed grief",
+      "D": "Stage 1 of bereavement",
+      "E": "Stage 2 of bereavement"
+    },
+    "correct_answer": "E",
+    "explanation": "The initial phase of bereavement includes feelings such as yearning for the lost loved one, indicating she is at Stage 2 of bereavement."
+  },
+  {
+    "number": 115,
+    "question": "A 4-month-old child is aware of his mother, but has no sense of individuality. This is seen in which of the following stages described by Mahler?",
+    "options": {
+      "A": "Idealisation phase",
+      "B": "Rapprochement phase",
+      "C": "Autistic phase",
+      "D": "Separation-individuation phase",
+      "E": "Symbiotic phase"
+    },
+    "correct_answer": "E",
+    "explanation": "During the symbiotic phase, the child perceives themselves and the mother as one unit, lacking an individual sense."
+  },
+  {
+    "number": 116,
+    "question": "A child was observed to be speaking to his grandfather over a toy phone. What kind of play is this?",
+    "options": {
+      "A": "Parallel play",
+      "B": "Co-operative play",
+      "C": "Symbolic play",
+      "D": "Rule governed play",
+      "E": "Sensorimotor play"
+    },
+    "correct_answer": "C",
+    "explanation": "This behavior exemplifies symbolic play, where one object (the toy phone) is used to represent another (the conversation with grandfather)."
+  },
+  {
+    "number": 117,
+    "question": "An 18-month-old boy shows a mug to his mother and says 'Mummy cup'. Which stage of language development is he at?",
+    "options": {
+      "A": "Critical period",
+      "B": "Transformational grammar",
+      "C": "Telegraphic period",
+      "D": "Babbling",
+      "E": "Prelinguistic stage"
+    },
+    "correct_answer": "C",
+    "explanation": "This utterance exemplifies the telegraphic speech stage, where children begin to combine words into simple two-word phrases."
+  },
+  {
+    "number": 118,
+    "question": "Which one among the following terms refers to basic predispositions that underlie children's behavior?",
+    "options": {
+      "A": "Temperament",
+      "B": "Adaptability",
+      "C": "Threshold of responsiveness",
+      "D": "Goodness of fit",
+      "E": "Attachment"
+    },
+    "correct_answer": "A",
+    "explanation": "Temperament refers to individual differences in emotional and behavioral styles that are often evident from infancy."
+  },
+  {
+    "number": 119,
+    "question": "What are the three components of psychic functioning defined in Freud's structural theory?",
+    "options": {
+      "A": "The oral, anal and oedipal",
+      "B": "The conscious, superconscious and subconscious",
+      "C": "The id, ego, and superego.",
+      "D": "The conscious, unconscious and subconscious",
+      "E": "The Eros, Thanatos and libido"
+    },
+    "correct_answer": "C",
+    "explanation": "Freud's structural theory divides the mind into id, ego, and superego components, each with distinct functions."
+  },
+  {
+    "number": 120,
+    "question": "Choose the correct statement about Bowlby's attachment theory?",
+    "options": {
+      "A": "Attachment behaviour will cease if there is frequent punishment from attachment figure",
+      "B": "Attachment behaviour ceases by puberty",
+      "C": "According to attachment theory, multiple attachments cannot occur",
+      "D": "The primary attachment figure is not necessarily the mother",
+      "E": "Attachment behaviour is least evident when the infant is stressed"
+    },
+    "correct_answer": "D",
+    "explanation": "Bowlby acknowledged that while the primary attachment figure is often the mother, it can be anyone who is a primary caregiver."
+  },
+  {
+    "number": 121,
+    "question": "A mother of an autistic child wants to know why her son lacks empathy for other children. Which of the following could be used to explain the fundamental defect?",
+    "options": {
+      "A": "Social Exchange Theory",
+      "B": "Attribution Error",
+      "C": "Theory of mind",
+      "D": "Face Recognition Error",
+      "E": "Learning Theory"
+    },
+    "correct_answer": "C",
+    "explanation": "Theory of mind (ToM) relates to the ability to understand the thoughts and feelings of others, which may be impaired in children with autism."
+  },
+  {
+    "number": 122,
+    "question": "Which of the following is correct with respect to transitional objects described by Winnicott?",
+    "options": {
+      "A": "They reduce anxiety at times of stress",
+      "B": "They are most important to the child during the age 6 to 9 months",
+      "C": "Systematic parental interventions are needed to wean from transitional objects",
+      "D": "Children never change their transitional object",
+      "E": "They reduce a child's autonomy"
+    },
+    "correct_answer": "A",
+    "explanation": "Transitional objects serve as a source of comfort for children, particularly during times of stress or separation, helping to ease anxiety."
+  },
+  {
+    "number": 123,
+    "question": "Which of the following models divide the mind into unconscious, preconscious and conscious?",
+    "options": {
+      "A": "Libidinal",
+      "B": "Structural",
+      "C": "Topographic",
+      "D": "Dream analysis",
+      "E": "Drive reduction"
+    },
+    "correct_answer": "C",
+    "explanation": "Freud's topographic model categorizes mental processes based on their accessibility to consciousness: unconscious, preconscious, and conscious."
+  },
+  {
+    "number": 124,
+    "question": "A toddler boy when playing with his mother mentions, 'cats have four legs, dogs have four legs. So cats and dogs are the same'. Which one among the following terms describes this cognitive process?",
+    "options": {
+      "A": "Egocentrism",
+      "B": "Animism",
+      "C": "Transductive reasoning",
+      "D": "Hypothetico deductive reasoning",
+      "E": "Artificialism"
+    },
+    "correct_answer": "C",
+    "explanation": "Transductive reasoning is demonstrated when the child makes connections based on a single shared attribute, regardless of other differences."
+  },
+  {
+    "number": 125,
+    "question": "When a mother leaves an infant, the infant can become upset. To compensate and comfort for this sense of loss, an object with the attributes of the mother is required. Winnicott called these objects?",
+    "options": {
+      "A": "Transcultural objects",
+      "B": "Make-shift objects",
+      "C": "Transitional Objects",
+      "D": "Transformable objects",
+      "E": "Traditional objects"
+    },
+    "correct_answer": "C",
+    "explanation": "Transitional objects provide comfort and security, helping children cope with separation from their primary caregiver."
+  },
+  {
+    "number": 126,
+    "question": "Which of the following stages in moral reasoning may not be achieved by everyone?",
+    "options": {
+      "A": "Reward orientation",
+      "B": "Obedience orientation",
+      "C": "Authority orientation",
+      "D": "Universal ethical orientation",
+      "E": "Concordance orientation"
+    },
+    "correct_answer": "D",
+    "explanation": "Not everyone reaches the universal ethical principles level in Kohlberg's stages of moral development."
+  },
+  {
+    "number": 127,
+    "question": "Of all sensory systems, the system least developed at birth is?",
+    "options": {
+      "A": "Balance",
+      "B": "Touch",
+      "C": "Taste",
+      "D": "Vision",
+      "E": "Smell"
+    },
+    "correct_answer": "D",
+    "explanation": "Vision is the least developed sensory system at birth. Infants gradually develop visual acuity over the first months."
+  },
+  {
+    "number": 128,
+    "question": "Who developed the theory of good-enough mothering?",
+    "options": {
+      "A": "Rutter",
+      "B": "Charcot",
+      "C": "Kanner",
+      "D": "Baird",
+      "E": "Winnicott"
+    },
+    "correct_answer": "E",
+    "explanation": "Winnicott's concept of 'good-enough mothering' emphasizes the importance of attuned caregiving in child development."
+  },
+  {
+    "number": 129,
+    "question": "According to Vygotsky's developmental theory which one among the following refers to functions that are not yet fully achieved but are in the process 'pipeline'?",
+    "options": {
+      "A": "Zone of proximal development",
+      "B": "Zone of terminal development",
+      "C": "Zone of intermittent development",
+      "D": "Zone of accommodation",
+      "E": "Zone of assimilation"
+    },
+    "correct_answer": "A",
+    "explanation": "Zone of proximal development refers to functions which are not yet fully achieved but are in the process 'pipeline'"
+  }
+]
