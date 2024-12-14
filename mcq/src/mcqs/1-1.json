@@ -9,7 +9,7 @@
       "E": "Interpretation"
     },
     "correct_answer": "A",
-    "explanation": "Questions used in clinical interviews can be either facilitative or obstructive. Facilitative messages help the interview to flow, establish a rapport and gain the confidence of the patient. For example, open-ended questions, facilitating statements, reflections, silence, interpretations, positive reinforcements, etc. Run on or polythematic questioning refers to the process of asking the patient a number of questions at the same time. For example, ‘Have you felt high in spirits, gone on spending sprees and made foolish investments in the past week?’ These questions can be obstructive. Self disclosures are statements about oneself (the psychiatrist) that may help establish a rapport with the patient. I want messages are generally used when the interview fails to progress because the patient is stuck on the same topic. In this case, the psychiatrist could say politely that he or she wants to move on to other topics."
+    "explanation": "Questions used in clinical interviews can be either facilitative or obstructive. Facilitative messages help the interview to flow, establish rapport, and gain the confidence of the patient. For example, open-ended questions, facilitating statements, reflections, silence, interpretations, positive reinforcements, etc. Run on or polythematic questioning refers to the process of asking the patient a number of questions at the same time. For example, ‘Have you felt high in spirits, gone on spending sprees, and made foolish investments in the past week?’ These questions can be obstructive. Self-disclosures are statements about oneself (the psychiatrist) that may help establish rapport with the patient. 'I want' messages are generally used when the interview fails to progress because the patient is stuck on the same topic. In this case, the psychiatrist could say politely that he or she wants to move on to other topics"
   },
   {
     "question": "A psychiatrist at an early stage of his initial assessment interview asks the patient, ‘Can you tell me about your depression?’ Which of the following interview techniques is he utilizing?",
@@ -21,7 +21,7 @@
       "E": "Put down question"
     },
     "correct_answer": "B",
-    "explanation": "Open-ended questions reflect a topic that the psychiatrist may want to explore, but leaves it open to the patient to say what he/she thinks is important. These questions are used to start the interview and, later on, can lead to specific closed-ended questions. Put down questions are where the underlying message is a criticism. For example ‘How can you complain when you have got an A grade in your GCSE?’ Facilitation statements encourage the patient to continue along a particular line of thought. For example, statements such as ‘Go on’; ‘Proceed’; ‘What else’ are facilitation statements."
+    "explanation": "Open-ended questions reflect a topic that the psychiatrist may want to explore, but leave it open to the patient to say what he/she thinks is important. These questions are used to start the interview and, later on, can lead to specific closed-ended questions. Put down questions are where the underlying message is a criticism. For example, ‘How can you complain when you have got an A grade in your GCSE?’ Facilitation statements encourage the patient to continue along a particular line of thought. For example, statements such as ‘Go on’; ‘Proceed’; ‘What else’ are facilitation statements"
   },
   {
     "question": "Which of the following is an open-ended question?",
@@ -33,10 +33,10 @@
       "E": "Do you have trouble falling asleep?"
     },
     "correct_answer": "A",
-    "explanation": "A question whose answer cannot be a simple yes or no, or a single factual answer that can be classified as right or wrong, is an open-ended question, such as the question given in 3. A. (See also Question 2)."
+    "explanation": "A question whose answer cannot be a simple yes or no, or a single factual answer that can be classified as right or wrong, is an open-ended question, such as the question given in 3. A. (See also Question 2)"
   },
   {
-    "question": "During a clinical interview the following statement is made by the clinician: ‘So you have been anxious since these changes occurred at your workplace.’ Which of the following interview technique best describes the above statement?",
+    "question": "During a clinical interview the following statement is made by the clinician: ‘So you have been anxious since these changes occurred at your workplace.’ Which of the following interview techniques best describes the above statement?",
     "options": {
       "A": "Facilitation",
       "B": "Open-ended question",
@@ -45,7 +45,7 @@
       "E": "Reflecting"
     },
     "correct_answer": "E",
-    "explanation": "Reflections are statements where the psychiatrist repeats what the patient has just said. This gives an opportunity to correct one’s understanding of what the patient said and to let the patient know that the clinician is listening and trying to understand the situation the patient is in."
+    "explanation": "Reflections are statements where the psychiatrist repeats what the patient has just said. This gives an opportunity to correct one’s understanding of what the patient said and to let the patient know that the clinician is listening and trying to understand the situation the patient is in"
   },
   {
     "question": "Which of the following interview techniques is least directive?",
@@ -57,7 +57,7 @@
       "E": "Narrow-focused questions"
     },
     "correct_answer": "B",
-    "explanation": "Directiveness in the interview ensures that a clinician has all the information needed from a patient. Highly directive intervention aims to focus and restrict the patient’s speech content and behaviour. These may include check lists or yes/no questions. Limit setting and redirection include situations where a clinician attempts to change the direction of the interview, especially when the interview is not progressing in the detail of information transferred."
+    "explanation": "Directiveness in the interview ensures that a clinician has all the information needed from a patient. Highly directive intervention aims to focus and restrict the patient’s speech content and behavior. These may include checklists or yes/no questions. Limit setting and redirection include situations where a clinician attempts to change the direction of the interview, especially when the interview is not progressing in the detail of information transferred"
   },
   {
     "question": "Which of the following is a supportive intervention during a clinical interview process?",
@@ -69,7 +69,7 @@
       "E": "Summarization"
     },
     "correct_answer": "B",
-    "explanation": "Being empathetic and acknowledging a patient’s emotional state helps in facilitating progression of clinical interview. These are supportive interventions required in various degrees by patients. Summarization is not an intervention but a technique facilitating a clinician’s understanding of a patient’s story. Confrontation may be helpful in some situations, but it cannot be considered as a supportive intervention during clinical interview."
+    "explanation": "Being empathetic and acknowledging a patient’s emotional state helps in facilitating progression of clinical interview. These are supportive interventions required in various degrees by patients. Summarization is not an intervention but a technique facilitating a clinician’s understanding of a patient’s story. Confrontation may be helpful in some situations, but it cannot be considered as a supportive intervention during clinical interview"
   },
   {
     "question": "Which of the following statements is true when inquiring about suicidal ideation?",
@@ -81,7 +81,7 @@
       "E": "The aim of the assessment is to corner the patient into a disclosure"
     },
     "correct_answer": "D",
-    "explanation": "Thoughts of self harm should always be inquired about. Contemplation of suicide is very common among the mentally ill. There is no evidence that inquiring about suicidal ideations increases the risk of committing suicide. In fact many patients would welcome an opportunity to discuss any suicidal thoughts with a professional."
+    "explanation": "Thoughts of self-harm should always be inquired about. Contemplation of suicide is very common among the mentally ill. There is no evidence that inquiring about suicidal ideations increases the risk of committing suicide. In fact, many patients would welcome an opportunity to discuss any suicidal thoughts with a professional"
   },
   {
     "question": "‘Do you ever hear voices commenting on what you are doing?’ This question is usually asked to ascertain the presence of which one of the following?",
@@ -93,7 +93,7 @@
       "E": "Negative symptoms of schizophrenia"
     },
     "correct_answer": "B",
-    "explanation": "First rank symptoms (FRS), proposed by Kurt Schneider, suggest a diagnosis of schizophrenia. These symptoms are not specific for schizophrenia. The prevalence of FRS in schizophrenia ranges from 28% to 72%. First rank symptoms do not carry any prognostic significance. The stated question in this case enquires for the presence of ‘running commentary’ hallucinations – voices commenting on patients’ thoughts or actions."
+    "explanation": "First rank symptoms (FRS), proposed by Kurt Schneider, suggest a diagnosis of schizophrenia. These symptoms are not specific for schizophrenia. The prevalence of FRS in schizophrenia ranges from 28% to 72%. First rank symptoms do not carry any prognostic significance. The stated question in this case inquires for the presence of ‘running commentary’ hallucinations – voices commenting on patients’ thoughts or actions"
   },
   {
     "question": "Regarding the Mini Mental State Examination (MMSE), which of the following statements is true?",
@@ -102,25 +102,25 @@
       "B": "If a person scores 3 on serial sevens, and scores 4 on spelling WORLD backwards then the score for attention is 3",
       "C": "On the reading test one point is scored if the patient reads ‘Close your eyes’ out loud",
       "D": "Education affects the rate of change of scores in normal and dementia subjects",
-      "E": "MMSE scores are not affected by socioeconomic status of a subject"
+      "E": "MMSE scores are not affected by the socioeconomic status of a subject"
     },
     "correct_answer": "A",
-    "explanation": "While administering the MMSE, the subject is asked to guess the answer if he is unsure. This could possibly differentiate patients with pseudodementia who usually answer ‘I don’t know’ while truly demented patients often give wrong responses."
+    "explanation": "While administering the MMSE, the subject is asked to guess the answer if he is unsure. This could possibly differentiate patients with pseudodementia who usually answer ‘I don’t know’ while truly demented patients often give wrong responses"
   },
   {
     "question": "Assessment of insight is an integral part of mental state examination in psychiatric practice. Regarding insight, which of the following statements is true?",
     "options": {
       "A": "Patients with schizophrenia will never have insight into their illness",
       "B": "OCD, being a neurosis, insight is always intact",
-      "C": "Intellectual insight is present when patients’ awareness and understanding of their symptoms lead to a change in behaviour",
+      "C": "Intellectual insight is present when patients’ awareness and understanding of their symptoms lead to a change in behavior",
       "D": "Intellectual insight is the highest level of insight",
       "E": "Loss of insight is similar to the concept of anosognosia in neurological illness"
     },
     "correct_answer": "E",
-    "explanation": "The three dimensions of insight proposed by David include: the ability to label unusual experiences as pathological, to recognize that one has mental illness, and to comply with treatment."
+    "explanation": "The three dimensions of insight proposed by David include: the ability to label unusual experiences as pathological, to recognize that one has mental illness, and to comply with treatment"
   },
   {
-    "question": "A patient with schizophrenia vividly describes how Martians are ‘reverse freezing’ earth to produce global warming. He stops to ask what you think about this. Choose the best response.",
+    "question": "A patient with schizophrenia vividly describes how Martians are ‘reverse freezing’ earth to produce global warming. He stops to ask what you think about this. Choose the best response",
     "options": {
       "A": "This is a fantastic theory. But I want to know more about this. Tell me, have you ever seen these Martians?",
       "B": "This seems possible but there is no proof for all this. Tell me, have you ever seen these Martians?",
@@ -129,7 +129,7 @@
       "E": "What I think is not so important. I want to know more about what you think of this. Tell me, have you ever seen these Martians?"
     },
     "correct_answer": "E",
-    "explanation": "Option A and B indicate collusion with the patient’s belief. Option C is a direct confrontation while D is evasion from the topic which can reduce engagement."
+    "explanation": "Option A and B indicate collusion with the patient’s belief. Option C is a direct confrontation while D is evasion from the topic which can reduce engagement"
   },
   {
     "question": "Which one of the following is NOT an advisable first response when a patient discloses past sexual abuse at a clinical encounter?",
@@ -141,7 +141,7 @@
       "E": "None of the above"
     },
     "correct_answer": "A",
-    "explanation": "Childhood physical, sexual abuse, and neglect are extremely common experiences among those who develop serious mental health problems."
+    "explanation": "Childhood physical, sexual abuse, and neglect are extremely common experiences among those who develop serious mental health problems"
   },
   {
     "question": "Closed questions are best avoided in which of the following scenarios?",
@@ -153,7 +153,7 @@
       "E": "All of the above"
     },
     "correct_answer": "C",
-    "explanation": "While interviewing people with limited intelligence, questions should be brief and worded in a simple way."
+    "explanation": "While interviewing people with limited intelligence, questions should be brief and worded in a simple way"
   },
   {
     "question": "Which of the following is the single best question to discern premorbid personality of a patient?",
@@ -165,7 +165,7 @@
       "E": "None of the above"
     },
     "correct_answer": "E",
-    "explanation": "There is no single question that can reliably elicit premorbid personality traits."
+    "explanation": "There is no single question that can reliably elicit premorbid personality traits"
   },
   {
     "question": "Which of the following is not a discriminating question to screen for harmful use of alcohol?",
@@ -177,10 +177,10 @@
       "E": "Do you need a drink as soon as you wake up?"
     },
     "correct_answer": "D",
-    "explanation": "The CAGE questionnaire includes questions on ‘Cut down’, ‘Annoyed’, ‘Guilty’, and ‘Eye opener’."
+    "explanation": "The CAGE questionnaire includes questions on ‘Cut down’, ‘Annoyed’, ‘Guilty’, and ‘Eye opener’"
   },
   {
-    "question": "A patient looks dishevelled, with unkempt hair and dirty, unwashed clothes. Self neglect is commonly noted in all of the following EXCEPT",
+    "question": "A patient looks disheveled, with unkempt hair and dirty, unwashed clothes. Self-neglect is commonly noted in all of the following EXCEPT",
     "options": {
       "A": "Alcoholism",
       "B": "Chronic schizophrenia",
@@ -189,10 +189,10 @@
       "E": "Social phobia"
     },
     "correct_answer": "E",
-    "explanation": "While self neglect can be seen in any severe mental illness, it is not very common in isolated anxiety disorders."
+    "explanation": "While self-neglect can be seen in any severe mental illness, it is not very common in isolated anxiety disorders"
   },
   {
-    "question": "A 57-year-old lady with many previous hospitalizations is brought by police to casualty. She is wearing full make-up, green lipstick, shiny green nail polish, and green jewellery. She asks everyone at the admission unit to call her Ms Green. Which of the following diagnoses is most consistent with the above presentation?",
+    "question": "A 57-year-old lady with many previous hospitalizations is brought by police to casualty. She is wearing full make-up, green lipstick, shiny green nail polish, and green jewelry. She asks everyone at the admission unit to call her Ms Green. Which of the following diagnoses is most consistent with the above presentation?",
     "options": {
       "A": "Mania",
       "B": "Depression",
@@ -201,7 +201,7 @@
       "E": "Learning disability"
     },
     "correct_answer": "A",
-    "explanation": "Exuberant dressing and makeup suggests elevated mood."
+    "explanation": "Exuberant dressing and makeup suggests elevated mood"
   },
   {
     "question": "Which of the following domains of cognition is tested by administering Serial Sevens Test?",
@@ -213,19 +213,19 @@
       "E": "Recall"
     },
     "correct_answer": "B",
-    "explanation": "Serial sevens test is a part of Mini Mental State Examination."
+    "explanation": "Serial sevens test is a part of Mini Mental State Examination"
   },
   {
     "question": "A 33-year-old man attending an out-patient clinic turns towards his left and spits out, muttering unintelligibly. He does this act at least three times in half an hour and appears very guarded. This gesture is suggestive of which of the following?",
     "options": {
       "A": "Depression",
       "B": "Suicidal thinking",
-      "C": "Low self esteem",
+      "C": "Low self-esteem",
       "D": "Responding to hallucination",
       "E": "Acute confusion"
     },
     "correct_answer": "D",
-    "explanation": "Hallucinatory behaviours, such as the one described in this example, are often noted in acutely psychotic patients with poor insight."
+    "explanation": "Hallucinatory behaviors, such as the one described in this example, are often noted in acutely psychotic patients with poor insight"
   },
   {
     "question": "A depressed patient does not smile or laugh when a joke is shared by a fellow patient. She shows a defect in which of the following aspects of mental state examination?",
@@ -237,7 +237,7 @@
       "E": "None of the above"
     },
     "correct_answer": "B",
-    "explanation": "Reactivity of affect refers to change in affect in response to environmental cues."
+    "explanation": "Reactivity of affect refers to change in affect in response to environmental cues"
   },
   {
     "question": "An elderly patient in a stroke ward laughs all of a sudden inappropriately, and within a few minutes becomes tearful and cries for no reason. She exhibits an abnormality in which of the following aspects of mental state examination?",
@@ -249,7 +249,7 @@
       "E": "None of the above"
     },
     "correct_answer": "A",
-    "explanation": "Stability of affect refers to maintaining a particular affective state for a reasonable period of time."
+    "explanation": "Stability of affect refers to maintaining a particular affective state for a reasonable period of time"
   },
   {
     "question": "Which of the following is the major difference between mood and affect in mental state examination?",
@@ -257,11 +257,11 @@
       "A": "Mood is short-lived while affect is longer lasting",
       "B": "Mood is objective while affect is subjective",
       "C": "Affect is transient but difficult to interpret",
-      "D": "Affect is transient and self reported",
+      "D": "Affect is transient and self-reported",
       "E": "None of the above"
     },
     "correct_answer": "E",
-    "explanation": "Various schools of thought exist in distinguishing mood from affect."
+    "explanation": "Various schools of thought exist in distinguishing mood from affect"
   },
   {
     "question": "Nihilistic delusions will be congruent with which of the following findings of mental state examination?",
@@ -273,7 +273,7 @@
       "E": "None of the above"
     },
     "correct_answer": "A",
-    "explanation": "Nihilism is similar to pessimism with self reference of an extreme belief."
+    "explanation": "Nihilism is similar to pessimism with self-reference of an extreme belief"
   },
   {
     "question": "When eliciting suicide risk, which of the following questions should be avoided if possible?",
@@ -285,7 +285,7 @@
       "E": "None of the above"
     },
     "correct_answer": "E",
-    "explanation": "Direct questioning about suicidality does not increase risk of suicide."
+    "explanation": "Direct questioning about suicidality does not increase the risk of suicide"
   },
   {
     "question": "Which of the following is not a manifestation of hypothyroidism?",
@@ -297,7 +297,7 @@
       "E": "Loss of deep tendon reflexes"
     },
     "correct_answer": "B",
-    "explanation": "Features suggestive of hypothyroidism include, slowing of EEG, excessive daytime sleepiness, hypothermia, cerebellar ataxia, dementia, psychosis."
+    "explanation": "Features suggestive of hypothyroidism include slowing of EEG, excessive daytime sleepiness, hypothermia, cerebellar ataxia, dementia, and psychosis"
   },
   {
     "question": "Russell’s sign is usually associated with which one of the following disorders?",
@@ -309,10 +309,10 @@
       "E": "Somatization disorder"
     },
     "correct_answer": "C",
-    "explanation": "Russell’s sign was first described in bulimia nervosa."
+    "explanation": "Russell’s sign was first described in bulimia nervosa"
   },
   {
-    "question": "On physical examination, you notice that a person with a history of substance misuse now has pilo-erection, dilated pupils, rhinorrhea, and he is yawning frequently. Withdrawal from which of the following substances can cause this presentation?",
+    "question": "On physical examination, you notice that a person with a history of substance misuse now has piloerection, dilated pupils, rhinorrhea, and he is yawning frequently. Withdrawal from which of the following substances can cause this presentation?",
     "options": {
       "A": "Cocaine",
       "B": "Opiate",
@@ -321,7 +321,7 @@
       "E": "Amphetamine"
     },
     "correct_answer": "B",
-    "explanation": "These features are suggestive of opiate withdrawal."
+    "explanation": "These features are suggestive of opiate withdrawal"
   },
   {
     "question": "A 50-year-old patient was brought to the A and E department in a confused state. On physical examination he has nystagmus, ocular palsy, and ataxia. Which of the following parts of clinical assessment is likely to be most relevant to this presentation?",
@@ -333,7 +333,7 @@
       "E": "Family history of dementia"
     },
     "correct_answer": "C",
-    "explanation": "The features of acute confusion, nystagmus, ocular palsy, and ataxia are suggestive of Wernicke’s encephalopathy, possibly secondary to alcohol use in a 50-year-old male."
+    "explanation": "The features of acute confusion, nystagmus, ocular palsy, and ataxia are suggestive of Wernicke’s encephalopathy, possibly secondary to alcohol use in a 50-year-old male"
   },
   {
     "question": "An 18-year-old male, recently started on a medication, presents to the A&E department with slow, long-sustained, contorting, involuntary movements and postures involving proximal limb and axial muscles. Which of the following medications is most likely to cause the above presentation?",
@@ -345,7 +345,7 @@
       "E": "Sertraline"
     },
     "correct_answer": "C",
-    "explanation": "The clinical situation given here is an example of an acute dystonic reaction in a young male, possibly a psychotic patient, who has been started on an antipsychotic."
+    "explanation": "The clinical situation given here is an example of an acute dystonic reaction in a young male, possibly a psychotic patient, who has been started on an antipsychotic"
   },
   {
     "question": "A 21-year-old female presented to the emergency department with complaints of recurrent attacks of severe dizziness, lasting for 10 to 20 minutes. On examination during the episode of dizziness, there was no evidence of nystagmus. Which one of the following is true?",
@@ -357,7 +357,7 @@
       "E": "None of the above"
     },
     "correct_answer": "A",
-    "explanation": "Absence of nystagmus during an attack of dizziness almost always rules out vertigo secondary to labyrinthine or brain stem pathology."
+    "explanation": "Absence of nystagmus during an attack of dizziness almost always rules out vertigo secondary to labyrinthine or brain stem pathology"
   },
   {
     "question": "A sudden onset of chorea is least likely in which of the following conditions?",
@@ -369,7 +369,7 @@
       "E": "Huntington’s disease"
     },
     "correct_answer": "E",
-    "explanation": "The onset of Huntington’s disease is invariably insidious and gradually progressing."
+    "explanation": "The onset of Huntington’s disease is invariably insidious and gradually progressing"
   },
   {
     "question": "Which of the following is NOT a feature of subacute combined degeneration of the spinal cord?",
@@ -377,11 +377,11 @@
       "A": "Loss of pain and touch",
       "B": "Sensory ataxia",
       "C": "Loss of bladder tone",
-      "D": "Hyper-refl exia",
-      "E": "Absence of refl exes"
+      "D": "Hyperreflexia",
+      "E": "Absence of reflexes"
     },
     "correct_answer": "A",
-    "explanation": "Features suggestive of subacute combined degeneration of the cord (SACD) include paraesthesias, difficulties with gait and balance, and signs of posterior column dysfunction."
+    "explanation": "Features suggestive of subacute combined degeneration of the cord (SACD) include paraesthesias, difficulties with gait and balance, and signs of posterior column dysfunction"
   },
   {
     "question": "Which of the following physical symptoms is seen in factitious disorder?",
@@ -393,7 +393,7 @@
       "E": "All of the above"
     },
     "correct_answer": "E",
-    "explanation": "Factitious disorder is a condition where clinical symptoms are consciously and intentionally produced by the patient."
+    "explanation": "Factitious disorder is a condition where clinical symptoms are consciously and intentionally produced by the patient"
   },
   {
     "question": "A man admitted to the psychiatric intensive care unit with a manic episode, received 10 mg of haloperidol intramuscularly as he had turned violent. He became unresponsive shortly afterwards. On examination, there is evidence of confusion, labile BP, hyperthermia, rigidity, and dysphagia. What is the most important differential diagnosis?",
@@ -405,7 +405,7 @@
       "E": "Parkinsonism"
     },
     "correct_answer": "B",
-    "explanation": "Neuroleptic malignant syndrome is a medical emergency that can occur when treating a patient with antipsychotics."
+    "explanation": "Neuroleptic malignant syndrome is a medical emergency that can occur when treating a patient with antipsychotics"
   },
   {
     "question": "Which of the following questionnaires is used to identify psychiatric ‘caseness’ in the general population?",
@@ -417,7 +417,7 @@
       "E": "Repertory Grid"
     },
     "correct_answer": "C",
-    "explanation": "General health questionnaire (GHQ) is used to define psychiatric ‘caseness’ in epidemiological studies."
+    "explanation": "General health questionnaire (GHQ) is used to define psychiatric ‘caseness’ in epidemiological studies"
   },
   {
     "question": "Characteristic feature of Argyll Robertson pupil include all of the following EXCEPT",
@@ -429,7 +429,7 @@
       "E": "Flynn phenomenon"
     },
     "correct_answer": "E",
-    "explanation": "Argyll Robertson pupil (ARP) is characteristically associated with neurosyphilis."
+    "explanation": "Argyll Robertson pupil (ARP) is characteristically associated with neurosyphilis"
   },
   {
     "question": "Thunderclap headache is highly suggestive of which one of the following?",
@@ -441,7 +441,7 @@
       "E": "Tension headache"
     },
     "correct_answer": "A",
-    "explanation": "Thunderclap headaches are sudden onset, severe headaches radiating behind the occiput with some degree of associated neck stiffness."
+    "explanation": "Thunderclap headaches are sudden onset, severe headaches radiating behind the occiput with some degree of associated neck stiffness"
   },
   {
     "question": "Waddling gait is characteristic of which of the following neurological difficulties?",
@@ -453,7 +453,7 @@
       "E": "Astasia abasia"
     },
     "correct_answer": "A",
-    "explanation": "Waddling gait is seen with severe proximal muscle weakness."
+    "explanation": "Waddling gait is seen with severe proximal muscle weakness"
   },
   {
     "question": "A 59-year-old man has a small, spastic tongue with significant difficulty in pronouncing consonants. On neurological examination, he has a brisk jaw jerk. Which of the following is the most likely explanation for the above presentation?",
@@ -465,7 +465,7 @@
       "E": "Dysphonia"
     },
     "correct_answer": "B",
-    "explanation": "Bilateral upper motor neurone lesions of the corticobulbar tract result in pseudobulbar or spastic dysarthria."
+    "explanation": "Bilateral upper motor neurone lesions of the corticobulbar tract result in pseudobulbar or spastic dysarthria"
   },
   {
     "question": "When mimicking the use of a screwdriver a patient rotates his arm at the shoulder but fixes his elbow. Which of the following could be diagnosed with the above presentation?",
@@ -477,7 +477,7 @@
       "E": "Conceptual apraxia"
     },
     "correct_answer": "B",
-    "explanation": "Apraxia is defined as the inability to carry out a motor act despite the absence of sensory or motor deficits."
+    "explanation": "Apraxia is defined as the inability to carry out a motor act despite the absence of sensory or motor deficits"
   },
   {
     "question": "A patient is asked to prepare a sandwich in order to test her ability to perform a sequence of acts. This test is aimed at demonstrating which of the following?",
@@ -489,7 +489,7 @@
       "E": "Conceptual apraxia"
     },
     "correct_answer": "A",
-    "explanation": "Ideational apraxia is an inability to correctly sequence a series of goal-directed acts in spite of the ability to execute the instructions when broken down into single acts."
+    "explanation": "Ideational apraxia is an inability to correctly sequence a series of goal-directed acts in spite of the ability to execute the instructions when broken down into single acts"
   },
   {
     "question": "Syndrome of isolated loss of auditory comprehension and repetition, without any abnormality of speech, naming, reading, or writing is suggestive of which of the following?",
@@ -501,7 +501,7 @@
       "E": "Transcortical aphasia"
     },
     "correct_answer": "A",
-    "explanation": "Pure word deafness is a syndrome of isolated loss of auditory comprehension and repetition, without any abnormality of speech, naming, reading, or writing."
+    "explanation": "Pure word deafness is a syndrome of isolated loss of auditory comprehension and repetition, without any abnormality of speech, naming, reading, or writing"
   },
   {
     "question": "A well-educated solicitor develops a sudden cerebrovascular deficit which results in loss of ability to read or write, though he is able to speak reasonably well. The dysfunction produced by the ischaemia is called",
@@ -513,19 +513,19 @@
       "E": "Wernicke’s aphasia"
     },
     "correct_answer": "A",
-    "explanation": "Alexia is the acquired inability to read. Alexia with agraphia is seen in angular gyrus lesions and is associated with Gerstmann syndrome."
+    "explanation": "Alexia is the acquired inability to read. Alexia with agraphia is seen in angular gyrus lesions and is associated with Gerstmann syndrome"
   },
   {
     "question": "Which of the following is NOT a feature of upper motor neurone lesion?",
     "options": {
-      "A": "Hyper-refl exia",
+      "A": "Hyperreflexia",
       "B": "Hypertonia",
       "C": "Loss of voluntary movement",
       "D": "Normal muscle bulk",
       "E": "Fasciculations"
     },
     "correct_answer": "E",
-    "explanation": "Muscle atrophy, fasciculations, absent reflexes, and hypotonia are features suggestive of lower motor neurone lesion."
+    "explanation": "Muscle atrophy, fasciculations, absent reflexes, and hypotonia are features suggestive of lower motor neurone lesion"
   },
   {
     "question": "A 65-year-old patient has been drinking nearly 80 units of alcohol a week for the last 13 years. He has numerous physical complications of alcohol use including cirrhosis and cerebellar degeneration. Which of the following is NOT a feature of cerebellar dysfunction?",
@@ -537,7 +537,7 @@
       "E": "Pendular knee jerk"
     },
     "correct_answer": "A",
-    "explanation": "Cerebellar limb ataxia is characterized by dysmetria (past pointing), intention tremor, dysdiadochokinesia, and excessive rebound of outstretched arms against a resistance that is suddenly removed."
+    "explanation": "Cerebellar limb ataxia is characterized by dysmetria (past pointing), intention tremor, dysdiadochokinesia, and excessive rebound of outstretched arms against a resistance that is suddenly removed"
   },
   {
     "question": "In a road traffic accident, a 34-year-old man sustains crush injury of the spine. One half of his spinal cord is damaged severely at the level of the tenth thoracic vertebra. Which of the following is a feature of hemisection of the spinal cord?",
@@ -549,7 +549,7 @@
       "E": "The sensory level is at the same level as the lesion (T10)"
     },
     "correct_answer": "B",
-    "explanation": "Brown–Sequard syndrome is the result of hemisection of the spinal cord."
+    "explanation": "Brown–Sequard syndrome is the result of hemisection of the spinal cord"
   },
   {
     "question": "A patient presents in an agitated state with increased sweating and tremors. On examination she has signs of Grave’s disease. Which is the commonest sign noted in thyroid ophthalmopathy?",
@@ -561,7 +561,7 @@
       "E": "Conjunctival congestion"
     },
     "correct_answer": "B",
-    "explanation": "Lid retraction is the most common clinical feature of Grave’s ophthalmopathy."
+    "explanation": "Lid retraction is the most common clinical feature of Grave’s ophthalmopathy"
   },
   {
     "question": "Headache associated with ipsilateral nasal congestion, rhinorrhea, lacrimation, redness of the eye is characteristic of which of the following?",
@@ -573,7 +573,7 @@
       "E": "Temporal arteritis"
     },
     "correct_answer": "C",
-    "explanation": "Cluster headache is considered as a vascular headache syndrome."
+    "explanation": "Cluster headache is considered as a vascular headache syndrome"
   },
   {
     "question": "Epilepsy associated with learning disability, shagreen patches, and ash leaf macules are seen in which of the following?",
@@ -585,7 +585,7 @@
       "E": "Fabry’s disease"
     },
     "correct_answer": "B",
-    "explanation": "Tuberous sclerosis is a congenital disease where hyperplasia of ectodermal and mesodermal cells leads to various lesions in the skin, nervous system, heart, kidney and other organs."
+    "explanation": "Tuberous sclerosis is a congenital disease where hyperplasia of ectodermal and mesodermal cells leads to various lesions in the skin, nervous system, heart, kidney and other organs"
   },
   {
     "question": "Parkinsonian features associated with downward gaze palsy and pseudobulbar dysarthria is characteristic of which of the following conditions?",
@@ -597,7 +597,7 @@
       "E": "Corticobasal degeneration"
     },
     "correct_answer": "D",
-    "explanation": "Progressive supranuclear palsy is a degenerative neurological disease with parkinsonian symptoms as a prominent clinical feature."
+    "explanation": "Progressive supranuclear palsy is a degenerative neurological disease with parkinsonian symptoms as a prominent clinical feature"
   },
   {
     "question": "All of the following conditions that affect the trigeminal nerve present with significant sensory loss EXCEPT",
@@ -609,7 +609,7 @@
       "E": "Neurofibroma"
     },
     "correct_answer": "B",
-    "explanation": "Trigeminal neuralgia is characterized by episodic shooting pain in facial areas supplied by trigeminal nerve."
+    "explanation": "Trigeminal neuralgia is characterized by episodic shooting pain in facial areas supplied by trigeminal nerve"
   },
   {
     "question": "Which of the following is a cause of bilateral facial nerve palsy?",
@@ -621,10 +621,10 @@
       "E": "All of the above"
     },
     "correct_answer": "E",
-    "explanation": "Causes of bilateral facial palsy include granulomatous and connective tissue diseases such as systemic lupus erythematosus, Sjögren’s syndrome, sarcoidosis."
+    "explanation": "Causes of bilateral facial palsy include granulomatous and connective tissue diseases such as systemic lupus erythematosus, Sjögren’s syndrome, and sarcoidosis"
   },
   {
-    "question": "A patient known to have bipolar illness is on lithium. Which of the following will prompt you to check his lithium levels?",
+    "question": "A patient known to have bipolar disorder is on lithium. Which of the following will prompt you to check his lithium levels?",
     "options": {
       "A": "Delayed ankle jerk",
       "B": "Rising serum creatinine",
@@ -633,7 +633,7 @@
       "E": "Alopecia"
     },
     "correct_answer": "C",
-    "explanation": "Lithium toxicity results in two major groups of symptoms – neurological and gastrointestinal."
+    "explanation": "Lithium toxicity results in two major groups of symptoms – neurological and gastrointestinal"
   },
   {
     "question": "Which one of the following is a physical sign noted in anorexia nervosa?",
@@ -645,10 +645,10 @@
       "E": "Thickened, coarse hair"
     },
     "correct_answer": "A",
-    "explanation": "Lanugo hair is thin, infantile hair noted on the torso and limbs of severely anorexic patient."
+    "explanation": "Lanugo hair is thin, infantile hair noted on the torso and limbs of severely anorexic patients"
   },
   {
-    "question": "Sleep spindles and K complexes on electroencephalogram (EEG) are seen in which of the following phase of sleep?",
+    "question": "Sleep spindles and K complexes on electroencephalogram (EEG) are seen in which of the following phases of sleep?",
     "options": {
       "A": "REM phase",
       "B": "Stage 1 NREM phase",
@@ -657,7 +657,7 @@
       "E": "Stage 4 NREM phase"
     },
     "correct_answer": "C",
-    "explanation": "During sleep, the body goes through two types of physiological states. This has been divided into REM and NREM phase according to EEG studies."
+    "explanation": "During sleep, the body goes through two types of physiological states. This has been divided into REM and NREM phases according to EEG studies"
   },
   {
     "question": "Electroencephalogram (EEG) is a commonly used diagnostic test. Which of the following statements regarding EEG is NOT correct?",
@@ -665,11 +665,11 @@
       "A": "EEG signals are generated by the cerebral cortex",
       "B": "EEG depends on afferent inputs from subcortical structures, including the thalamus and brainstem reticular formation",
       "C": "Alpha rhythm and sleep spindles are produced by thalamic activity",
-      "D": "Diagnostic EEG does not routinely record the activity of inferior temporal cortex",
+      "D": "Diagnostic EEG does not routinely record the activity of the inferior temporal cortex",
       "E": "EEG changes are often very specific to a disease"
     },
     "correct_answer": "E",
-    "explanation": "An electroencephalograph represents cerebral cortical activity."
+    "explanation": "An electroencephalograph represents cerebral cortical activity"
   },
   {
     "question": "A 32-year-old school teacher is admitted for constipation and acute abdominal pain. She experiences visual and tactile hallucinations with intense anxiety. She develops motor weakness of her legs on administration of hypnotics and diclofenac. Which of the following laboratory tests is indicated?",
@@ -681,7 +681,7 @@
       "E": "Serum ceruloplasmin"
     },
     "correct_answer": "D",
-    "explanation": "This scenario depicts acute intermittent porphyria (AIP)."
+    "explanation": "This scenario depicts acute intermittent porphyria (AIP)"
   },
   {
     "question": "Which of the following is NOT helpful in differentiating pseudoseizures from true epileptic seizures?",
@@ -693,7 +693,7 @@
       "E": "Having an established diagnosis of epilepsy in the past"
     },
     "correct_answer": "E",
-    "explanation": "All of these features except a history of seizure disorder may help to differentiate seizures from pseudoseizures."
+    "explanation": "All of these features except a history of seizure disorder may help to differentiate seizures from pseudoseizures"
   },
   {
     "question": "Clozapine is strongly associated with fatal agranulocytosis. Which of the following is true regarding clozapine-induced agranulocytosis?",
@@ -705,7 +705,7 @@
       "E": "A red alert indicates that clozapine could be restarted in a patient who previously had an amber report"
     },
     "correct_answer": "A",
-    "explanation": "Incidence of agranulocytosis in patients on clozapine is less than 1 per 100 patients."
+    "explanation": "Incidence of agranulocytosis in patients on clozapine is less than 1 per 100 patients"
   },
   {
     "question": "Which one of the following statements regarding the dexamethasone suppression test is FALSE?",
@@ -717,7 +717,7 @@
       "E": "Dexamethasone suppression is not routinely used as a clinical test for depression"
     },
     "correct_answer": "B",
-    "explanation": "Exogenous administration of the steroid dexamethasone usually inhibits endogenous cortisol secretion."
+    "explanation": "Exogenous administration of the steroid dexamethasone usually inhibits endogenous cortisol secretion"
   },
   {
     "question": "Which of the following is an advantage of using CT scan over MRI scan for diagnostic purposes?",
@@ -729,19 +729,19 @@
       "E": "Anterior fossa is better visualized with CT scan"
     },
     "correct_answer": "D",
-    "explanation": "Immediate availability, especially in head injury units, and ability to enable early detection of haemorrhages make CT scan the preferred diagnostic modality in emergency scenarios."
+    "explanation": "Immediate availability, especially in head injury units, and ability to enable early detection of hemorrhages make CT scan the preferred diagnostic modality in emergency scenarios"
   },
   {
-    "question": "Choose one of the following conditions where CT scan of brain is the investigation of choice",
+    "question": "Choose one of the following conditions where CT scan of the brain is the investigation of choice",
     "options": {
-      "A": "Subarachnoid haemorrhage",
+      "A": "Subarachnoid hemorrhage",
       "B": "Demyelinating disease",
       "C": "Meningeal neoplasm",
       "D": "Viral meningitis",
-      "E": "Ischaemic infarction of cortex"
+      "E": "Ischemic infarction of cortex"
     },
     "correct_answer": "A",
-    "explanation": "MRI is more sensitive than CT for the detection of lesions of the spinal cord, cranial nerves, and posterior fossa structures."
+    "explanation": "MRI is more sensitive than CT for the detection of lesions of the spinal cord, cranial nerves, and posterior fossa structures"
   },
   {
     "question": "A patient with bipolar disorder recently stabilized on medications is brought to you with a history of fever for 4 days and blurred vision, muscle fasciculation, hyperactive tendon reflexes, and persistent nausea and vomiting for the last 2 days. Which one of the following may be implicated?",
@@ -753,7 +753,7 @@
       "E": "Carbamazepine"
     },
     "correct_answer": "B",
-    "explanation": "In this case, a patient’s bipolar disorder has been stabilized on a particular medication."
+    "explanation": "In this case, a patient’s bipolar disorder has been stabilized on a particular medication"
   },
   {
     "question": "A patient who has chronic schizophrenia is on a depot antipsychotic medication. Your consultant asks for an ECG. Which of the following will be of most interest to him?",
@@ -765,7 +765,7 @@
       "E": "Axis of heart"
     },
     "correct_answer": "D",
-    "explanation": "Prolonged QT interval can predispose to serious ventricular arrhythmia called torsades de pointes."
+    "explanation": "Prolonged QT interval can predispose to serious ventricular arrhythmia called torsades de pointes"
   },
   {
     "question": "Which of the following medications has the highest propensity to cause QT prolongation on ECG?",
@@ -777,7 +777,7 @@
       "E": "Olanzapine"
     },
     "correct_answer": "A",
-    "explanation": "ECG abnormalities occur in approximately 25% of all patients on antipsychotics."
+    "explanation": "ECG abnormalities occur in approximately 25% of all patients on antipsychotics"
   },
   {
     "question": "A patient who is on olanzapine for a long time is developing xanthoma. Which one of the following levels might be elevated in his blood?",
@@ -789,22 +789,22 @@
       "E": "Albumin"
     },
     "correct_answer": "C",
-    "explanation": "Xanthomas indicate the presence of hyperlipidaemia."
+    "explanation": "Xanthomas indicate the presence of hyperlipidemia"
   },
   {
     "question": "Which of the following nutrients, if deficient, can make treatment of depression difficult?",
     "options": {
-      "A": "B 12",
+      "A": "B12",
       "B": "Riboflavin",
       "C": "Nicotinamide",
       "D": "Folate",
       "E": "Magnesium"
     },
     "correct_answer": "D",
-    "explanation": "Though folate deficiency itself is not a common cause of depression, in folate-deficient patients, supplementation might increase response to antidepressant treatment."
+    "explanation": "Though folate deficiency itself is not a common cause of depression, in folate-deficient patients, supplementation might increase response to antidepressant treatment"
   },
   {
-    "question": "Which of the following is a good predictor of metabolic side-effects of antipsychotics?",
+    "question": "Which of the following is a good predictor of metabolic side effects of antipsychotics?",
     "options": {
       "A": "QT interval",
       "B": "Lipid levels",
@@ -813,7 +813,7 @@
       "E": "Ear lobe thickness"
     },
     "correct_answer": "D",
-    "explanation": "Waist circumference is a better predictor than baseline weight with respect to metabolic syndrome."
+    "explanation": "Waist circumference is a better predictor than baseline weight with respect to metabolic syndrome"
   },
   {
     "question": "In patients with suspected dementia, which of the following neuroimaging modalities is clinically helpful to differentiate dementia of Lewy body type from Alzheimer’s dementia?",
@@ -825,7 +825,7 @@
       "E": "PET scan"
     },
     "correct_answer": "D",
-    "explanation": "DAT (dopamine transporter) scan is a SPECT scan that visualizes dopamine transporter."
+    "explanation": "DAT (dopamine transporter) scan is a SPECT scan that visualizes dopamine transporter"
   },
   {
     "question": "Which of the following EEG rhythms has the highest frequency?",
@@ -837,10 +837,10 @@
       "E": "Mu"
     },
     "correct_answer": "A",
-    "explanation": "Beta >13 Hz, Alpha 8 to 13 Hz, Theta 4 to 7Hz, Delta < 3Hz."
+    "explanation": "Beta >13 Hz, Alpha 8 to 13 Hz, Theta 4 to 7Hz, Delta < 3Hz"
   },
   {
-    "question": "In patients with delirium due to hepatic failure which of the following EEG change may be seen?",
+    "question": "In patients with delirium due to hepatic failure which of the following EEG changes may be seen?",
     "options": {
       "A": "Hypsarrythmia",
       "B": "Spike and wave pattern",
@@ -849,10 +849,10 @@
       "E": "Slow triphasic waves"
     },
     "correct_answer": "E",
-    "explanation": "Slow triphasic waves are typically seen in metabolic encephalopathies such as hepatic failure."
+    "explanation": "Slow triphasic waves are typically seen in metabolic encephalopathies such as hepatic failure"
   },
   {
-    "question": "Which of the following suggests a successful seizure activity after ECT?",
+    "question": "Which of the following suggests successful seizure activity after ECT?",
     "options": {
       "A": "Ictal facilitation",
       "B": "Postictal suppression",
@@ -861,7 +861,7 @@
       "E": "See-saw pattern"
     },
     "correct_answer": "B",
-    "explanation": "EEG during ECT treatment shows sharp waves and spikes during the seizure."
+    "explanation": "EEG during ECT treatment shows sharp waves and spikes during the seizure"
   },
   {
     "question": "In neurological examination, which of the following is seen in hypothyroidism?",
@@ -873,7 +873,7 @@
       "E": "Exaggerated jaw jerk"
     },
     "correct_answer": "C",
-    "explanation": "A characteristic neurological feature associated with hypothyroidism is delayed relaxation of deep tendon reflexes."
+    "explanation": "A characteristic neurological feature associated with hypothyroidism is delayed relaxation of deep tendon reflexes"
   },
   {
     "question": "Which one of the following patients is not suitable for undergoing MRI investigation when required?",
@@ -885,7 +885,7 @@
       "E": "A 22-year-old man with epilepsy and mild learning disability"
     },
     "correct_answer": "C",
-    "explanation": "Insertion of cardiac pacemaker precludes MRI study as the magnetic field can disturb the pacemaker rhythm."
+    "explanation": "Insertion of a cardiac pacemaker precludes MRI study as the magnetic field can disturb the pacemaker rhythm"
   },
   {
     "question": "Which of the following is the most clinically useful method of diagnosing Alzheimer’s disease?",
@@ -897,6 +897,6 @@
       "E": "Lumbar puncture"
     },
     "correct_answer": "A",
-    "explanation": "Various guidelines exist for diagnosing dementia. Most of them endorse routinely using clinical interview for making a diagnosis of dementia."
+    "explanation": "Various guidelines exist for diagnosing dementia. Most of them endorse routinely using clinical interviews for making a diagnosis of dementia"
   }
 ]
