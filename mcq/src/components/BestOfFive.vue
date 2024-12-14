@@ -64,12 +64,47 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "1-3", label: "Part 3" },
     { value: "1-4", label: "Part 4" },
     { value: "1-5", label: "Part 5" },
-    { value: "1-5", label: "Part 6" },
-    { value: "1-5", label: "Part 7" },
-    { value: "1-5", label: "Part 8" },
-    { value: "1-5", label: "Part 9" },
-    { value: "1-5", label: "Part 10" },
-    { value: "1-5", label: "Part 11" },
+    { value: "1-6", label: "Part 6" },
+    { value: "1-7", label: "Part 7" },
+    { value: "1-8", label: "Part 8" },
+    { value: "1-9", label: "Part 9" },
+    { value: "1-10", label: "Part 10" },
+    { value: "1-11", label: "Part 11" },
+  ],
+  spmm: [
+    { value: "spmm-1-1", label: "Basic Psychology" },
+    { value: "spmm-1-2", label: "Social Psychology" },
+    { value: "spmm-1-3", label: "Sociocultural Psychiatry" },
+    { value: "spmm-2-1", label: "Human Development" },
+    { value: "spmm-3-1", label: "Neuroanatomy" },
+    { value: "spmm-3-2", label: "Neuroaphysiology" },
+    { value: "spmm-3-3", label: "Neurochemistry" },
+    { value: "spmm-3-4", label: "Molecular Genetics" },
+    { value: "spmm-3-5", label: "Neuropathology" },
+    { value: "spmm-3-6", label: "Applied Neurosciences" },
+    { value: "spmm-4-1", label: "Basic Pharmacology" },
+    { value: "spmm-4-2", label: "Pharmacokinetics" },
+    { value: "spmm-4-3", label: "Pharmacodynamics" },
+    { value: "spmm-4-4", label: "Adverse Effects" },
+    { value: "spmm-5-1", label: "Classification" },
+    { value: "spmm-5-2", label: "Clinical Examination" },
+    { value: "spmm-5-3", label: "Descriptive Psychopathology" },
+    { value: "spmm-5-4", label: "Dynamic Psychopathology" },
+    { value: "spmm-5-5", label: "Rating scales" },
+    { value: "spmm-2016-1", label: "2016 paper 1" },
+    { value: "spmm-2016-2", label: "2016 paper 2" },
+    { value: "spmm-2016-3", label: "2016 paper 3" },
+    { value: "spmm-2017-1", label: "2017 paper 1" },
+    { value: "spmm-2017-2", label: "2017 paper 2" },
+    { value: "spmm-2018-1", label: "2018 paper 1" },
+    { value: "spmm-2018-2", label: "2018 paper 2" },
+    { value: "spmm-2019-1", label: "2019 paper 1" },
+    { value: "spmm-2019-2", label: "2019 paper 2" },
+    { value: "spmm-2020-1", label: "2020 paper 1" },
+    { value: "spmm-2020-2", label: "2020 paper 2" },
+    { value: "spmm-2021-1", label: "2021 paper 1" },
+    { value: "spmm-2021-2", label: "2021 paper 2" },
+    { value: "spmm-2021-3", label: "2021 paper 3" },
   ],
 };
 
@@ -101,7 +136,9 @@ const selectedBookName = computed(() => {
     ? "600 Paper 1"
     : props.selectedBook === "600-2"
     ? "600 Paper 2"
-    : "501 Psychopharmacology";
+    : props.selectedBook === "501"
+    ? "501 Psychopharmacology"
+    : "SPMM";
 });
 </script>
 
