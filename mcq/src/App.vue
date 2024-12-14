@@ -39,22 +39,63 @@ let page = ref("");
       </ul>
     </nav>
   </div>
+  <div class="container">
+    <div class="grid mt-2">
+      <div class="center" @click="page = 'bof'">
+        <img src="./assets/bof1.png" alt="" />
+      </div>
+      <div class="center" @click="page = 'bof'">
+        <img src="./assets/bof2.png" alt="" />
+      </div>
+      <div class="center" @click="page = 'bof'">
+        <img src="./assets/bof3.png" alt="" />
+      </div>
+      <div class="center" @click="page = '600'">
+        <img src="./assets/600p1.png" alt="" />
+      </div>
+      <div class="center" @click="page = '600'">
+        <img src="./assets/600p2.png" alt="" />
+      </div>
+      <div class="center"><img src="./assets/501.png" alt="" /></div>
+    </div>
+  </div>
   <div class="hh">
     <div class="container">
       <BestOfFive v-if="page === 'bof'" />
       <Book600 v-if="page === '600'" />
     </div>
     <footer>
-      <p class="copyright">&copy; 2024. Dr. Mustafa Alnoori. All rights reserved.</p>
+      <p class="copyright">
+        &copy; 2024. Dr. Mustafa Alnoori. All rights are not reserved.
+      </p>
     </footer>
   </div>
 </template>
 
 <style scoped>
-
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
+}
+
+.center {
+  margin: auto;
+  box-shadow: 1px 1px 3px black;
+  border-radius: 2%;
+}
+
+.center img {
+  width: 100%; /* or a specific width like 200px */
+  height: auto; /* maintain aspect ratio */
+  max-width: 200px; /* set a maximum width */
+  object-fit: cover; /* cover the area without distortion */
+  border-radius: 2%;
+}
+
+.mt-2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .hh {
@@ -68,7 +109,7 @@ html, body {
 }
 
 .azure {
-color: #017FC0;
+  color: #017fc0;
 }
 
 footer {
