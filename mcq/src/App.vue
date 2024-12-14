@@ -9,12 +9,14 @@ let selectedImage = ref<string | null>(null); // Track the selected image
 const selectImage = (image: string) => {
   page.value = image;
   console.log("Selected Image:", image); // Debugging line
+  console.log("Selected Image:", typeof image); // Debugging line
   selectedImage.value = new URL(`./assets/${image}.png`, import.meta.url).href;
   window.scrollTo(0, 0); // Scroll to the top of the page
 };
 
 const cancelSelection = () => {
   selectedImage.value = null; // Reset the selection
+  page.value = ""; // Unmount BestOfFive component
 };
 </script>
 
@@ -44,15 +46,16 @@ const cancelSelection = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
         <img @click="" src="./assets/bof3.png" alt="" />
       </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('600p1')">
-        <img src="./assets/600p1.png" alt="" />
+      <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
+        <img src="./assets/600-1.png" alt="" />
       </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('600p2')">
-        <img src="./assets/600p2.png" alt="" />
+      <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
+        <img src="./assets/600-2.png" alt="" />
       </div>
-      <div class="center" v-if="!selectedImage">
+      <div class="center" v-if="!selectedImage" @click="selectImage('501')">
         <img src="./assets/501.png" alt="" />
       </div>
+
       <div class="center" v-if="selectedImage">
         <div class="image-container">
           <img :src="selectedImage" alt="Selected Image" />
@@ -63,10 +66,7 @@ const cancelSelection = () => {
       </div>
     </div>
   </div>
-  <BestOfFive
-    v-if="page === 'bof1' || page === 'bof2' || page === 'bof3'"
-    :selectedPaper="selectedImage ? page : ''"
-  />
+  <BestOfFive v-if="page !== ''" :selectedBook="selectedImage ? page : ''" />
   <Book600 v-if="page === '600'" />
 </template>
 
