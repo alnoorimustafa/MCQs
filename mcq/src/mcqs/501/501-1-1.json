@@ -1,0 +1,652 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following medications can be safely used in combination with monoamine oxidase inhibitors (MAOIs)?",
+    "options": {
+      "A": "Escitalopram",
+      "B": "Amitriptyline",
+      "C": "Meperidine",
+      "D": "Desvenlafaxine",
+      "E": "Bupropion"
+    },
+    "correct_answer": "B",
+    "explanation": "Combined MAOI-TCA therapy is safe, provided if you add MAOI to an established tricyclic regimen. The other agents listed are contraindicated, and they can cause life-threatening serotonin syndrome when combined with MAOIs."
+  },
+  {
+    "number": 2,
+    "question": "After discontinuation of a MAOI, endogenous monoamine oxidase (MAO) activity levels return to baseline levels after:",
+    "options": {
+      "A": "1 week",
+      "B": "2 weeks",
+      "C": "3 weeks",
+      "D": "4 weeks",
+      "E": "6 weeks"
+    },
+    "correct_answer": "B",
+    "explanation": "With the irreversible nonselective MAOIs (phenelzine and tranylcypromine), it takes up to 2 weeks to regenerate normal levels of MAO."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following medications could potentially alleviate her symptoms by primarily antagonizing central presynaptic alpha-adrenergic receptors?",
+    "options": {
+      "A": "Clonidine",
+      "B": "Mirtazapine",
+      "C": "Prazosin",
+      "D": "Venlafaxine",
+      "E": "Naltrexone"
+    },
+    "correct_answer": "B",
+    "explanation": "Mirtazapine antagonizes central presynaptic alpha adrenergic receptors leading to increased release of serotonin and norepinephrine."
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is a common side effect of Mirtazapine?",
+    "options": {
+      "A": "Hypotension",
+      "B": "Weight gain",
+      "C": "Hyponatremia",
+      "D": "Liver toxicity",
+      "E": "Agranulocytosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Weight gain is a common side effect associated with mirtazapine."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following statements is/are true regarding clozapine?",
+    "options": {
+      "A": "Clozapine improves negative symptoms in schizophrenia",
+      "B": "Clozapine is effective in the management of treatment refractory bipolar depression",
+      "C": "Clozapine is not associated with the development of neuroleptic malignant syndrome (NMS)",
+      "D": "The incidence of clozapine-induced agranulocytosis is about 5%",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Clozapine is effective in treatment-resistant schizophrenia and improves negative symptoms."
+  },
+  {
+    "number": 6,
+    "question": "The following antidepressants suppress rapid eye movement (REM) sleep EXCEPT?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Paroxetine",
+      "C": "Nortriptyline",
+      "D": "Fluoxetine",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "A",
+    "explanation": "Unlike other antidepressants, bupropion may shorten REM latency and increase total REM sleep."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following antipsychotics has the lowest risk of weight gain as a side effect after treatment?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Ziprasidone",
+      "C": "Quetiapine",
+      "D": "Molindone",
+      "E": "Paliperidone"
+    },
+    "correct_answer": "D",
+    "explanation": "Molindone is an intermediate potency conventional antipsychotic that tends to decrease appetite and even cause weight loss."
+  },
+  {
+    "number": 8,
+    "question": "All of the following drugs are associated with drug-induced depression EXCEPT?",
+    "options": {
+      "A": "Alprazolam",
+      "B": "alpha-Interferon",
+      "C": "Propranolol",
+      "D": "Varenicline",
+      "E": "Depot-medroxyprogesterone acetate"
+    },
+    "correct_answer": "A",
+    "explanation": "There is some evidence for effectiveness of alprazolam in the treatment of mild to moderate major depressive disorder."
+  },
+  {
+    "number": 9,
+    "question": "All of the following are components of Sternbach criteria for the diagnosis of serotonin syndrome EXCEPT:",
+    "options": {
+      "A": "Myoclonus",
+      "B": "Hyporeflexia",
+      "C": "Diarrhea",
+      "D": "Shivering",
+      "E": "Fever"
+    },
+    "correct_answer": "B",
+    "explanation": "Hyperreflexia, and not hyporeflexia, is common in serotonin syndrome."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following statements regarding amoxapine is true?",
+    "options": {
+      "A": "Amoxapine is a norepinephrine reuptake inhibitor",
+      "B": "Amoxapine can cause extrapyramidal side effects",
+      "C": "Amoxapine is useful in the treatment of psychotic depression",
+      "D": "Amoxapine overdose produces seizures",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Amoxapine is noradrenergic TCA, causes extrapyramidal side effects, and is FDA approved for reactive depressive disorder and psychotic depression."
+  },
+  {
+    "number": 11,
+    "question": "Which of the following antipsychotic medications is least likely to cause orthostatic hypotension?",
+    "options": {
+      "A": "Fluphenazine",
+      "B": "Thioridazine",
+      "C": "Clozapine",
+      "D": "Chlorpromazine",
+      "E": "Olanzapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Fluphenazine has minimal alpha adrenergic activity and is less likely to cause postural hypotension."
+  },
+  {
+    "number": 12,
+    "question": "A 45-year-old patient with bipolar disorder on lithium therapy presents with hair loss along with other constitutional symptoms. Which of the following is the most appropriate next step?",
+    "options": {
+      "A": "Discontinue lithium and start another mood stabilizer",
+      "B": "Order a thyroid-stimulating hormone (TSH) level",
+      "C": "Prescribe selenium supplements",
+      "D": "Recommend a drug holiday to see if hair regrows",
+      "E": "None of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "The incidence of goiter and hypothyroidism during lithium therapy is significant, and diagnosing endocrine abnormalities is essential before discontinuing lithium."
+  },
+  {
+    "number": 13,
+    "question": "Which of the following agents would be the most appropriate choice for her condition?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Bupropion",
+      "C": "Amoxapine",
+      "D": "Fluoxetine",
+      "E": "Haloperidol"
+    },
+    "correct_answer": "D",
+    "explanation": "Fluoxetine is the recommended treatment for body dysmorphic disorder."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following drugs is contraindicated in patients with a history of allergy to tricyclic antidepressants (TCAs)?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Mirtazapine",
+      "C": "Trifluoperazine",
+      "D": "Lamotrigine",
+      "E": "Olanzapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Carbamazepine is structurally similar to TCAs and should be avoided in cases of known hypersensitivity."
+  },
+  {
+    "number": 15,
+    "question": "A 45-year-old man with treatment-resistant schizophrenia is started on clozapine. His most recent WBC count is 1,800 per mm3, and his absolute neutrophil count (ANC) is 900 per mm3. What is the most appropriate next step?",
+    "options": {
+      "A": "Taper clozapine over 7 days and monitor his WBC and ANC for an additional 2 weeks",
+      "B": "Discontinue clozapine immediately and monitor WBC and ANC for 4 weeks",
+      "C": "Continue clozapine but obtain daily blood cell counts until WBC count is >3,000 per mm3 and ANC is >1,500 per mm3",
+      "D": "Continue clozapine and request an hematology consult",
+      "E": "Add recombinant granulocyte-monocyte-colony-stimulating factor to his regimen"
+    },
+    "correct_answer": "B",
+    "explanation": "After discontinuation of clozapine, monitor WBC and ANC for at least 4 weeks from the day of discontinuation."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following is the proposed mechanism of renal calculi formation during chronic Topiramate therapy?",
+    "options": {
+      "A": "Increased gut absorption of calcium",
+      "B": "Inhibition of the enzyme carbonic anhydrase",
+      "C": "Renal calcium leak",
+      "D": "Increased absorption of oxalate from the colon",
+      "E": "Body fat and water loss"
+    },
+    "correct_answer": "B",
+    "explanation": "Topiramate can lead to metabolic acidosis, hypercalciuria, and elevated urine pH, thus posing an increased risk of calcium phosphate renal stones."
+  },
+  {
+    "number": 17,
+    "question": "Which of the following considerations must be borne in mind while switching the patient from delayed release Divalproex to Divalproex-ER?",
+    "options": {
+      "A": "The patient will need a reduced dose of the extended release formulation dose to avoid toxicity",
+      "B": "Valproate (VPA) concentration from a blood sample drawn 12 to 15 hours after once-nightly administration of Divalproex-ER is an accurate reflection of trough VPA concentrations",
+      "C": "The patient will need an increased dose of the extended release formulation to maintain therapeutic VPA levels",
+      "D": "Patients must be warned about a greater risk for sedation with the extended release formulation",
+      "E": "Increase in the risk of hepatotoxicity"
+    },
+    "correct_answer": "C",
+    "explanation": "The bioavailability of Divalproex-ER is approximately 10% less than that of the delayed-release tablets; an 8% to 20% higher Divalproex-ER daily dose should be considered while converting from Divalproex-EC to Divalproex-ER."
+  },
+  {
+    "number": 18,
+    "question": "All of the following statements regarding lithium and hemodialysis are true EXCEPT:",
+    "options": {
+      "A": "Maintenance doses of lithium are given three times weekly at the beginning of each dialysis session",
+      "B": "Lithium circulates unchanged in the body between dialysis sessions",
+      "C": "Lithium levels during dialysis are usually drawn 2 to 3 hours post dose",
+      "D": "Dialysis patients experience fluid shifts, and hence, monthly lithium levels are recommended",
+      "E": "None of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Lithium is dialyzable and should be administered immediately after dialysis, not before."
+  },
+  {
+    "number": 19,
+    "question": "Which of the following statements should be the most important consideration when switching this patient from brand name clozapine to generic clozapine?",
+    "options": {
+      "A": "Possible loss of therapeutic effect because of the presence of nonidentical active ingredient in the generic version",
+      "B": "Possibility of side effects because of the presence of nonidentical inactive ingredients in the generic version",
+      "C": "Possibility of lower bioequivalence because of the presence of nonidentical inactive ingredients in the generic version",
+      "D": "Cost savings in prescription drug costs associated with the generic version",
+      "E": "Frequency of hematologic monitoring is indicated following the conversion of brand name clozapine to generic clozapine"
+    },
+    "correct_answer": "B",
+    "explanation": "The inactive ingredients in generic medications are usually different and can cause unusual or allergic side effects."
+  },
+  {
+    "number": 20,
+    "question": "As per the American Diabetes Association (ADA)/American Psychiatric Association (APA) consensus management guidelines, what is the recommended monitoring schedule for fasting plasma glucose levels in this patient?",
+    "options": {
+      "A": "Baseline, 4 weeks, 12 weeks, and annually",
+      "B": "Baseline, 8 weeks, 12 weeks, and annually",
+      "C": "Baseline, 12 weeks, and annually",
+      "D": "Baseline, 8 weeks, quarterly, and annually",
+      "E": "Baseline, quarterly, and annually"
+    },
+    "correct_answer": "C",
+    "explanation": "The monitoring protocol for patients on atypical antipsychotics includes fasting plasma glucose at baseline, 12 weeks, and then annually."
+  },
+  {
+    "number": 21,
+    "question": "Which of the following is an active metabolite of venlafaxine?",
+    "options": {
+      "A": "S-desmethylvenlafaxine",
+      "B": "O-desmethylvenlafaxine",
+      "C": "A-desmethylvenlafaxine",
+      "D": "A-didesmethylvenlafaxine",
+      "E": "C-desmethylvenlafaxine"
+    },
+    "correct_answer": "B",
+    "explanation": "O-desmethylvenlafaxine is an active metabolite of venlafaxine."
+  },
+  {
+    "number": 22,
+    "question": "Which of the following statements is not true regarding Desvenlafaxine?",
+    "options": {
+      "A": "No titration is required while starting the recommended dose",
+      "B": "Side effects occur in the first week of therapy",
+      "C": "Gastrointestinal (GI) side effects may be more frequent in women than in men",
+      "D": "Most common side effect is nausea",
+      "E": "Moderate interaction with the cytochrome P450 (CYP) system"
+    },
+    "correct_answer": "E",
+    "explanation": "Desvenlafaxine has minimal interaction with the CYP isoenzymes, which may reduce potential drug-drug interactions."
+  },
+  {
+    "number": 23,
+    "question": "All of the following statements regarding dystonia are true EXCEPT?",
+    "options": {
+      "A": "It generally occurs within 4 to 7 days",
+      "B": "Old age is a major risk factor",
+      "C": "It is not seen with clozapine therapy",
+      "D": "Tardive dystonia responds well to clozapine",
+      "E": "Dystonia generally occurs after an increase in the neuroleptic dose"
+    },
+    "correct_answer": "B",
+    "explanation": "Neuroleptic-induced acute dystonia occurs frequently in young men, and risk factors include prior dystonic reactions and use of high-potency typical neuroleptic medication."
+  },
+  {
+    "number": 24,
+    "question": "Buspirone acts on which of the following receptors?",
+    "options": {
+      "A": "Alpha adrenergic receptors",
+      "B": "Serotonin (5-HT A) receptors",
+      "C": "Dopamine D2 receptors",
+      "D": "G-Amino Butyric Acid type A (GABA-A) receptors",
+      "E": "Muscarinic receptors"
+    },
+    "correct_answer": "B",
+    "explanation": "Buspirone acts on 5-HT A receptors as a partial agonist, which possibly results in anxiolytic effects."
+  },
+  {
+    "number": 25,
+    "question": "Which of the following is true regarding NMS?",
+    "options": {
+      "A": "The risk for recurrence on reexposure to neuroleptic is approximately 30%",
+      "B": "Recurrence of NMS may be minimized by delaying rechallenge by 2 weeks post NMS",
+      "C": "A comorbid diagnosis of affective disorder is a risk factor for NMS",
+      "D": "Dehydration is a risk factor for NMS",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "NMS is a life-threatening complication of antipsychotic use, and multiple factors can increase the risk."
+  },
+  {
+    "number": 26,
+    "question": "Which of the following antidepressants has favorable effect on weight loss and little or no sexual side effect?",
+    "options": {
+      "A": "Mirtazapine",
+      "B": "Fluoxetine",
+      "C": "Bupropion",
+      "D": "Nortriptyline",
+      "E": "Paroxetine"
+    },
+    "correct_answer": "C",
+    "explanation": "Bupropion has little or no sexual side effects and can lead to weight loss."
+  },
+  {
+    "number": 27,
+    "question": "Which of the following plasma clozapine levels may be a useful guide to optimally efficacious dosage?",
+    "options": {
+      "A": "Plasma levels >200 ng per ml",
+      "B": "Plasma levels >350 ng per ml",
+      "C": "Plasma levels >450 ng per ml",
+      "D": "Plasma levels >500 ng per ml",
+      "E": "Plasma levels >550 ng per ml"
+    },
+    "correct_answer": "B",
+    "explanation": "Plasma levels of >350 ng/ml are generally considered to be a guide to effective dosing of clozapine."
+  },
+  {
+    "number": 28,
+    "question": "All of the following are side effects of carbamazepine EXCEPT?",
+    "options": {
+      "A": "Benign pruritic rash",
+      "B": "Ataxia",
+      "C": "Hepatitis",
+      "D": "Nephrogenic diabetes insipidus",
+      "E": "Blurred vision"
+    },
+    "correct_answer": "D",
+    "explanation": "Carbamazepine causes SIADH and not nephrogenic diabetes insipidus."
+  },
+  {
+    "number": 29,
+    "question": "Which of the following is not a dose-dependent side effect of VPA?",
+    "options": {
+      "A": "Pancreatitis",
+      "B": "Nausea",
+      "C": "Weight gain",
+      "D": "Hand tremors",
+      "E": "Reversible elevations in liver enzymes"
+    },
+    "correct_answer": "A",
+    "explanation": "Pancreatitis is not considered a dose-dependent side effect of VPA."
+  },
+  {
+    "number": 30,
+    "question": "Which of the following statements is true regarding clozapine?",
+    "options": {
+      "A": "Improve polydipsia and hyponatremia",
+      "B": "Improve negative symptoms",
+      "C": "Stabilize mood",
+      "D": "Reduce hostility and aggression",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Clozapine is effective in improving multiple symptoms associated with treatment-resistant schizophrenia."
+  },
+  {
+    "number": 31,
+    "question": "Lorazepam would act on central GABA-A receptor and exert its action through modulation of which of the following ion release?",
+    "options": {
+      "A": "Sodium",
+      "B": "Calcium",
+      "C": "Potassium",
+      "D": "Chloride",
+      "E": "Magnesium"
+    },
+    "correct_answer": "D",
+    "explanation": "Benzodiazepines like lorazepam enhance GABA effects by increasing chloride conductance."
+  },
+  {
+    "number": 32,
+    "question": "Which of the following anticholinergic agents has the least abuse potential?",
+    "options": {
+      "A": "Trihexyphenidyl",
+      "B": "Benztropine",
+      "C": "Diphenhydramine",
+      "D": "Scopolamine",
+      "E": "Biperiden"
+    },
+    "correct_answer": "B",
+    "explanation": "Benztropine has the least abuse potential among these agents."
+  },
+  {
+    "number": 33,
+    "question": "All of the following are true regarding VPA therapy in a woman of childbearing age EXCEPT?",
+    "options": {
+      "A": "All women without contraception should receive concomitant folate supplementation",
+      "B": "Folate should be administered throughout the gestation",
+      "C": "Vitamin K supplementation should be considered during the last month of gestation",
+      "D": "Serum concentration of VPA should not exceed 150 /g per ml",
+      "E": "None of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Neonatal risks may be reduced by maintaining serum concentration <70 ng per ml."
+  },
+  {
+    "number": 34,
+    "question": "In a patient on sertraline and temazepam, which of the following scenarios is true regarding his condition and his treatment with temazepam?",
+    "options": {
+      "A": "Depression is associated with increased REM density, although temazepam has no effect on REM sleep",
+      "B": "Depression and temazepam increase REM sleep",
+      "C": "Depression is associated with increased REM density, and temazepam suppresses REM sleep",
+      "D": "Depression and temazepam decrease REM sleep",
+      "E": "Depression and temazepam both have no effect on REM sleep"
+    },
+    "correct_answer": "A",
+    "explanation": "Depression is associated with increased REM density; temazepam has no effect on REM sleep but increases stage II sleep."
+  },
+  {
+    "number": 35,
+    "question": "Which of the following drugs causes tolerance and withdrawal symptoms?",
+    "options": {
+      "A": "Lorazepam",
+      "B": "Guanfacine",
+      "C": "Clonidine",
+      "D": "Phenobarbital",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Like benzodiazepines and barbiturates, both clonidine and guanfacine can cause discontinuation symptoms."
+  },
+  {
+    "number": 36,
+    "question": "Which of the following is an Alpha-adrenergic agonist?",
+    "options": {
+      "A": "Yohimbine",
+      "B": "Clonidine",
+      "C": "Reserpine",
+      "D": "Mirtazapine",
+      "E": "All of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "Clonidine, methyldopa, and guanfacine are alpha-adrenergic agonists."
+  },
+  {
+    "number": 37,
+    "question": "What is the next best step in the management of this bipolar disorder patient's bilateral hand tremors and diarrhea?",
+    "options": {
+      "A": "Ask him to limit caffeine intake, and schedule him for a follow-up visit in 2 months.",
+      "B": "Check his lithium level, and in a week, contact him with the results.",
+      "C": "Reduce the dose of lithium to 1,000 mg and follow up in 2 months.",
+      "D": "Treat his tremors as worsening anxiety and increase paroxetine to 30 mg.",
+      "E": "Prescribe him cyproheptadine to treat the diarrhea."
+    },
+    "correct_answer": "B",
+    "explanation": "The appropriate action is to check the lithium level. Concurrent use of paroxetine and lithium may increase the risk of serotonin syndrome."
+  },
+  {
+    "number": 38,
+    "question": "All of the following are low potency conventional antipsychotic drugs EXCEPT?",
+    "options": {
+      "A": "Thioridazine",
+      "B": "Chlorpromazine",
+      "C": "Trifluoperazine",
+      "D": "Mesoridazine",
+      "E": "Triflupromazine"
+    },
+    "correct_answer": "C",
+    "explanation": "Trifluoperazine is a high-potency antipsychotic."
+  },
+  {
+    "number": 39,
+    "question": "All of the following are risk factors of tardive dyskinesia (TD) EXCEPT:",
+    "options": {
+      "A": "Male sex",
+      "B": "Old age",
+      "C": "Affective disorder",
+      "D": "Diabetes mellitus",
+      "E": "Neuroleptic exposure for >6 months"
+    },
+    "correct_answer": "A",
+    "explanation": "Women are more at risk than men for tardive dyskinesia."
+  },
+  {
+    "number": 40,
+    "question": "After discontinuing clozapine, what symptoms may the patient experience due to clozapine's action on which of the following receptors?",
+    "options": {
+      "A": "Dopaminergic",
+      "B": "Muscarinic",
+      "C": "Serotonergic",
+      "D": "Adrenergic",
+      "E": "Histaminergic"
+    },
+    "correct_answer": "B",
+    "explanation": "This is the classical presentation of cholinergic rebound associated with the abrupt cessation of clozapine."
+  },
+  {
+    "number": 41,
+    "question": "Which of the following B-adrenergic receptor antagonists can be used as an augmenting agent in the treatment of depression?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Labetalol",
+      "C": "Pindolol",
+      "D": "Sotalol",
+      "E": "Nadolol"
+    },
+    "correct_answer": "C",
+    "explanation": "Pindolol has a role in augmentation of antidepressant medications."
+  },
+  {
+    "number": 42,
+    "question": "What is the most appropriate diagnosis of Mr. A's perioral tremors?",
+    "options": {
+      "A": "Akinesia",
+      "B": "Rabbit syndrome",
+      "C": "TD",
+      "D": "Akathisia",
+      "E": "Drug-induced parkinsonism"
+    },
+    "correct_answer": "B",
+    "explanation": "Rabbit syndrome presents as focal perioral tremor that develops in patients taking dopamine antagonists."
+  },
+  {
+    "number": 43,
+    "question": "SSRI-induced sexual side effects can be treated with which of the following drugs?",
+    "options": {
+      "A": "Cyproheptadine",
+      "B": "Amantadine",
+      "C": "Buspirone",
+      "D": "Mianserin",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "SSRI-induced sexual dysfunction can be treated with antiserotonergic antidotes such as cyproheptadine, buspirone, nefazodone, and mianserin."
+  },
+  {
+    "number": 44,
+    "question": "All of the following are complications of lithium therapy during the perinatal period EXCEPT?",
+    "options": {
+      "A": "Cardiac arrhythmias",
+      "B": "Nephrogenic diabetes insipidus",
+      "C": "Oligohydramnios",
+      "D": "Floppy infant syndrome",
+      "E": "Thyroid function impairment"
+    },
+    "correct_answer": "C",
+    "explanation": "Oligohydramnios is not a recognized complication of lithium therapy."
+  },
+  {
+    "number": 45,
+    "question": "Which of the following is true regarding phenelzine?",
+    "options": {
+      "A": "Plasma levels of phenelzine is under genetic control",
+      "B": "Slow acetylators appear to be more prone to side effects from phenelzine",
+      "C": "N-acetyltransferase appears to be inherited in a Mendelian fashion",
+      "D": "Ethnospecific loci of point mutations is responsible for slow acetylation",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Pharmacogenetics is crucial in determining the response to phenelzine, where genetic factors influence its metabolism."
+  },
+  {
+    "number": 46,
+    "question": "All of the following drugs can cause withdrawal syndrome EXCEPT:",
+    "options": {
+      "A": "Propranolol",
+      "B": "Clonidine",
+      "C": "Fluoxetine",
+      "D": "Paroxetine",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "C",
+    "explanation": "Fluoxetine has a long half-life, and withdrawal symptoms do not occur with it."
+  },
+  {
+    "number": 47,
+    "question": "All of the following can cause life-threatening anticholinergic intoxication syndrome when taken with benztropine EXCEPT?",
+    "options": {
+      "A": "Dopamine receptor antagonists",
+      "B": "Tricyclics",
+      "C": "Alpha-adrenergic receptor antagonists",
+      "D": "MAOIs",
+      "E": "Tetracyclics"
+    },
+    "correct_answer": "C",
+    "explanation": "Alpha-adrenergic receptor antagonists can be safely administered with Benztropine without the risk of anticholinergic intoxication."
+  },
+  {
+    "number": 48,
+    "question": "Carbamazepine may decrease the drug plasma concentration of all of the following drugs, including carbamazepine itself, EXCEPT?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Lamotrigine",
+      "C": "Ethosuximide",
+      "D": "Fluoxetine",
+      "E": "Nefazodone"
+    },
+    "correct_answer": "D",
+    "explanation": "Fluoxetine increases the level of carbamazepine because fluoxetine inhibits CYP3A."
+  },
+  {
+    "number": 49,
+    "question": "All of the following are clinical indications for the use of alpha-adrenergic receptor antagonists EXCEPT?",
+    "options": {
+      "A": "Lithium-induced postural tremor",
+      "B": "SSRI-induced anorgasmia",
+      "C": "Tricyclic-induced tremor",
+      "D": "Akathisia secondary to neuroleptics",
+      "E": "Aggressive behavior in schizophrenia and head injury"
+    },
+    "correct_answer": "B",
+    "explanation": "SSRI-induced anorgasmia is treated with drugs that block serotonin rather than alpha-adrenergic receptor antagonists."
+  },
+  {
+    "number": 50,
+    "question": "All of the following are true regarding clozapine EXCEPT?",
+    "options": {
+      "A": "Strong D1 and D4 antagonism",
+      "B": "Weak D2 antagonism",
+      "C": "5-HT2 antagonist",
+      "D": "D2 receptor super sensitivity",
+      "E": "Highly anticholinergic"
+    },
+    "correct_answer": "D",
+    "explanation": "Clozapine does not cause D2 receptor super sensitivity; this is more associated with conventional agents."
+  }
+]

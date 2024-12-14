@@ -1,0 +1,652 @@
+[
+  {
+    "number": 201,
+    "question": "Which of the following antidepressants is associated with a rare but dangerous side effect of severe hepatotoxicity, sometimes requiring liver transplant?",
+    "options": {
+      "A": "Nefazodone",
+      "B": "Desvenlafaxine",
+      "C": "Desipramine",
+      "D": "Paroxetine",
+      "E": "Tranylcypromine"
+    },
+    "correct_answer": "A",
+    "explanation": "Nefazodone has a black box warning for hepatotoxicity. It is associated with severe hepatotoxicity, sometimes requiring liver transplant."
+  },
+  {
+    "number": 202,
+    "question": "Which of the following drugs has data suggesting efficacy in the treatment of menopausal hot flashes?",
+    "options": {
+      "A": "Venlafaxine",
+      "B": "Desipramine",
+      "C": "Bupropion",
+      "D": "Prazosin",
+      "E": "Clonazepam"
+    },
+    "correct_answer": "A",
+    "explanation": "Venlafaxine treatment has shown to be efficacious in decreasing hot flashes."
+  },
+  {
+    "number": 203,
+    "question": "Which of the following is true regarding lithium-induced hypothyroidism?",
+    "options": {
+      "A": "It is associated with high prevalence of thyroid autoantibodies",
+      "B": "Lithium is known to suppress thyroid functions in about 10% of patients",
+      "C": "Prevalence of clinical hypothyroidism is higher in men when compared with women",
+      "D": "Elevated TSH level during lithium treatment is an indication for discontinuing lithium",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Lithium-induced thyroiditis and thyroid dysfunction is thought to be mediated by an autoimmune response."
+  },
+  {
+    "number": 204,
+    "question": "A patient whose hypertension is well controlled on clonidine presents with major depression. Which of the following antidepressants should be avoided in the treatment of his depression?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Paroxetine",
+      "C": "Nortriptyline",
+      "D": "Bupropion",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Nortriptyline when administered with clonidine may result in hypertension because the combination decreases the antihypertensive effect of clonidine."
+  },
+  {
+    "number": 205,
+    "question": "In 2005, the FDA approved the first pharmacogenetic test using DNA array technology for genotyping CYP isoenzymes genes. The AmpliChip CYP450 test (Roche Molecular Systems) genotypes which of the following isoenzymes?",
+    "options": {
+      "A": "CYP2D6 and CYP2C19",
+      "B": "CYP2D6 and CYP3A4",
+      "C": "CYP2D6 and CYP1A2",
+      "D": "CYP2D6, CYP2C19, CYP34A, and CYP1A2",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "The AmpliChip CYP450 test genotypes CYP2D6 and CYP2C19 isoenzymes."
+  },
+  {
+    "number": 206,
+    "question": "Which of the following is true regarding effects of lithium therapy on renal function?",
+    "options": {
+      "A": "Lithium irreversibly reduces kidneys urine-concentrating ability",
+      "B": "The renal effects are unrelated to the dose of lithium",
+      "C": "Lithium-induced polyuria is rare among patients treated with lithium",
+      "D": "Lithium inhibits vasopressin-stimulated cyclic AMP (cAMP) production, which is one of the primary factors contributing to the impaired urine concentrating ability",
+      "E": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Lithium inhibits vasopressin-stimulated cyclic AMP (cAMP) production, which contributes to the impaired urine concentrating ability."
+  },
+  {
+    "number": 207,
+    "question": "Dantrolene has a role in the management of which of the following conditions?",
+    "options": {
+      "A": "NMS",
+      "B": "Serotonin syndrome",
+      "C": "Catatonia",
+      "D": "Heat stroke",
+      "E": "Metabolic myopathy"
+    },
+    "correct_answer": "A",
+    "explanation": "Dantrolene is indicated in the treatment of malignant hyperthermia and is frequently used in the treatment of NMS."
+  },
+  {
+    "number": 208,
+    "question": "Combined VPA and carbamazepine therapy may pose which of the following risk factors?",
+    "options": {
+      "A": "VPA increases the concentration of 10 to 11 epoxide metabolites of carbamazepine.",
+      "B": "VPA clearance is increased, and hence, increased VPA dose may be required",
+      "C": "Toxicity may emerge even at therapeutic serum carbamazepine (CBZ) levels",
+      "D": "Symptoms such as ataxia, nystagmus, and headache may emerge",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "VPA increases the concentration of 10 to 11 epoxide metabolites of carbamazepine causing carbamazepine toxicity."
+  },
+  {
+    "number": 209,
+    "question": "Which of the following psychotropic drugs has the best evidence for decreasing the suicide risk in schizophrenia?",
+    "options": {
+      "A": "Lithium",
+      "B": "Clozapine",
+      "C": "Aripiprazole",
+      "D": "Fluoxetine",
+      "E": "Olanzapine"
+    },
+    "correct_answer": "B",
+    "explanation": "Clozapine reduces the risk of suicide by 75% to 80% in schizophrenic patients."
+  },
+  {
+    "number": 210,
+    "question": "All of the following are true regarding VPA-induced hepatotoxicity EXCEPT:",
+    "options": {
+      "A": "Children younger than 2 years are most vulnerable",
+      "B": "Hepatotoxicity usually occurs during the first 6 months of treatment",
+      "C": "Carnitine supplementation may prevent the onset of hepatotoxicity",
+      "D": "VPA-induced hepatic dysfunction resolves completely after discontinuing the drug",
+      "E": "None of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "In some patients, hepatic dysfunction has progressed even after discontinuing VPA."
+  },
+  {
+    "number": 211,
+    "question": "Which of the following drugs has a wide therapeutic index?",
+    "options": {
+      "A": "Alprazolam",
+      "B": "Amitriptyline",
+      "C": "Lithium",
+      "D": "Clozapine",
+      "E": "Carbamazepine"
+    },
+    "correct_answer": "A",
+    "explanation": "Alprazolam and benzodiazepines in general have a wide therapeutic index."
+  },
+  {
+    "number": 212,
+    "question": "Which of the following antipsychotic drugs can cause pigmentary retinopathy?",
+    "options": {
+      "A": "Chlorpromazine",
+      "B": "Thioridazine",
+      "C": "Quetiapine",
+      "D": "Molindone",
+      "E": "Olanzapine"
+    },
+    "correct_answer": "B",
+    "explanation": "Thioridazine is known to cause retinal pigmentation and visual impairment."
+  },
+  {
+    "number": 213,
+    "question": "Treatment with which of the following antipsychotics has shown to have either a very rapid (<6 weeks) or a delayed (6 weeks to 6 months) clinical response?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Clozapine",
+      "C": "Paliperidone",
+      "D": "Molindone",
+      "E": "Haloperidol"
+    },
+    "correct_answer": "B",
+    "explanation": "Clozapine is useful in treatment refractory schizophrenia, with varying response times."
+  },
+  {
+    "number": 214,
+    "question": "Which of the following psychotropic drugs has the best evidence for decreasing the suicide risk in bipolar disorder?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Aripiprazole",
+      "C": "Lithium",
+      "D": "Fluoxetine",
+      "E": "All of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Literature supports that lithium therapy is associated with a lower suicide rate in patients with bipolar disorder."
+  },
+  {
+    "number": 215,
+    "question": "Desipramine is the main metabolite of which of the following?",
+    "options": {
+      "A": "Clomipramine",
+      "B": "Imipramine",
+      "C": "Nortriptyline",
+      "D": "Amitriptyline",
+      "E": "None of above"
+    },
+    "correct_answer": "B",
+    "explanation": "Desipramine is the main metabolite of imipramine."
+  },
+  {
+    "number": 216,
+    "question": "Which of the following is a dopamine receptor agonist?",
+    "options": {
+      "A": "Pergolide",
+      "B": "Ropinirole",
+      "C": "Bromocriptine",
+      "D": "Pramipexole",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Pergolide, ropinirole, bromocriptine, and pramipexole are all dopamine receptor agonists."
+  },
+  {
+    "number": 217,
+    "question": "Which of the following antidepressants has little to no evidence in treating neuropathic pain?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Venlafaxine",
+      "C": "Paroxetine",
+      "D": "Duloxetine",
+      "E": "Nortriptyline"
+    },
+    "correct_answer": "C",
+    "explanation": "Paroxetine does not have any evidence in the treatment of neuropathic pain."
+  },
+  {
+    "number": 218,
+    "question": "Which of the following medications is FDA approved for the treatment of irritability associated with autistic disorder?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Risperidone",
+      "C": "Quetiapine",
+      "D": "Ziprasidone",
+      "E": "Asenapine"
+    },
+    "correct_answer": "B",
+    "explanation": "Risperidone is FDA approved for the treatment of irritability associated with autistic disorder."
+  },
+  {
+    "number": 219,
+    "question": "Which of the following statements regarding dosing guidelines for long-acting risperidone depot preparation is/are true?",
+    "options": {
+      "A": "Dose adjustments can be made every 2 weeks",
+      "B": "Oral supplementation with oral antipsychotic must continue for the first week of therapy",
+      "C": "The maximum dose should not exceed 50 mg every 2 weeks",
+      "D": "Clinical effect from a dosage adjustment can be expected within a week following the injection of the higher dose",
+      "E": "All of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "When dose adjustment is made, clinical effects are expected after 3 weeks following the injection at higher dose."
+  },
+  {
+    "number": 220,
+    "question": "Which of the following TCAs possesses the most serotonergic activity?",
+    "options": {
+      "A": "Maprotiline",
+      "B": "Clomipramine",
+      "C": "Nortriptyline",
+      "D": "Desipramine",
+      "E": "Protriptyline"
+    },
+    "correct_answer": "B",
+    "explanation": "Clomipramine is the most serotonergic agent among the TCAs."
+  },
+  {
+    "number": 221,
+    "question": "Which of the following drugs is contraindicated in patients with a history of allergy to TCAs?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Lamotrigine",
+      "C": "Trifluoperazine",
+      "D": "Mirtazapine",
+      "E": "Topiramate"
+    },
+    "correct_answer": "A",
+    "explanation": "Carbamazepine is contraindicated in patients with a history of allergy to TCAs because it is structurally similar to imipramine."
+  },
+  {
+    "number": 222,
+    "question": "All of the following statements regarding neuroleptic-induced TD are true EXCEPT:",
+    "options": {
+      "A": "Anticholinergic medications can decrease TD movements",
+      "B": "Clonazepam has shown to be useful in TD",
+      "C": "Clozapine can decrease TD movements",
+      "D": "Botulinum toxin is not a general treatment for TD",
+      "E": "Recognition of TD should be followed by immediate discontinuation of the antipsychotic medication"
+    },
+    "correct_answer": "A",
+    "explanation": "Anticholinergic medications are used in the management of extrapyramidal side effects, but they may worsen TD movements by increasing the supersensitivity of dopamine receptors."
+  },
+  {
+    "number": 223,
+    "question": "All of the following are true regarding aripiprazole EXCEPT:",
+    "options": {
+      "A": "It is a dopamine—serotonin system stabilizer",
+      "B": "Partial agonist at D2",
+      "C": "Full agonist at 5-HT2A",
+      "D": "Partial agonist at 5-HT1A",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Aripiprazole is an antagonist at 5-HT2A receptors."
+  },
+  {
+    "number": 224,
+    "question": "A 39-year-old Caucasian man is admitted to medical department with suspected nosocomial pneumonia caused by Staphylococcus aureus. The primary team consults you for the management of his worsening anxiety and nightmares. You interview the patient and find out that he has been diagnosed with combat-related PTSD and is currently taking a combination of clonidine, trazodone, and ziprasidone for his symptoms. You also note the infectious disease consultation recommending treatment with the antibiotic linezolid. Which of the following statements regarding his management is most accurate?",
+    "options": {
+      "A": "Prescribe sertraline because it is FDA-approved drug for PTSD",
+      "B": "Discontinue trazodone because it may precipitate symptoms of hypertension, hyperthermia, and mental status changes",
+      "C": "Discontinue clonidine because it may precipitate symptoms of hypotension, thrombocytopenia, and bradycardia",
+      "D": "Discontinue ziprasidone because it may precipitate symptoms of mental status changes, myoclonus, and diarrhea",
+      "E": "None of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "Discontinue trazodone because it may precipitate symptoms of hypertension, hyperthermia, and mental status changes."
+  },
+  {
+    "number": 225,
+    "question": "Which of the following statements is true regarding fluvoxamine?",
+    "options": {
+      "A": "Minimal inhibitory effect of CYP1A2 isoenzyme",
+      "B": "The drug is eliminated from systemic circulation primarily by renal excretion as unchanged drug",
+      "C": "Binds less extensively to plasma proteins",
+      "D": "Fluvoxamine is an FDA category B drug to be used in pregnancy",
+      "E": "All of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Fluvoxamine is an FDA category C drug to be used in pregnancy."
+  },
+  {
+    "number": 226,
+    "question": "Which of the following is the most appropriate treatment for clozapine-induced hypersalivation?",
+    "options": {
+      "A": "Dose reduction",
+      "B": "Chewing gum",
+      "C": "Anticholinergic agents",
+      "D": "α-Agonist",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Management of clozapine-induced hypersalivation can include dose reduction, chewing gum, and anticholinergic agents."
+  },
+  {
+    "number": 227,
+    "question": "Which of the following benzodiazepines is highly lipophilic?",
+    "options": {
+      "A": "Chlordiazepoxide",
+      "B": "Diazepam",
+      "C": "Lorazepam",
+      "D": "Temazepam",
+      "E": "Alprazolam"
+    },
+    "correct_answer": "B",
+    "explanation": "Diazepam is the most lipophilic among the benzodiazepines and quickly crosses the blood-brain barrier."
+  },
+  {
+    "number": 228,
+    "question": "As per the ADA/APA consensus management guidelines, what is the recommended monitoring schedule for BMI for patients receiving atypical antipsychotics?",
+    "options": {
+      "A": "Baseline, 12 weeks, and annually",
+      "B": "Baseline, 4 weeks, 8 weeks, 12 weeks, and quarterly",
+      "C": "Baseline, 4 weeks, 8 weeks, 12 weeks, and annually",
+      "D": "Baseline, 8 weeks, quarterly, and annually",
+      "E": "Baseline, quarterly, and annually"
+    },
+    "correct_answer": "B",
+    "explanation": "Current recommendations for monitoring BMI for patients receiving atypical antipsychotics is at baseline, 4 weeks, 8 weeks, 12 weeks, and quarterly."
+  },
+  {
+    "number": 229,
+    "question": "All of the following clinical strategies is/are helpful in reducing the incidence of antipsychotic-induced TD EXCEPT:",
+    "options": {
+      "A": "Using lowest effective dose of antipsychotic",
+      "B": "Prophylactic anticholinergic medications",
+      "C": "Abnormal Involuntary Movement Scale (AIMS) exam every 6 months",
+      "D": "Switch to clozapine if TD appears",
+      "E": "Supplement with vitamin 800 IU per day"
+    },
+    "correct_answer": "B",
+    "explanation": "Anticholinergic medications may worsen TD movements by increasing the supersensitivity of dopamine receptors."
+  },
+  {
+    "number": 230,
+    "question": "Which of the following characteristics is suggestive of a benign skin eruption during therapy with Lamotrigine?",
+    "options": {
+      "A": "Maculopapular rash",
+      "B": "Facial and neck involvement",
+      "C": "Purpuric appearance",
+      "D": "Tender rash",
+      "E": "Internal organ involvement"
+    },
+    "correct_answer": "A",
+    "explanation": "Many dermatologic reactions associated with Lamotrigine use are benign and can be maculopapular rashes."
+  },
+  {
+    "number": 231,
+    "question": "All of the following are potential adverse effects during VPA therapy EXCEPT?",
+    "options": {
+      "A": "Hair loss",
+      "B": "Polycystic ovary disease",
+      "C": "Pancreatitis",
+      "D": "Thrombocytopenia",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "VPA is associated with adverse effects like hair loss, polycystic ovary syndrome, pancreatitis, and thrombocytopenia."
+  },
+  {
+    "number": 232,
+    "question": "All of the following regarding Lamotrigine are true EXCEPT:",
+    "options": {
+      "A": "Lamotrigine primarily inhibits sodium channels",
+      "B": "Pregnancy increases Lamotrigine clearance",
+      "C": "The greatest risk of rash with Lamotrigine is during the first 2 weeks of treatment",
+      "D": "The drug's bioavailability is not altered by food",
+      "E": "Lamotrigine may cause hematologic adverse reactions such as thrombocytopenia"
+    },
+    "correct_answer": "C",
+    "explanation": "Majority of dermatologic reactions with Lamotrigine develop between 5 days and 8 weeks after starting treatment."
+  },
+  {
+    "number": 233,
+    "question": "All of the following are true regarding CYP isoenzymes EXCEPT:",
+    "options": {
+      "A": "They are located on microsomal membranes",
+      "B": "They oxidatively metabolize prostaglandins and fatty acids",
+      "C": "They oxidatively metabolize medications",
+      "D": "They are found predominantly in gut and brain",
+      "E": "They metabolize all psychotropic medications except lithium"
+    },
+    "correct_answer": "D",
+    "explanation": "CYP enzymes are predominantly found in the liver."
+  },
+  {
+    "number": 234,
+    "question": "Which of the following TCAs inhibits norepinephrine reuptake the most?",
+    "options": {
+      "A": "Desipramine",
+      "B": "Protriptyline",
+      "C": "Nortriptyline",
+      "D": "Doxepin",
+      "E": "Clomipramine"
+    },
+    "correct_answer": "A",
+    "explanation": "Desipramine is a norepinephrine reuptake inhibitor."
+  },
+  {
+    "number": 235,
+    "question": "The most common renal side effect during lithium therapy is",
+    "options": {
+      "A": "Enuresis",
+      "B": "Polyuria",
+      "C": "Urgency",
+      "D": "Hematuria",
+      "E": "Oliguria"
+    },
+    "correct_answer": "B",
+    "explanation": "Lithium-induced polyuria is highly prevalent, often seen with prolonged treatment."
+  },
+  {
+    "number": 236,
+    "question": "A 38-year-old Caucasian woman with a history of major depressive disorder without psychotic features is well maintained on fluoxetine (Prozac) 40 mg per day. Her past medical history is significant for long QTc syndrome. She was rear-ended in a motor vehicle accident and sustained a whiplash injury. Which of the following should be used with caution in treating her current condition?",
+    "options": {
+      "A": "Acetaminophen",
+      "B": "Baclofen",
+      "C": "Cyclobenzaprine",
+      "D": "Ibuprofen",
+      "E": "Oxycodone"
+    },
+    "correct_answer": "C",
+    "explanation": "Coadministration of cyclobenzaprine and fluoxetine may result in an increased risk of QTc prolongation."
+  },
+  {
+    "number": 237,
+    "question": "EEG of a patient on benzodiazepine is likely to show all of the following EXCEPT:",
+    "options": {
+      "A": "Decrease in the REM sleep",
+      "B": "Decrease in stage III and IV sleep",
+      "C": "Shortened REM latency",
+      "D": "Increased K spindles in stage II",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Benzodiazepine prolongs REM latency and increases K spindles in stage II."
+  },
+  {
+    "number": 238,
+    "question": "A 32-year-old Caucasian man with no earlier psychiatric diagnosis is brought to your clinic by his wife for depressed mood in the past 3 months. He graduated last year from an orthopedics residency program and joined a leading hospital in the town about 7 months ago. During the interview, the patient stated that he is living his dream now and questions whether there is anything more in terms of productive achievement. He stopped playing golf, which used to be his passion. He reports that he has no interest in life. He sleeps about 15 hours a day and complains that he has no energy left. At work, he could not concentrate and complains of decreased motor activity. His appetite has increased over the past 3 months. There is no significant past medical history, and he is currently not taking any medications. You diagnose him with major depressive episode and decide to start him on an antidepressant. Which of the following would be your preferred choice?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Sertraline",
+      "C": "Duloxetine",
+      "D": "Phenelzine",
+      "E": "Citalopram"
+    },
+    "correct_answer": "D",
+    "explanation": "This patient meets criteria for MDD with atypical features like increased appetite and hypersomnia, making MAOIs like Phenelzine a better choice."
+  },
+  {
+    "number": 239,
+    "question": "All of the following statements regarding chloral hydrate are true EXCEPT:",
+    "options": {
+      "A": "It is useful for initial insomnia",
+      "B": "It has no risk for addiction",
+      "C": "GI distress is a common side effect",
+      "D": "It may prolong prothrombin time in anticoagulated patients",
+      "E": "It is used as an analgesic"
+    },
+    "correct_answer": "B",
+    "explanation": "Chloral hydrate can cause tolerance and dependence."
+  },
+  {
+    "number": 240,
+    "question": "VPA may be a better choice over other mood stabilizers in bipolar patients presenting with which of the following?",
+    "options": {
+      "A": "Mixed episodes",
+      "B": "Rapid cycling",
+      "C": "Comorbid substance abuse",
+      "D": "Impulsivity",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "VPA may be a better choice in bipolar patients presenting with mixed episodes, rapid cycling, comorbid substance abuse, and increased impulsivity."
+  },
+  {
+    "number": 241,
+    "question": "The following are disadvantages of short half-life benzodiazepines EXCEPT?",
+    "options": {
+      "A": "Rebound insomnia",
+      "B": "Anterograde amnesia",
+      "C": "Can be used in the treatment of benzodiazepine withdrawal syndrome.",
+      "D": "Withdrawal symptoms on abrupt discontinuation",
+      "E": "Rebound anxiety"
+    },
+    "correct_answer": "C",
+    "explanation": "Short-acting benzodiazepines have disadvantages like rebound insomnia and anxiety."
+  },
+  {
+    "number": 242,
+    "question": "Which of the following drugs can produce withdrawal dyskinetic movements on sudden discontinuation after chronic therapy?",
+    "options": {
+      "A": "Lithium",
+      "B": "Metoclopramide",
+      "C": "Cimetidine",
+      "D": "Bromocriptine",
+      "E": "Alprazolam"
+    },
+    "correct_answer": "B",
+    "explanation": "Metoclopramide is known to induce withdrawal dyskinetic movements on sudden discontinuation."
+  },
+  {
+    "number": 243,
+    "question": "Which of the following statements is false regarding creatinine phosphokinase (CPK) elevations associated with NMS?",
+    "options": {
+      "A": "Significant CPK elevations can occur with IM injections, physical restraints, and agitation",
+      "B": "Mild to moderate CPK elevation is not specific for NMS",
+      "C": "CPK elevation >1,000 IU per L is more specific for NMS",
+      "D": "Absence of CPK elevations rules out a diagnosis of NMS",
+      "E": "CPK elevation in NMS may vary between 1,000 and as high as 100,000 IU per L"
+    },
+    "correct_answer": "D",
+    "explanation": "Absence of CPK elevations does not rule out a diagnosis of NMS."
+  },
+  {
+    "number": 244,
+    "question": "Which of the following is contraindicated in patients on Selegiline transdermal patch?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Oxcarbazepine",
+      "C": "Dextroamphetamine",
+      "D": "Methylphenidate",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Concurrent use of Selegiline with these drugs may result in an increase in Selegiline plasma concentrations or hypertensive crisis."
+  },
+  {
+    "number": 245,
+    "question": "Cyclobenzaprine should be avoided with all of the following medications EXCEPT:",
+    "options": {
+      "A": "Duloxetine",
+      "B": "Phenelzine",
+      "C": "Sertraline",
+      "D": "Fluoxetine",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Sertraline has no drug-drug interaction with cyclobenzaprine and is safe to co-administer."
+  },
+  {
+    "number": 246,
+    "question": "Post-injection delirium sedation syndrome (PDSS) is associated with which of the following depot antipsychotics?",
+    "options": {
+      "A": "Risperidone depot preparation",
+      "B": "Olanzapine extended release injectable suspension",
+      "C": "Paliperidone palmitate",
+      "D": "Haloperidol decanoate",
+      "E": "Zuclopenthixol acetate"
+    },
+    "correct_answer": "B",
+    "explanation": "PDSS is notably associated with Olanzapine extended release injectable suspension."
+  },
+  {
+    "number": 247,
+    "question": "Which of the following agents used in the treatment of nightmares associated with PTSD is most notorious for producing a first-dose phenomenon?",
+    "options": {
+      "A": "Trazodone",
+      "B": "Prazosin",
+      "C": "Olanzapine",
+      "D": "Cyproheptadine",
+      "E": "Zolpidem"
+    },
+    "correct_answer": "B",
+    "explanation": "Prazosin may cause idiosyncratic hypotensive response, which is very rare but serious."
+  },
+  {
+    "number": 248,
+    "question": "A 35-year-old man presents with treatment refractory depression. He has failed treatments with paroxetine, citalopram, bupropion, and lithium augmentation. He refuses ECT treatments. On reviewing his medical chart, you note that his hypertension is being treated with clonidine. Which of the following treatments would be indicated in his case?",
+    "options": {
+      "A": "Nortriptyline",
+      "B": "Venlafaxine",
+      "C": "Mirtazapine",
+      "D": "Repetitive transcranial magnetic stimulation (rTMS)",
+      "E": "Fluoxetine"
+    },
+    "correct_answer": "B",
+    "explanation": "Venlafaxine is an SNRI and may be considered for treatment-resistant depression."
+  },
+  {
+    "number": 249,
+    "question": "All of the following regarding St. John's wort (SJW) are true EXCEPT:",
+    "options": {
+      "A": "The presumed active component of SJW is hypericin",
+      "B": "SJW is a potent inhibitor of CYP3A4",
+      "C": "Transplant patients should not receive SJW",
+      "D": "SJW is better than placebo for the treatment of depression",
+      "E": "Concurrent use of SSRI and SJW may result in an increased risk of serotonin syndrome"
+    },
+    "correct_answer": "B",
+    "explanation": "SJW is a CYP3A4 inducer, not an inhibitor."
+  },
+  {
+    "number": 250,
+    "question": "Which of the following antidepressants would be a good choice for a depressed patient with significant nausea?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Citalopram",
+      "C": "Nortriptyline",
+      "D": "Mirtazapine",
+      "E": "Sertraline"
+    },
+    "correct_answer": "D",
+    "explanation": "Mirtazapine is a potent 5-HT2 blocker and acts as an anti-nausea agent."
+  }
+]

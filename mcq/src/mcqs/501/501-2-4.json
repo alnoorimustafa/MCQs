@@ -1,0 +1,249 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following statements is true regarding placebo responders in antidepressant trials?",
+    "options": {
+      "A": "Placebo responders and antidepressant medication responders have similar changes in brain function after treatment",
+      "B": "The placebo response rate in antidepressant studies is around 25%",
+      "C": "Early, abrupt, or non-persistent responses are characteristics of placebo responders",
+      "D": "Non-persistent responders to a drug would have better prognosis",
+      "E": "Placebo responders have fewer relapses"
+    },
+    "correct_answer": "C",
+    "explanation": "Early, abrupt, or non-persistent responses are characteristics of placebo responders."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following statements best defines phase 3 clinical trials?",
+    "options": {
+      "A": "The experimental drug is given to a larger group of people to test its effectiveness and to further evaluate its safety",
+      "B": "The experimental study drug is tested in large clinical studies to confirm its effectiveness, monitor side effects, compare it with commonly used treatments, and collect information that will allow the drug to be used safely",
+      "C": "The experimental drug is tested in a small group of people for the first time to evaluate its safety, determine a safe dosage range, and identify side effects",
+      "D": "The experimental drug is administered in a single sub-therapeutic dose to a small number of participants to gather preliminary data on the agent's pharmacokinetics and pharmacodynamics",
+      "E": "Post-marketing studies that provide additional information including the drug's risks, benefits, and optimal use"
+    },
+    "correct_answer": "B",
+    "explanation": "Phase III aims at testing the new drug in large clinical studies to confirm its effectiveness, monitor side effects, compare it with commonly used treatments, and collect information that will allow the drug to be used safely."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following statements regarding the serotonin transporter (SERT) (5-HTT) protein and antidepressant therapy is true?",
+    "options": {
+      "A": "Individuals with lower 5-HTT expression respond less favorably to antidepressant medications",
+      "B": "Individuals with lower 5-HTT are less likely to experience antidepressant-induced side effects",
+      "C": "Individuals with lower 5-HTT are more likely to experience antidepressant-induced side effects",
+      "D": "Individuals with lower 5-HTT expression are likely to have a rapid response to antidepressant treatment",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Lower expression of SERT is negatively associated with SSRI therapy, and thus SSRIs work less favorably in individuals carrying short alleles of the SERT gene polymorphism."
+  },
+  {
+    "number": 4,
+    "question": "Which of the following statements is true regarding the concept of number needed to treat (NNT) in clinical trials?",
+    "options": {
+      "A": "The NNT is the number of patients who need to be treated to prevent one additional bad outcome",
+      "B": "NNT can be calculated as the inverse of the absolute risk reduction (ARR) in randomized control trials",
+      "C": "NNT values alone should not be used by providers to communicate risk of an intervention to patients",
+      "D": "NNTs calculated from systematic reviews of randomized controlled trials provide the highest level of evidence because systematic reviews contain data from a large number of patients",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All statements about NNT are correct as it describes its purpose, calculation, and limitations in clinical settings."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following statements is most accurate regarding the Food and Drug Administration (FDA) requirement for approval of a generic drug?",
+    "options": {
+      "A": "The FDA requires the generic drug company to submit the results of only one bioequivalence study and not reveal the findings from failed bioequivalence studies",
+      "B": "The FDA requires the company to conduct clinical studies of efficacy and safety with the generic drug",
+      "C": "The FDA standards for variations in peak plasma concentrations and the total area under the plasma concentration time curve are the same for new branded drugs and generic versions",
+      "D": "Generic drugs can have different clinical indications",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "The FDA requires the generic drug company to submit the results of only one bioequivalence study and not reveal the findings from failed bioequivalence studies."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following IV-methyl-D-aspartate (NMDA) antagonists has been demonstrated to produce antidepressant effects within a few hours of its administration?",
+    "options": {
+      "A": "Memantine",
+      "B": "Intravenous Ketamine",
+      "C": "Intravenous Riluzole",
+      "D": "Pramipexole",
+      "E": "Intravenous Dextromethorphan"
+    },
+    "correct_answer": "B",
+    "explanation": "Ketamine, an NMDA antagonist, has been demonstrated to produce antidepressant effects within a few hours of its administration."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following condition would warrant explantation of the vagal nerve stimulator?",
+    "options": {
+      "A": "Infection refractory to antibiotics",
+      "B": "Hardware failure",
+      "C": "Potential systemic infection",
+      "D": "Need for magnetic resonance imaging (MRI) of the head",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Device removal is indicated in infection as well as in insufficient clinical response, severe side effects, surgical complications such as hardware failure, or when MRI/radiotherapy is needed."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following is the most common side effect with vagus nerve stimulation (VNS) in the treatment of depression?",
+    "options": {
+      "A": "'Neck pain",
+      "B": "Hoarseness",
+      "C": "Headache",
+      "D": "Cough",
+      "E": "Dysesthesia of the throat"
+    },
+    "correct_answer": "B",
+    "explanation": "The most common side effect with VNS in the treatment of depression is hoarseness."
+  },
+  {
+    "number": 9,
+    "question": "Which of the following statements is true regarding VNS in the treatment of depression?",
+    "options": {
+      "A": "The VNS device can be temporarily shut off to permit electroconvulsive therapy (ECT) to be administered",
+      "B": "VNS can be particularly useful in treating psychotic depression",
+      "C": "MRI of the brain is absolutely contraindicated with VNS implant",
+      "D": "VNS is FDA approved for chronic, recurrent unipolar depression and not for bipolar depression",
+      "E": "VNS is FDA approved for chronic, recurrent unipolar, or bipolar depression, with at least three failed antidepressant trials"
+    },
+    "correct_answer": "A",
+    "explanation": "VNS can be temporarily shut off to permit ECT to be administered, and it has FDA approval for the treatment of severe, recurrent unipolar and bipolar depression."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following is true regarding repetitive transcranial magnetic stimulation (TMS)?",
+    "options": {
+      "A": "Headache is the most common adverse effect",
+      "B": "TMS can cause seizure",
+      "C": "TMS can temporarily cause aphasia",
+      "D": "FDA approved the use of repetitive TMS for treatment of depression in patients, for whom one antidepressant trial at adequate dose and duration, failed to respond",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All statements about TMS are correct, including it being FDA-approved for depression treatment with noted adverse effects."
+  },
+  {
+    "number": 11,
+    "question": "Which of the following drugs is frequently used as an anesthetic agent during ECT?",
+    "options": {
+      "A": "Methohexital",
+      "B": "Phenobarbital",
+      "C": "Amobarbital",
+      "D": "Paraldehyde",
+      "E": "Nitrous oxide"
+    },
+    "correct_answer": "A",
+    "explanation": "Methohexital is an excellent anesthetic agent for ECT due to its short duration of action."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following conditions may respond well to ECT?",
+    "options": {
+      "A": "Parkinson disease",
+      "B": "Intractable seizures",
+      "C": "Catatonia",
+      "D": "Neuroleptic malignant syndrome",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "ECT has a role in the management of Parkinson disease, intractable seizures, catatonia, and neuroleptic malignant syndrome."
+  },
+  {
+    "number": 13,
+    "question": "All of the following are true regarding TMS EXCEPT:",
+    "options": {
+      "A": "Creates a powerful electrical current near the scalp",
+      "B": "Coil on the scalp creates a potent magnetic field",
+      "C": "Electrodeless magnetic stimulation",
+      "D": "It is a FDA-approved antidepressant treatment",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "TMS is referred to as electrodeless electrical stimulation, as it creates a potent magnetic field."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following advantages does ultrabrief ECT offer over conventional brief ECT?",
+    "options": {
+      "A": "Ultrabrief ECT produces less retrograde amnesia",
+      "B": "Ultrabrief ECT delivers less total current to the brain",
+      "C": "Ultrabrief ECT uses short-duration square wave electrical pulses",
+      "D": "Ultrabrief ECT in bipolar depression patients may have a more rapid response than patients with unipolar depression",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Ultrabrief ECT has multiple advantages over conventional ECT, such as less retrograde amnesia and a more rapid response in bipolar patients."
+  },
+  {
+    "number": 15,
+    "question": "The anesthetic agent propofol has been shown to have lesser cardiovascular effects than methohexital and can be used in patients with preexisting cardiac conditions during ECT. Which of the following is a drawback of using propofol during ECT?",
+    "options": {
+      "A": "Higher incidence of post-ECT delirium",
+      "B": "Shortening of the seizure length",
+      "C": "Postictal agitation",
+      "D": "Cost of the drug",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All listed options are drawbacks of using propofol during ECT."
+  },
+  {
+    "number": 16,
+    "question": "TMS is reported to be effective in which of the following conditions?",
+    "options": {
+      "A": "Depression",
+      "B": "Obsessive-compulsive disorder (OCD)",
+      "C": "Acute and chronic pain",
+      "D": "Posttraumatic stress disorder",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "TMS is effective in treating various conditions, including depression, OCD, pain, and PTSD."
+  },
+  {
+    "number": 17,
+    "question": "All of the following herbs have been implicated with psychotic symptoms EXCEPT?",
+    "options": {
+      "A": "Cinnamomum camphora",
+      "B": "Passion flower",
+      "C": "Yangjinhua",
+      "D": "Kava-kava",
+      "E": "Mormon tea"
+    },
+    "correct_answer": "C",
+    "explanation": "Yangjinhua does not cause psychotic symptoms; it's used for asthma and bronchitis."
+  },
+  {
+    "number": 18,
+    "question": "Concurrent administration of which of the following medications can increase the risk of neurotoxicity during ECT therapy?",
+    "options": {
+      "A": "Lithium",
+      "B": "Valproate",
+      "C": "Lamotrigine",
+      "D": "Aripiprazole",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "A",
+    "explanation": "Lithium is known to increase neurotoxicity during ECT therapy."
+  },
+  {
+    "number": 19,
+    "question": "ECT has a role in the management of all of the following conditions EXCEPT?",
+    "options": {
+      "A": "Prior good response to ECT",
+      "B": "Risk of suicide",
+      "C": "Serotonin syndrome",
+      "D": "Treatment-resistant depression",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "ECT has no role in the treatment of serotonin syndrome."
+  }
+]

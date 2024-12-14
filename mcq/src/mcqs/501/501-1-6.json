@@ -1,0 +1,639 @@
+[
+  {
+    "number": 251,
+    "question": "All of the following statements regarding lithium-induced tremors are true EXCEPT:",
+    "options": {
+      "A": "Lithium tremors respond to treatment with metoprolol",
+      "B": "Lithium tremors tend to be slow and rhythmic",
+      "C": "Lithium tremors present at rest",
+      "D": "Lithium tremors are made worse by movement",
+      "E": "None of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "Lithium tremors tend to be coarse and present at rest."
+  },
+  {
+    "number": 252,
+    "question": "Which of the following benzodiazepines has the longest half-life?",
+    "options": {
+      "A": "Temazepam",
+      "B": "Flurazepam",
+      "C": "Triazolam",
+      "D": "Diazepam",
+      "E": "Nitrazepam"
+    },
+    "correct_answer": "B",
+    "explanation": "Flurazepam has the longest half-life of 40 to 250 hours."
+  },
+  {
+    "number": 253,
+    "question": "Which of the following is the primary reason for monitoring plasma Nortriptyline concentrations during the treatment of major depression?",
+    "options": {
+      "A": "The existence of a curvilinear therapeutic window",
+      "B": "To monitor the risk of cardiac toxicity",
+      "C": "To monitor medication compliance",
+      "D": "Clinical correlation of efficacy and adequate dosing",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "The primary reason for monitoring plasma Nortriptyline concentrations is for the existence of a curvilinear therapeutic window."
+  },
+  {
+    "number": 254,
+    "question": "According to positron emission tomography (PET) studies, what percentage of D2 receptor occupancy correlates with maximal antipsychotic efficacy?",
+    "options": {
+      "A": "50% to 55%",
+      "B": "20% to 30%",
+      "C": "65% to 70%",
+      "D": "40% to 50%",
+      "E": "100%"
+    },
+    "correct_answer": "C",
+    "explanation": "PET studies indicate that 65% to 70% of D2 receptor occupancy correlates with maximal antipsychotic efficacy."
+  },
+  {
+    "number": 255,
+    "question": "Which of the following statements regarding the management of overdose with TCAs is true?",
+    "options": {
+      "A": "Dialysis is the first line of treatment",
+      "B": "Activated charcoal is helpful",
+      "C": "Prophylactic antiarrhythmics are indicated",
+      "D": "Ammonium chloride is the first line of treatment",
+      "E": "Lidocaine is the first line of treatment"
+    },
+    "correct_answer": "B",
+    "explanation": "Activated charcoal can be administered up to 12 hours after TCA overdose."
+  },
+  {
+    "number": 256,
+    "question": "Which of the following accurately describes lithium exposure and neonatal outcome?",
+    "options": {
+      "A": "Stopping lithium 1 to 2 days before delivery is likely to improve the neonatal outcomes",
+      "B": "Higher neonatal lithium levels are associated with significantly lower Apgar scores",
+      "C": "Higher neonatal lithium concentrations are associated with higher rates of CNS complications",
+      "D": "Higher neonatal lithium concentrations are associated with higher rates of neuromuscular complications",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Higher neonatal lithium concentrations are associated with significantly lower Apgar scores and higher CNS and neuromuscular complications."
+  },
+  {
+    "number": 257,
+    "question": "All of the following are sexual side effects seen in women receiving trazodone EXCEPT:",
+    "options": {
+      "A": "Priapism of the clitoris",
+      "B": "Spontaneous orgasm",
+      "C": "Increased libido",
+      "D": "Decreased libido",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Sexual side effects in women on trazodone therapy include priapism of the clitoris, spontaneous orgasm, and changes in libido."
+  },
+  {
+    "number": 258,
+    "question": "Which of the following antipsychotic medications has the lowest propensity to lower the seizure threshold?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Chlorpromazine",
+      "C": "Molindone",
+      "D": "Clozapine",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Molindone has the lowest propensity to lower the seizure threshold."
+  },
+  {
+    "number": 259,
+    "question": "What is the estimated mortality rate with NMS?",
+    "options": {
+      "A": "<5%",
+      "B": "20-30%",
+      "C": "50-60%",
+      "D": "5-10%",
+      "E": "10-20%"
+    },
+    "correct_answer": "E",
+    "explanation": "The corrected answer appears to be commonly referenced between notable ranges."
+  },
+  {
+    "number": 260,
+    "question": "All of the following are true regarding asenapine EXCEPT:",
+    "options": {
+      "A": "Neutral metabolic effects",
+      "B": "Minimal effects on prolactin",
+      "C": "Well tolerated",
+      "D": "Lower extrapyramidal side effects",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Asenapine is well tolerated and has neutral metabolic effects among listed parameters."
+  },
+  {
+    "number": 261,
+    "question": "All of the following statements are true regarding therapeutic drug monitoring with lithium EXCEPT:",
+    "options": {
+      "A": "Steady state lithium levels are attained after 2 days of constant dosing",
+      "B": "Serum lithium levels 12 hours post dose are 30% higher in patients taking the sustained release (SR.) preparation compared with the immediate release (IR) preparation",
+      "C": "There is a point of care/office-based test for serum lithium commercially available",
+      "D": "Therapeutic levels for the treatment of acute mania are in the range of 1.0 to 1.5 mEq per L",
+      "E": "It is not uncommon to see fluctuating serum lithium levels in geriatric patients in the absence of any dose changes in lithium"
+    },
+    "correct_answer": "A",
+    "explanation": "Steady-state lithium levels are attained after 5 days of dose adjustment."
+  },
+  {
+    "number": 262,
+    "question": "A 28-year-old Caucasian woman with bipolar disorder has been taking lithium 900 mg per day for the past 18 months. All of the following preventative measures are recommended during pregnancy on lithium therapy EXCEPT:",
+    "options": {
+      "A": "Fetal echocardiogram is recommended between 16 and 18 weeks of gestation",
+      "B": "Caution should be exercised regarding maternal NSAID",
+      "C": "NSAID should be avoided in neonates",
+      "D": "Withhold lithium therapy for 24 to 48 hours before delivery",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Caution should be exercised regarding maternal NSAID use because of potential drug-drug interactions with lithium."
+  },
+  {
+    "number": 263,
+    "question": "Which of the following features is/are associated with PDSS?",
+    "options": {
+      "A": "General malaise",
+      "B": "Ataxia",
+      "C": "Dysarthria",
+      "D": "Disorientation",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "PDSS results from probable accidental intravascular injection of olanzapine long-acting preparation."
+  },
+  {
+    "number": 264,
+    "question": "Under which of the following conditions would ziprasidone be life-threatening?",
+    "options": {
+      "A": "QTc >500 milliseconds",
+      "B": "Heart failure",
+      "C": "Arrhythmias",
+      "D": "Recent myocardial infarction (MI)",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Ziprasidone could be life-threatening in patients with QTc >500 milliseconds or with a history of MI."
+  },
+  {
+    "number": 265,
+    "question": "Which of the following statements is true regarding leukopenia associated with carbamazepine therapy?",
+    "options": {
+      "A": "It predisposes patients to infections",
+      "B": "It is a strong indicator of the development of agranulocytosis",
+      "C": "Incidence of leukopenia associated with carbamazepine therapy is 35%",
+      "D": "It resolves spontaneously despite continued treatment",
+      "E": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Leukopenia associated with carbamazepine therapy does not predispose patients to infections and resolves spontaneously."
+  },
+  {
+    "number": 266,
+    "question": "Which of the following is the most common side effect with MAOI therapy?",
+    "options": {
+      "A": "Hypertensive crisis",
+      "B": "Hypotension",
+      "C": "Weight gain",
+      "D": "Hypersomnia",
+      "E": "Tyramine reaction"
+    },
+    "correct_answer": "B",
+    "explanation": "Orthostatic hypotension is a frequent side effect during MAOI therapy."
+  },
+  {
+    "number": 267,
+    "question": "All of the following drugs have been linked to serious exfoliative dermatitis, an adverse dermatologic effect, EXCEPT:",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Lamotrigine",
+      "C": "Phenobarbital",
+      "D": "VPA",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Carbamazepine, Lamotrigine, phenobarbital, and VPA are all associated with Stevens-Johnson syndrome."
+  },
+  {
+    "number": 268,
+    "question": "All of the following statements regarding the epileptogenic effects of bupropion are true EXCEPT:",
+    "options": {
+      "A": "Most seizures with bupropion occur within the first several hours after taking the dose",
+      "B": "The drug's active metabolite threohydrobupropion is primarily responsible for the occurrence of seizures",
+      "C": "Exceeding 150 mg in any single dose is a risk-factor for seizures",
+      "D": "History of closed head injury increases the risk of developing seizure",
+      "E": "None of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "Threohydrobupropion is less potent than bupropion, hence not responsible for the occurrence of seizures."
+  },
+  {
+    "number": 269,
+    "question": "A 38-year-old man with schizophrenia on olanzapine and clonazepam therapy develops blasphemous obsessions and ritualized praying and counting. You diagnose him with comorbid OCD. Assuming you leave his current medications unchanged, which of the following drugs should be avoided in the treatment of his OCD?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Buspirone",
+      "C": "Fluvoxamine",
+      "D": "Paroxetine",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Coadministration of fluvoxamine could result in increased risk of adverse effects from olanzapine."
+  },
+  {
+    "number": 270,
+    "question": "All of the following are high-potency benzodiazepine EXCEPT:",
+    "options": {
+      "A": "Alprazolam",
+      "B": "Clonazepam",
+      "C": "Temazepam",
+      "D": "Triazolam",
+      "E": "Lorazepam"
+    },
+    "correct_answer": "C",
+    "explanation": "Temazepam is a low-potency benzodiazepine; the other listed options are considered high-potency."
+  },
+  {
+    "number": 271,
+    "question": "Which of the following over-the-counter medications/food should not be used or used with caution in patients on Selegiline transdermal patch?",
+    "options": {
+      "A": "SJW",
+      "B": "Caffeine",
+      "C": "Chocolate",
+      "D": "Tobacco",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "SJW is contraindicated as it may increase the risk of serotonin syndrome and hypertensive crisis."
+  },
+  {
+    "number": 273,
+    "question": "Co-administration of lithium and carbamazepine can cause the following additive side effects on all the following organ systems EXCEPT:",
+    "options": {
+      "A": "CNS",
+      "B": "Endocrine",
+      "C": "Hematopoietic system",
+      "D": "Renal system",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Lithium mitigates carbamazepine-induced leukopenia and does not have additive side effects on the hematopoietic system."
+  },
+  {
+    "number": 274,
+    "question": "Which of the following is the assumed mechanism for antipsychotic-induced QTc prolongation and the risk of torsades de pointes?",
+    "options": {
+      "A": "Blockade of the human ether-a-go-go-related gene (HERG) potassium channel",
+      "B": "Blockade of the HERG calcium channel",
+      "C": "Combined calcium and potassium channel blockade",
+      "D": "Combined sodium and potassium channel blockade",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Antipsychotic-induced QTc prolongation is primarily due to HERG potassium channel blockade."
+  },
+  {
+    "number": 275,
+    "question": "All of the following statements are true regarding the mechanism of action of lithium EXCEPT:",
+    "options": {
+      "A": "Lithium causes a relative depletion of myoinositol in the brain",
+      "B": "Lithium significantly inhibits cAMP accumulation through G proteins",
+      "C": "Lithium alters fos expression through a protein kinase C (PKC) mechanism",
+      "D": "Lithium alters sodium transport in the nervous system",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All statements regarding lithium's mechanism of action are true."
+  },
+  {
+    "number": 276,
+    "question": "A 32-year-old man with treatment-resistant schizophrenia was admitted to non-smoking psychiatric ICU. After titrating him on clozapine, he was transferred to a step-down unit for another week. Two weeks after his discharge to his home, he relapsed and presented to the ER again. The DDI between clozapine and smoking involves which of the following cytochrome enzymes?",
+    "options": {
+      "A": "CYP2D6",
+      "B": "CYP2C9",
+      "C": "CYP3A4",
+      "D": "CYP1A2",
+      "E": "CYP2C19"
+    },
+    "correct_answer": "D",
+    "explanation": "Smoking induces CYP1A2, which reduces clozapine levels, leading to relapse."
+  },
+  {
+    "number": 277,
+    "question": "Management of akathisia includes all of the following EXCEPT:",
+    "options": {
+      "A": "Propranolol",
+      "B": "Lowering the neuroleptic dose",
+      "C": "Clonazepam",
+      "D": "Diphenhydramine",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Management options include lowering the neuroleptic dose and initiation of beta-blockers or benzodiazepines."
+  },
+  {
+    "number": 278,
+    "question": "A 34-year-old woman with bipolar disorder maintaining well on lithium carbonate comes to you with concerns about worsening acne. The patient reports trying several remedies for her acne; however, none of them have been successful. She appears very frustrated and makes mention of discontinuing lithium. Despite your reassurances, the patient insists on discontinuing lithium and requests you to prescribe an alternative mood stabilizer. You decide to start her on Divalproex sodium. Which of the following concerns should be addressed before the patient leaves your office?",
+    "options": {
+      "A": "Potential for reduced efficacy of her acne medication secondary to drug interactions with Divalproex sodium",
+      "B": "Increased risk for depression and suicide from her acne medication",
+      "C": "Potential for a lithium discontinuation syndrome",
+      "D": "Potential for her acne medication to induce manic symptoms",
+      "E": "All of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "Isotretinoin for severe cystic acne may worsen affective symptoms, including suicidal ideation in bipolar patients."
+  },
+  {
+    "number": 279,
+    "question": "Trazodone's most potent binding property is at which of the following sites?",
+    "options": {
+      "A": "Serotonin 5-HT2A receptor",
+      "B": "H1 histamine receptor",
+      "C": "Serotonin 5-HT1A receptor",
+      "D": "SERT",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Trazodone has potent binding properties at multiple receptor sites including serotonin and histamine receptors."
+  },
+  {
+    "number": 280,
+    "question": "Which of the following statements is/are true regarding advantages of Paliperidone palmitate depot antipsychotic over other available second-generation depot antipsychotics?",
+    "options": {
+      "A": "Paliperidone palmitate is administered monthly",
+      "B": "Paliperidone palmitate does not require supplementation with oral antipsychotics",
+      "C": "Paliperidone palmitate does not require an additional precautionary observation period during the post-injection period",
+      "D": "Paliperidone palmitate prefilled syringes require no reconstitution or refrigeration",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Depot Paliperidone palmitate can be administered monthly and does not have certain restrictions seen with others."
+  },
+  {
+    "number": 281,
+    "question": "Drug interactions have known to occur between Divalproex sodium and all of the following EXCEPT:",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Lamotrigine",
+      "C": "Risperidone",
+      "D": "Aspirin",
+      "E": "Aripiprazole"
+    },
+    "correct_answer": "E",
+    "explanation": "There are no reported drug-drug interactions between Aripiprazole and Divalproex sodium."
+  },
+  {
+    "number": 282,
+    "question": "Which of the following is an appropriate loading dose for sodium VPA in the management of acute mania?",
+    "options": {
+      "A": "15 mg/kg/day",
+      "B": "20 mg/kg/day",
+      "C": "50 mg/kg/day",
+      "D": "35 mg/kg/day",
+      "E": "40 mg/kg/day"
+    },
+    "correct_answer": "B",
+    "explanation": "Divalproex sodium 20 mg/kg/day as a loading dose results in rapid resolution of manic symptoms."
+  },
+  {
+    "number": 283,
+    "question": "Propranolol should not be combined with all of the following drugs EXCEPT:",
+    "options": {
+      "A": "Thioridazine",
+      "B": "Haloperidol",
+      "C": "Levothyroxine",
+      "D": "Clonidine",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "There is no contraindication or DDI between levothyroxine and propranolol."
+  },
+  {
+    "number": 284,
+    "question": "MAOI is contraindicated in which of the following medical conditions?",
+    "options": {
+      "A": "Hepatic disease",
+      "B": "CHF",
+      "C": "Pheochromocytoma",
+      "D": "Renal impairment",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "MAOIs are contraindicated in hepatic disease, renal insufficiency, CHF, and pheochromocytoma."
+  },
+  {
+    "number": 285,
+    "question": "Which of the following is true regarding the mechanism of VPA's teratogenicity?",
+    "options": {
+      "A": "Inhibition of the enzyme dihydrofolate reductase",
+      "B": "Formation of free radicals during microsomal metabolism of VPA",
+      "C": "Inhibition of thymidylate synthase",
+      "D": "Inhibition of colony-stimulating factor",
+      "E": "All of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "The precise mechanism of VPA's teratogenicity implies formation of free radicals during its metabolism."
+  },
+  {
+    "number": 286,
+    "question": "All of the following statements accurately describe the neuromolecular effects of asenapine EXCEPT:",
+    "options": {
+      "A": "Antagonism at serotonergic receptor",
+      "B": "Antagonism at dopaminergic receptor",
+      "C": "Antagonism at muscarinic receptors",
+      "D": "Antagonism at adrenergic receptor",
+      "E": "Partial agonist at 5-HT2A receptor"
+    },
+    "correct_answer": "C",
+    "explanation": "Asenapine has no affinity for muscarinic receptors."
+  },
+  {
+    "number": 287,
+    "question": "Which of the following benzodiazepines is used as an adjuvant to lithium in the treatment of mania?",
+    "options": {
+      "A": "Temazepam",
+      "B": "Flurazepam",
+      "C": "Clonazepam",
+      "D": "Diazepam",
+      "E": "All of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Clonazepam is commonly used as an adjuvant to lithium in treating mania."
+  },
+  {
+    "number": 288,
+    "question": "All of the following conditions can mimic NMS EXCEPT:",
+    "options": {
+      "A": "Environmental heatstroke",
+      "B": "Serotonin syndrome",
+      "C": "Withdrawal from dopamine agonists",
+      "D": "Malignant hyperthermia",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All listed conditions can mimic Neuroleptic Malignant Syndrome (NMS)."
+  },
+  {
+    "number": 289,
+    "question": "Which of the following is associated with VPA exposure during pregnancy?",
+    "options": {
+      "A": "Hepatotoxicity",
+      "B": "Coagulopathies",
+      "C": "Neonatal hypoglycemia",
+      "D": "Neural tube defects",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "VPA exposure during pregnancy can lead to hepatotoxicity, coagulopathies, neural tube defects, and hypoglycemia."
+  },
+  {
+    "number": 290,
+    "question": "Most adverse effects of carbamazepine are correlated with which of the following plasma concentration?",
+    "options": {
+      "A": ">4 /μg per ml",
+      "B": ">6 /μg per ml",
+      "C": ">9 /μg per ml",
+      "D": ">15 /μg per ml",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Adverse effects of carbamazepine are notably correlated with plasma concentrations greater than 9 μg/ml."
+  },
+  {
+    "number": 291,
+    "question": "Genetic polymorphisms in the cytochrome genes can code for inefficient versions of cytochrome enzymes leading to impaired drug metabolism (poor metabolizers). Which of the following ethnic groups carry the highest percentage of poor metabolizers of the CYP2D6 isoenzyme?",
+    "options": {
+      "A": "Whites",
+      "B": "Asians",
+      "C": "African Americans",
+      "D": "Native Americans",
+      "E": "None of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Caucasians exhibit the highest percentage of poor metabolizers of the CYP2D6 isoenzyme."
+  },
+  {
+    "number": 292,
+    "question": "The pentobarbital challenge test is used to:",
+    "options": {
+      "A": "Guide detoxification from barbiturates",
+      "B": "Diagnose intermittent porphyria",
+      "C": "Determine dose for 'amytal interview'",
+      "D": "Determine dosing for treatment refractory tonic-clonic seizures",
+      "E": "Diagnose asthma"
+    },
+    "correct_answer": "A",
+    "explanation": "The pentobarbital challenge test is utilized to guide detoxification from barbiturates."
+  },
+  {
+    "number": 293,
+    "question": "All of the following are true regarding lithium EXCEPT:",
+    "options": {
+      "A": "Lithium is excreted unchanged by the kidney",
+      "B": "Lithium is not metabolized by the liver",
+      "C": "Lithium has mild proserotonergic and adrenergic effects",
+      "D": "Lithium is a naturally occurring cation",
+      "E": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Lithium has mild proserotonergic effects but no adrenergic effect."
+  },
+  {
+    "number": 294,
+    "question": "A 49-year-old woman with breast cancer is currently taking tamoxifen. She develops depressive symptoms and is referred to a psychiatrist. She meets the criteria for major depressive disorder. Which of the following medications interacts with tamoxifen?",
+    "options": {
+      "A": "SJW",
+      "B": "Paroxetine",
+      "C": "Duloxetine",
+      "D": "Sertraline",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Concurrent use of SJW, paroxetine, sertraline, or duloxetine with tamoxifen may result in reduced effectiveness of tamoxifen."
+  },
+  {
+    "number": 295,
+    "question": "Which of the following drugs has shown to cause the most QTc prolongation at therapeutic doses?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Thioridazine",
+      "C": "Haloperidol",
+      "D": "Ziprasidone",
+      "E": "Risperidone"
+    },
+    "correct_answer": "B",
+    "explanation": "Thioridazine causes the most QTc prolongation at therapeutic doses."
+  },
+  {
+    "number": 296,
+    "question": "Which of the following drugs has none to minimal interactions with the cytochrome isoenzymes?",
+    "options": {
+      "A": "Desvenlafaxine",
+      "B": "Atomoxetine",
+      "C": "Modafinil",
+      "D": "Duloxetine",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Desvenlafaxine has minimal interaction with the CYP system."
+  },
+  {
+    "number": 297,
+    "question": "Which of the following properties of Pindolol supports its use as an augmentation agent in the treatment of depression?",
+    "options": {
+      "A": "Selective α-adrenergic antagonistic effects",
+      "B": "Nonselective α-adrenergic antagonistic effects",
+      "C": "Sympathomimetic effects",
+      "D": "α- Adrenergic and α-adrenergic antagonistic effect",
+      "E": "All of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Pindolol's sympathomimetic effects support its role as an augmentation agent in depression treatment."
+  },
+  {
+    "number": 298,
+    "question": "All of the following are antipsychotic-induced adverse effects related to dopamine antagonism EXCEPT:",
+    "options": {
+      "A": "Galactorrhea",
+      "B": "NMS",
+      "C": "Premature ejaculation",
+      "D": "Bone loss",
+      "E": "None of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All listed effects relate to dopamine antagonism from antipsychotics."
+  },
+  {
+    "number": 299,
+    "question": "The CATIE trial, which included 1,493 participants from 57 US institutions, concluded that the greatest body weight gain was observed with which of the following antipsychotics?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Ziprasidone",
+      "C": "Quetiapine",
+      "D": "Risperidone",
+      "E": "Perphenazine"
+    },
+    "correct_answer": "A",
+    "explanation": "The CATIE trial found the greatest body weight gain associated with olanzapine."
+  },
+  {
+    "number": 300,
+    "question": "Which of the following is true regarding cardiac side effects during treatment with therapeutic levels of lithium?",
+    "options": {
+      "A": "Nonspecific T wave changes",
+      "B": "Prolonged QTc",
+      "C": "ST depression",
+      "D": "Torsades de pointes",
+      "E": "None of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Therapeutic doses of lithium can cause non-specific T wave changes."
+  }
+]
