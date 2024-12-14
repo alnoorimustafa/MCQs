@@ -106,7 +106,7 @@ const IncorrectAnswers = computed(() => wrong.value);
             <summary role="button" class="outline secondary">
               Explanation
             </summary>
-            <p>{{ question.explanation }}</p>
+            <p class="pico-color-orange-400">{{ question.explanation }}</p>
           </details>
         </div>
       </div>
@@ -191,7 +191,7 @@ const IncorrectAnswers = computed(() => wrong.value);
 /* Placeholder when no file is uploaded */
 .placeholder {
   font-size: 1rem;
-  color: #888;
+  color: #383838;
   margin-top: 20px;
   font-style: italic;
 }
