@@ -124,8 +124,8 @@ const IncorrectAnswers = computed(() => wrong.value);
   position: fixed;
   bottom: 20px;
   right: 20px;
-  color: #333;
-  background-color: rgba(172, 172, 172, 0.505);
+  color: #ffffff;
+  background-color: rgba(1, 127, 192, 0.5);
   padding: 10px;
   border-radius: 5px;
   font-size: 0.8rem;
@@ -157,7 +157,7 @@ const IncorrectAnswers = computed(() => wrong.value);
   font-size: 1.1rem;
   font-weight: bold;
   margin-bottom: 15px;
-  color: #444444;
+  color: #555;
 }
 
 /* Styling for options list */
@@ -167,24 +167,24 @@ const IncorrectAnswers = computed(() => wrong.value);
 }
 
 .option {
-  background-color: #e9ecef;
+  background-color: #dfe3eb;
   margin: 8px 0px;
   padding: 10px;
   border-radius: 5px;
   font-size: 1rem;
-  color: #555;
+  color: #777;
   transition: background-color 0.3s ease;
   cursor: pointer;
   list-style-type: none;
 }
 
 .correct-option {
-  background-color: green;
+  background-color: #398712;
   color: white;
 }
 
 .incorrect-option {
-  background-color: red;
+  background-color: #d93526;
   color: white;
 }
 

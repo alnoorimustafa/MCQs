@@ -2,7 +2,6 @@
 import { ref } from "vue";
 import BestOfFive from "./components/BestOfFive.vue";
 import Book600 from "./components/Book600.vue";
-import lazy from "./directives/lazy";
 
 let page = ref("");
 let selectedImage = ref<string | null>(null); // Track the selected image
@@ -29,15 +28,17 @@ const cancelSelection = () => {
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
   />
-  <div class="container">
-    <nav>
-      <ul>
-        <li>Psychiatry MCQs</li>
-      </ul>
-      <ul>
-        <li>Dr. Mustafa Alnoori Wish You Luck</li>
-      </ul>
-    </nav>
+  <div class="background-azure">
+    <div class="container">
+      <nav>
+        <ul>
+          <li>Psychiatry MCQs</li>
+        </ul>
+        <ul>
+          <li>Dr. Mustafa Alnoori Wish You Luck</li>
+        </ul>
+      </nav>
+    </div>
   </div>
   <div class="container">
     <div class="grid mt-2">
@@ -113,10 +114,6 @@ body {
   flex-grow: 1; /* Allow the main content to grow */
 }
 
-.azure {
-  color: #017fc0;
-}
-
 .image-container {
   position: relative; /* Position relative for absolute positioning of the button */
 }
@@ -125,7 +122,7 @@ body {
   position: absolute;
   top: 10px; /* Adjust as needed */
   right: 10px; /* Adjust as needed */
-  background: red;
+  background: #d93526;
   border: none;
   cursor: pointer;
   color: white; /* Change color as needed */
@@ -139,5 +136,13 @@ body {
     grid-template-columns: repeat(2, 1fr); /* Two columns */
     gap: 20px; /* Adjust gap as needed */
   }
+}
+
+.background-azure {
+  background-color: #017fc0;
+}
+
+nav ul {
+  color: white;
 }
 </style>
