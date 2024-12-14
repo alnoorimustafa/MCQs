@@ -1,0 +1,964 @@
+[
+  {
+    "number": 1,
+    "question": "John Wilson is a 37-year-old Caucasian male with treatment-resistant schizophrenia. He meets with his psychiatrist to discuss the potential side effects of the antipsychotic clozapine. What is the risk of agranulocytosis in a patient taking clozapine after one year?",
+    "options": {
+      "A": "0.5%",
+      "B": "0.01%",
+      "C": "0.1%",
+      "D": "5%",
+      "E": "1%"
+    },
+    "correct_answer": "B",
+    "explanation": "The prevalence of agranulocytosis during clozapine treatment is 0.4%, lower than previously thought. After 1 year of treatment, residual risk is estimated at <0.01%."
+  },
+  {
+    "number": 2,
+    "question": "Mr. Davies is a 32-year-old man with a diagnosis of bipolar affective disorder who has required prolonged admissions in the past for episodes of mania. Which of the following antidepressants is least likely to induce a manic switch?",
+    "options": {
+      "A": "Vortioxetine",
+      "B": "Sertraline",
+      "C": "Venlafaxine",
+      "D": "Phenelzine",
+      "E": "Paroxetine"
+    },
+    "correct_answer": "B",
+    "explanation": "The meta-analytical literature provides a lower switch rate for SSRIs such as sertraline compared to other options."
+  },
+  {
+    "number": 3,
+    "question": "Sadira is a 36-year-old female with treatment-refractory schizophrenia who is experiencing drowsiness. Which of the following medications are most likely contributing to her current presentation?",
+    "options": {
+      "A": "Sertraline",
+      "B": "Clozapine",
+      "C": "Zopiclone",
+      "D": "Paracetamol",
+      "E": "Mirtazapine"
+    },
+    "correct_answer": "B",
+    "explanation": "Clozapine levels can rise significantly after stopping smoking due to reduced hepatic enzyme activity."
+  },
+  {
+    "number": 4,
+    "question": "Mr. Collins is a 48-year-old man with alcohol dependence. Which of the following is a side-effect of disulfiram in the absence of alcohol consumption?",
+    "options": {
+      "A": "Excessive sweating",
+      "B": "Nausea",
+      "C": "Headache",
+      "D": "Flushing",
+      "E": "Palpitations"
+    },
+    "correct_answer": "C",
+    "explanation": "In the absence of alcohol consumption, side effects of disulfiram include halitosis, metallic taste, headache, dermatitis, and sedation."
+  },
+  {
+    "number": 5,
+    "question": "Mr. Edwards is a 60-year-old man who has erectile dysfunction. Which of the following is a common side-effect of sildenafil?",
+    "options": {
+      "A": "Diarrhoea",
+      "B": "Nasal congestion",
+      "C": "Nausea",
+      "D": "Polydipsia",
+      "E": "Constipation"
+    },
+    "correct_answer": "B",
+    "explanation": "Common side effects of phosphodiesterase inhibitors such as sildenafil include mild headaches, dizziness, and nasal congestion."
+  },
+  {
+    "number": 6,
+    "question": "Mr. Fowler is a 30-year-old man with a diagnosis of bipolar affective disorder. Which of the following is a side-effect of lamotrigine?",
+    "options": {
+      "A": "Constipation",
+      "B": "Diarrhoea",
+      "C": "Sialorrhoea",
+      "D": "Rash",
+      "E": "Nasal congestion"
+    },
+    "correct_answer": "D",
+    "explanation": "10-14% of patients receiving lamotrigine will develop rash, some of which may be serious or life-threatening."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following combinations of medication would indicate a need for an urgent INR?",
+    "options": {
+      "A": "Unfractionated heparin and fluoxetine",
+      "B": "Warfarin and mirtazapine",
+      "C": "Warfarin and St John's Wort",
+      "D": "Rivaroxaban and olanzapine",
+      "E": "Rivaroxaban and fluoxetine"
+    },
+    "correct_answer": "C",
+    "explanation": "St. John's wort significantly reduces plasma concentrations of warfarin, leading to potential complications."
+  },
+  {
+    "number": 8,
+    "question": "An ECG for your patient Will Hatton shows a QTc of 480m sec. Which medication has the least effect on QTc interval?",
+    "options": {
+      "A": "Clomipramine",
+      "B": "Citalopram",
+      "C": "Quetiapine",
+      "D": "Ziprasidone",
+      "E": "Aripiprazole"
+    },
+    "correct_answer": "E",
+    "explanation": "Aripiprazole has the lowest effect on QTc interval among the options listed."
+  },
+  {
+    "number": 9,
+    "question": "Mr. Ahmed is a 58-year-old man who has been experiencing depressive symptoms. Which antidepressant is most associated with prolonged QTc?",
+    "options": {
+      "A": "Moclobemide",
+      "B": "Sertraline",
+      "C": "Reboxetine",
+      "D": "Mirtazapine",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "A",
+    "explanation": "Moclobemide is possibly arrhythmogenic in overdose, and QTc prolongation can occur in overdose."
+  },
+  {
+    "number": 10,
+    "question": "Dawn is a 34-year-old woman with a diagnosis of epilepsy who has low mood. Which medication raises plasma levels of phenytoin?",
+    "options": {
+      "A": "Sodium Valproate",
+      "B": "Phenytoin",
+      "C": "Lithium",
+      "D": "Lamotrigine",
+      "E": "Topiramate"
+    },
+    "correct_answer": "B",
+    "explanation": "Carbamazepine can increase plasma levels of phenytoin when used concurrently."
+  },
+  {
+    "number": 11,
+    "question": "Michael has a history of psychosis. Which medication should be avoided in established renal impairment?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Aripiprazole",
+      "C": "Amisulpride",
+      "D": "Olanzapine",
+      "E": "Risperidone"
+    },
+    "correct_answer": "C",
+    "explanation": "Amisulpride is almost totally renally excreted and best avoided in renal impairment."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following medications reduces lithium excretion?",
+    "options": {
+      "A": "Propanolol",
+      "B": "Ramipril",
+      "C": "Sertraline",
+      "D": "Amiloride",
+      "E": "Lamotrigine"
+    },
+    "correct_answer": "B",
+    "explanation": "ACE inhibitors like ramipril can increase lithium plasma levels due to increased renal sodium loss."
+  },
+  {
+    "number": 13,
+    "question": "Mark attends clinic complaining of a side effect of his medication. Which describes a slow rhythmic movement disorder?",
+    "options": {
+      "A": "Dystonia",
+      "B": "Tic",
+      "C": "Sydenham chorea",
+      "D": "Akathisia",
+      "E": "Athetosis"
+    },
+    "correct_answer": "E",
+    "explanation": "Athetosis is characterized by involuntary, slow, writhing movements, especially of the fingers and hands."
+  },
+  {
+    "number": 14,
+    "question": "Miss Clarke is a 32-year-old woman with opiate dependence asking for an alpha-2-agonist medication for withdrawal. Which medication is the most appropriate?",
+    "options": {
+      "A": "Romifidine",
+      "B": "Lofexidine",
+      "C": "Guanfacine",
+      "D": "Clonidine",
+      "E": "Tizanidine"
+    },
+    "correct_answer": "B",
+    "explanation": "Lofexidine is less likely to cause hypotension than clonidine and is used to manage opiate withdrawal symptoms."
+  },
+  {
+    "number": 15,
+    "question": "Which of the following best describes how methylphenidate works?",
+    "options": {
+      "A": "Inhibition of the hypothalamus",
+      "B": "Serotonin reuptake inhibitor",
+      "C": "Blocking dopamine transporter",
+      "D": "Blocking orexin",
+      "E": "Histamine antagonist"
+    },
+    "correct_answer": "C",
+    "explanation": "Methylphenidate acts as a norepinephrine and dopamine reuptake blocker."
+  },
+  {
+    "number": 16,
+    "question": "When she was a teenager, Gemma struggled with self-esteem and self-image. What medication could she have ordered online that may have caused her collapse?",
+    "options": {
+      "A": "Magnesium",
+      "B": "Orlistat",
+      "C": "Sibutramine",
+      "D": "Saffron extract",
+      "E": "Guarana"
+    },
+    "correct_answer": "C",
+    "explanation": "Sibutramine can cause serotonin syndrome when combined with SSRIs and SNRIs."
+  },
+  {
+    "number": 17,
+    "question": "Charles is a 53-year-old man taking amitriptyline. What receptor blockade leads to his orthostatic hypotension?",
+    "options": {
+      "A": "5-HT2A receptors",
+      "B": "Alpha-1 receptors",
+      "C": "Histamine",
+      "D": "Beta receptors",
+      "E": "D2 receptors"
+    },
+    "correct_answer": "B",
+    "explanation": "Amitriptyline blocks alpha-1 adrenergic receptors, leading to dizziness and hypotension."
+  },
+  {
+    "number": 18,
+    "question": "Which of the following describes the mechanism of action of Pregabalin?",
+    "options": {
+      "A": "Binds GABA-A sites",
+      "B": "Binds to voltage-gated calcium channels",
+      "C": "Potentiates effects of GABA",
+      "D": "Has a mechanism of action identical to GABA",
+      "E": "Blocks glutamate"
+    },
+    "correct_answer": "B",
+    "explanation": "Pregabalin binds to the alpha 2 delta subunit of voltage-gated calcium channels."
+  },
+  {
+    "number": 19,
+    "question": "Blocking dopamine in which of the following pathways would result in hyperprolactinaemia?",
+    "options": {
+      "A": "Cerebellar",
+      "B": "Mesolimbic",
+      "C": "Nigrostriatal",
+      "D": "Mesocortical",
+      "E": "Tuberoinfundibular"
+    },
+    "correct_answer": "E",
+    "explanation": "Dopamine neurons projecting from hypothalamus to pituitary inhibit prolactin release."
+  },
+  {
+    "number": 20,
+    "question": "Zopiclone acts on which receptor site?",
+    "options": {
+      "A": "Delta-1 subunit of Omega 1 receptor",
+      "B": "Omega-1 subunit of Alpha 1 receptor",
+      "C": "Omega-1 subunit of Sigma 1 receptor",
+      "D": "Alpha-1 subunit of Omega 1 receptor",
+      "E": "Alpha-2 subunit of Omega 2 receptor"
+    },
+    "correct_answer": "A",
+    "explanation": "Zopiclone binds to benzodiazepine-sensitive GABA-A receptors, particularly the alpha-1 subtype."
+  },
+  {
+    "number": 21,
+    "question": "Mr. Zane, on warfarin, should avoid which medication?",
+    "options": {
+      "A": "Lamotrigine",
+      "B": "Fluoxetine",
+      "C": "Lithium",
+      "D": "Risperidone",
+      "E": "St John's Wort"
+    },
+    "correct_answer": "E",
+    "explanation": "St. John's wort significantly reduces plasma concentrations of warfarin."
+  },
+  {
+    "number": 22,
+    "question": "Which of the following drugs is considered most teratogenic?",
+    "options": {
+      "A": "Dosulepin",
+      "B": "Lithium",
+      "C": "Carbamazepine",
+      "D": "Valproate",
+      "E": "Lamotrigine"
+    },
+    "correct_answer": "D",
+    "explanation": "Valproate is associated with high risk of major congenital malformations."
+  },
+  {
+    "number": 23,
+    "question": "Miss Davies is keen to counteract the effects of opioids. Which medication best fits this description?",
+    "options": {
+      "A": "Methadone",
+      "B": "Clonidine",
+      "C": "Naloxone",
+      "D": "Naltrexone",
+      "E": "Baclofen"
+    },
+    "correct_answer": "D",
+    "explanation": "Naltrexone is effective for abstinence from opioid misuse and can cause withdrawal symptoms."
+  },
+  {
+    "number": 24,
+    "question": "Which neurotransmitter is primarily released from the medial and dorsal raphe nucleus?",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "GABA",
+      "C": "Serotonin",
+      "D": "Dopamine",
+      "E": "Noradrenaline"
+    },
+    "correct_answer": "C",
+    "explanation": "Serotonin is primarily released from the raphe nuclei and regulates mood and pain."
+  },
+  {
+    "number": 25,
+    "question": "Rosalind is diagnosed with moderate depressive disorder. Which antidepressant should be avoided?",
+    "options": {
+      "A": "Trazodone",
+      "B": "Duloxetine",
+      "C": "Fluoxetine",
+      "D": "Venlafaxine",
+      "E": "Mirtazapine"
+    },
+    "correct_answer": "C",
+    "explanation": "Fluoxetine may displace warfarin due to high protein-binding."
+  },
+  {
+    "number": 26,
+    "question": "Miss Miller describes episodes of irresistible sleep. Which of the following is most associated?",
+    "options": {
+      "A": "Loss of orexin-secreting neurons",
+      "B": "Deficiency of leptin peptides",
+      "C": "Histamine deficiency",
+      "D": "Excess melatonin",
+      "E": "Circadian rhythm disturbance"
+    },
+    "correct_answer": "A",
+    "explanation": "Narcolepsy is associated with loss of orexin-secreting neurons."
+  },
+  {
+    "number": 27,
+    "question": "Which depot injection has the longest acting half-life after the first dose?",
+    "options": {
+      "A": "Paliperidone Palmitate",
+      "B": "Olanzapine Pamoate Monohydrate",
+      "C": "Fluphenazine Decanoate",
+      "D": "Haloperidol decanoate",
+      "E": "Zuclopenthixol Decanoate"
+    },
+    "correct_answer": "A",
+    "explanation": "Paliperidone Palmitate can have a half-life of up to 40 days."
+  },
+  {
+    "number": 28,
+    "question": "Meghan, diagnosed with paranoid schizophrenia, has hyponatraemia. Which antipsychotic is most appropriate?",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Chlorpromazine",
+      "C": "Flupentixol",
+      "D": "Quetiapine",
+      "E": "Clozapine"
+    },
+    "correct_answer": "E",
+    "explanation": "Clozapine has been found effective in patients with hyponatraemia."
+  },
+  {
+    "number": 29,
+    "question": "Mrs Bells, an 81-year-old woman, has been started on an antidepressant. Which is least likely to cause hyponatraemia?",
+    "options": {
+      "A": "Trazodone",
+      "B": "Fluoxetine",
+      "C": "Venlafaxine",
+      "D": "Amitriptyline",
+      "E": "Sertraline"
+    },
+    "correct_answer": "D",
+    "explanation": "Amitriptyline has a moderate risk of hyponatraemia, lower than the other options."
+  },
+  {
+    "number": 30,
+    "question": "A medical student wants to know which antipsychotic is a pure D2 antagonist. Which is correct?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Amisulpride",
+      "C": "Perospirone",
+      "D": "Sulpiride",
+      "E": "Olanzapine"
+    },
+    "correct_answer": "D",
+    "explanation": "Sulpiride is a pure D2 antagonist; others have additional receptor affinities."
+  },
+  {
+    "number": 31,
+    "question": "Marian wants to change her antipsychotic due to weight gain. Which is the most weight-neutral?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Aripiprazole",
+      "C": "Risperidone",
+      "D": "Quetiapine",
+      "E": "Clozapine"
+    },
+    "correct_answer": "B",
+    "explanation": "Aripiprazole is not associated with significant weight gain."
+  },
+  {
+    "number": 32,
+    "question": "Robin, with bipolar disorder, relapse symptoms managed with antidepressants. Which are less likely to induce mania?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Mirtazapine",
+      "C": "Venlafaxine",
+      "D": "Imipramine",
+      "E": "Amitriptyline"
+    },
+    "correct_answer": "A",
+    "explanation": "Bupropion is less likely to induce manic switch compared to other antidepressants."
+  },
+  {
+    "number": 33,
+    "question": "Which antidepressant is a potent enzyme inhibitor?",
+    "options": {
+      "A": "Mirtazapine",
+      "B": "Fluoxetine",
+      "C": "Venlafaxine",
+      "D": "Citalopram",
+      "E": "Imipramine"
+    },
+    "correct_answer": "B",
+    "explanation": "Fluoxetine is a potent inhibitor of cytochrome P450 2D6."
+  },
+  {
+    "number": 34,
+    "question": "Tan, a 78-year-old man diagnosed with agitated depression, which pharmacokinetic change is most likely?",
+    "options": {
+      "A": "Increased creatinine clearance",
+      "B": "25% reduction of GFR by age 80",
+      "C": "Increase body water",
+      "D": "Increase volume of distribution",
+      "E": "Lower absorption from GIT"
+    },
+    "correct_answer": "D",
+    "explanation": "Increased fat leads to a larger volume of distribution for lipophilic medications."
+  },
+  {
+    "number": 35,
+    "question": "Mr. Adams, a 72-year-old man, exhibits cognitive decline and stiffness. Which imaging modality would best help?",
+    "options": {
+      "A": "DAT scan",
+      "B": "CT scan",
+      "C": "Structural MRI",
+      "D": "PET scan",
+      "E": "Functional MRI"
+    },
+    "correct_answer": "A",
+    "explanation": "A DAT scan can show loss of dopaminergic neurons in the basal ganglia."
+  },
+  {
+    "number": 36,
+    "question": "Mr. Ellison, a 70-year-old man, is presenting with cognitive impairment and tremors. Which gene product is most associated?",
+    "options": {
+      "A": "Alpha-synuclein",
+      "B": "Tau protein",
+      "C": "Amyloid A protein",
+      "D": "Beta-Synuclein",
+      "E": "Ubiquitin"
+    },
+    "correct_answer": "A",
+    "explanation": "Alpha-synuclein is the key constituent associated with Lewy body dementia."
+  },
+  {
+    "number": 37,
+    "question": "Abdul is a 10-year-old with ADHD. Which neurotransmitter does modafinil affect?",
+    "options": {
+      "A": "Serotonin",
+      "B": "GABA",
+      "C": "Acetylcholine",
+      "D": "Dopamine",
+      "E": "Glutamate"
+    },
+    "correct_answer": "D",
+    "explanation": "Modafinil predominantly affects dopamine transporters."
+  },
+  {
+    "number": 38,
+    "question": "Which ion flows into neurons to propagate action potentials?",
+    "options": {
+      "A": "Chloride",
+      "B": "Calcium",
+      "C": "Phosphate",
+      "D": "Potassium",
+      "E": "Sodium"
+    },
+    "correct_answer": "E",
+    "explanation": "Sodium influx is essential for action potential propagation."
+  },
+  {
+    "number": 39,
+    "question": "Which is a common biochemical finding in depressed patients?",
+    "options": {
+      "A": "Reduced Cortisol levels",
+      "B": "Raised ACTH levels",
+      "C": "Reduced Thyroid stimulating hormone",
+      "D": "Raised Corticotropin releasing hormone",
+      "E": "Raised Thyrotropin-releasing hormone"
+    },
+    "correct_answer": "D",
+    "explanation": "Depression is associated with raised Corticotropin releasing hormone (CRH)."
+  },
+  {
+    "number": 40,
+    "question": "You are in a liaison psychiatry clinic reviewing Richard, who displays poor judgement and impulsive reasoning. Which test would confirm executive functioning suspicion?",
+    "options": {
+      "A": "National adult reading test",
+      "B": "Paragraph retention test",
+      "C": "Weschler memory scale",
+      "D": "Weschler adult intelligence scale",
+      "E": "Wisconsin card sorting test"
+    },
+    "correct_answer": "E",
+    "explanation": "The Wisconsin Card Sorting Test assesses executive function and is affected by frontal lobe damage."
+  },
+  {
+    "number": 41,
+    "question": "Which neurotransmitter is produced by the action of glutamate decarboxylase?",
+    "options": {
+      "A": "Adrenaline",
+      "B": "Glutamate",
+      "C": "Dopamine",
+      "D": "GABA",
+      "E": "Sertraline"
+    },
+    "correct_answer": "D",
+    "explanation": "Glutamate decarboxylase catalyzes the conversion of glutamate to GABA."
+  },
+  {
+    "number": 42,
+    "question": "Which stages of sleep are associated with 12-16Hz frequency waves on EEG?",
+    "options": {
+      "A": "Deep sleep",
+      "B": "Slow wave sleep",
+      "C": "Stage 2 sleep",
+      "D": "REM sleep",
+      "E": "Stage 1 sleep"
+    },
+    "correct_answer": "C",
+    "explanation": "Stage 2 sleep is characterized by sleep spindles of 12-16Hz."
+  },
+  {
+    "number": 43,
+    "question": "During a neurological exam, the patient cannot recognize a pound coin placed in their hand. What describes this phenomenon?",
+    "options": {
+      "A": "Anosognosia",
+      "B": "Simultagnosia",
+      "C": "Visual agnosia",
+      "D": "Prosopagnosia",
+      "E": "Astereognosis"
+    },
+    "correct_answer": "E",
+    "explanation": "Astereognosis is the inability to recognize an object by touch alone."
+  },
+  {
+    "number": 44,
+    "question": "Mr. Xavier has a stroke affecting his dominant parietal lobe. Which sign is he likely to demonstrate?",
+    "options": {
+      "A": "Abulia",
+      "B": "Cortical deafness",
+      "C": "Finger agnosia",
+      "D": "Expressive aphasia",
+      "E": "Simultanagnosia"
+    },
+    "correct_answer": "C",
+    "explanation": "Damage to the dominant parietal lobe leads to Gerstmann syndrome, which includes finger agnosia."
+  },
+  {
+    "number": 45,
+    "question": "Which describes rod-shaped inclusion bodies seen in aging and Alzheimer's disease?",
+    "options": {
+      "A": "Tau protein",
+      "B": "TDP-43",
+      "C": "Amyloid proteins",
+      "D": "Lewy bodies",
+      "E": "Hirano bodies"
+    },
+    "correct_answer": "E",
+    "explanation": "Hirano bodies are eosinophilic rod-shaped inclusion bodies found in aging and Alzheimer's."
+  },
+  {
+    "number": 46,
+    "question": "Mr. Young has vascular dementia. Which describes his declining ability to recognize people by sight?",
+    "options": {
+      "A": "Prosopagnosia",
+      "B": "Abulia",
+      "C": "Astereognosis",
+      "D": "Anosognosia",
+      "E": "Akinetopsia"
+    },
+    "correct_answer": "A",
+    "explanation": "Prosopagnosia refers to an inability to recognize faces, consistent with his symptoms."
+  },
+  {
+    "number": 47,
+    "question": "What does the Stroop Test assess?",
+    "options": {
+      "A": "Working memory",
+      "B": "Problem solving",
+      "C": "Set shifting",
+      "D": "Organisation and planning",
+      "E": "Selective attention"
+    },
+    "correct_answer": "E",
+    "explanation": "The Stroop Test evaluates selective attention and inhibitory control."
+  },
+  {
+    "number": 48,
+    "question": "Which of the following is the most abundant fast excitatory neurotransmitter in the brain?",
+    "options": {
+      "A": "Glutamate",
+      "B": "Acetylcholine",
+      "C": "Glycine",
+      "D": "Serotonin",
+      "E": "Adrenaline"
+    },
+    "correct_answer": "A",
+    "explanation": "Glutamate is the primary fast excitatory neurotransmitter in the brain."
+  },
+  {
+    "number": 49,
+    "question": "Billy Bailey is a 9-year-old boy diagnosed with ADHD. He requires a trial of atomoxetine. Which receptor does it affect?",
+    "options": {
+      "A": "Dopamine",
+      "B": "Noradrenaline",
+      "C": "Serotonin",
+      "D": "Glutamate",
+      "E": "GABA"
+    },
+    "correct_answer": "B",
+    "explanation": "Atomoxetine is a selective noradrenaline reuptake inhibitor."
+  },
+  {
+    "number": 50,
+    "question": "The amphetamine challenge test involves a dose of d-amphetamine. In people with schizophrenia, which area shows increased dopaminergic release?",
+    "options": {
+      "A": "Hippocampus",
+      "B": "Prefrontal cortex",
+      "C": "Periventicular areas",
+      "D": "Anterior temporal lobes",
+      "E": "Striatum"
+    },
+    "correct_answer": "E",
+    "explanation": "Increased dopamine release is seen in the striatum during the amphetamine challenge test."
+  },
+  {
+    "number": 51,
+    "question": "In the neurobiology of alcohol addiction, from where is the initial release of dopamine?",
+    "options": {
+      "A": "Amygdala",
+      "B": "Ventral-tegmental area",
+      "C": "Hippocampus",
+      "D": "Periaqueductal area",
+      "E": "Nucleus Accumbens"
+    },
+    "correct_answer": "B",
+    "explanation": "The ventral-tegmental area releases dopamine into the nucleus accumbens as part of the mesolimbic pathway."
+  },
+  {
+    "number": 52,
+    "question": "Which histological features are described as carrot-shaped eosinophilic intracellular inclusions?",
+    "options": {
+      "A": "Hirano body",
+      "B": "Neurofibrillary tangle",
+      "C": "Lewy body",
+      "D": "Senile plaque",
+      "E": "Rosenthal fibres"
+    },
+    "correct_answer": "E",
+    "explanation": "Rosenthal fibres are thick, elongated eosinophilic bundles found in gliosis and some metabolic disorders."
+  },
+  {
+    "number": 53,
+    "question": "In a patient with schizophrenia, which pathway of the brain is thought to have excessive dopamine transmission?",
+    "options": {
+      "A": "Pyramidal pathway",
+      "B": "Posterior column pathway",
+      "C": "Prefrontal pathway",
+      "D": "Cerebellar pathway",
+      "E": "Mesolimbic pathway"
+    },
+    "correct_answer": "E",
+    "explanation": "The mesolimbic pathway is associated with increased dopamine transmission in acute psychosis."
+  },
+  {
+    "number": 54,
+    "question": "Mark Thurston is experiencing PTSD symptoms. Which of the following would benefit him the most regarding sleep disturbance?",
+    "options": {
+      "A": "Increasing the number of non-REM sleep cycles",
+      "B": "Reducing the amount of waking from REM sleep",
+      "C": "Increasing the length of stage 3 and 4 sleep",
+      "D": "Shortening REM latency",
+      "E": "Reducing jerks during sleep"
+    },
+    "correct_answer": "D",
+    "explanation": "Shortening REM latency can help alleviate sleep disturbances and nightmares associated with PTSD."
+  },
+  {
+    "number": 55,
+    "question": "Which neurotransmitter is most abundant in the autonomic ganglia?",
+    "options": {
+      "A": "Serotonin",
+      "B": "Noradrenaline",
+      "C": "Dopamine",
+      "D": "Histamine",
+      "E": "Acetylcholine"
+    },
+    "correct_answer": "E",
+    "explanation": "Acetylcholine is the main neurotransmitter in autonomic ganglia for both sympathetic and parasympathetic systems."
+  },
+  {
+    "number": 56,
+    "question": "Woczeck believes his arms are controlled by the Prime Minister. This relates to what theory of information processing?",
+    "options": {
+      "A": "Working memory",
+      "B": "Analytic processing",
+      "C": "Sequential processing",
+      "D": "Parallel distributed processing",
+      "E": "Sensory prediction"
+    },
+    "correct_answer": "E",
+    "explanation": "Deficits in sensory prediction processes are implicated in delusions of control."
+  },
+  {
+    "number": 57,
+    "question": "In which of the following conditions would EEG be most helpful diagnostically?",
+    "options": {
+      "A": "Huntington's disease",
+      "B": "Parkinson's disease",
+      "C": "Familial CJD",
+      "D": "Paranoid schizophrenia",
+      "E": "Pseudodementia"
+    },
+    "correct_answer": "A",
+    "explanation": "EEG shows characteristic changes in Huntington's disease, such as loss of alpha wave activity."
+  },
+  {
+    "number": 58,
+    "question": "The mother of a patient asks about genetic anticipation. With which disorder is it associated?",
+    "options": {
+      "A": "Fragile X syndrome",
+      "B": "Turner syndrome",
+      "C": "Angelman syndrome",
+      "D": "Prader-willi syndrome",
+      "E": "Down's syndrome"
+    },
+    "correct_answer": "A",
+    "explanation": "Anticipation is noted in both Fragile X syndrome and Huntington's disease, where symptoms worsen in successive generations."
+  },
+  {
+    "number": 59,
+    "question": "Mr. Stevens, with amphetamine misuse, which part of the brain is most affected?",
+    "options": {
+      "A": "Parietal lobe",
+      "B": "Striatum",
+      "C": "Temporal lobe",
+      "D": "Prefrontal cortex",
+      "E": "Corpus callosum"
+    },
+    "correct_answer": "B",
+    "explanation": "Amphetamine impacts dopaminergic neurons in the striatum."
+  },
+  {
+    "number": 60,
+    "question": "Miss Taylor has autism spectrum disorder. Which neurological finding is associated?",
+    "options": {
+      "A": "Increased cingulate volume",
+      "B": "Decreased volume of caudate nucleus",
+      "C": "Decreased overall brain volume",
+      "D": "Decreased volume of corpus callosum",
+      "E": "Decreased amygdala volume"
+    },
+    "correct_answer": "D",
+    "explanation": "Studies show a smaller volume of the corpus callosum in individuals with autism spectrum disorder."
+  },
+  {
+    "number": 61,
+    "question": "Which neurotransmitter shuttles through astrocytes?",
+    "options": {
+      "A": "Serotonin",
+      "B": "Glycine",
+      "C": "Dopamine",
+      "D": "Glutamate",
+      "E": "GABA"
+    },
+    "correct_answer": "D",
+    "explanation": "Astrocytes transport glutamate for clearance from the synapse."
+  },
+  {
+    "number": 62,
+    "question": "Mirtazapine is commonly used. Which best describes its mechanism of action?",
+    "options": {
+      "A": "Noradrenergic and specific serotonergic antidepressant",
+      "B": "Noradrenaline reuptake inhibitor",
+      "C": "Serotonin and noradrenaline reuptake inhibitor",
+      "D": "Monoamine oxidase inhibitor",
+      "E": "Reversible inhibitor of monoamine oxidase A"
+    },
+    "correct_answer": "A",
+    "explanation": "Mirtazapine is classified as a noradrenergic and specific serotonergic antidepressant."
+  },
+  {
+    "number": 63,
+    "question": "Which substance is most likely to affect the function of oral contraceptives?",
+    "options": {
+      "A": "Tobacco",
+      "B": "St John's Wort",
+      "C": "Grapefruit juice",
+      "D": "Quetiapine",
+      "E": "Citalopram"
+    },
+    "correct_answer": "B",
+    "explanation": "St. John's Wort induces enzymes that increase the metabolism of oral contraceptives, risking failure."
+  },
+  {
+    "number": 64,
+    "question": "Which neurotransmitter is most abundant at the locus coeruleus?",
+    "options": {
+      "A": "Dopamine",
+      "B": "Acetylcholine",
+      "C": "Noradrenaline",
+      "D": "Serotonin",
+      "E": "Glutamate"
+    },
+    "correct_answer": "C",
+    "explanation": "The locus coeruleus is the principal area for the synthesis of noradrenaline."
+  },
+  {
+    "number": 65,
+    "question": "Mrs. Baker has Alzheimer's disease with family history of the same. How many times more likely is she to develop it if heterozygous for ApoE4?",
+    "options": {
+      "A": "4 times",
+      "B": "6 times",
+      "C": "10 times",
+      "D": "1.5 times",
+      "E": "2 times"
+    },
+    "correct_answer": "A",
+    "explanation": "Heterozygosity for ApoE4 increases the risk by approximately 3 to 4 times."
+  },
+  {
+    "number": 66,
+    "question": "Rupert is suspected to have Williams syndrome. Which test would confirm the diagnosis?",
+    "options": {
+      "A": "Western blot",
+      "B": "Southern blot",
+      "C": "FISH",
+      "D": "CISH",
+      "E": "Karyotyping"
+    },
+    "correct_answer": "C",
+    "explanation": "FISH is used to detect elastin deletion on chromosome 7 in Williams syndrome."
+  },
+  {
+    "number": 67,
+    "question": "Which of the following describes the function of an endosome?",
+    "options": {
+      "A": "Involved in the degradation of lipids",
+      "B": "Involved in the production of hydrogen peroxide",
+      "C": "Involved in the release of energy",
+      "D": "Involved in protein synthesis",
+      "E": "Involved in the storage of materials"
+    },
+    "correct_answer": "A",
+    "explanation": "Endosomes are involved in the sorting and degradation of materials taken into the cell, including lipids."
+  },
+  {
+    "number": 68,
+    "question": "Which of the following gene products is associated with Frontotemporal dementia?",
+    "options": {
+      "A": "Gamma-synuclein",
+      "B": "Alpha-synuclein",
+      "C": "Amyloid beta protein",
+      "D": "Tau protein",
+      "E": "Beta-synuclein"
+    },
+    "correct_answer": "D",
+    "explanation": "Tau protein deposition is a characteristic finding in Frontotemporal dementia, particularly in Pick's disease."
+  },
+  {
+    "number": 69,
+    "question": "Miss Jameson is a 26-year-old woman with a diagnosis of schizophrenia. She is currently well and attending a follow-up clinic with you. Whilst there she enquires about the genetic factors influencing the development of schizophrenia. Which of the following genes is most associated with schizophrenia?",
+    "options": {
+      "A": "Dysbindin",
+      "B": "Corticotropin-releasing hormone receptor 1",
+      "C": "Huntington",
+      "D": "Dysregulin",
+      "E": "Progranulin"
+    },
+    "correct_answer": "A",
+    "explanation": "Dysbindin is known to be associated with an increased risk of developing schizophrenia."
+  },
+  {
+    "number": 70,
+    "question": "The study of epigenetic mechanisms and their influence on the development of numerous heritable conditions is an expanding field of study, including within psychiatry. Which of the following epigenetic mechanisms is most associated with the development of schizophrenia?",
+    "options": {
+      "A": "DNA methylation",
+      "B": "Genomic imprinting",
+      "C": "Micro RNA modification",
+      "D": "Nucleosome positioning",
+      "E": "RNA transcripts"
+    },
+    "correct_answer": "A",
+    "explanation": "DNA methylation, particularly of GABA-ergic genes and brain-derived neurotrophic factor, is suspected to be linked to schizophrenia."
+  },
+  {
+    "number": 71,
+    "question": "Which of the following describes the process of producing a protein from an RNA molecule?",
+    "options": {
+      "A": "Cell duplication",
+      "B": "Protein synthesis",
+      "C": "Mitosis",
+      "D": "Translation",
+      "E": "Transcription"
+    },
+    "correct_answer": "D",
+    "explanation": "Translation is the process of producing a protein molecule from an RNA transcript."
+  },
+  {
+    "number": 72,
+    "question": "Heritability is a measure of:",
+    "options": {
+      "A": "Genetic contribution to phenotypic variation in a population",
+      "B": "Risk of disease in first degree relatives of probands",
+      "C": "Genetic contribution of disease in an individual",
+      "D": "Degree of penetrance of a disease",
+      "E": "Concordance of disease between twins"
+    },
+    "correct_answer": "A",
+    "explanation": "Heritability expresses the genetic contribution to phenotypic variation in a population."
+  },
+  {
+    "number": 73,
+    "question": "What percentage of the cerebrum is comprised of the frontal cortex?",
+    "options": {
+      "A": "37-41%",
+      "B": "15-20%",
+      "C": "5-10%",
+      "D": "20-25%",
+      "E": "70-75%"
+    },
+    "correct_answer": "A",
+    "explanation": "The frontal lobe constitutes about 37 to 41% of the cerebrum, making it the largest lobe."
+  },
+  {
+    "number": 74,
+    "question": "Joe is an 8-year-old boy whom you assess in your CAMHS clinic. You note that he lacks eye contact and appears interested in his own play. His mother reports that he does not play games with the other children at school, preferring more repetitive solo activities. Hypoplasia of which region of the brain is associated with this condition?",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Prefrontal cortex",
+      "C": "Hippocampal formication",
+      "D": "Cerebellar vermis",
+      "E": "Parieto-occiptal cortex"
+    },
+    "correct_answer": "D",
+    "explanation": "The description suggests that the child has autism, which is associated with hypoplasia of the cerebellar vermis."
+  }
+]

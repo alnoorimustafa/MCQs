@@ -1,0 +1,529 @@
+[
+  {
+    "number": 1,
+    "question": "Which of the following factors have empirical evidence for being associated with an increased risk of clozapine-induced constipation?",
+    "options": {
+      "A": "Diagnosis of schizophrenia",
+      "B": "Smoking",
+      "C": "Female gender",
+      "D": "Inpatient mental health treatment",
+      "E": "Decreasing age"
+    },
+    "correct_answer": "D",
+    "explanation": "A recent meta-analysis identified that significantly higher rates of constipation were observed for those treated in inpatient versus outpatient or mixed settings."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following medications is most likely to cause light-headedness and episodes of fainting?",
+    "options": {
+      "A": "Methadone",
+      "B": "Naltrexone",
+      "C": "Clonidine",
+      "D": "Lofexidine",
+      "E": "Buprenorphine"
+    },
+    "correct_answer": "D",
+    "explanation": "Clonidine is associated with light-headedness and troublesome hypotension leading to episodes of fainting. Lofexidine is not associated with troublesome hypotension."
+  },
+  {
+    "number": 3,
+    "question": "Which one of the following antidepressants has the greatest risk of weight gain?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Sertraline",
+      "C": "Mirtazapine",
+      "D": "Venlafaxine",
+      "E": "Escitalopram"
+    },
+    "correct_answer": "C",
+    "explanation": "A meta-analysis found that amitriptyline, mirtazapine, and paroxetine were associated with a greater risk of weight gain."
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is a risk factor for antidepressant-induced hyponatraemia?",
+    "options": {
+      "A": "Normal renal function",
+      "B": "Patients also taking diuretics",
+      "C": "History of hypernatremia",
+      "D": "Male gender",
+      "E": "Young age"
+    },
+    "correct_answer": "B",
+    "explanation": "High risk factors for drug induced hyponatremia include co-therapy with other drugs associated with hyponatremia (diuretics)."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following medications is most associated with weight gain?",
+    "options": {
+      "A": "Vortioxetine",
+      "B": "Agomelatine",
+      "C": "Modafinil",
+      "D": "Pregabalin",
+      "E": "Methylphenidate"
+    },
+    "correct_answer": "D",
+    "explanation": "Pregabalin is the only medication of the above commonly associated with weight gain."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following treatments is most appropriate to treat symptoms of stiffness when moving and slowed physical reactions?",
+    "options": {
+      "A": "Propranolol",
+      "B": "Valbenazine",
+      "C": "Topiramate",
+      "D": "Procyclidine",
+      "E": "Diazepam"
+    },
+    "correct_answer": "D",
+    "explanation": "Procyclidine is often used to treat extrapyramidal side-effects, particularly those which are Parkinsonian in character."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following is a rare but serious potential side-effect of Lamotrigine?",
+    "options": {
+      "A": "Hypothyroidism",
+      "B": "Steven-Johnson's syndrome",
+      "C": "Agranulocytosis",
+      "D": "Poly-cystic ovarian syndrome",
+      "E": "Renal impairment"
+    },
+    "correct_answer": "B",
+    "explanation": "Lamotrigine has been associated with Steven-Johnson's syndrome, hence needs to be gradually titrated up."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following does Mr Jason Hardy need to be aware of prior to starting Phenelzine?",
+    "options": {
+      "A": "To avoid fermented food and drink",
+      "B": "To ensure he takes it at exactly the same time each day",
+      "C": "To inform the team if he develops a new rash",
+      "D": "To avoid concurrent use of NSAIDs",
+      "E": "To seek medical assistance if he develops a fever"
+    },
+    "correct_answer": "A",
+    "explanation": "Patients taking MAOIs must avoid eating foods with high levels of tyramine such as fermented substances."
+  },
+  {
+    "number": 9,
+    "question": "Which of the following medications is felt to be most risky for a developing foetus?",
+    "options": {
+      "A": "Carbamazepine",
+      "B": "Diazepam",
+      "C": "Olanzapine",
+      "D": "Lamotrigine",
+      "E": "Valproate"
+    },
+    "correct_answer": "E",
+    "explanation": "Valproate can result in congenital malformations in up to 10% of cases and is not recommended in women of child-bearing age unless absolutely necessary."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following are most commonly seen as a side-effect of Clozapine?",
+    "options": {
+      "A": "Bradycardia",
+      "B": "Muscular pain",
+      "C": "Diarrhoea",
+      "D": "Weight gain",
+      "E": "Agranulocytosis"
+    },
+    "correct_answer": "D",
+    "explanation": "Weight gain is a very common side effect of Clozapine."
+  },
+  {
+    "number": 11,
+    "question": "Which of the following ECG abnormalities have not been associated with lithium therapy?",
+    "options": {
+      "A": "Higher QT dispersion ratio",
+      "B": "Sinus node dysfunction",
+      "C": "Wolff Parkinson White syndrome",
+      "D": "T wave flattening",
+      "E": "PR prolongation"
+    },
+    "correct_answer": "C",
+    "explanation": "Wolff-Parkinson-White syndrome is congenital and not related to lithium therapy."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following best describes the mechanism of action of benzodiazepines?",
+    "options": {
+      "A": "GABA-B agonist",
+      "B": "GABA-A positive allosteric modulator",
+      "C": "GABA-A antagonist",
+      "D": "GABA-B positive allosteric modulator",
+      "E": "GABA-A agonist"
+    },
+    "correct_answer": "B",
+    "explanation": "Benzodiazepines increase the efficiency of GABA, binding to the GABA-A receptor and act as a positive allosteric modulator."
+  },
+  {
+    "number": 13,
+    "question": "Increased concentration of which neurotransmitter is thought to be responsible for the euphoric effects of cocaine?",
+    "options": {
+      "A": "Increased concentration of glutamate",
+      "B": "Increased levels of noradrenaline",
+      "C": "Sodium channel blockade",
+      "D": "Inhibition of dopamine reuptake",
+      "E": "Reduced availability of dopamine"
+    },
+    "correct_answer": "D",
+    "explanation": "The rewarding effects of stimulants such as cocaine are related to increases in dopamine concentrations due to dopamine transporter blockade."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following best describes the mechanism of action of Carbidopa?",
+    "options": {
+      "A": "Inhibits DOPA decarboxylase",
+      "B": "Dopamine antagonist",
+      "C": "Dopamine partial agonist",
+      "D": "Increases metabolism of L-dopa in the CNS",
+      "E": "Prevents breakdown of dopamine in CNS"
+    },
+    "correct_answer": "A",
+    "explanation": "Carbidopa inhibits DOPA decarboxylase, thereby increasing the amount of L-DOPA available to cross into the CNS."
+  },
+  {
+    "number": 15,
+    "question": "Which of the following medication is correctly matched with its mechanism of action?",
+    "options": {
+      "A": "Buprenorphine – pure opioid agonist",
+      "B": "Buprenorphine – pure opioid antagonist",
+      "C": "Naltrexone – partial opioid agonist",
+      "D": "Methadone – pure opioid agonist",
+      "E": "Methadone – partial opioid agonist"
+    },
+    "correct_answer": "D",
+    "explanation": "Methadone is a pure opioid agonist. Buprenorphine is a partial opioid agonist."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following neurotransmitters is used by the neurons within the locus coeruleus as their primary output?",
+    "options": {
+      "A": "Noradrenaline",
+      "B": "GABA",
+      "C": "Dopamine",
+      "D": "Glutamate",
+      "E": "Serotonin"
+    },
+    "correct_answer": "A",
+    "explanation": "The locus coeruleus is the principal nucleus for brain synthesis of noradrenaline."
+  },
+  {
+    "number": 17,
+    "question": "Which of the following options best describes the mechanism of action of Atomoxetine?",
+    "options": {
+      "A": "Serotonin reuptake inhibitor",
+      "B": "Dopamine reuptake inhibitor",
+      "C": "Glutamate agonist",
+      "D": "Noradrenaline reuptake inhibitor",
+      "E": "GABA antagonist"
+    },
+    "correct_answer": "D",
+    "explanation": "Atomoxetine is a noradrenaline reuptake inhibitor."
+  },
+  {
+    "number": 18,
+    "question": "Regarding the effect of selective serotonin reuptake inhibitors (SSRIs) on potential risk of gastrointestinal (GI) bleeding, which statement is correct?",
+    "options": {
+      "A": "Increased levels of serotonin interfere with vasoconstriction",
+      "B": "SSRIs inhibit the transporter responsible for uptake of serotonin into platelets",
+      "C": "SSRIs cause increased level of gut serotonin resulting in platelet aggregation",
+      "D": "Increased levels of serotonin interfere with conversion of prothrombin to thrombin",
+      "E": "SSRIs decrease gastric secretion and act as an irritant to the gastric mucosa"
+    },
+    "correct_answer": "B",
+    "explanation": "SSRIs inhibit the serotonin transporter, which leads to a reduced ability to form clots."
+  },
+  {
+    "number": 19,
+    "question": "Which of the following acts on GABA-B?",
+    "options": {
+      "A": "Monoamine oxidase",
+      "B": "GABA-B",
+      "C": "GABA-A",
+      "D": "Glutamate",
+      "E": "COMT"
+    },
+    "correct_answer": "B",
+    "explanation": "Gamma-hydroxybutyric acid (GHB) acts as a weak agonist at the GABA-B receptor."
+  },
+  {
+    "number": 20,
+    "question": "Which of the following combinations of medication is most associated with significant changes in the serum concentrations?",
+    "options": {
+      "A": "Valproate and Lamotrigine",
+      "B": "Amitriptyline and tramadol",
+      "C": "Clozapine and lithium",
+      "D": "Citalopram and aspirin",
+      "E": "Risperidone and smoking"
+    },
+    "correct_answer": "A",
+    "explanation": "Valproate inhibits the clearance of lamotrigine significantly."
+  },
+  {
+    "number": 21,
+    "question": "Which of the following medications is most associated with 'waves' of withdrawal symptoms?",
+    "options": {
+      "A": "Vortioxetine",
+      "B": "Sertraline",
+      "C": "Mirtazapine",
+      "D": "Venlafaxine",
+      "E": "Fluoxetine"
+    },
+    "correct_answer": "D",
+    "explanation": "Venlafaxine is associated with a severe withdrawal syndrome."
+  },
+  {
+    "number": 22,
+    "question": "Which of the following sedatives is the shortest acting?",
+    "options": {
+      "A": "Temazepam",
+      "B": "Diazepam",
+      "C": "Zolpidem",
+      "D": "Zopiclone",
+      "E": "Zaleplon"
+    },
+    "correct_answer": "E",
+    "explanation": "Zaleplon has a half-life of around 1 hour, making it the shortest acting."
+  },
+  {
+    "number": 23,
+    "question": "Which one of the following has the shortest half-life?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Fluvoxamine",
+      "C": "Paroxetine",
+      "D": "Escitalopram",
+      "E": "Sertraline"
+    },
+    "correct_answer": "B",
+    "explanation": "Fluvoxamine has a half-life of 17-22 hours, which is shorter than the others."
+  },
+  {
+    "number": 24,
+    "question": "Which of the following neuropsychological tests appraises visual attention and task-switching skills?",
+    "options": {
+      "A": "Rey-Osterrieth Complex Figure",
+      "B": "Trail Making test",
+      "C": "Stroop task",
+      "D": "Boston Naming test",
+      "E": "Tower of London test"
+    },
+    "correct_answer": "B",
+    "explanation": "The Trail Making test provides information about speed of processing, visual search speed, and executive functioning."
+  },
+  {
+    "number": 25,
+    "question": "Which of the following tests is most suitable to assess frontal lobe dysfunction?",
+    "options": {
+      "A": "Bender-Gestalt Test",
+      "B": "Wisconsin card sorting test",
+      "C": "Raven's progressive matrices",
+      "D": "National adult reading test",
+      "E": "Dot cancellation test"
+    },
+    "correct_answer": "B",
+    "explanation": "The Wisconsin card sorting test assesses frontal lobe functions, particularly set-shifting."
+  },
+  {
+    "number": 26,
+    "question": "What memory deficit is the hallmark of Korsakoff syndrome?",
+    "options": {
+      "A": "Declarative memory",
+      "B": "Procedural memory",
+      "C": "Implicit memory",
+      "D": "Autobiographical memory",
+      "E": "Anterograde memory"
+    },
+    "correct_answer": "E",
+    "explanation": "Anterograde amnesia is the hallmark of Korsakoff, with also retrograde amnesia."
+  },
+  {
+    "number": 27,
+    "question": "Which of the following is NOT a component of Gerstmann syndrome?",
+    "options": {
+      "A": "Acalculia",
+      "B": "Finger agnosia",
+      "C": "Dysgraphia",
+      "D": "Constructional apraxia",
+      "E": "Left/right disorientation"
+    },
+    "correct_answer": "D",
+    "explanation": "Constructional apraxia is not a component of Gerstmann syndrome."
+  },
+  {
+    "number": 28,
+    "question": "Which neurodegenerative disorder is most likely responsible for difficulty coordinating movements of the right arm?",
+    "options": {
+      "A": "Corticobasal degeneration",
+      "B": "Lewy Body Dementia",
+      "C": "Bulbar palsy",
+      "D": "Progressive supranuclear palsy",
+      "E": "Wernicke's encephalopathy"
+    },
+    "correct_answer": "A",
+    "explanation": "Corticobasal degeneration involves asymmetrical movement symptoms including apraxia."
+  },
+  {
+    "number": 29,
+    "question": "Which area is affected early in Alzheimer's disease?",
+    "options": {
+      "A": "Entorhinal cortex",
+      "B": "Cerebellum",
+      "C": "Mid brain raphe nucleus",
+      "D": "Fusiform gyrus",
+      "E": "Angular gyrus"
+    },
+    "correct_answer": "A",
+    "explanation": "Alzheimer's disease typically destroys neurons in parts of the brain involved in memory, including the entorhinal cortex."
+  },
+  {
+    "number": 30,
+    "question": "Which areas of the brain are most likely to be affected in dementia with behavioural disturbance?",
+    "options": {
+      "A": "Parietal lobes",
+      "B": "Basal ganglia",
+      "C": "Fronto-temporal region",
+      "D": "Hypothalamus",
+      "E": "Cerebellar vermis"
+    },
+    "correct_answer": "C",
+    "explanation": "The fronto-temporal region is responsible for cognition and behaviour and is likely to be atrophied in such cases."
+  },
+  {
+    "number": 31,
+    "question": "Which disease has a purely maternal inheritance?",
+    "options": {
+      "A": "Angelman's syndrome",
+      "B": "Rett's syndrome",
+      "C": "Holoprosencephaly",
+      "D": "Leber's hereditary optic neuropathy",
+      "E": "Turner's syndrome"
+    },
+    "correct_answer": "D",
+    "explanation": "Leber's hereditary optic neuropathy is inherited via mitochondrial DNA and is purely maternal."
+  },
+  {
+    "number": 32,
+    "question": "Which protein is associated with Parkinson's disease?",
+    "options": {
+      "A": "Tau protein",
+      "B": "Amyloid precursor protein",
+      "C": "LRRK2 mutation",
+      "D": "Pre-senilin 1 mutations",
+      "E": "Ubiquitin"
+    },
+    "correct_answer": "C",
+    "explanation": "The LRRK2 mutation is associated with some cases of Parkinson's disease."
+  },
+  {
+    "number": 33,
+    "question": "A chromosome whose centromere is in the middle is said to be?",
+    "options": {
+      "A": "Holocentric",
+      "B": "Acrocentric",
+      "C": "Metacentric",
+      "D": "Sub-metacentric",
+      "E": "Telocentric"
+    },
+    "correct_answer": "C",
+    "explanation": "Metacentric chromosomes have the centromere roughly in the middle."
+  },
+  {
+    "number": 34,
+    "question": " Muhamed Husain began a preoccupation with space travel in his late teens. When he left  home to go to University the preoccupation intensified and took on a paranoid flavour. In his  second term at University, after a period of not sleeping due to high levels of anxiety, he  became convinced that alien life forms had invaded the walls of his bedroom, were  continually spying on him, putting their ‘sensors' into his body and monitoring his heart-rate  and breathing. After a period of hospital admission he was diagnosed with paranoid  schizophrenia. He comes to see you in an outpatient clinic three years after this first  admission. He's returned to his degree, and is functioning reasonably well in other aspects of  life. As part of his dissertation on genetics he's investigating copy number variations and  wishes to know more about the links with schizophrenia. He makes a number of statements  about what he's remembered from his reading. Which of the following statements copy  number variations (CNV) in schizophrenia is not true",
+    "options": {
+      "A": "Rare CNVs in people with schizophrenia were found to be enriched for genes that  function with N-methyl-D-aspartate receptor postsynaptic signalling complexes",
+      "B": "Persons with schizophrenia are less likely than controls to carry genomic duplications or  deletions that resulted in a fusion gene",
+      "C": "Most rare copy number mutations implicated in schizophrenia are unique and many  arose de novo or in recent generations",
+      "D": "Individuals with schizophrenia are significantly more likely than unaffected persons to  harbour rare gene-impacting CNVs",
+      "E": "Genes disrupted by CNVs in people with schizophrenia function disproportionately in  signalling and neurodevelopmental processes"
+    },
+    "correct_answer": "B",
+    "explanation": "The opposite is true (they are more likely)"
+  },
+  {
+    "number": 35,
+    "question": " Various genes have been identified as being associated with developing Alzheimer's  disease, with some predisposing to early onset illness, before the age of 65 years, and  others to late onset. Which of the following genes are associated with early onset Alzheimer's  disease?",
+    "options": {
+      "A": "PARK 2",
+      "B": "NOTCH3",
+      "C": "Apo E2",
+      "D": "Presenilin 1",
+      "E": "Apo E4"
+    },
+    "correct_answer": "D",
+    "explanation": "Presenilin 1 and 2 and Amyloid Percursor Protein (APP) are associated with early onset  Alzheimer's disease. Apo E4 alleles increase the likelihood of late onset Alzheimer's,  whereas Apo E2 is protective. PARK2 is associated with Parkinson's disease and NOTCH3  with CADASIL"
+  },
+  {
+    "number": 36,
+    "question": "Which of the following statements is true regarding the heritability of alcohol dependence?",
+    "options": {
+      "A": "Alcohol heritability is relevant to male relatives only",
+      "B": "The genes implicated are the same ones as those involved in the metabolism of alcohol",
+      "C": "Shared environmental variance contribute to 0.8 heritability for alcohol dependence",
+      "D": "The genetic heritability of alcohol dependence is 80%",
+      "E": "There's a strong link between alcohol dependence and copy number variations of chromosome 5q13.2"
+    },
+    "correct_answer": "E",
+    "explanation": "There's a strong link between alcohol dependence and copy number variations of chromosome 5q13.2. The overall genetic heritability of alcohol dependence is approximately 50%, not 80%."
+  },
+  {
+    "number": 37,
+    "question": "Which of the following codons signifies chain termination?",
+    "options": { "A": "GUA", "B": "AGU", "C": "UUA", "D": "GAA", "E": "UGA" },
+    "correct_answer": "E",
+    "explanation": "The three stop codons are UAA, UAG, and UGA, known as termination codons."
+  },
+  {
+    "number": 38,
+    "question": "Which region of the brain is associated with the reward system implicated in the repetition of drug-taking behaviors?",
+    "options": {
+      "A": "Suprachiasmatic nucleus",
+      "B": "The ventral tegmental area",
+      "C": "The vermis cerebelli",
+      "D": "The posterior pituitary",
+      "E": "The paraventricular nucleus of the hypothalamus"
+    },
+    "correct_answer": "B",
+    "explanation": "The mesolimbic dopamine pathway plays a central role in the reward system, connecting the ventral tegmental area with the nucleus accumbens."
+  },
+  {
+    "number": 39,
+    "question": "In which type of aphasia is speech fluent, incomprehensible, with preserved repetition?",
+    "options": {
+      "A": "Transcortical motor aphasia",
+      "B": "Wernicke's aphasia",
+      "C": "Broca's aphasia",
+      "D": "Conduction aphasia",
+      "E": "Transcortical sensory aphasia"
+    },
+    "correct_answer": "B",
+    "explanation": "Wernicke's aphasia involves fluent but incomprehensible speech with preserved repetition."
+  },
+  {
+    "number": 40,
+    "question": "Which is a localizing sign for frontal lobe damage?",
+    "options": {
+      "A": "Tinnitus",
+      "B": "Unilateral anosmia",
+      "C": "Impairment in propioception",
+      "D": "Dysgraphia",
+      "E": "Sensory aphasia"
+    },
+    "correct_answer": "B",
+    "explanation": "Unilateral anosmia can indicate damage to the frontal lobe."
+  },
+  {
+    "number": 41,
+    "question": "Which symptom is most likely to be associated with bulbar palsy?",
+    "options": {
+      "A": "Ophthalmoplegia",
+      "B": "Emotional Lability",
+      "C": "Upper motor neuron lesions",
+      "D": "Wasting of tongue muscles",
+      "E": "Preserved Jaw Jerk Reflex"
+    },
+    "correct_answer": "D",
+    "explanation": "Bulbar palsy results from lower motor neuron lesions affecting cranial nerves, leading to wasting of tongue muscles."
+  }
+]

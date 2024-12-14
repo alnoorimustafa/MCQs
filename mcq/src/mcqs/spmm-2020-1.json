@@ -1,0 +1,327 @@
+[
+  {
+    "number": 1,
+    "question": "James Williams is a 2-year-old boy who is walking confidently. When he attempts to run he falls over and becomes very tearful and upset. According to Erikson's Psychosocial model, which of the following crises is he most likely to be experiencing?",
+    "options": {
+      "A": "Initiative vs guilt",
+      "B": "Industry vs inferiority",
+      "C": "Basic trust vs basic mistrust",
+      "D": "Autonomy vs inferiority",
+      "E": "Autonomy vs shame"
+    },
+    "correct_answer": "E",
+    "explanation": "The correct answer is: Autonomy vs shame."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following is true regarding Freud's theory?",
+    "options": {
+      "A": "The phallic stage precedes the anal stage",
+      "B": "In the oral phase the Oedipus complex comes into play",
+      "C": "Between the ages of 6 and puberty, the child's libido is dormant",
+      "D": "The genital and the phallic stages are interchangeable",
+      "E": "The Oedipus complex describes a boy's psychosexual competition with his mother for possession of his father"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is: Between the ages of 6 and puberty, the child's libido is dormant."
+  },
+  {
+    "number": 3,
+    "question": "What attachment style in Lauren is this vignette illustrating?",
+    "options": {
+      "A": "Disorganised",
+      "B": "Anxious ambivalent",
+      "C": "Good enough",
+      "D": "Avoidant",
+      "E": "Secure"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Disorganised."
+  },
+  {
+    "number": 4,
+    "question": "Which of the following is not a type of personality disorder recognised in the DSM-5?",
+    "options": {
+      "A": "Paranoid",
+      "B": "Schizoid",
+      "C": "Obsessive-compulsive",
+      "D": "Disorganised",
+      "E": "Narcissistic"
+    },
+    "correct_answer": "D",
+    "explanation": "The correct answer is: Disorganised."
+  },
+  {
+    "number": 5,
+    "question": "What visual capacities should be expected of a newborn baby?",
+    "options": {
+      "A": "Following objects",
+      "B": "20/20 Acuity",
+      "C": "Accommodation",
+      "D": "Convergence",
+      "E": "Pupillary reflex"
+    },
+    "correct_answer": "E",
+    "explanation": "The correct answer is: Pupillary reflex."
+  },
+  {
+    "number": 6,
+    "question": "According to Marcia's theory on adolescence, which of the following states is he most likely to experiencing?",
+    "options": {
+      "A": "Role confusion",
+      "B": "Identity foreclosure",
+      "C": "Identity dissolution",
+      "D": "Identity moratorium",
+      "E": "Identity achievement"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct answer is: Identity foreclosure."
+  },
+  {
+    "number": 7,
+    "question": "If a baby was found to be Type A (Anxious Avoidant), which of the following traits could be seen as an adult?",
+    "options": {
+      "A": "More likely to be victims of bullying",
+      "B": "Greater incidence of alcohol abuse",
+      "C": "More likely to be perpetrators of bullying",
+      "D": "Higher degree of psychopathic behaviour",
+      "E": "More likely to be victims of domestic violence"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is: More likely to be perpetrators of bullying."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following does NOT arise during the pre-operational stage according to Piaget?",
+    "options": {
+      "A": "Object permanence",
+      "B": "Transductive Reasoning",
+      "C": "Animism",
+      "D": "Egocentrism",
+      "E": "Phenomenalistic causality"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Object permanence."
+  },
+  {
+    "number": 9,
+    "question": "Which of the following is TRUE regarding first-born children?",
+    "options": {
+      "A": "They are more liberal",
+      "B": "They are likely to have a higher IQ",
+      "C": "They receive the most attention",
+      "D": "They are more rebellious",
+      "E": "They are less achievement driven"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct answer is: They are likely to have a higher IQ."
+  },
+  {
+    "number": 10,
+    "question": "The following is true about attachment:",
+    "options": {
+      "A": "Secure attachment occurs in about 12 to 20 months in human development",
+      "B": "Attachment styles are only evident from the age of 5 years",
+      "C": "Monotropy is an uncommon phenomenon",
+      "D": "Attachment behaviour does not continue into adulthood",
+      "E": "Clear cut attachment is evident at 12 weeks"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Secure attachment occurs in about 12 to 20 months in human development."
+  },
+  {
+    "number": 11,
+    "question": "Which condition is Mr Ranil most likely experiencing?",
+    "options": {
+      "A": "Koro",
+      "B": "Dhat",
+      "C": "Susto",
+      "D": "Latah",
+      "E": "Amok"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct answer is: Dhat."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following best describes the phenomenon of conflicting demands on children?",
+    "options": {
+      "A": "No win situation",
+      "B": "Expressed emotion",
+      "C": "Refrigerator mother",
+      "D": "Doublethink",
+      "E": "Double bind"
+    },
+    "correct_answer": "E",
+    "explanation": "The correct answer is: Double bind."
+  },
+  {
+    "number": 13,
+    "question": "Which stage of Erikson's theory is George going through?",
+    "options": {
+      "A": "Industry vs inferiority",
+      "B": "Identity vs role confusion",
+      "C": "Autonomy vs shame",
+      "D": "Intimacy vs isolation",
+      "E": "Initiative vs guilt"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Industry vs inferiority."
+  },
+  {
+    "number": 14,
+    "question": "Which option best describes Mr Prashant's situation?",
+    "options": {
+      "A": "Separation",
+      "B": "Melting pot",
+      "C": "Marginalisation",
+      "D": "Integration",
+      "E": "Assimilation"
+    },
+    "correct_answer": "D",
+    "explanation": "The correct answer is: Integration."
+  },
+  {
+    "number": 15,
+    "question": "Which measure is most likely to reduce discrimination against the mentally ill?",
+    "options": {
+      "A": "Legislative intervention",
+      "B": "The belief that mentally ill can 'pull themselves up'",
+      "C": "Perception of dangerousness",
+      "D": "Perceived poor prognosis",
+      "E": "Perception of being less able to work"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Legislative intervention."
+  },
+  {
+    "number": 16,
+    "question": "SF 36 is used to measure which of the following?",
+    "options": {
+      "A": "Quality of life scale",
+      "B": "For assessment of physical illness alone",
+      "C": "For assessment of mental illness alone",
+      "D": "Outcome measurement",
+      "E": "Assess psychotic symptoms"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Quality of life scale."
+  },
+  {
+    "number": 17,
+    "question": "Which statement is true about childhood trauma and later outcomes?",
+    "options": {
+      "A": "Childhood trauma has no significant effect on late-life depression with onset after age 60",
+      "B": "Psychological, but not physical abuse, is strongly associated with depression",
+      "C": "Experiencing more than one type of childhood trauma escalates the risk for later negative outcomes",
+      "D": "Individuals with depression are less likely to remember negative events from their childhood",
+      "E": "Physical abuse in childhood increases risk of suicidal attempts in adolescence but not in adulthood"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is: Experiencing more than one type of childhood trauma escalates the risk for later negative outcomes."
+  },
+  {
+    "number": 18,
+    "question": "The feeling of being sexually attracted to a person denotes which of the following?",
+    "options": {
+      "A": "Sex",
+      "B": "Gender role",
+      "C": "Gender identity",
+      "D": "Sexuality",
+      "E": "Sexual attraction"
+    },
+    "correct_answer": "D",
+    "explanation": "The correct answer is: Sexuality."
+  },
+  {
+    "number": 19,
+    "question": "Which monitoring is needed during Agomelatine treatment initiation?",
+    "options": {
+      "A": "FBC",
+      "B": "LFT",
+      "C": "ECG",
+      "D": "U&Es",
+      "E": "Serum calcium"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct answer is: LFT."
+  },
+  {
+    "number": 20,
+    "question": "Which of the following is a test of abstract reasoning?",
+    "options": {
+      "A": "Proverb test",
+      "B": "Sentence completion",
+      "C": "Brixton Spatial Anticipation Test",
+      "D": "Rey–Osterrieth complex figure",
+      "E": "Bender-Gestalt"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Proverb test."
+  },
+  {
+    "number": 21,
+    "question": "Which statement is correct regarding the Neuropsychiatric Inventory (NPI)?",
+    "options": {
+      "A": "The NPI is insensitive to change associated with treatment effects",
+      "B": "The NPI includes a subscale for assessing medication side effects",
+      "C": "The NPI assesses 10 types of neuropsychiatric disturbances",
+      "D": "The NPI can be administered by anyone observing the patient for one hour",
+      "E": "The NPI includes a measure of caregiver distress for each item"
+    },
+    "correct_answer": "E",
+    "explanation": "The correct answer is: The NPI includes a measure of caregiver distress for each item."
+  },
+  {
+    "number": 22,
+    "question": "Which of the following tests involves telling a story from a series of pictures?",
+    "options": {
+      "A": "Picture completion test",
+      "B": "Rorschach test",
+      "C": "Thematic Apperception test",
+      "D": "Animal Metaphor test",
+      "E": "MMPI"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is: Thematic Apperception test."
+  },
+  {
+    "number": 23,
+    "question": "Which is FALSE concerning the ICD-10 definition of obsessive-compulsive disorder?",
+    "options": {
+      "A": "Carrying out the compulsive act is not pleasurable",
+      "B": "Obsessions are recognized as originating in the mind of the patient",
+      "C": "Obsessions and compulsions are not seen as excessive or unreasonable",
+      "D": "Compulsions are unsuccessfully resisted",
+      "E": "Obsession and compulsions must be present on most days for two weeks"
+    },
+    "correct_answer": "C",
+    "explanation": "The correct answer is: Obsessions and compulsions are not seen as excessive or unreasonable."
+  },
+  {
+    "number": 24,
+    "question": "Which drug can remain present in urine for up to 8 days?",
+    "options": {
+      "A": "Amphetamine",
+      "B": "LSD",
+      "C": "Heroin",
+      "D": "Diazepam",
+      "E": "Phencyclidine"
+    },
+    "correct_answer": "E",
+    "explanation": "The correct answer is: Phencyclidine."
+  },
+  {
+    "number": 25,
+    "question": "A type of obstructive technique in clinical history taking is:",
+    "options": {
+      "A": "Suggestive questions",
+      "B": "Redirecting",
+      "C": "Symptom exaggeration",
+      "D": "Closed questions",
+      "E": "Confrontation"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is: Suggestive questions."
+  }
+]
