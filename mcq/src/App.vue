@@ -7,8 +7,9 @@ let page = ref("");
 let selectedImage = ref<string | null>(null); // Track the selected image
 
 const selectImage = (image: string) => {
+  page.value = image;
   console.log("Selected Image:", image); // Debugging line
-  selectedImage.value = new URL(image, import.meta.url).href; // Use URL constructor for correct path
+  selectedImage.value = new URL(`./assets/${image}.png`, import.meta.url).href;
   window.scrollTo(0, 0); // Scroll to the top of the page
 };
 
@@ -57,39 +58,19 @@ const cancelSelection = () => {
   </div>
   <div class="container">
     <div class="grid mt-2">
-      <div
-        class="center"
-        v-if="!selectedImage"
-        @click="selectImage('./assets/bof1.png')"
-      >
-        <img @click="page = 'bof'" src="./assets/bof1.png" alt="" />
+      <div class="center" v-if="!selectedImage" @click="selectImage('bof1')">
+        <img src="./assets/bof1.png" alt="" />
       </div>
-      <div
-        class="center"
-        v-if="!selectedImage"
-        @click="selectImage('./assets/bof2.png')"
-      >
-        <img src="./assets/bof2.png" alt="" />
+      <div class="center" v-if="!selectedImage" @click="selectImage('bof2')">
+        <img @click="page = 'bof2'" src="./assets/bof2.png" alt="" />
       </div>
-      <div
-        class="center"
-        v-if="!selectedImage"
-        @click="selectImage('./assets/bof3.png')"
-      >
-        <img src="./assets/bof3.png" alt="" />
+      <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
+        <img @click="" src="./assets/bof3.png" alt="" />
       </div>
-      <div
-        class="center"
-        v-if="!selectedImage"
-        @click="selectImage('./assets/600p1.png')"
-      >
+      <div class="center" v-if="!selectedImage" @click="selectImage('600p1')">
         <img src="./assets/600p1.png" alt="" />
       </div>
-      <div
-        class="center"
-        v-if="!selectedImage"
-        @click="selectImage('./assets/600p2.png')"
-      >
+      <div class="center" v-if="!selectedImage" @click="selectImage('600p2')">
         <img src="./assets/600p2.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage">
@@ -105,7 +86,10 @@ const cancelSelection = () => {
       </div>
     </div>
   </div>
-  <BestOfFive v-if="page === 'bof'" />
+  <BestOfFive
+    v-if="page === 'bof1' || 'bof2' || 'bof3'"
+    :selectedPaper="page"
+  />
   <Book600 v-if="page === '600'" />
 </template>
 
