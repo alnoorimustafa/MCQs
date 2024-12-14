@@ -11,7 +11,10 @@ const selectImage = (image: string) => {
   page.value = image;
   console.log("Selected Image:", image); // Debugging line
   console.log("Selected Image:", typeof image); // Debugging line
-  selectedImage.value = new URL(`./assets/${image}.png`, import.meta.url).href;
+  selectedImage.value = new URL(
+    `./assets/large/${image}.png`,
+    import.meta.url
+  ).href;
   window.scrollTo(0, 0); // Scroll to the top of the page
 };
 
@@ -39,25 +42,25 @@ const cancelSelection = () => {
   <div class="container">
     <div class="grid mt-2">
       <div class="center" v-if="!selectedImage" @click="selectImage('bof1')">
-        <img src="./assets/bof1.png" alt="" />
+        <img src="./assets/small/bof1.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('bof2')">
-        <img @click="page = 'bof2'" src="./assets/bof2.png" alt="" />
+        <img @click="page = 'bof2'" src="./assets/small/bof2.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
-        <img @click="" src="./assets/bof3.png" alt="" />
+        <img @click="" src="./assets/small/bof3.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
-        <img src="./assets/600-1.png" alt="" />
+        <img src="./assets/small/600-1.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
-        <img src="./assets/600-2.png" alt="" />
+        <img src="./assets/small/600-2.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('501')">
-        <img src="./assets/501.png" alt="" />
+        <img src="./assets/small/501.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
-        <img src="./assets/spmm.png" alt="" />
+        <img src="./assets/small/spmm.png" alt="" />
       </div>
 
       <div class="center" v-if="selectedImage">
