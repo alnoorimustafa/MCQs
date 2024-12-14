@@ -1,0 +1,4475 @@
+[
+  {
+    "number": 115,
+    "question": "How old was Phineas Cage when he sustained an injury to the frontal part of his brain?",
+    "options": {
+      "A": "25 years",
+      "B": "27 years",
+      "C": "29 years",
+      "D": "31 years",
+      "E": "45 years"
+    },
+    "correct_answer": "A",
+    "explanation": "Phineas Gage was 25 years old when an iron rod was accidentally driven through his skull, damaging his frontal lobes."
+  },
+  {
+    "number": 116,
+    "question": "Who discovered lithium?",
+    "options": {
+      "A": "Cade",
+      "B": "Cameron",
+      "C": "Kahlbaum",
+      "D": "Kane",
+      "E": "Ribot"
+    },
+    "correct_answer": "A",
+    "explanation": "John F. Cade was the first psychiatrist to discover the efficacy of lithium in treating mania and bipolar disorder."
+  },
+  {
+    "number": 117,
+    "question": "Who introduced electroconvulsive therapy?",
+    "options": {
+      "A": "Cerletti",
+      "B": "Kane",
+      "C": "Meduna",
+      "D": "Ribot",
+      "E": "Sakel"
+    },
+    "correct_answer": "A",
+    "explanation": "Ugo Cerletti, along with Lucio Bini, introduced electroconvulsive therapy (ECT) in 1938."
+  },
+  {
+    "number": 118,
+    "question": "Which of the following was the first selective serotonin reuptake inhibitor to be developed and introduced into the market?",
+    "options": {
+      "A": "Citalopram",
+      "B": "Fluoxetine",
+      "C": "Paroxetine",
+      "D": "Sertraline",
+      "E": "Zimelidine"
+    },
+    "correct_answer": "E",
+    "explanation": "Zimelidine was the first SSRI introduced but was withdrawn from the market due to safety concerns; fluoxetine is the first successfully marketed SSRI."
+  },
+  {
+    "number": 119,
+    "question": "Who discovered the hypothesis that antipsychotics work largely by blocking dopamine receptors?",
+    "options": {
+      "A": "Carlsson and Linquist",
+      "B": "Dale and Laidlaw",
+      "C": "Delay and Deniker",
+      "D": "Den Boer",
+      "E": "John Kane"
+    },
+    "correct_answer": "A",
+    "explanation": "The hypothesis stating that antipsychotic effects are primarily due to dopamine receptor blockage was developed by Carlsson and Linquist."
+  },
+  {
+    "number": 120,
+    "question": "In which year was electroconvulsive therapy introduced in the UK?",
+    "options": {
+      "A": "1930",
+      "B": "1934",
+      "C": "1948",
+      "D": "1950",
+      "E": "1958"
+    },
+    "correct_answer": "B",
+    "explanation": "Electroconvulsive therapy (ECT) was first introduced in the UK in 1934."
+  },
+  {
+    "number": 121,
+    "question": "Who introduced the term 'law of effect', which basically considers reinforcement as the main driver of behaviour?",
+    "options": {
+      "A": "Bandura",
+      "B": "Kohler",
+      "C": "Pavlov",
+      "D": "Skinner",
+      "E": "Thorndike"
+    },
+    "correct_answer": "E",
+    "explanation": "Edward Thorndike introduced the 'law of effect', emphasizing that behaviors followed by favorable consequences are more likely to occur again."
+  },
+  {
+    "number": 122,
+    "question": "Who is associated with the introduction of electroconvulsive therapy?",
+    "options": {
+      "A": "Biltz",
+      "B": "Bini",
+      "C": "Cade",
+      "D": "Delay",
+      "E": "Tuke"
+    },
+    "correct_answer": "B",
+    "explanation": "Lucio Bini, alongside Ugo Cerletti, is credited with introducing ECT as a treatment modality in psychiatric practice."
+  },
+  {
+    "number": 123,
+    "question": "Which of the following concepts is associated with Margaret Mahler?",
+    "options": {
+      "A": "Anal phase",
+      "B": "Concrete operational stage",
+      "C": "Normal autism",
+      "D": "Preconventional morality",
+      "E": "Trust versus mistrust"
+    },
+    "correct_answer": "C",
+    "explanation": "Margaret Mahler is known for her work on the stages of separation-individuation, including the concept of normal autism."
+  },
+  {
+    "number": 124,
+    "question": "Which of the following mental disorders in Japan was renamed Togo Schicco Sho (loss of coordination disorder) to combat the stigma associated with the illness?",
+    "options": {
+      "A": "Autism",
+      "B": "Bipolar affective disorder",
+      "C": "Borderline personality disorder",
+      "D": "Developmental coordination disorder",
+      "E": "Schizophrenia"
+    },
+    "correct_answer": "E",
+    "explanation": "Schizophrenia was renamed to reduce stigma and promote a more favorable understanding of the disorder in Japanese culture."
+  },
+  {
+    "number": 125,
+    "question": "What does the 'pathoplastic effect' refer to in the context of cultural psychiatry?",
+    "options": {
+      "A": "Culture causes the mental illness",
+      "B": "Culture contributes to the frequency of the psychopathology",
+      "C": "Culture contributes to the manifestation of the psychopathology",
+      "D": "Culture pathologises certain types of behaviours which are termed illness",
+      "E": "Culture causes the reactions to mental illness"
+    },
+    "correct_answer": "C",
+    "explanation": "The pathoplastic effect describes how cultural factors can shape the expression and manifestation of psychiatric conditions."
+  },
+  {
+    "number": 126,
+    "question": "Which of the following refers to the Genovese syndrome or the bystander effect?",
+    "options": {
+      "A": "Bystanders are less likely to help the victim if more people are present",
+      "B": "Bystanders are more likely to help if the victim is a woman",
+      "C": "Bystanders encourage others to be more altruistic",
+      "D": "Bystanders have a general tendency to help victims",
+      "E": "The victim is ignored by people around him or her because they are worried about their own safety"
+    },
+    "correct_answer": "A",
+    "explanation": "The bystander effect indicates that the likelihood of helping a victim decreases as the number of bystanders increases."
+  },
+  {
+    "number": 127,
+    "question": "A 41-year-old Ethiopian man was 'possessed' by a spirit, hitting his head against the wall, shouting, singing, laughing and crying. From what is he most likely to suffer?",
+    "options": {
+      "A": "Ghost sickness",
+      "B": "Hwabyung",
+      "C": "Mal de ojo",
+      "D": "Spell",
+      "E": "Zar"
+    },
+    "correct_answer": "E",
+    "explanation": "Zar is a form of spirit possession characterized by various erratic behaviors, often leading to a disturbance in daily functioning."
+  },
+  {
+    "number": 1,
+    "question": "What is the largest determinant of functional capacity in people with schizophrenia?",
+    "options": {
+      "A": "Avolition",
+      "B": "Depression",
+      "C": "Neurocognition",
+      "D": "Positive symptoms"
+    },
+    "correct_answer": "C",
+    "explanation": "Neurocognition is considered the largest determinant, influencing various aspects of functional capacity and daily functioning in individuals with schizophrenia."
+  },
+  {
+    "number": 2,
+    "question": "Approximately what proportion of people with schizophrenia will exhibit negative symptoms at 1 point in time?",
+    "options": {
+      "A": "10%",
+      "B": "25%",
+      "C": "50%",
+      "D": "80%"
+    },
+    "correct_answer": "C",
+    "explanation": "Research suggests that about 50% of individuals with schizophrenia experience negative symptoms at any given time."
+  },
+  {
+    "number": 3,
+    "question": "What is the most appropriate next action in the management of this patient?",
+    "options": {
+      "A": "Discuss with the pharmacist increasing the dose of her antipsychotic medication",
+      "B": "Switch to clozapine",
+      "C": "Ask whether she would like to be able to remember, concentrate, and organize better",
+      "D": "Refer her for a full cognitive battery"
+    },
+    "correct_answer": "C",
+    "explanation": "Engaging the patient in discussing her cognitive concerns is a critical step before proceeding to more aggressive interventions."
+  },
+  {
+    "number": 4,
+    "question": "Minimal use of gestures, diminished facial expressions, and poor eye contact are signs of which negative symptom of schizophrenia?",
+    "options": {
+      "A": "Alogia",
+      "B": "Anhedonia",
+      "C": "Asociality",
+      "D": "Avolition",
+      "E": "Blunted affect"
+    },
+    "correct_answer": "E",
+    "explanation": "Blunted affect refers to reduced emotional expression, which includes minimal gestures, facial expressions, and eye contact."
+  },
+  {
+    "number": 5,
+    "question": "Significant predictors of poor outcome in patients with schizophrenia include each of the following EXCEPT",
+    "options": {
+      "A": "Many negative symptoms",
+      "B": "Female sex",
+      "C": "Family history of schizophrenia",
+      "D": "Longer duration of untreated psychosis"
+    },
+    "correct_answer": "B",
+    "explanation": "Female sex is not typically a predictor of poor outcomes in schizophrenia; rather, longer duration of untreated psychosis and negative symptoms are more significant."
+  },
+  {
+    "number": 6,
+    "question": "Which of the 5 domains of negative symptoms of schizophrenia does the following question assess: “Is the patient actively engaged with hobbies and productive activity during the day?”",
+    "options": {
+      "A": "Psychomotor activity",
+      "B": "Motivation",
+      "C": "Social activity",
+      "D": "Communication",
+      "E": "Emotion/affect"
+    },
+    "correct_answer": "B",
+    "explanation": "The question assesses motivation, as it inquires about engagement with hobbies and productivity."
+  },
+  {
+    "number": 7,
+    "question": "Diagnostic distinctions between schizophrenia, bipolar disorder type I, other forms of bipolar spectrum disorder are supported by:",
+    "options": {
+      "A": "Genome-wide association studies that link specific genetic markers to specific disorders",
+      "B": "Symptoms that unambiguously distinguish one form of mental disorder from the others",
+      "C": "Categorical diagnostic rules established by consensus",
+      "D": "None of the above; there are no reliable ways to differentiate one disorder from another"
+    },
+    "correct_answer": "D",
+    "explanation": "Currently, there are no entirely reliable diagnostic distinctions made through genetics or symptoms that can differentiate these disorders with certainty."
+  },
+  {
+    "number": 8,
+    "question": "Negative symptoms of schizophrenia are often confused with",
+    "options": {
+      "A": "Anhedonia",
+      "B": "Dysthymia",
+      "C": "Confusion",
+      "D": "Dysregulation",
+      "E": "None of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Negative symptoms can be confused with anhedonia, as both involve a lack of motivation and emotional engagement."
+  },
+  {
+    "number": 9,
+    "question": "For a DSM-5 diagnosis of schizoaffective disorder, specific mood symptoms must be present for at least what proportion of the total illness duration?",
+    "options": {
+      "A": "25%",
+      "B": "33%",
+      "C": "50%",
+      "D": "67%",
+      "E": "75%"
+    },
+    "correct_answer": "C",
+    "explanation": "For a diagnosis of schizoaffective disorder, mood symptoms must be present for at least 50% of the total duration of the illness."
+  },
+  {
+    "number": 10,
+    "question": "What is the estimated concordance rate of schizophrenic illness in monozygotic twins?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "correct_answer": "C",
+    "explanation": "The estimated concordance rate for schizophrenia in monozygotic twins is approximately 50%, indicating a significant genetic component."
+  },
+  {
+    "number": 1,
+    "question": "Which of these is among the typical physical findings in patients with cluster headaches?",
+    "options": {
+      "A": "Acute onset, severe and constant retro-orbital or periorbital pain",
+      "B": "Bradycardia",
+      "C": "Sudden, severe onset of pain, sometimes with vomiting, which typically peaks within 1 hour",
+      "D": "Visual disturbance and vision loss with pain"
+    },
+    "correct_answer": "A",
+    "explanation": "Cluster headaches typically present with acute onset, severe, and constant retro-orbital or periorbital pain."
+  },
+  {
+    "number": 2,
+    "question": "Which of these types of comorbidities are shown to occur most frequently in patients with cluster headaches?",
+    "options": {
+      "A": "Cardiovascular",
+      "B": "Gastrointestinal",
+      "C": "Mental health",
+      "D": "Neurologic"
+    },
+    "correct_answer": "C",
+    "explanation": "Mental health comorbidities such as anxiety and depression are frequently observed in patients with cluster headaches."
+  },
+  {
+    "number": 3,
+    "question": "Which of these is strongly recommended for the acute treatment of cluster headache attacks in the 2023 European Academy of Neurology (EAN) guideline?",
+    "options": {
+      "A": "Butalbital/aspirin/caffeine and gabapentin",
+      "B": "Orally disintegrating calcitonin gene-related peptide (CGRP) antagonists",
+      "C": "Oxygen (100%) with a flow of at least 12 L/min for 15 min and 6 mg subcutaneous sumatriptan",
+      "D": "Verapamil"
+    },
+    "correct_answer": "C",
+    "explanation": "The 2023 EAN guideline recommends using 100% oxygen at a flow rate of at least 12 L/min for 15 minutes along with 6 mg of subcutaneous sumatriptan for the acute treatment of cluster headaches."
+  },
+  {
+    "number": 4,
+    "question": "Which of these was shown to be more common among men compared with women who experience cluster headaches?",
+    "options": {
+      "A": "Using preventive medication",
+      "B": "Restlessness",
+      "C": "Longer bouts",
+      "D": "Alcohol as a trigger"
+    },
+    "correct_answer": "D",
+    "explanation": "Studies suggest that alcohol is a more common trigger among men with cluster headaches compared to women."
+  },
+  {
+    "number": 5,
+    "question": "Which of these forms of neuromodulation was proven safest and most effective for improving treatment-refractory cluster headaches?",
+    "options": {
+      "A": "Deep brain stimulation",
+      "B": "External trigeminal neurostimulation",
+      "C": "Occipital nerve stimulation",
+      "D": "Single-pulse transcranial magnetic stimulation"
+    },
+    "correct_answer": "C",
+    "explanation": "Occipital nerve stimulation has been shown to be both safe and effective for patients with treatment-refractory cluster headaches."
+  },
+  {
+    "number": 1,
+    "question": "Which of these patient descriptions regarding the minimum basis for a diagnosis of treatment-resistant schizophrenia is most accurate?",
+    "options": {
+      "A": "Requires the highest dose of one antipsychotic medication",
+      "B": "Adequate management demands at least two antipsychotic medications",
+      "C": "Nonresponse to normal courses of at least two antipsychotic medications",
+      "D": "Cannot be controlled medically"
+    },
+    "correct_answer": "C",
+    "explanation": "Treatment-resistant schizophrenia is defined by a lack of response to at least two adequate trials of antipsychotic medications."
+  },
+  {
+    "number": 2,
+    "question": "Which of these types of neuropsychological deficits was shown to be most pronounced among patients with treatment-resistant schizophrenia?",
+    "options": {
+      "A": "Executive function",
+      "B": "Verbal memory and learning",
+      "C": "Visual−spatial memory and learning",
+      "D": "All three domains were significantly impaired"
+    },
+    "correct_answer": "D",
+    "explanation": "Patients with treatment-resistant schizophrenia exhibit significant impairments in all three cognitive domains."
+  },
+  {
+    "number": 3,
+    "question": "How does antipsychotic clozapine compare with the alternative antipsychotic olanzapine in patients with treatment-resistant schizophrenia who are at risk for suicide?",
+    "options": {
+      "A": "Clozapine is significantly more protective against suicide",
+      "B": "Olanzapine is significantly more protective against suicide",
+      "C": "The two are similarly protective against suicide",
+      "D": "No medication for suicidal behavior has shown high efficacy in this subset of patients"
+    },
+    "correct_answer": "A",
+    "explanation": "Clozapine has a markedly reduced risk of suicide compared to other antipsychotics, including olanzapine."
+  },
+  {
+    "number": 4,
+    "question": "Which of these augmentations was appropriate for first-treatment escalation in patients with treatment-resistant schizophrenia with persistently positive symptoms despite adequate clozapine use?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Fluvoxamine",
+      "C": "Modafinil",
+      "D": "Valproate plus electroshock therapy"
+    },
+    "correct_answer": "A",
+    "explanation": "Aripiprazole is often used as an adjunct to clozapine to help manage residual symptoms, including those that are positive."
+  },
+  {
+    "number": 5,
+    "question": "Augmenting therapy with which of these medications improved cognitive function and psychopathological symptoms in patients with clozapine-resistant treatment-refractory schizophrenia?",
+    "options": {
+      "A": "Amisulpride",
+      "B": "Clonazepam",
+      "C": "Duloxetine",
+      "D": "Mirtazapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Amisulpride has shown efficacy in ameliorating cognitive deficits and psychopathological symptoms in resistant schizophrenia cases."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following is more commonly associated with schizophrenia?",
+    "options": {
+      "A": "High energy level",
+      "B": "Heightened sensitivity to social cues and interactions",
+      "C": "Depression",
+      "D": "Broad emotional range"
+    },
+    "correct_answer": "C",
+    "explanation": "Depression is notably prevalent among individuals with schizophrenia compared to the other options."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following is most accurate concerning the complications of schizophrenia?",
+    "options": {
+      "A": "Obsessive-compulsive symptoms in schizophrenia may be caused by antipsychotic medication",
+      "B": "Anatomic lesions are frequently found in patients with schizophrenia",
+      "C": "Most patients with schizophrenia are violent",
+      "D": "Although schizophrenia is linked with depression, it is not commonly linked with anxiety"
+    },
+    "correct_answer": "A",
+    "explanation": "Antipsychotic medications can lead to cognitive symptoms resembling obsessive-compulsive disorder due to their effect on neurotransmitter levels."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following is not a common side effect of antipsychotic medications?",
+    "options": {
+      "A": "Tardive dyskinesia",
+      "B": "Weight loss",
+      "C": "Dystonia",
+      "D": "Parkinsonism"
+    },
+    "correct_answer": "B",
+    "explanation": "Weight loss is not a common side effect; most antipsychotics are associated with weight gain."
+  },
+  {
+    "number": 9,
+    "question": "Which of the following is most accurate concerning current psychosocial treatment goals for people with schizophrenia?",
+    "options": {
+      "A": "Treatment aims for complete remediation of symptoms",
+      "B": "Hospitalization is considered an unavoidable aspect of treatment",
+      "C": "Medications should be administered only by healthcare professionals",
+      "D": "Patients should be working at least half-time"
+    },
+    "correct_answer": "C",
+    "explanation": "The emphasis is on ensuring that medication management for schizophrenia involves healthcare professionals, although not all patients may require hospitalization."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following diagnoses is most appropriate based only on the information provided here?",
+    "options": {
+      "A": "Munchausen syndrome (factitious disorder imposed on self)",
+      "B": "Munchausen syndrome by proxy (factitious disorder imposed on another)",
+      "C": "Schizophrenia",
+      "D": "Conversion disorder",
+      "E": "Brief reactive psychosis"
+    },
+    "correct_answer": "C",
+    "explanation": "The described symptoms and behaviors align most closely with the presentation of schizophrenia."
+  },
+  {
+    "number": 11,
+    "question": "Which is a factitious condition?",
+    "options": {
+      "A": "Conversion disorder",
+      "B": "Schizophrenia",
+      "C": "Brief reactive psychosis",
+      "D": "Malingering"
+    },
+    "correct_answer": "D",
+    "explanation": "Malingering is considered a factitious condition where an individual intentionally feigns illness for secondary gain."
+  },
+  {
+    "number": 12,
+    "question": "Which is accurate regarding suicide incidence in the United States?",
+    "options": {
+      "A": "Suicide is less of a concern in children",
+      "B": "A sharp rise is seen in suicide incidence among adolescents and teens compared with children",
+      "C": "Suicide incidence decreases with age",
+      "D": "Suicide incidence is equal in all groups"
+    },
+    "correct_answer": "B",
+    "explanation": "There has been a notable increase in suicide rates among adolescents and teens, which is a significant public health concern."
+  },
+  {
+    "number": 13,
+    "question": "Which of the following factors is the LEAST likely indicator of suicide risk?",
+    "options": {
+      "A": "Diagnosis of major depression",
+      "B": "Prior suicide attempt",
+      "C": "Diagnosis of schizophrenia",
+      "D": "Ownership of a firearm",
+      "E": "Diagnosis of a terminal illness"
+    },
+    "correct_answer": "C",
+    "explanation": "While schizophrenia can be associated with risk factors for suicide, it is not a direct indicator as strong as the others listed."
+  },
+  {
+    "number": 14,
+    "question": "Which of these approaches is recommended for patients with ASPD and a history of trauma that causes mistrust and hostile attribution biases?",
+    "options": {
+      "A": "Cognitive remediation training",
+      "B": "Eye movement desensitization and reprocessing therapy",
+      "C": "Impulsive lifestyle counseling",
+      "D": "Mentalization-based treatment"
+    },
+    "correct_answer": "D",
+    "explanation": "Mentalization-based treatment is tailored for patients with antisocial personality disorder (ASPD) to help them understand and manage their emotions."
+  },
+  {
+    "number": 15,
+    "question": "How stable are ASPD and its criteria compared with other personality disorders (PDs)?",
+    "options": {
+      "A": "ASPD criteria are more stable over time",
+      "B": "ASPD absolute personality score levels decrease more over time",
+      "C": "Patients with other PD diagnoses are at least twice as likely to maintain their diagnosis",
+      "D": "ASPD and other PDs are all moderately stable with few differences"
+    },
+    "correct_answer": "A",
+    "explanation": "ASPD criteria have been shown to be stable over time compared to the criteria for other personality disorders."
+  },
+  {
+    "number": 16,
+    "question": "How effective was schema therapy (ST) compared with treatment-as-usual for violent inpatient offenders with ASPD?",
+    "options": {
+      "A": "ST was superior for PD symptoms and rehabilitation",
+      "B": "ST was superior for PD symptoms but not rehabilitation",
+      "C": "ST was superior for rehabilitation but not PD symptoms",
+      "D": "ST was comparable for PD symptoms and rehabilitation"
+    },
+    "correct_answer": "A",
+    "explanation": "Schema therapy has been shown to be effective in improving both personality disorder symptoms and rehabilitation outcomes in this group."
+  },
+  {
+    "number": 1,
+    "question": "Which of these is among the Slick criteria used to detect malingering?",
+    "options": {
+      "A": "A clear internal motivation for exaggerating or fabricating symptoms during examination",
+      "B": "Evidence of exaggeration or fabrication on neuropsychological tests",
+      "C": "Opinion of patient's self-report, based on physician's clinical experience and background",
+      "D": "All of these"
+    },
+    "correct_answer": "D",
+    "explanation": "All of the listed options are part of the Slick criteria, which help psychologists and clinicians detect malingering through a comprehensive assessment."
+  },
+  {
+    "number": 2,
+    "question": "Which of these approaches was particularly effective at identifying feigned traumatic brain injury (TBI)?",
+    "options": {
+      "A": "MMPI - 2-Restructured Form (MMPI-2-RF) and Inventory of Problems-29 (IOP-29)",
+      "B": "Poreh Nonverbal Memory Test (PNMT) and Personality Assessment Inventory (PAI)",
+      "C": "Rey 15-Item Test (FIT) and Word Choice Test-10 (WCT-10)",
+      "D": "Visual evoked potential and electroretinography"
+    },
+    "correct_answer": "A",
+    "explanation": "The MMPI-2-RF and IOP-29 are recognized for their effectiveness in identifying feigned traumatic brain injury due to their comprehensive assessment of personality and symptom exaggeration."
+  },
+  {
+    "number": 3,
+    "question": "Which of these signs reported by patients being evaluated for posttraumatic stress disorder (PTSD) might suggest malingering?",
+    "options": {
+      "A": "Chronic pain",
+      "B": "Extreme PTSD symptoms or rare combinations of such at any age",
+      "C": "Pain intensity that increases with PTSD symptoms",
+      "D": "PTSD symptoms that decline with age"
+    },
+    "correct_answer": "B",
+    "explanation": "Extreme PTSD symptoms or rare combinations of symptoms at any age can suggest malingering as they may be indicative of symptom exaggeration or fabrication."
+  },
+  {
+    "number": 1,
+    "question": "Zieve syndrome, a rarely reported disease resulting from alcohol abuse, consists of a triad of symptoms: hemolytic anemia, cholestatic jaundice, and transient hyperlipidemia. It is largely under-recognized and under-reported, possibly because of unawareness of the condition by physicians.",
+    "options": {},
+    "correct_answer": "N/A",
+    "explanation": "This statement provides information about Zieve syndrome without presenting a question or options."
+  },
+  {
+    "number": 2,
+    "question": "The state of cataplexy",
+    "options": {
+      "A": "may be precipitated by an orgasm",
+      "B": "is associated with unconsciousness",
+      "C": "involves a sudden increase in general muscle tone",
+      "D": "often lasts for 1 to 2 h",
+      "E": "is usually treated with neuroleptics"
+    },
+    "correct_answer": "A",
+    "explanation": "Cataplexy may indeed be precipitated by emotional triggers such as laughter or orgasm, unlike the other options which are inaccurate."
+  },
+  {
+    "number": 3,
+    "question": "A 45-year-old male employed as an air traffic controller presents for treatment of depression. Which of the following heterocyclic agents is least likely to cause sedation in this patient?",
+    "options": {
+      "A": "Desipramine",
+      "B": "Imipramine",
+      "C": "Amitriptyline",
+      "D": "Doxepin",
+      "E": "Amoxapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Desipramine is a tertiary amine that is considered to be stimulating and is the least sedating among the listed heterocyclic agents."
+  },
+  {
+    "number": 4,
+    "question": "All the following statements about rapid eye movement (REM) sleep are true EXCEPT",
+    "options": {
+      "A": "REM sleep is associated with hypotonia",
+      "B": "The amount of REM sleep declines between adolescence and old age",
+      "C": "REM sleep is the only state in which dreams occur",
+      "D": "A person is more apt to awaken after REM than non-REM(NREM) sleep",
+      "E": "Penile erections commonly occur during REM sleep"
+    },
+    "correct_answer": "C",
+    "explanation": "While most dreaming occurs during REM sleep, dreaming can also occur in non-REM sleep, making option C false."
+  },
+  {
+    "number": 1,
+    "question": "A clinician is considering combination therapy for treatment-resistant depression. Which of the following combinations has the most potential for serious adverse reactions?",
+    "options": {
+      "A": "Bupropion and Fluoxetine",
+      "B": "Buspirone and Nortriptyline",
+      "C": "Paroxetine and desipramine",
+      "D": "Phenelzine and lithium carbonate",
+      "E": "Venlafaxine and Tranylcypromine"
+    },
+    "correct_answer": "E",
+    "explanation": "The combination of Venlafaxine (an SNRI) and Tranylcypromine (a MAOI) poses a significant risk for serotonin syndrome and other serious adverse reactions."
+  },
+  {
+    "number": 2,
+    "question": "A 40-year-old woman with chronic headaches has undergone trials with several narcotic and nonnarcotic agents. Her physician elects to try her on a newer antidepressant medication. Which of the following medications is most likely to be effective?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Mirtazapine",
+      "C": "Nefazodone",
+      "D": "Sertraline",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "E",
+    "explanation": "Venlafaxine is effective for chronic pain syndromes and is often used for patients with headaches."
+  },
+  {
+    "number": 3,
+    "question": "Patients who suffer from depression after a myocardial infarction should be treated with which of the following antidepressants?",
+    "options": {
+      "A": "A monoamine oxidase inhibitor",
+      "B": "Bupropion",
+      "C": "Trazodone",
+      "D": "A tricyclic antidepressant",
+      "E": "An SSRI"
+    },
+    "correct_answer": "E",
+    "explanation": "SSRIs are generally recommended for treating depression in patients post-myocardial infarction, as they have a favorable safety profile."
+  },
+  {
+    "number": 4,
+    "question": "A patient being treated with interferon for hepatitis C complains of depression, anxiety, and irritability. Which of the following pharmacological agents has the most evidence for efficacy in treating those symptoms?",
+    "options": {
+      "A": "Trazodone",
+      "B": "Haloperidol",
+      "C": "Risperidone",
+      "D": "Nefazodone",
+      "E": "Sertraline"
+    },
+    "correct_answer": "E",
+    "explanation": "Sertraline is often effective in treating depression and anxiety, especially in patients coping with chronic illness like hepatitis C."
+  },
+  {
+    "number": 5,
+    "question": "A 45-year-old woman complains of blurred vision, ocular pain, and headache and was noted to have increased intraocular pressure. Which of the recently started medications is the most likely cause?",
+    "options": {
+      "A": "Lamotrigine",
+      "B": "Oxcarbazepine",
+      "C": "Tiagabine",
+      "D": "Topiramate",
+      "E": "Valproate"
+    },
+    "correct_answer": "D",
+    "explanation": "Topiramate is known to cause increased intraocular pressure and can lead to acute glaucoma in some patients."
+  },
+  {
+    "number": 6,
+    "question": "What is the first-line pharmacological treatment recommendation for late-life schizophrenia?",
+    "options": {
+      "A": "Quetiapine",
+      "B": "Olanzapine",
+      "C": "Risperidone",
+      "D": "Haloperidol",
+      "E": "Chlorpromazine"
+    },
+    "correct_answer": "A",
+    "explanation": "Quetiapine is commonly preferred for older adults with schizophrenia due to its lower risk of extrapyramidal symptoms."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following antipsychotics is preferred for a heavy smoker?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Olanzapine",
+      "C": "Haloperidol",
+      "D": "Risperidone"
+    },
+    "correct_answer": "A",
+    "explanation": "Clozapine is often preferred for heavy smokers due to its favorable interaction with smoking, making it a better choice."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following is the most common neuropsychiatric condition that usually arises from Addison disease?",
+    "options": {
+      "A": "Memory impairment",
+      "B": "Bipolar disorder",
+      "C": "Anxiety",
+      "D": "Paranoia",
+      "E": "Psychosis"
+    },
+    "correct_answer": "C",
+    "explanation": "Anxiety is the most commonly reported neuropsychiatric symptom associated with Addison's disease."
+  },
+  {
+    "number": 9,
+    "question": "Frontal lobe lesions can cause:",
+    "options": {
+      "A": "Pallilalia",
+      "B": "Echolalia",
+      "C": "Logoclonia",
+      "D": "Motor Jacksonian fits",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Frontal lobe lesions can lead to various speech and motor symptoms, including pallilalia, echolalia, and logoclonia."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following antipsychotics has the least effect on serum prolactin levels?",
+    "options": {
+      "A": "Amisulpride",
+      "B": "Haloperidol",
+      "C": "Olanzapine",
+      "D": "Risperidone",
+      "E": "Chlorpromazine"
+    },
+    "correct_answer": "C",
+    "explanation": "Olanzapine is considered to have the least effect on prolactin levels among the listed antipsychotics."
+  },
+  {
+    "number": 11,
+    "question": "In which region of the brain does the morphology of neurons change the most during old age?",
+    "options": {
+      "A": "Amygdala",
+      "B": "Hippocampus",
+      "C": "Perirhinal cortex",
+      "D": "Prefrontal cortex",
+      "E": "Lateral temporal cortex"
+    },
+    "correct_answer": "B",
+    "explanation": "The hippocampus is particularly affected in terms of neuron morphology during aging, showing the most significant changes."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following antipsychotic medications is associated with decreased psychotic symptoms, decreased substance use, and increased abstinence in patients with schizophrenia and addictive disorder?",
+    "options": {
+      "A": "Thiothixene",
+      "B": "Haloperidol",
+      "C": "Perphenazine",
+      "D": "Chlorpromazine",
+      "E": "Clozapine"
+    },
+    "correct_answer": "E",
+    "explanation": "Clozapine has shown efficacy in managing both psychotic symptoms and substance use issues in patients with dual diagnoses."
+  },
+  {
+    "number": 13,
+    "question": "The role of glycine at the NMDA receptor can best be described as a(n):",
+    "options": {
+      "A": "antagonist",
+      "B": "partial agonist",
+      "C": "inverse agonist",
+      "D": "stearic modulator",
+      "E": "obligate co-agonist"
+    },
+    "correct_answer": "E",
+    "explanation": "Glycine acts as an obligate co-agonist at NMDA receptors, meaning it is required for receptor activation in conjunction with glutamate."
+  },
+  {
+    "number": 14,
+    "question": "The mesolimbic dopamine pathway includes which of the following structures?",
+    "options": {
+      "A": "Hypothalamus",
+      "B": "Prefrontal cortex",
+      "C": "Substantia nigra",
+      "D": "Ventral striatum",
+      "E": "Periaqueductal gray matter"
+    },
+    "correct_answer": "D",
+    "explanation": "The ventral striatum is a key component of the mesolimbic dopamine pathway, involved in reward processing."
+  },
+  {
+    "number": 15,
+    "question": "Which of the following personality disorders results in displays of rapidly shifting and shallow expression of emotions in patients?",
+    "options": {
+      "A": "Antisocial",
+      "B": "Avoidant",
+      "C": "Borderline",
+      "D": "Histrionic",
+      "E": "Narcissistic"
+    },
+    "correct_answer": "D",
+    "explanation": "Histrionic personality disorder is characterized by dramatic and rapidly shifting emotions, along with a desire for attention."
+  },
+  {
+    "number": 1,
+    "question": "An 18-year-old man was recently diagnosed with a first episode of psychosis. He has a sense of perplexity and uncertainty, and feels that something is wrong around him, but can’t describe what it is. What is he most likely experiencing?",
+    "options": {
+      "A": "Delusional memory",
+      "B": "Delusional mood",
+      "C": "Depression",
+      "D": "Negative symptoms",
+      "E": "Positive symptoms"
+    },
+    "correct_answer": "B",
+    "explanation": "The man is likely experiencing a delusional mood, characterized by feelings of unease or suspicion without clear delusions."
+  },
+  {
+    "number": 2,
+    "question": "What is the first-line pharmacological treatment recommendation for late-life schizophrenia?",
+    "options": {
+      "A": "Quetiapine",
+      "B": "Olanzapine",
+      "C": "Risperidone",
+      "D": "Haloperidol",
+      "E": "Chlorpromazine"
+    },
+    "correct_answer": "C",
+    "explanation": "Risperidone is often considered the first-line treatment for schizophrenia in older adults due to its efficacy and safety profile."
+  },
+  {
+    "number": 3,
+    "question": "A 48-year-old chronic schizophrenic male is admitted to the inpatient unit again for relapse. He is known to be noncompliant with medicines necessitating the fourth admission in the past 6 months. He is homeless again, and all efforts to find assisted living failed because he just walks out of these facilities and prefers to stay on the streets. Which of the following interventions are reasonable in a patient like this?",
+    "options": {
+      "A": "Consider depot antipsychotics.",
+      "B": "Consider referral to Assertive Community Treatment (ACT) program.",
+      "C": "Consider compliance therapy.",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All of the listed interventions, including depot antipsychotics and ACT, are reasonable and may help improve the patient's compliance and housing situation."
+  },
+  {
+    "number": 4,
+    "question": "Of all the typical antipsychotics, which of the following is considered as 'weight-neutral'?",
+    "options": {
+      "A": "Molindone",
+      "B": "Perphenazine",
+      "C": "Haloperidol",
+      "D": "Chlorpromazine",
+      "E": "Pimozide"
+    },
+    "correct_answer": "A",
+    "explanation": "Molindone is considered weight-neutral compared to other typical antipsychotics, which often cause weight gain."
+  },
+  {
+    "number": 5,
+    "question": "A 56-year-old chronic schizophrenic patient who is on haloperidol for more than 30 years would like to know more about 'atypical' antipsychotics. He mentions that one of his friends at the group home was recently prescribed this medication, and his psychiatrist told the other patient that these 'new' medicines are better than haloperidol. Which of the following statements about atypical antipsychotics is true?",
+    "options": {
+      "A": "They have antagonistic properties at both dopamine and serotonin receptors.",
+      "B": "They are also known as second-generation antipsychotics.",
+      "C": "There is a decreased incidence of extrapyramidal side effects.",
+      "D": "There is a decreased elevation of prolactin levels.",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All of the statements about atypical antipsychotics are true; they are associated with various benefits compared to typical antipsychotics."
+  },
+  {
+    "number": 6,
+    "question": "All of the following psychological interventions have been found to be helpful in patients with schizophrenia except:",
+    "options": {
+      "A": "Psychodynamic psychotherapy",
+      "B": "Family therapy",
+      "C": "Supportive psychotherapy",
+      "D": "Group therapy",
+      "E": "Cognitive behavioral therapy"
+    },
+    "correct_answer": "A",
+    "explanation": "Psychodynamic psychotherapy has not been shown to be effective in the treatment of schizophrenia compared to the other listed treatments."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following abnormalities are often seen in patients with schizophrenia?",
+    "options": {
+      "A": "Decreased neuronal density",
+      "B": "Decreased brain volume",
+      "C": "Increased sizes of lateral and third ventricles",
+      "D": "Decreased size of temporal lobe",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "All of these neurological abnormalities have been associated with schizophrenia."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following is true about expressed emotions (EE) in schizophrenia?",
+    "options": {
+      "A": "High EE is associated with bad prognosis.",
+      "B": "Family therapy is useful.",
+      "C": "Criticism, hostility, and overinvolvement are considered to be high EE.",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All provided statements about expressed emotions in the context of schizophrenia are accurate."
+  },
+  {
+    "number": 9,
+    "question": "Which of these psychoactive substances is shown to have rapid, durable effects on symptoms of major depressive disorder?",
+    "options": {
+      "A": "Cannabis",
+      "B": "Lysergic acid diethylamide",
+      "C": "Psilocybin",
+      "D": "Salvia divinorum"
+    },
+    "correct_answer": "C",
+    "explanation": "Psilocybin has been studied for its potential rapid and durable effects on depressive symptoms."
+  },
+  {
+    "number": 10,
+    "question": "Which of these did 3,4-methylenedioxymethamphetamine (MDMA)-assisted therapy improve?",
+    "options": {
+      "A": "Borderline personality disorder",
+      "B": "Generalized anxiety disorder",
+      "C": "Posttraumatic stress disorder",
+      "D": "All of these"
+    },
+    "correct_answer": "D",
+    "explanation": "MDMA-assisted therapy has shown benefits in treating a variety of conditions including borderline personality disorder, generalized anxiety disorder, and PTSD."
+  },
+  {
+    "number": 11,
+    "question": "Which of these is best supported by the evidence for decreasing and preventing suicidality?",
+    "options": {
+      "A": "Alpha-methyltryptamine",
+      "B": "Ketamine/esketamine",
+      "C": "LSD",
+      "D": "Salvia divinorum"
+    },
+    "correct_answer": "B",
+    "explanation": "Ketamine/esketamine has shown robust evidence in decreasing suicidality in clinical settings."
+  },
+  {
+    "number": 12,
+    "question": "Which of these statements is accurate regarding MDMA-assisted therapy and its effect on patients with schizophrenia?",
+    "options": {
+      "A": "It might improve positive symptoms (eg, hallucinations, delusions)",
+      "B": "It might improve negative symptoms (eg, deficits in motivation, sociality, affect)",
+      "C": "It might improve both positive and negative symptoms",
+      "D": "It has no proven effect"
+    },
+    "correct_answer": "D",
+    "explanation": "Currently, there is no proven effect of MDMA-assisted therapy on schizophrenia symptoms, and caution is advised due to potential exacerbation."
+  },
+  {
+    "number": 13,
+    "question": "Which of these other mental health issues did psychoactive-assisted therapy treat successfully?",
+    "options": {
+      "A": "Bipolar disorder",
+      "B": "Borderline personality disorder",
+      "C": "Obsessive-compulsive disorder",
+      "D": "All of these"
+    },
+    "correct_answer": "D",
+    "explanation": "Psychoactive-assisted therapies have shown promise in treating a range of mental health issues, including bipolar disorder, borderline personality disorder, and OCD."
+  },
+  {
+    "number": 1,
+    "question": "Which options of the below best describes the mechanism of action of Mirtazepine?",
+    "options": {
+      "A": "SSRI",
+      "B": "MAOI",
+      "C": "NDRI",
+      "D": "NASSA",
+      "E": "SNRI"
+    },
+    "correct_answer": "D",
+    "explanation": "Mirtazepine is classified as a NASSA (Noradrenergic and Specific Serotonergic Antidepressant) as it works by blocking certain adrenergic receptors and enhancing serotonergic neurotransmission."
+  },
+  {
+    "number": 2,
+    "question": "Some antipsychotic medication causes diabetes through a direct mechanism. The safest drug in DM.",
+    "options": {
+      "A": "Haloperidol",
+      "B": "Olanzapine",
+      "C": "Aripiprazole",
+      "D": "Risperidone",
+      "E": "Clozapine"
+    },
+    "correct_answer": "C",
+    "explanation": "Aripiprazole is considered the safest option among antipsychotics in terms of diabetes risk compared to Olanzapine and Clozapine."
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is most likely to result in electroencephalographic changes?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Quetiapine",
+      "C": "Resperidone",
+      "D": "Clozapine",
+      "E": "Fluphenazine"
+    },
+    "correct_answer": "D",
+    "explanation": "Clozapine is known to result in significant electroencephalographic changes among antipsychotics due to its unique action on the neurotransmitter systems."
+  },
+  {
+    "number": 4,
+    "question": "What is the minimum percentage of striatal D2 receptor occupancy acquired to potentially induce extrapyramidal side effects?",
+    "options": {
+      "A": "20%",
+      "B": "30%",
+      "C": "50%",
+      "D": "70%",
+      "E": "80%"
+    },
+    "correct_answer": "60%",
+    "explanation": "Extrapyramidal side effects are generally observed when D2 receptor occupancy exceeds approximately 60%."
+  },
+  {
+    "number": 5,
+    "question": "A 50-year-old woman suffers from schizophrenia and she has taken quetiapine for 2 years. Her GP notices that she has developed postural hypotension. The GP wants to find out the pharmacodynamic pathway involved in causing the postural hypotension.",
+    "options": {
+      "A": "Blocking alpha-1 adrenergic receptor",
+      "B": "Stimulating alpha-1 adrenergic receptor",
+      "C": "Blocking alpha-2 adrenergic receptor",
+      "D": "Stimulating alpha-2 adrenergic receptor",
+      "E": "Blocking beta receptor"
+    },
+    "correct_answer": "A",
+    "explanation": "Quetiapine causes postural hypotension primarily by blocking alpha-1 adrenergic receptors, leading to vasodilation."
+  },
+  {
+    "number": 6,
+    "question": "A 35-year-old man suffering from treatment-resistant schizophrenia has taken clozapine for 6 months. He is disturbed by excessive saliva drooling from his mouth. His GP wants to know the pharmacodynamics related to this side effect.",
+    "options": {
+      "A": "α1-adrenergic receptor agonism and M3 muscarinic receptor antagonism",
+      "B": "α1-adrenergic receptor antagonism and M3 muscarinic receptor agonism",
+      "C": "α1-adrenergic receptor agonism and M5 muscarinic receptor antagonism",
+      "D": "α2-adrenergic receptor agonism and M4 muscarinic receptor antagonism",
+      "E": "α2-adrenergic receptor antagonism and M4 muscarinic receptor agonism"
+    },
+    "correct_answer": "A",
+    "explanation": "Clozapine's action on the α1-adrenergic receptors as well as its M3 muscarinic receptor antagonism contributes to increased salivation."
+  },
+  {
+    "number": 7,
+    "question": "A 40-year-old woman suffering from treatment-resistant schizophrenia has taken clozapine 450 mg/day for 2 months. Which of the following side effects would not improve even if the dose is reduced?",
+    "options": {
+      "A": "Hypotension",
+      "B": "Neutropenia",
+      "C": "Sedation",
+      "D": "Seizure",
+      "E": "Weight gain"
+    },
+    "correct_answer": "B",
+    "explanation": "Neutropenia is a serious side effect associated with clozapine, and it typically does not improve solely by reducing the dose."
+  },
+  {
+    "number": 8,
+    "question": "A core trainee consults you on how to avoid causing amenorrhoea in a 25-year-old female patient with schizophrenia resulting from antipsychotics. Which is the most likely to cause amenorrhoea?",
+    "options": {
+      "A": "Amisulpride",
+      "B": "Aripiprazole",
+      "C": "Clozapine",
+      "D": "Olanzapine",
+      "E": "Quetiapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Amisulpride is known for causing amenorrhea due to its potent effects on dopamine receptors and resultant hyperprolactinemia."
+  },
+  {
+    "number": 9,
+    "question": "A 25-year-old with schizophrenia on risperidone complains of sexual dysfunction. Which of the following tests would you order?",
+    "options": {
+      "A": "Calcium and parathyroid hormone",
+      "B": "Cortisol level",
+      "C": "Fasting serum glucose",
+      "D": "Prolactin level",
+      "E": "Thyroid function test"
+    },
+    "correct_answer": "D",
+    "explanation": "Prolactin level would be the most relevant test to assess, as risperidone is known to elevate prolactin, which can cause sexual dysfunction."
+  },
+  {
+    "number": 10,
+    "question": "A 35-year-old patient with schizophrenia previously on olanzapine was diagnosed by his GP to suffer from diabetes mellitus. Which of the following suitable antipsychotic would you recommend in this case?",
+    "options": {
+      "A": "Amisulpride",
+      "B": "Chlorpromazine",
+      "C": "Clozapine",
+      "D": "Risperidone",
+      "E": "Quetiapine"
+    },
+    "correct_answer": "D",
+    "explanation": "In patients with diabetes, Risperidone is preferred as it has a more favorable metabolic profile compared to Olanzapine."
+  },
+  {
+    "number": 11,
+    "question": "Which ONE of the following has been shown to be effective in reducing the risk of developing psychosis in at-risk mental states?",
+    "options": {
+      "A": "Monitoring alone.",
+      "B": "Low-dose atypical antipsychotics.",
+      "C": "Usual dose antipsychotics.",
+      "D": "Antidepressant drug treatment",
+      "E": "Mood stabilisers"
+    },
+    "correct_answer": "B",
+    "explanation": "Low-dose atypical antipsychotics have shown efficacy in reducing the risk of transitioning to psychosis in at-risk populations."
+  },
+  {
+    "number": 12,
+    "question": "Atypical antipsychotic medications are used in the first-line treatment of schizophrenia. Olanzapine is one example of an atypical antipsychotic drug. Which ONE of the following statements about olanzapine is TRUE?",
+    "options": {
+      "A": "It exerts its sedative effects through its 5HT2A receptor activity",
+      "B": "It only causes diabetes mellitus at doses above 20mg.",
+      "C": "It has superior efficacy compared with haloperidol.",
+      "D": "It is less likely to cause hyperprolactinaemia than risperidone.",
+      "E": "Its association with more weight gain and metabolic effects when compared with other atypicals"
+    },
+    "correct_answer": "E",
+    "explanation": "Olanzapine is associated with more weight gain and metabolic side effects compared to other atypical antipsychotics."
+  },
+  {
+    "number": 13,
+    "question": "The antipsychotic which is best supported for use in patients with Tardive Dyskinesia is:",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Quetiapine",
+      "C": "Aripiprazole",
+      "D": "Clozapine",
+      "E": "Risperidone"
+    },
+    "correct_answer": "C",
+    "explanation": "Aripiprazole is known to be beneficial for patients with Tardive Dyskinesia due to its partial agonist activity on dopamine receptors."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following causes symptoms of inappropriate ADH secretion?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Haloperidol",
+      "C": "Quetiapine",
+      "D": "All of these",
+      "E": "Risperidone"
+    },
+    "correct_answer": "D",
+    "explanation": "All listed antipsychotics can lead to the inappropriate secretion of antidiuretic hormone (ADH), causing hyponatremia."
+  },
+  {
+    "number": 15,
+    "question": "A male schizophrenia patient on clozapine has gained 20kg. Your next step is to: (choose ONE of the following)",
+    "options": {
+      "A": "Switch to Risperidone",
+      "B": "Switch to Olanzapine",
+      "C": "Switch to Quetiapine",
+      "D": "Add sodium valproate",
+      "E": "Switch to aripiprazole"
+    },
+    "correct_answer": "E",
+    "explanation": "Switching to aripiprazole may help manage weight gain as it has a lower propensity for metabolic side effects compared to Clozapine."
+  },
+  {
+    "number": 1,
+    "question": "Which of these types of pharmacologic sleep aids could be used by patients with insomnia for up to 3 months, according to the 2023 update to the European Insomnia Guideline?",
+    "options": {
+      "A": "Antihistamines such as diphenhydramine",
+      "B": "Antipsychotics such as quetiapine",
+      "C": "Benzodiazepines such as diazepam",
+      "D": "Orexin receptor agonists such as daridorexant"
+    },
+    "correct_answer": "D",
+    "explanation": "Orexin receptor agonists like daridorexant can be prescribed for longer durations, including up to 3 months, in the treatment of insomnia."
+  },
+  {
+    "number": 2,
+    "question": "Which of these factors improved the prognosis of patients undertaking mobile cognitive-behavioral therapy for insomnia?",
+    "options": {
+      "A": "High Generalized Anxiety Disorder-7 score",
+      "B": "Low educational level",
+      "C": "Older age at onset",
+      "D": "Rapid onset time"
+    },
+    "correct_answer": "D",
+    "explanation": "Rapid onset time of insomnia has been associated with a more favorable prognosis in cognitive-behavioral therapy interventions."
+  },
+  {
+    "number": 3,
+    "question": "Which of these bright-light therapy application times benefited a patient with early-morning awakening insomnia most?",
+    "options": {
+      "A": "In the evening",
+      "B": "In the morning",
+      "C": "In both the morning and evening",
+      "D": "In the late afternoon"
+    },
+    "correct_answer": "B",
+    "explanation": "Applying bright-light therapy in the morning has been shown to be most beneficial in treating early-morning awakening insomnia."
+  },
+  {
+    "number": 4,
+    "question": "In a study of brain stimulation approaches to insomnia, which of these techniques was found to improve sleep initiation?",
+    "options": {
+      "A": "Cutaneous forehead cooling",
+      "B": "Transcutaneous auricular vagus nerve stimulation",
+      "C": "Transcranial random noise stimulation",
+      "D": "Transcranial ultrasound stimulation"
+    },
+    "correct_answer": "B",
+    "explanation": "Transcutaneous auricular vagus nerve stimulation has demonstrated efficacy in improving sleep initiation."
+  },
+  {
+    "number": 5,
+    "question": "Use of which of these complementary/alternative sleep aids is supported by research?",
+    "options": {
+      "A": "Ashwagandha",
+      "B": "Kava",
+      "C": "Passiflora extract",
+      "D": "Valerian"
+    },
+    "correct_answer": "D",
+    "explanation": "Valerian root has substantial research support indicating its effectiveness in improving sleep quality and latency."
+  },
+  {
+    "number": 6,
+    "question": "Which is most accurate regarding moderate-stage AD?",
+    "options": {
+      "A": "Patients do not exhibit apparent symptoms",
+      "B": "It is typically the longest stage",
+      "C": "Patients at this stage require constant care",
+      "D": "Patients continue to function independently"
+    },
+    "correct_answer": "C",
+    "explanation": "Patients in moderate-stage Alzheimer's Disease often require constant care due to significant cognitive and functional decline."
+  },
+  {
+    "number": 7,
+    "question": "Which symptom often first appears with progression from early/mild- to moderate-stage AD?",
+    "options": {
+      "A": "Memory loss and cognitive impairment",
+      "B": "Complete loss of self",
+      "C": "Diminished verbal communication",
+      "D": "Behavior problems (eg, wandering and agitation)"
+    },
+    "correct_answer": "D",
+    "explanation": "Behavioral problems, such as wandering and agitation, often manifest first as Alzheimer's progresses from early/mild to moderate stages."
+  },
+  {
+    "number": 8,
+    "question": "Which is more common in moderate-stage AD vs early/mild-stage AD?",
+    "options": {
+      "A": "Taking longer to complete normal daily tasks",
+      "B": "Trouble handling money",
+      "C": "Problems recognizing friends and family members",
+      "D": "Behavior"
+    },
+    "correct_answer": "C",
+    "explanation": "Problems recognizing friends and family members become more prevalent in moderate-stage Alzheimer's compared to earlier stages."
+  },
+  {
+    "number": 9,
+    "question": "Which of these is greatly increased during moderate-stage AD?",
+    "options": {
+      "A": "Moaning/groaning",
+      "B": "Loss of impulse control",
+      "C": "Loss of bowel/bladder control",
+      "D": "Complete dependence on a caregiver"
+    },
+    "correct_answer": "D",
+    "explanation": "During moderate-stage Alzheimer's, patients typically experience complete dependence on caregivers due to significant cognitive decline."
+  },
+  {
+    "number": 10,
+    "question": "Which best represents the standard medical treatment for moderate-stage AD?",
+    "options": {
+      "A": "N-nitrosodimethylamine antagonist in combination with a cholinesterase inhibitor",
+      "B": "Monotherapy with an anti-amyloid beta monoclonal antibody",
+      "C": "Monotherapy with a cholinesterase inhibitor",
+      "D": "A combination of antidepressants and mood modulators"
+    },
+    "correct_answer": "C",
+    "explanation": "Monotherapy with a cholinesterase inhibitor is the standard treatment for moderate-stage Alzheimer's disease."
+  },
+  {
+    "number": 11,
+    "question": "Which is a distinguishing symptom of narcolepsy type 1 rather than idiopathic hypersomnia?",
+    "options": {
+      "A": "Absence of sleep-onset rapid eye movement periods (SOREMPs) on polysomnography",
+      "B": "Cataplexy",
+      "C": "Abnormal cerebrospinal fluid (CSF) hypocretin 1 levels",
+      "D": "More interruptions in nocturnal sleep"
+    },
+    "correct_answer": "B",
+    "explanation": "Cataplexy is a distinguishing symptom of narcolepsy type 1 and is not seen in idiopathic hypersomnia."
+  },
+  {
+    "number": 12,
+    "question": "Which syndrome features hypersomnia as a common symptom?",
+    "options": {
+      "A": "Turner syndrome",
+      "B": "Loose anagen syndrome",
+      "C": "Kleine-Levin syndrome",
+      "D": "Mauriac syndrome"
+    },
+    "correct_answer": "C",
+    "explanation": "Kleine-Levin syndrome is known for featuring hypersomnia as one of its hallmark symptoms."
+  },
+  {
+    "number": 13,
+    "question": "Which is a requirement for a diagnosis of hypersomnolence disorder?",
+    "options": {
+      "A": "It must be resistant to medication",
+      "B": "It must not be concomitant with a psychiatric disorder",
+      "C": "It must occur at least three times per week for at least 3 months",
+      "D": "It must occur in adults < 75 years old"
+    },
+    "correct_answer": "C",
+    "explanation": "For a diagnosis of hypersomnolence disorder, symptoms must occur at least three times per week for at least three months."
+  },
+  {
+    "number": 14,
+    "question": "How can hypersomnia be differentiated from chronic insufficient sleep?",
+    "options": {
+      "A": "Ensure that patients have an average sleep duration ≥ 5 hours before diagnosing hypersomnia",
+      "B": "An improvement in daytime symptoms after increased sleep duration is suggestive of chronic insufficient sleep rather than hypersomnia",
+      "C": "MSLT findings are usually sufficient for differentiating insufficient sleep from hypersomnia",
+      "D": "People with narcolepsy tend to have longer sleep latency than people with hypersomnia"
+    },
+    "correct_answer": "B",
+    "explanation": "An improvement in daytime symptoms with increased sleep duration indicates chronic insufficient sleep rather than hypersomnia."
+  },
+  {
+    "number": 15,
+    "question": "The differential diagnosis of hypersomnia should include which consideration?",
+    "options": {
+      "A": "PSG findings are always useful for differentiating behaviorally induced insufficient sleep syndrome (BIISS) from hypersomnia",
+      "B": "Dreaming during daytime naps typically distinguishes narcolepsy from hypersomnia",
+      "C": "Actigraphy is helpful to rule out BIISS",
+      "D": "Persistent or relapsing fatigue that does not resolve with bed rest distinguishes hypersomnia from chronic fatigue syndrome"
+    },
+    "correct_answer": "D",
+    "explanation": "Persistent or relapsing fatigue that fails to improve with rest helps differentiate hypersomnia from chronic fatigue syndrome."
+  },
+  {
+    "number": 1,
+    "question": "Which medication is considered the initial antidepressant of choice for uncomplicated depression?",
+    "options": {
+      "A": "Serotonin and norepinephrine reuptake inhibitors",
+      "B": "Selective serotonin reuptake inhibitors",
+      "C": "Monoamine oxidase inhibitors",
+      "D": "Tricyclic antidepressants"
+    },
+    "correct_answer": "B",
+    "explanation": "Selective serotonin reuptake inhibitors (SSRIs) are generally considered the first-line treatment for uncomplicated depression due to their efficacy and safety."
+  },
+  {
+    "number": 2,
+    "question": "Which is the most appropriate and common strategy for treatment-resistant depression?",
+    "options": {
+      "A": "Hospitalization",
+      "B": "The use of bright light therapy alone instead of an antidepressant",
+      "C": "Augmentation",
+      "D": "Employing strict dietary restrictions"
+    },
+    "correct_answer": "C",
+    "explanation": "Augmentation strategies, including adding another medication or therapy, are commonly used in cases of treatment-resistant depression."
+  },
+  {
+    "number": 3,
+    "question": "Which antidepressant was first discovered and has since remained a second-line treatment option for depression?",
+    "options": {
+      "A": "MAOIs",
+      "B": "Central nervous system stimulants",
+      "C": "SSRIs",
+      "D": "St John's Wort"
+    },
+    "correct_answer": "A",
+    "explanation": "Monoamine oxidase inhibitors (MAOIs) were among the first antidepressants discovered and are now often used as a second-line treatment option."
+  },
+  {
+    "number": 4,
+    "question": "What is a common second-line therapy option for a patient who has failed an SSRI?",
+    "options": {
+      "A": "Augmentation with an MAOI",
+      "B": "Switch to a TCA",
+      "C": "Augment with a CNS stimulant (eg, methylphenidate)",
+      "D": "Replace the current medication with an SNRI"
+    },
+    "correct_answer": "D",
+    "explanation": "Switching to a serotonin-norepinephrine reuptake inhibitor (SNRI) is a common second-line approach for patients who do not respond to SSRIs."
+  },
+  {
+    "number": 5,
+    "question": "Which class(es) of antidepressants has been approved for the treatment of major depressive disorder?",
+    "options": {
+      "A": "SSRIs and SNRIs only",
+      "B": "Serotonin 5-HT1A receptor agonists, SSRIs, and SNRIs",
+      "C": "SNRIs and MAOIs only",
+      "D": "Only MAOIs"
+    },
+    "correct_answer": "B",
+    "explanation": "Serotonin 5-HT1A receptor agonists, SSRIs, and SNRIs are all approved for treating major depressive disorder."
+  },
+  {
+    "number": 6,
+    "question": "A cancer patient with significant nausea requires an antidepressant. Which of the following medications would be the best choice?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Duloxetine",
+      "C": "Mirtazapine",
+      "D": "Paroxetine",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "C",
+    "explanation": "Mirtazapine is often favored in patients with nausea due to its antiemetic properties, making it suitable for cancer patients."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following antidepressants would be the best choice for a patient concerned about erectile dysfunction?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Fluoxetine",
+      "C": "Nortriptyline",
+      "D": "Imipramine",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "A",
+    "explanation": "Bupropion is less likely to cause sexual side effects, making it a better choice for patients concerned about erectile dysfunction."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following medications is considered first line monotherapy for posttraumatic stress disorder?",
+    "options": {
+      "A": "Clonazepam",
+      "B": "Sertraline",
+      "C": "Olanzapine",
+      "D": "Valproate",
+      "E": "Propranolol"
+    },
+    "correct_answer": "B",
+    "explanation": "Sertraline, an SSRI, is approved as a first-line treatment for posttraumatic stress disorder."
+  },
+  {
+    "number": 9,
+    "question": "A 40-year-old woman with chronic headaches has undergone trials with several narcotic and nonnarcotic agents with variable success. Her physician elects to try her on a newer antidepressant medication. Which of the following medications is most likely to be effective?",
+    "options": {
+      "A": "Bupropion",
+      "B": "Mirtazapine",
+      "C": "Nefazodone",
+      "D": "Sertraline",
+      "E": "Venlafaxine"
+    },
+    "correct_answer": "E",
+    "explanation": "Venlafaxine has been shown to be effective for managing chronic headaches, particularly tension-type headaches."
+  },
+  {
+    "number": 10,
+    "question": "A patient being treated with interferon for hepatitis C complains of depression, anxiety, and irritability. Which of the following pharmacological agents has the most evidence for efficacy in treating those symptoms?",
+    "options": {
+      "A": "Trazodone",
+      "B": "Haloperidol",
+      "C": "Risperidone",
+      "D": "Nefazodone",
+      "E": "Sertraline"
+    },
+    "correct_answer": "E",
+    "explanation": "Sertraline has demonstrated efficacy in treating depression and anxiety associated with medical conditions such as hepatitis C."
+  },
+  {
+    "number": 11,
+    "question": "What negative symptom of schizophrenia is observable in patients as blunted facial expression and reduced tonal quality relative to the content of speech?",
+    "options": {
+      "A": "Affective flattening",
+      "B": "Asociality",
+      "C": "Anhedonia"
+    },
+    "correct_answer": "A",
+    "explanation": "Affective flattening is characterized by a lack of emotional expression, including blunted facial expressions and reduced tonal variations in speech."
+  },
+  {
+    "number": 12,
+    "question": "What negative symptom of schizophrenia manifests as reduced initiation and persistence in goal-directed behaviors?",
+    "options": {
+      "A": "Avolition",
+      "B": "Alogia",
+      "C": "Anhedonia"
+    },
+    "correct_answer": "A",
+    "explanation": "Avolition refers to a lack of motivation to initiate and persist in goal-directed activities."
+  },
+  {
+    "number": 13,
+    "question": "What negative symptom of schizophrenia is observable as brief or vague responses to questions with little spontaneous elaboration and few details given?",
+    "options": {
+      "A": "Alogia",
+      "B": "Asociality",
+      "C": "Anhedonia"
+    },
+    "correct_answer": "A",
+    "explanation": "Alogia is characterized by poverty of speech, leading to brief or vague answers during conversations."
+  },
+  {
+    "number": 14,
+    "question": "What negative symptom of schizophrenia manifests as reduced initiation of social activities or a refusal to go along with, or passive participation, of activities initiated by others?",
+    "options": {
+      "A": "Anhedonia",
+      "B": "Asociality",
+      "C": "Avolition"
+    },
+    "correct_answer": "C",
+    "explanation": "Avolition is characterized by reduced motivation to engage in social or goal-directed activities."
+  },
+  {
+    "number": 15,
+    "question": "What negative symptom of schizophrenia might patients report as reduced enjoyment of usual activities?",
+    "options": {
+      "A": "Avolition",
+      "B": "Alogia",
+      "C": "Anhedonia"
+    },
+    "correct_answer": "C",
+    "explanation": "Anhedonia refers to the decreased ability to experience pleasure from activities that were once enjoyable."
+  },
+  {
+    "number": 16,
+    "question": "What 2 negative symptoms can be identified in patients with schizophrenia just by observation during an interaction, without specific questioning about their experiences?",
+    "options": {
+      "A": "Affective flattening and anhedonia",
+      "B": "Avolition and asociality",
+      "C": "Asociality and alogia",
+      "D": "Alogia and affective flattening"
+    },
+    "correct_answer": "D",
+    "explanation": "Alogia and affective flattening can be observed through the patient's speech and emotional expressions during interactions."
+  },
+  {
+    "number": 17,
+    "question": "Which of these has the strongest influence on functional capacity in people with schizophrenia?",
+    "options": {
+      "A": "Neurocognition",
+      "B": "Severity of positive symptoms",
+      "C": "Depression"
+    },
+    "correct_answer": "A",
+    "explanation": "Neurocognition, particularly cognitive functions like working memory and attention, has a strong influence on functional capacity in schizophrenia."
+  },
+  {
+    "number": 18,
+    "question": "A person with schizophrenia is working as a server at a food counter, and is struggling to take in the customer's order and enter it into the system quickly. What cognitive domain is most likely impaired?",
+    "options": {
+      "A": "Memory",
+      "B": "Attention",
+      "C": "Processing speed"
+    },
+    "correct_answer": "B",
+    "explanation": "Attention impairment can lead to difficulties in processing multiple stimuli quickly, which is critical in a service situation."
+  },
+  {
+    "number": 19,
+    "question": "When do cognitive symptoms usually start in a person who develops schizophrenia?",
+    "options": {
+      "A": "About the same time as first symptoms of psychosis",
+      "B": "Years after the first symptoms of psychosis",
+      "C": "Years before the first symptoms of psychosis"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive symptoms often begin years before the onset of psychotic symptoms in individuals who later develop schizophrenia."
+  },
+  {
+    "number": 20,
+    "question": "What psychosocial intervention is supported by clinical evidence and recommended by the European Psychiatric Association (EPA) for treatment of cognitive impairment in schizophrenia?",
+    "options": {
+      "A": "Cognitive remediation",
+      "B": "Cognitive behavioural therapy",
+      "C": "Social skills training"
+    },
+    "correct_answer": "A",
+    "explanation": "Cognitive remediation has been shown to be effective in treating cognitive impairments associated with schizophrenia."
+  },
+  {
+    "number": 21,
+    "question": "What lifestyle intervention is supported by clinical evidence and recommended by the EPA for treatment of cognitive impairment in schizophrenia?",
+    "options": {
+      "A": "Physical exercise",
+      "B": "Stopping smoking",
+      "C": "Mediterranean diet"
+    },
+    "correct_answer": "A",
+    "explanation": "Physical exercise has been shown to improve cognitive functioning and is recommended for patients with schizophrenia."
+  },
+  {
+    "number": 22,
+    "question": "Improvement of which outcome is associated with telemedicine for treatment of patients with mild to moderate depression?",
+    "options": {
+      "A": "Depressive symptoms",
+      "B": "Quality of life",
+      "C": "Work and social functioning",
+      "D": "All of these"
+    },
+    "correct_answer": "D",
+    "explanation": "Telemedicine has been associated with improvements in depressive symptoms, quality of life, and work and social functioning."
+  },
+  {
+    "number": 23,
+    "question": "Which of these statements regarding telehealth for depression affecting patients with lower incomes is most accurate?",
+    "options": {
+      "A": "It replaced in-person mental health care entirely",
+      "B": "It significantly reduced persistent barriers to accessing care such as affordability and stigma",
+      "C": "It mitigated technology issues",
+      "D": "It had no significant effect"
+    },
+    "correct_answer": "B",
+    "explanation": "Telehealth has significantly reduced barriers to accessing care, particularly affordability and stigma, for lower-income patients."
+  },
+  {
+    "number": 24,
+    "question": "Which of these was more common among patients treated with telehealth interventions for depression compared with those who receive face-to-face psychotherapeutic interventions for depression?",
+    "options": {
+      "A": "Higher incidence of previous treatment",
+      "B": "Longer duration of symptoms",
+      "C": "More severe symptoms",
+      "D": "Younger mean age"
+    },
+    "correct_answer": "D",
+    "explanation": "Patients treated with telehealth for depression are often younger compared to those receiving face-to-face therapy."
+  },
+  {
+    "number": 25,
+    "question": "Which of these subgroups of patients with moderate to severe depression are shown to benefit most from using mobile app interventions?",
+    "options": {
+      "A": "Patients aged 65 years or older",
+      "B": "Patients also receiving ongoing psychological or pharmacological treatments",
+      "C": "Patients with a formal diagnosis vs self-diagnosed",
+      "D": "Patients with non-Western ethnicities"
+    },
+    "correct_answer": "B",
+    "explanation": "Patients who are also receiving ongoing treatments have been shown to benefit the most from mobile app interventions for depression."
+  },
+  {
+    "number": 26,
+    "question": "Which of these telehealth intervention types for depression was preferred by women in the United States aged 18 years or older who identify as African American or Black and another race?",
+    "options": {
+      "A": "Mobile app",
+      "B": "SMS text messaging",
+      "C": "SMS text messaging among patients with mild depression only",
+      "D": "Video/voice call"
+    },
+    "correct_answer": "D",
+    "explanation": "Video/voice calls are preferred among this demographic for telehealth interventions for depression."
+  },
+  {
+    "number": 1,
+    "question": "According to the DSM-5, a diagnosis of GAD requires excessive anxiety and worry that occurs on most days of the week for at least which duration?",
+    "options": {
+      "A": "6 weeks",
+      "B": "3 months",
+      "C": "6 months",
+      "D": "1 year"
+    },
+    "correct_answer": "C",
+    "explanation": "The DSM-5 specifies that generalized anxiety disorder (GAD) symptoms must be present for at least 6 months."
+  },
+  {
+    "number": 2,
+    "question": "Substance/medication-induced anxiety disorder may be prescribed medications. Which of these is most well recognized as having the potential to provoke anxiety?",
+    "options": {
+      "A": "Levothyroxine",
+      "B": "Metformin",
+      "C": "Acetaminophen",
+      "D": "Amlodipine"
+    },
+    "correct_answer": "A",
+    "explanation": "Levothyroxine can induce anxiety symptoms, particularly if the dosage is too high."
+  },
+  {
+    "number": 3,
+    "question": "Panic disorder is characterized by the spontaneous and unexpected occurrence of panic attacks. Which of these is most widely recognized as a panic attack symptom?",
+    "options": {
+      "A": "Suicidal ideation",
+      "B": "Polyuria",
+      "C": "Depersonalization",
+      "D": "A sudden drop in blood pressure"
+    },
+    "correct_answer": "C",
+    "explanation": "Depersonalization is a common symptom experienced during panic attacks."
+  },
+  {
+    "number": 4,
+    "question": "Social phobia is an anxiety disorder involving intense distress in response to public situations. Which of these is a recognized criterion for the diagnosis of social phobia?",
+    "options": {
+      "A": "The patient frequently demonstrates manic periods prior to or after a public situation",
+      "B": "The patient recognizes that the fear is excessive or unreasonable",
+      "C": "The patient exhibits aggressive, often angry behavior during public events",
+      "D": "The patient displays clinically significant depression"
+    },
+    "correct_answer": "B",
+    "explanation": "Patients with social phobia often recognize that their fear of social situations is excessive or unreasonable."
+  },
+  {
+    "number": 5,
+    "question": "Which is most accurate regarding the treatment of anxiety disorders?",
+    "options": {
+      "A": "Psychodynamic therapy is preferred to CBT in patients with social phobia",
+      "B": "A combination of low-dose SSRIs and TCAs is considered first-line treatment for GAD",
+      "C": "Management of panic disorder requires medication as opposed to psychotherapy alone",
+      "D": "Long-term BZDs should be avoided but as an adjunct during titration of other long-term drugs"
+    },
+    "correct_answer": "D",
+    "explanation": "Long-term benzodiazepines (BZDs) should be avoided due to dependence, but they can be used as adjuncts during medication titration."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following is NOT a core feature of cognitive impairment associated with schizophrenia (CIAS)?",
+    "options": {
+      "A": "Associated with poorer functioning in valued activities",
+      "B": "Causes a steadily progressive decline in cognition starting at the first episode",
+      "C": "Impacts multiple areas of cognition",
+      "D": "Present in the early phases of illness"
+    },
+    "correct_answer": "B",
+    "explanation": "The cognitive impairments associated with schizophrenia do not necessarily cause a steadily progressive decline starting from the first episode."
+  },
+  {
+    "number": 7,
+    "question": "What 2 negative symptoms can be identified in patients with schizophrenia just by observation during an interaction, without specific questioning about their experiences?",
+    "options": {
+      "A": "Affective flattening and anhedonia",
+      "B": "Avolition and asociality",
+      "C": "Asociality and alogia",
+      "D": "Alogia and affective flattening"
+    },
+    "correct_answer": "D",
+    "explanation": "Alogia and affective flattening can be observed during interactions without the need for specific questioning."
+  },
+  {
+    "number": 8,
+    "question": "You are scheduled to see a 20-year-old man with schizophrenia who is responding well to a second-generation antipsychotic. One of his goals is to complete his college degree, but his support worker says the patient is struggling to attend classes regularly, and reports the patient saying he 'isn't good at this stuff anymore.' What is the most appropriate next step to determine whether cognitive impairments associated with his schizophrenia are affecting his ability to return to college?",
+    "options": {
+      "A": "Ask, 'Do you have a problem with attention, memory, or planning and organization in everyday life?'",
+      "B": "Ask, 'Is it helpful for your college work if you focus better, remember better what you've read?'",
+      "C": "Raise the dose of his antipsychotic medication",
+      "D": "Testing with a schizophrenia-specific cognitive battery, such as Consensus Cognitive Battery"
+    },
+    "correct_answer": "D",
+    "explanation": "Administering a schizophrenia-specific cognitive battery is the most objective way to assess cognitive impairments."
+  },
+  {
+    "number": 9,
+    "question": "What does anhedonia, one of the five primary negative symptoms of schizophrenia, refer to?",
+    "options": {
+      "A": "Impaired motivation and drive",
+      "B": "Poverty of speech",
+      "C": "Reduced experience of emotions, especially pleasure",
+      "D": "Reduced expression of emotions",
+      "E": "Reduced social activities related to interest"
+    },
+    "correct_answer": "C",
+    "explanation": "Anhedonia refers to the reduced ability to experience pleasure from activities that are typically enjoyable."
+  },
+  {
+    "number": 1,
+    "question": "What is this patient's likely diagnosis?",
+    "options": {
+      "A": "Early-onset Alzheimer's disease",
+      "B": "Hypoglycemia-related mood changes",
+      "C": "Obstructive sleep apnea",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "A",
+    "explanation": "Given the age and symptoms, early-onset Alzheimer's disease is the most likely diagnosis."
+  },
+  {
+    "number": 2,
+    "question": "What other information would be most appropriate to help assess this patient's early-onset AD?",
+    "options": {
+      "A": "Electrocardiography",
+      "B": "Electroencephalography",
+      "C": "Mini-Cog assessment",
+      "D": "Six-minute walk test"
+    },
+    "correct_answer": "C",
+    "explanation": "The Mini-Cog assessment is a useful tool to help evaluate cognitive function in suspected early-onset Alzheimer's disease."
+  },
+  {
+    "number": 3,
+    "question": "The patient scores 3 on the Mini-Cog test. What is the most appropriate next step?",
+    "options": {
+      "A": "Discuss pharmacologic interventions that might help",
+      "B": "Immediately initiate a pharmacologic intervention",
+      "C": "Refer to an endocrinologist",
+      "D": "Take a watch-and-wait approach"
+    },
+    "correct_answer": "A",
+    "explanation": "Discussing pharmacologic interventions is appropriate after identifying cognitive issues, but immediate initiation may not be necessary."
+  },
+  {
+    "number": 4,
+    "question": "As part of the patient's ongoing care, which is the most appropriate way to manage her diabetes medication?",
+    "options": {
+      "A": "Discontinue metformin and initiate basal insulin",
+      "B": "Maintain the current metformin dosage",
+      "C": "Lower the metformin dosage and add a sulfonylurea",
+      "D": "Increase the metformin dosage"
+    },
+    "correct_answer": "B",
+    "explanation": "Maintaining the current metformin dosage is usually appropriate unless there are compelling reasons to change the regimen."
+  },
+  {
+    "number": 5,
+    "question": "What other recommendations are currently most appropriate for this patient?",
+    "options": {
+      "A": "Home nursing care",
+      "B": "Obesity medications",
+      "C": "Retirement planning",
+      "D": "Supportive care for speech and behavior"
+    },
+    "correct_answer": "D",
+    "explanation": "Supportive care for speech and behavior would be an appropriate recommendation alongside cognitive and medical management."
+  },
+  {
+    "number": 6,
+    "question": "A trial of which medication is recommended for a child with major depression?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Clonidine",
+      "C": "Olanzapine",
+      "D": "Risperidone",
+      "E": "Paroxetine"
+    },
+    "correct_answer": "A",
+    "explanation": "Fluoxetine is an SSRI and is the only antidepressant indicated for use in children with major depression."
+  },
+  {
+    "number": 7,
+    "question": "Which of these therapeutic interventions is recommended for a child with major depression?",
+    "options": {
+      "A": "Parent-child intervention therapy",
+      "B": "Exposure response prevention",
+      "C": "Cognitive-behavioral therapy",
+      "D": "Desensitization therapy"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive-behavioral therapy (CBT) is the most backed therapeutic intervention for treating major depression in children."
+  },
+  {
+    "number": 8,
+    "question": "On the basis of these findings only, what is the most likely diagnosis?",
+    "options": {
+      "A": "Oppositional defiant disorder",
+      "B": "Autism spectrum disorder",
+      "C": "Selective mutism disorder",
+      "D": "Major depressive disorder"
+    },
+    "correct_answer": "C",
+    "explanation": "The symptoms and context suggest selective mutism, characterized by consistent failure to speak in specific social situations."
+  },
+  {
+    "number": 9,
+    "question": "A patient in the ER for cardiovascular monitoring is being given supportive care for intoxication with an unknown substance. On examination, the patient is hypertensive and tachycardic. Nystagmus is noted along with increased salivation. The patient was found walking in the middle of the road and was biting himself and did not appear to be in pain. Which of the following is the most likely substance the patient took?",
+    "options": {
+      "A": "Alprazolam",
+      "B": "Caffeine",
+      "C": "Cannabis",
+      "D": "Heroin",
+      "E": "Ketamine"
+    },
+    "correct_answer": "E",
+    "explanation": "Ketamine can cause hallucinations, agitation, and nystagmus while presenting with autonomic instability, consistent with this presentation."
+  },
+  {
+    "number": 10,
+    "question": "What is this patient's likely diagnosis?",
+    "options": {
+      "A": "Early-onset Alzheimer's disease",
+      "B": "Hypoglycemia-related mood changes",
+      "C": "Obstructive sleep apnea",
+      "D": "Vascular dementia"
+    },
+    "correct_answer": "A",
+    "explanation": "Given the age and symptoms, early-onset Alzheimer's disease is the most likely diagnosis."
+  },
+  {
+    "number": 11,
+    "question": "What other information would be most appropriate to help assess this patient's early-onset AD?",
+    "options": {
+      "A": "Electrocardiography",
+      "B": "Electroencephalography",
+      "C": "Mini-Cog assessment",
+      "D": "Six-minute walk test"
+    },
+    "correct_answer": "C",
+    "explanation": "The Mini-Cog assessment is a useful tool to help evaluate cognitive function in suspected early-onset Alzheimer's disease."
+  },
+  {
+    "number": 12,
+    "question": "The patient scores 3 on the Mini-Cog test. What is the most appropriate next step?",
+    "options": {
+      "A": "Discuss pharmacologic interventions that might help",
+      "B": "Immediately initiate a pharmacologic intervention",
+      "C": "Refer to an endocrinologist",
+      "D": "Take a watch-and-wait approach"
+    },
+    "correct_answer": "A",
+    "explanation": "Discussing pharmacologic interventions is appropriate after identifying cognitive issues, but immediate initiation may not be necessary."
+  },
+  {
+    "number": 13,
+    "question": "As part of the patient's ongoing care, which is the most appropriate way to manage her diabetes medication?",
+    "options": {
+      "A": "Discontinue metformin and initiate basal insulin",
+      "B": "Maintain the current metformin dosage",
+      "C": "Lower the metformin dosage and add a sulfonylurea",
+      "D": "Increase the metformin dosage"
+    },
+    "correct_answer": "B",
+    "explanation": "Maintaining the current metformin dosage is usually appropriate unless there are compelling reasons to change the regimen."
+  },
+  {
+    "number": 14,
+    "question": "What other recommendations are currently most appropriate for this patient?",
+    "options": {
+      "A": "Home nursing care",
+      "B": "Obesity medications",
+      "C": "Retirement planning",
+      "D": "Supportive care for speech and behavior"
+    },
+    "correct_answer": "D",
+    "explanation": "Supportive care for speech and behavior would be an appropriate recommendation alongside cognitive and medical management."
+  },
+  {
+    "number": 15,
+    "question": "Which of these most accurately describes how symptomatic changes in patients with histrionic personality disorder and eating disorders were shown to interact during the long term with treatment?",
+    "options": {
+      "A": "The presence of eating disorders and diagnosis of histrionic personality disorder were linked, and symptoms of both improved",
+      "B": "The presence of eating disorders and diagnosis of histrionic personality disorder were linked, but only symptoms of eating disorders improved",
+      "C": "The presence of eating disorders and diagnosis of histrionic personality disorder were linked, but neither improved significantly",
+      "D": "No association was found between the presence of eating disorders and diagnosis of histrionic personality disorder"
+    },
+    "correct_answer": "A",
+    "explanation": "Research suggests a link between eating disorders and histrionic personality disorder, with improvements in symptoms for both."
+  },
+  {
+    "number": 16,
+    "question": "Which of these bias types is shown to affect the diagnosis of patients with histrionic personality disorder?",
+    "options": {
+      "A": "Gender bias",
+      "B": "Racial bias",
+      "C": "Both types",
+      "D": "Neither type"
+    },
+    "correct_answer": "A",
+    "explanation": "Gender bias can strongly influence the diagnosis of histrionic personality disorder, often leading to misdiagnosis due to stereotypes."
+  },
+  {
+    "number": 17,
+    "question": "Which of these comorbidities was shown to occur most often in patients with histrionic personality traits?",
+    "options": {
+      "A": "Caffeine tolerance and toxicity",
+      "B": "Cocaine use",
+      "C": "Internet gaming disorder",
+      "D": "Vaginismus"
+    },
+    "correct_answer": "B",
+    "explanation": "Cocaine use is notably more common in individuals possessing histrionic personality traits due to impulsive and dramatic behaviors."
+  },
+  {
+    "number": 18,
+    "question": "Which of these experienced during childhood influenced histrionic personality traits in both adult women and men?",
+    "options": {
+      "A": "Emotional abuse",
+      "B": "Emotional neglect",
+      "C": "Physical neglect",
+      "D": "Sexual abuse"
+    },
+    "correct_answer": "A",
+    "explanation": "Emotional abuse during childhood has been linked to the development of histrionic personality traits in both women and men."
+  },
+  {
+    "number": 19,
+    "question": "Which of these was shown to increase risk for alcohol use severity most in patients with histrionic personality disorder?",
+    "options": {
+      "A": "Avoidant traits",
+      "B": "History of negative alcohol experiences",
+      "C": "Positive alcohol expectancies",
+      "D": "None of these"
+    },
+    "correct_answer": "C",
+    "explanation": "Positive alcohol expectancies increase the risk of alcohol use severity in individuals with histrionic personality disorder."
+  },
+  {
+    "number": 1,
+    "question": "Which of the following is a known risk of lysergic acid diethylamide (LSD) use?",
+    "options": {
+      "A": "Cerebrovascular events",
+      "B": "Chronic hallucinations",
+      "C": "Cross-tolerance with amphetamines",
+      "D": "Hypotension",
+      "E": "Liver failure"
+    },
+    "correct_answer": "A",
+    "explanation": "LSD can lead to sympathomimetic effects, which include an increased risk of cerebrovascular events due to hypertension."
+  },
+  {
+    "number": 2,
+    "question": "Bath salts lead to a high by increasing levels of which of the following substances?",
+    "options": {
+      "A": "Catecholamines",
+      "B": "Enkephalin",
+      "C": "GABA",
+      "D": "Glutamate",
+      "E": "Oxytocin"
+    },
+    "correct_answer": "A",
+    "explanation": "Bath salts act by increasing synaptic catecholamine levels, primarily affecting dopamine, serotonin, and norepinephrine."
+  },
+  {
+    "number": 3,
+    "question": "Suicide attempts and unintentional overdoses are often most lethal with which of the following substances of abuse?",
+    "options": {
+      "A": "Alcohol",
+      "B": "Barbiturates",
+      "C": "Benzodiazepines",
+      "D": "Lysergic acid diethylamide (LSD)",
+      "E": "Stimulants"
+    },
+    "correct_answer": "B",
+    "explanation": "Barbiturates have a high risk for lethal overdoses and suicide attempts compared to other options."
+  },
+  {
+    "number": 4,
+    "question": "Meperidine can interact with which of the following classes of psychiatric medications leading to agitation, seizures, coma, and death?",
+    "options": {
+      "A": "Benzodiazepines",
+      "B": "Monoamine oxidase inhibitors (MAOIs)",
+      "C": "SSRIs",
+      "D": "Stimulants",
+      "E": "TCAs"
+    },
+    "correct_answer": "B",
+    "explanation": "Meperidine can cause dangerous interactions when used with MAOIs, leading to serious complications."
+  },
+  {
+    "number": 5,
+    "question": "Which of the following is a main advantage of opioid substitution therapy?",
+    "options": {
+      "A": "Drowsiness is minimal.",
+      "B": "Outpatient treatment is guaranteed.",
+      "C": "Parental formulations are never needed.",
+      "D": "There is no risk of dependence.",
+      "E": "Treatment can be done quickly in 2 weeks."
+    },
+    "correct_answer": "B",
+    "explanation": "Opioid substitution therapy often allows for outpatient treatment, which is a significant advantage over inpatient approaches."
+  },
+  {
+    "number": 6,
+    "question": "A patient presents to the ER after an overdose of an unknown substance. His pupils appear constricted, and he is sedated with slurred speech and has trouble focusing and answering questions. His vital signs are significant for bradycardia and hypotension and he reports being constipated. Which of the following medications would best reverse this overdose?",
+    "options": {
+      "A": "Flumazenil",
+      "B": "N-acetylcysteine",
+      "C": "Naloxone",
+      "D": "Naltrexone",
+      "E": "Varenicline"
+    },
+    "correct_answer": "C",
+    "explanation": "Naloxone is an opioid antagonist that would effectively reverse opioid overdose symptoms such as sedation and respiratory depression."
+  },
+  {
+    "number": 7,
+    "question": "Which of the following signs or symptoms is common in opioid withdrawal?",
+    "options": {
+      "A": "Constipation",
+      "B": "Hypotension",
+      "C": "Lacrimation",
+      "D": "Psychosis",
+      "E": "Pupillary constriction"
+    },
+    "correct_answer": "C",
+    "explanation": "Lacrimation (tearing) is a common symptom of opioid withdrawal, along with other symptoms such as nausea and agitation."
+  },
+  {
+    "number": 1,
+    "question": "As an adolescent, this boy is likely to have the most difficulty in which of the following areas?",
+    "options": {
+      "A": "Paying attention in school",
+      "B": "Concentrating on relevant stimuli",
+      "C": "Caring for pets",
+      "D": "Making friends",
+      "E": "Controlling his activity level"
+    },
+    "correct_answer": "D",
+    "explanation": "Adolescents with social challenges often struggle with peer relationships, making 'making friends' their most difficult area."
+  },
+  {
+    "number": 2,
+    "question": "The major characteristic that suggests that this child has Asperger disorder rather than autistic disorder is that this child does not show:",
+    "options": {
+      "A": "Restricted interests",
+      "B": "Special abilities",
+      "C": "Focus on keeping up routines",
+      "D": "Problems in peer relationships",
+      "E": "Language delay"
+    },
+    "correct_answer": "E",
+    "explanation": "Children with Asperger's syndrome typically do not show significant language delays, unlike those with classic autism."
+  },
+  {
+    "number": 3,
+    "question": "Which sensory systems may be impacted by Autism?",
+    "options": {
+      "A": "Auditory, tactile",
+      "B": "Visual, auditory, tactile",
+      "C": "Visual, auditory, tactile, olfactory",
+      "D": "Visual, auditory, tactile, olfactory, gustatory, proprioception, interoception"
+    },
+    "correct_answer": "D",
+    "explanation": "Autism can influence multiple sensory systems, including olfactory and gustatory senses, in addition to the primary ones."
+  },
+  {
+    "number": 4,
+    "question": "Frontal executive difficulties can be present in:",
+    "options": {
+      "A": "ADHD only",
+      "B": "Autism only",
+      "C": "ADHD and Autism"
+    },
+    "correct_answer": "C",
+    "explanation": "Both ADHD and Autism can present with difficulties in frontal executive functions."
+  },
+  {
+    "number": 5,
+    "question": "Which one is less likely to be seen in ASD?",
+    "options": {
+      "A": "Lack of fear or more fear than usual",
+      "B": "Lack of sensitivity to change",
+      "C": "Delay in development of milestones",
+      "D": "Problem in socialisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Individuals with autism spectrum disorder usually exhibit heightened sensitivity to change and may demonstrate variable responses to fear."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following disorders best fits this clinical picture?",
+    "options": {
+      "A": "ASD",
+      "B": "Rett disorder",
+      "C": "ADHD",
+      "D": "Tourette disorder",
+      "E": "Selective mutism"
+    },
+    "correct_answer": "A",
+    "explanation": "ASD (Autism Spectrum Disorder) aligns well with the clinical presentation described."
+  },
+  {
+    "number": 7,
+    "question": "A 13-year-old boy has dropped out from secondary school. He is odd and not accepted by his classmates. Your consultant recommends to rule out Asperger’s syndrome. Which of the following features does not support this diagnosis?",
+    "options": {
+      "A": "Language delay.",
+      "B": "Marked clumsiness",
+      "C": "Restricted and repetitive behaviours",
+      "D": "Socially withdrawn",
+      "E": "Worries about the welfare of his classmates"
+    },
+    "correct_answer": "A",
+    "explanation": "Language delay is not characteristic of Asperger's syndrome, which typically involves normal language development."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following characteristics is not a criteria to refer this child for specialist assessment based on MOH guidelines?",
+    "options": {
+      "A": "He has no babble, pointing or other gestures by 12 months.",
+      "B": "He cannot say a single word by 18 months.",
+      "C": "He has rapid loss of language or social skills at the age of 20 months.",
+      "D": "He does not have spontaneous 2-word phrases by 24 months.",
+      "E": "He cannot sing in the playgroup with other children at the age of 26 months."
+    },
+    "correct_answer": "E",
+    "explanation": "While singing is a social skill, it is not a specific criteria for referral under developmental guidelines."
+  },
+  {
+    "number": 9,
+    "question": "Which of the following medical risks can commonly occur with using higher dosages of cannabis?",
+    "options": {
+      "A": "Appetite suppression",
+      "B": "Death",
+      "C": "Diaphoresis",
+      "D": "Mild bradycardia",
+      "E": "Orthostatic hypotension"
+    },
+    "correct_answer": "E",
+    "explanation": "Higher dosages of cannabis can lead to orthostatic hypotension due to its effects on the cardiovascular system."
+  },
+  {
+    "number": 10,
+    "question": "Apathy, low-energy, psychomotor retardation, and weight gain are often part of a syndrome associated with which of the following substances?",
+    "options": {
+      "A": "Barbiturates",
+      "B": "Caffeine",
+      "C": "Cannabis",
+      "D": "Hallucinogen",
+      "E": "Opioids"
+    },
+    "correct_answer": "E",
+    "explanation": "These symptoms are commonly associated with opioid use, especially in the context of withdrawal or overdose."
+  },
+  {
+    "number": 11,
+    "question": "Even modest amounts of cannabis can have which of the following physical effects on the brain or body during intoxication?",
+    "options": {
+      "A": "Delayed reaction time",
+      "B": "Depressed mood",
+      "C": "Impaired long-term memory",
+      "D": "Increased goal-directed activity",
+      "E": "Physical tenseness"
+    },
+    "correct_answer": "A",
+    "explanation": "Cannabis use, even in small amounts, is known to cause delayed reaction time due to its psychoactive effects."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following drugs was most likely administered?",
+    "options": {
+      "A": "Diazepam",
+      "B": "Clonidine",
+      "C": "Disulfiram",
+      "D": "Naltrexone",
+      "E": "Methadone",
+      "F": "Buprenorphine"
+    },
+    "correct_answer": "F",
+    "explanation": "Buprenorphine is often used for opioid dependency and aligns with the presentation of withdrawal management."
+  },
+  {
+    "number": 13,
+    "question": "Which of the following neurotransmitters most likely mediated the effects of the drug in this patient?",
+    "options": {
+      "A": "Acetylcholine",
+      "B": "Serotonin",
+      "C": "Norepinephrine",
+      "D": "Gamma-aminobutyric acid (GABA)",
+      "E": "Glutamate",
+      "F": "Dopamine"
+    },
+    "correct_answer": "D",
+    "explanation": "GABA is primarily involved in mediating the sedative effects associated with benzodiazepine administration."
+  },
+  {
+    "number": 14,
+    "question": "Which of the following drugs would be most appropriate for this patient?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Lithium",
+      "C": "Fluoxetine",
+      "D": "Haloperidol",
+      "E": "Diazepam",
+      "F": "Clozapine"
+    },
+    "correct_answer": "C",
+    "explanation": "Fluoxetine, an SSRI, is appropriate for treating mood disorders, especially in patients not responding to other treatments."
+  },
+  {
+    "number": 15,
+    "question": "Which of the following drugs most likely caused these adverse effects?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Haloperidol",
+      "C": "Metoclopramide",
+      "D": "Olanzapine",
+      "E": "Aripiprazole"
+    },
+    "correct_answer": "B",
+    "explanation": "Haloperidol is associated with extrapyramidal symptoms and other severe adverse effects."
+  },
+  {
+    "number": 16,
+    "question": "Which of the following drugs was most likely prescribed?",
+    "options": {
+      "A": "Diazepam",
+      "B": "Propranolol",
+      "C": "Fluoxetine",
+      "D": "Venlafaxine",
+      "E": "Buspirone"
+    },
+    "correct_answer": "C",
+    "explanation": "Fluoxetine is often prescribed for treating depression and anxiety disorders, making it a likely candidate in this context."
+  },
+  {
+    "number": 1,
+    "question": "The patient’s symptoms most likely resulted from a blockade of which of the following pairs of receptors?",
+    "options": {
+      "A": "α1 and α2",
+      "B": "α1 and β1",
+      "C": "M2 and M3",
+      "D": "β1 and β2",
+      "E": "Nm and β2"
+    },
+    "correct_answer": "A",
+    "explanation": "Blockade of α1 adrenergic receptors can lead to hypertension and related symptoms, while α2 adrenergic blockade can contribute to increased sympathetic outflow."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following items correctly pairs the neurotransmitter and the central nervous system site most likely involved in the rewarding effects of abused drugs?",
+    "options": {
+      "A": "GABA−amygdala",
+      "B": "Acetylcholine−nucleus basalis of Meynert",
+      "C": "Histamine−nucleus accumbens",
+      "D": "Dopamine−basal ganglia",
+      "E": "Serotonin−raphe nuclei",
+      "F": "Dopamine−nucleus accumbens"
+    },
+    "correct_answer": "F",
+    "explanation": "Dopamine release in the nucleus accumbens is a key factor in the rewarding effects of many abused drugs."
+  },
+  {
+    "number": 3,
+    "question": "A 34-year-old man exhibited severe agitation, fearfulness, and apprehension upon recovery from surgery to remove a colon cancer. He was given an intravenous injection of a drug that acts by making the resting membrane potentials of short interneurons in several brain areas more negative. Which of the following drugs was most likely administered?",
+    "options": {
+      "A": "Trazodone",
+      "B": "Haloperidol",
+      "C": "Thiopental",
+      "D": "Alprazolam",
+      "E": "Buspirone"
+    },
+    "correct_answer": "D",
+    "explanation": "Alprazolam is a benzodiazepine that can stabilize neural activity by enhancing GABAergic effects, reducing agitation."
+  },
+  {
+    "number": 4,
+    "question": "A 42-year-old woman who was resident in a psychiatric hospital for a chronic mental illness had been mute and immobile for the past week. She actively resisted any attempt to be moved. Occasionally, she had brief periods of unprovoked agitated and aggressive behavior. Which of the following drugs should be avoided in this patient?",
+    "options": {
+      "A": "Lorazepam",
+      "B": "Haloperidol",
+      "C": "Carbamazepine",
+      "D": "Olanzapine",
+      "E": "Dantrolene",
+      "F": "Valproic acid"
+    },
+    "correct_answer": "B",
+    "explanation": "Haloperidol may exacerbate agitation and should be avoided in patients who are not stabilized."
+  },
+  {
+    "number": 5,
+    "question": "A 34-year-old woman who had been treated for an episode of acute mania was no longer overtly manic. However, because she had had past episodes of depression and mania, her psychiatrist decided to institute prophylactic therapy and prescribed a drug that appears to affect primarily the inositol second messenger system. Which of the following drugs was most likely prescribed?",
+    "options": {
+      "A": "Valproic acid",
+      "B": "Aripiprazole",
+      "C": "Lamotrigine",
+      "D": "Lithium",
+      "E": "Quetiapine"
+    },
+    "correct_answer": "D",
+    "explanation": "Lithium is known to influence the inositol signaling pathway and is used for prophylaxis in bipolar disorder."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following medical conditions is a contraindication to being on naltrexone for treating alcohol dependence?",
+    "options": {
+      "A": "Being on metronidazole",
+      "B": "Continued use of alcohol",
+      "C": "Coronary artery disease",
+      "D": "Currently using opioids",
+      "E": "Renal failure"
+    },
+    "correct_answer": "D",
+    "explanation": "Naltrexone should not be used in patients currently using opioids as it can precipitate withdrawal symptoms."
+  },
+  {
+    "number": 7,
+    "question": "After detoxification for alcoholism, lingering levels of anxiety and insomnia can best be initially treated with which of the following approaches?",
+    "options": {
+      "A": "An antidepressant",
+      "B": "An antihistamine",
+      "C": "A benzodiazepine",
+      "D": "Behavior modification",
+      "E": "Melatonin"
+    },
+    "correct_answer": "C",
+    "explanation": "Benzodiazepines are commonly used for initial treatment of anxiety and insomnia following detoxification."
+  },
+  {
+    "number": 8,
+    "question": "Which psychiatric diagnosis is one of the most common comorbid ones with alcohol-related disorders?",
+    "options": {
+      "A": "Anorexia nervosa",
+      "B": "Antisocial personality",
+      "C": "Attention-deficit hyperactivity",
+      "D": "Autism spectrum",
+      "E": "Schizophrenia"
+    },
+    "correct_answer": "B",
+    "explanation": "Antisocial personality disorder commonly coexists with alcohol-related disorders."
+  },
+  {
+    "number": 9,
+    "question": "Long-term severe alcohol abuse can result in a seizure by lowering which of the following lab values?",
+    "options": {
+      "A": "Albumin",
+      "B": "Ca",
+      "C": "Creatinine",
+      "D": "K",
+      "E": "Na"
+    },
+    "correct_answer": "B",
+    "explanation": "Severe alcohol abuse can lead to hypocalcemia (low calcium), which increases the risk of seizures."
+  },
+  {
+    "number": 10,
+    "question": "Which range of blood alcohol concentration is considered to be the legal definition of intoxication in most states in the United States, as levels in this range have been shown to increase incoordination and cause errors in judgment?",
+    "options": {
+      "A": "20 to 40 mg/dL",
+      "B": "40 to 60 mg/dL",
+      "C": "80 to 100 mg/dL",
+      "D": "200 to 250 mg/dL",
+      "E": ">300 mg/dL"
+    },
+    "correct_answer": "C",
+    "explanation": "A blood alcohol concentration of 80 to 100 mg/dL is generally recognized as the threshold for intoxication."
+  },
+  {
+    "number": 11,
+    "question": "The locus coeruleus likely mediates the effects of which of the following drugs?",
+    "options": {
+      "A": "Amphetamines",
+      "B": "Benzodiazepines",
+      "C": "Cannabis",
+      "D": "Nicotine",
+      "E": "Opioids"
+    },
+    "correct_answer": "A",
+    "explanation": "The locus coeruleus is associated with mediating alertness and stress responses, significantly affected by stimulants like amphetamines."
+  },
+  {
+    "number": 12,
+    "question": "A patient experiencing liver failure from alcohol, cravings to use again in spite of losing their job and marriage, and getting arrested for driving under the influence, would be classified as having which of the following alcohol disorders in the DSM-5?",
+    "options": {
+      "A": "Abuse",
+      "B": "Addiction",
+      "C": "Dependence",
+      "D": "Intoxication",
+      "E": "Use"
+    },
+    "correct_answer": "C",
+    "explanation": "The DSM-5 classifies this situation as 'dependence' due to the patient's significant impairment and cravings."
+  },
+  {
+    "number": 13,
+    "question": "Which testing is often included as part of the routine workup for patients with suspected bipolar disorder?",
+    "options": {
+      "A": "Urine copper level testing",
+      "B": "Partial thromboplastin time and prothrombin time testing",
+      "C": "Thyroid hormone testing",
+      "D": "Uric acid testing"
+    },
+    "correct_answer": "C",
+    "explanation": "Thyroid hormone testing is important in the evaluation of mood disorders, including bipolar disorder, as thyroid dysfunction can mimic or exacerbate symptoms."
+  },
+  {
+    "number": 14,
+    "question": "Regarding bipolar disorder, which criteria best meet the definition of rapid cycling?",
+    "options": {
+      "A": "Two or more distinct mood episodes during a 6-month period",
+      "B": "Four or more distinct mood episodes during a 6-month period",
+      "C": "Six or more distinct mood episodes during a 12-month period",
+      "D": "Four or more distinct mood episodes during a 12-month period"
+    },
+    "correct_answer": "B",
+    "explanation": "Rapid cycling in bipolar disorder is defined as four or more distinct mood episodes within a 12-month period."
+  },
+  {
+    "number": 15,
+    "question": "Which is most accurate regarding treatment of bipolar disorder?",
+    "options": {
+      "A": "Cognitive behavioral therapy monotherapy is an appropriate treatment for an acute manic episode",
+      "B": "Antidepressant drug doses can be increased during a manic episode",
+      "C": "Treatment with SSRI during depressive episode have a greater risk for a manic switch than does MAOI",
+      "D": "Antidepressant may be tapered and discontinued after as little as 12 weeks of full remission"
+    },
+    "correct_answer": "C",
+    "explanation": "SSRIs pose a risk for triggering a manic episode in patients with bipolar disorder, making MAOIs possibly a safer option when treating depressive episodes."
+  },
+  {
+    "number": 16,
+    "question": "Which is most accurate regarding the presentation of patients with bipolar disorder?",
+    "options": {
+      "A": "Manic episodes caused by substance abuse are included in the diagnostic criteria for BPI",
+      "B": "For a diagnosis of BD-II, hypomanic episodes must last at least 4 consecutive days",
+      "C": "Decreased communication and avoidance of pleasurable activities are recognized in manic episodes",
+      "D": "Mixed depressive state and manic state symptomology suggest a diagnosis other than bipolar disorder"
+    },
+    "correct_answer": "B",
+    "explanation": "For a diagnosis of bipolar disorder type II (BD-II), hypomanic episodes need to last at least 4 consecutive days."
+  },
+  {
+    "number": 17,
+    "question": "Which most accurately describes how bright light therapy has been shown to affect patients with BP-I already receiving pharmacologic treatment?",
+    "options": {
+      "A": "It can replace pharmacologic treatment",
+      "B": "It significantly increases rates of remission among patients",
+      "C": "It significantly improves depressive symptoms",
+      "D": "It triggers a manic switch in a significant subgroup of patients"
+    },
+    "correct_answer": "D",
+    "explanation": "Bright light therapy can potentially trigger manic episodes in susceptible individuals with bipolar disorder, especially BP-I."
+  },
+  {
+    "number": 18,
+    "question": "Monotherapy with which has been shown to be the most protective against all-cause mortality for patients with BP-I, including natural mortality and suicide?",
+    "options": {
+      "A": "Anticonvulsants (such as lamotrigine used as mood stabilizers)",
+      "B": "Lithium",
+      "C": "Antidepressants",
+      "D": "Antipsychotics (such as haloperidol used as mood stabilizers)"
+    },
+    "correct_answer": "B",
+    "explanation": "Lithium is known for its protective effects against suicide and all-cause mortality in patients with bipolar disorder."
+  },
+  {
+    "number": 19,
+    "question": "Which risk is increased more by continuing pharmacologic treatment for BP-I during pregnancy vs leaving BP-I untreated through labor?",
+    "options": {
+      "A": "Congenital malformations",
+      "B": "Fetal distress/stillbirth",
+      "C": "Infant psychomotor development",
+      "D": "Low Apgar score"
+    },
+    "correct_answer": "A",
+    "explanation": "Continuing certain pharmacologic treatments during pregnancy can increase the risk of congenital malformations in newborns."
+  },
+  {
+    "number": 20,
+    "question": "Which has been shown to be accurate about electroconvulsive therapy (ECT) in the treatment and management of patients with refractory bipolar disorder?",
+    "options": {
+      "A": "ECT can interrupt rapid cycling and restore the efficacy of previously ineffective mood stabilizer",
+      "B": "ECT improved attention and executive function, especially among older patients",
+      "C": "ECT is more effective than ketamine, particularly during the acute depressive phase",
+      "D": "All of these"
+    },
+    "correct_answer": "A",
+    "explanation": "ECT is known to be effective in managing acute episodes of bipolar disorder, particularly in cases of rapid cycling."
+  },
+  {
+    "number": 21,
+    "question": "Which medication is approved for rapid, outpatient treatment of agitation in patients with BP-I?",
+    "options": {
+      "A": "Dexmedetomidine",
+      "B": "Fluphenazine",
+      "C": "Haloperidol",
+      "D": "Thioridazine"
+    },
+    "correct_answer": "C",
+    "explanation": "Haloperidol is often used for the rapid treatment of agitation associated with bipolar disorder in an outpatient setting."
+  },
+  {
+    "number": 22,
+    "question": "Which has been shown to be more common among patients who have bipolar depression rather than unipolar depression?",
+    "options": {
+      "A": "Agitation",
+      "B": "Female sex",
+      "C": "Hypersomnia",
+      "D": "Suicide attempts"
+    },
+    "correct_answer": "D",
+    "explanation": "Patients with bipolar depression have a higher incidence of suicide attempts compared to those with unipolar depression."
+  },
+  {
+    "number": 23,
+    "question": "Which psychiatric comorbidities have been shown to be more common among patients with BP-II compared with those with BP-I?",
+    "options": {
+      "A": "Adult attention-deficit/hyperactivity disorder",
+      "B": "Autism spectrum disorder",
+      "C": "Bulimia nervosa",
+      "D": "All three were more common among patients with BP-I"
+    },
+    "correct_answer": "C",
+    "explanation": "Bulimia nervosa is notably more common among patients with bipolar II disorder than in those with bipolar I disorder."
+  },
+  {
+    "number": 24,
+    "question": "How has cannabis use been shown to affect symptoms in patients with bipolar disorder?",
+    "options": {
+      "A": "It increases severity of depressive symptoms",
+      "B": "It increases severity of manic symptoms",
+      "C": "It increases severity of psychotic symptoms",
+      "D": "All of these"
+    },
+    "correct_answer": "D",
+    "explanation": "Cannabis use has been shown to exacerbate depressive, manic, and psychotic symptoms in individuals with bipolar disorder."
+  },
+  {
+    "number": 25,
+    "question": "Which most accurately characterizes cognitive functioning in patients with bipolar disorder?",
+    "options": {
+      "A": "Cognitive function is highly predictive of day-to-day and occupational functioning",
+      "B": "Patients tend to exhibit progressive cognitive decline starting with their first manic episode",
+      "C": "Significant cognitive impairment occurs during the depressive state only",
+      "D": "Therapeutic interventions can prevent further decline, but cannot offer improvements in function"
+    },
+    "correct_answer": "A",
+    "explanation": "Cognitive function significantly influences occupational and daily functioning in patients with bipolar disorder."
+  },
+  {
+    "number": 26,
+    "question": "Which cause of excess mortality has been observed to be highest among patients with bipolar disorder relative to the general population?",
+    "options": {
+      "A": "Alcohol-related issues",
+      "B": "Cardiovascular disease",
+      "C": "Suicide",
+      "D": "Violence/abuse"
+    },
+    "correct_answer": "C",
+    "explanation": "Suicide represents a significant cause of excess mortality in patients with bipolar disorder compared to the general population."
+  },
+  {
+    "number": 27,
+    "question": "Which statement concerning BP-I is most accurate?",
+    "options": {
+      "A": "There is thought to be a strong genetic component to BP-I",
+      "B": "A definitive diagnosis of BP-I can be made using brain imaging",
+      "C": "There is no demonstrated link between BP-I and major depressive disorder",
+      "D": "Hypomanic symptoms without hypomanic episodes are sufficient for diagnosis of BP-I"
+    },
+    "correct_answer": "A",
+    "explanation": "Bipolar I disorder (BP-I) has a strong genetic component, indicating familial patterns of mood disorders."
+  },
+  {
+    "number": 28,
+    "question": "Which is a common age at onset (AAO) for BP-I?",
+    "options": {
+      "A": "13 years",
+      "B": "21 years",
+      "C": "33 years",
+      "D": "64 years"
+    },
+    "correct_answer": "B",
+    "explanation": "The common age at onset for bipolar disorder type I (BP-I) is around 21 years, though it can vary."
+  },
+  {
+    "number": 29,
+    "question": "Which diagnostic screening tool was developed to differentiate BP-I from MDD in patients with depressive symptoms and can be self-administered in less than 10 minutes?",
+    "options": {
+      "A": "Bipolar Spectrum Diagnostic Scale",
+      "B": "Hypomanic Personality Scale",
+      "C": "Mood Disorder Questionnaire",
+      "D": "Rapid Mood Screener"
+    },
+    "correct_answer": "C",
+    "explanation": "The Mood Disorder Questionnaire is specifically designed for screening bipolar disorder and is efficient for self-administration."
+  },
+  {
+    "number": 30,
+    "question": "Which has been shown to be significantly more common among patients with BP-I compared with patients with schizophrenia?",
+    "options": {
+      "A": "Arrest",
+      "B": "Disruptive financial events",
+      "C": "Homelessness",
+      "D": "All were elevated at about the same rate among patients with BP-I and schizophrenia"
+    },
+    "correct_answer": "D",
+    "explanation": "All of these outcomes have been shown to occur at elevated rates in both BP-I and schizophrenia; however, the rates can vary widely."
+  },
+  {
+    "number": 31,
+    "question": "Which affective temperament in a patient with suspected bipolar disorder is the most consistent predictor of BP-I?",
+    "options": {
+      "A": "Cyclothymic temperament",
+      "B": "Hyperthymic temperament",
+      "C": "Irritable temperament",
+      "D": "Affective temperament plays no role in BP-I"
+    },
+    "correct_answer": "B",
+    "explanation": "Hyperthymic temperament has been closely associated with the development of bipolar I disorder."
+  },
+  {
+    "number": 32,
+    "question": "Which is most accurate concerning the epidemiology of bipolar disorder?",
+    "options": {
+      "A": "Age of onset is 15-25 years",
+      "B": "BP-II is more common in men than women",
+      "C": "BP-I is twice as common among women compared with men",
+      "D": "Bipolar disorder is largely a geriatric illness"
+    },
+    "correct_answer": "A",
+    "explanation": "Bipolar disorder typically has an age of onset between 15 and 25 years, and it can present across various age groups."
+  },
+  {
+    "number": 1,
+    "question": "Which of these drugs works without direct dopamine receptor antagonism?",
+    "options": {
+      "A": "Xanomeline-trospium",
+      "B": "Aripiprazole",
+      "C": "Iloperidone",
+      "D": "Thioridazine"
+    },
+    "correct_answer": "A",
+    "explanation": "Xanomeline-trospium works by activating muscarinic receptors rather than blockading dopamine receptors directly."
+  },
+  {
+    "number": 2,
+    "question": "How does the type of antipsychotic medication affect risk for psychiatric hospital readmission among patients with schizophrenia?",
+    "options": {
+      "A": "Long-acting injectable antipsychotics reduce risk most",
+      "B": "Oral antipsychotics reduce risk most",
+      "C": "Early discontinuation of either medication triples risk",
+      "D": "There is no significant difference found"
+    },
+    "correct_answer": "A",
+    "explanation": "Long-acting injectable antipsychotics have been shown to lower the risk of readmission by improving medication adherence."
+  },
+  {
+    "number": 3,
+    "question": "Patients treated with antipsychotics for dementia experienced doubled risk for which of these conditions?",
+    "options": {
+      "A": "Cholecystitis",
+      "B": "Myocardial infarction",
+      "C": "Pneumonia",
+      "D": "Ventricular arrhythmia"
+    },
+    "correct_answer": "C",
+    "explanation": "Patients on antipsychotics for dementia have a significantly increased risk of pneumonia due to various factors, including sedation and swallowing difficulties."
+  },
+  {
+    "number": 4,
+    "question": "How did atypical antipsychotics and haloperidol compare in the treatment of postoperative delirium in older patients?",
+    "options": {
+      "A": "Atypical antipsychotics were safer",
+      "B": "Haloperidol was safer",
+      "C": "Atypical antipsychotics were more effective, but haloperidol was safer",
+      "D": "No significant difference was found"
+    },
+    "correct_answer": "A",
+    "explanation": "Atypical antipsychotics are generally considered safer than haloperidol in managing postoperative delirium due to a lower risk of extrapyramidal symptoms."
+  },
+  {
+    "number": 5,
+    "question": "Which of these commonly prescribed antipsychotic medications was found to be most effective in patients who previously did not respond to two other medications?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Olanzapine",
+      "C": "Quetiapine",
+      "D": "Ziprasidone"
+    },
+    "correct_answer": "A",
+    "explanation": "Clozapine is recognized as the most effective antipsychotic for treatment-resistant schizophrenia."
+  },
+  {
+    "number": 6,
+    "question": "A 30-year-old man with diabetes mellitus is referred by his general practitioner for treatment of a depressive episode. Which of the following antidepressants would be the most suitable?",
+    "options": {
+      "A": "Clomipramine",
+      "B": "Fluoxetine",
+      "C": "Mirtazapine",
+      "D": "Phenelzine",
+      "E": "Sertraline"
+    },
+    "correct_answer": "B",
+    "explanation": "Fluoxetine is an SSRI that is safe for use in patients with diabetes and is effective for treating depressive episodes."
+  },
+  {
+    "number": 7,
+    "question": "When do primary cognitive impairments typically start in people with schizophrenia?",
+    "options": {
+      "A": "At the same time as psychotic symptoms first occur",
+      "B": "After onset of psychotic symptoms",
+      "C": "Before onset of psychotic symptoms"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive impairments often emerge before the onset of overt psychotic symptoms, sometimes years earlier."
+  },
+  {
+    "number": 8,
+    "question": "How do cognitive impairments typically impact function in people with schizophrenia?",
+    "options": {
+      "A": "Little impact early in disease course, progressively increasing impact in 2nd, 3rd decade after Dx.",
+      "B": "Minor impact on function when co-occurring with negative symptoms",
+      "C": "Impairment of function in school, vocation, socially, and daily life",
+      "D": "Third point impairment but only when co-occurring with negative symptoms"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive impairments considerably affect multiple domains of functioning in daily life, including social and occupational areas."
+  },
+  {
+    "number": 9,
+    "question": "Difficulty remembering what to buy and which aisles to find the groceries in and being unable to select options quickly enough on self-checkout tills at the grocery store suggest impairments in what cognitive domains?",
+    "options": {
+      "A": "Negative symptoms of amotivation and anhedonia",
+      "B": "Cognitive impairment in visual memory and processing speed",
+      "C": "Cognitive impairments in social cognition and verbal memory",
+      "D": "Negative symptoms of asociality and cognitive impairment in processing speed"
+    },
+    "correct_answer": "B",
+    "explanation": "The described difficulties relate to impairments in visual memory and the speed of processing information."
+  },
+  {
+    "number": 10,
+    "question": "What performance-based instrument is recommended for assessment of cognitive symptoms in schizophrenia and can be completed in less than 1 hour?",
+    "options": {
+      "A": "BACS",
+      "B": "MCCB",
+      "C": "SCoRS"
+    },
+    "correct_answer": "B",
+    "explanation": "The MATRICS Consensus Cognitive Battery (MCCB) is a widely recommended tool for assessing cognitive impairment in schizophrenia."
+  },
+  {
+    "number": 11,
+    "question": "What is an appropriate next step for optimizing their cognitive health?",
+    "options": {
+      "A": "Refer for neuropsychological testing",
+      "B": "Assess cognitive symptoms again in about 4 months",
+      "C": "Ask team members and the patient's support person about signs of poor function related to cognition"
+    },
+    "correct_answer": "A",
+    "explanation": "Referral for neuropsychological testing can provide a detailed assessment of cognitive abilities and inform treatment strategies."
+  },
+  {
+    "number": 12,
+    "question": "Which of these symptoms distinguishes complex PTSD (CPTSD) from PTSD?",
+    "options": {
+      "A": "Avoidance",
+      "B": "Hyperarousal",
+      "C": "Negative thoughts",
+      "D": "Emotional dysregulation"
+    },
+    "correct_answer": "D",
+    "explanation": "Emotional dysregulation is a key feature of complex PTSD, differentiating it from standard PTSD."
+  },
+  {
+    "number": 13,
+    "question": "The US Department of Veterans Affairs/Department of Defense (VA/DoD) 2023 guidelines recommend using which instrument to screen for PTSD?",
+    "options": {
+      "A": "PTSD Symptom Scale - Interview for DSM-5 (PSS-I-5)",
+      "B": "PTSD Checklist for DSM-5 (PCL-5)",
+      "C": "Primary Care PTSD Screen for DSM-5 (PC-PTSD-5)",
+      "D": "Clinician-Administered PTSD Scale for DSM-5 (CAPS-5)"
+    },
+    "correct_answer": "B",
+    "explanation": "The PTSD Checklist for DSM-5 (PCL-5) is recommended for screening in the VA/DoD guidelines."
+  },
+  {
+    "number": 14,
+    "question": "The VA/DoD 2023 guidelines recommend which of these drugs for PTSD treatment?",
+    "options": {
+      "A": "Sertraline",
+      "B": "Fluoxetine",
+      "C": "Nefazodone",
+      "D": "Imipramine"
+    },
+    "correct_answer": "A",
+    "explanation": "Sertraline is one of the SSRIs recommended for the treatment of PTSD in the latest guidelines."
+  },
+  {
+    "number": 15,
+    "question": "Which of these statements regarding ketamine as a PTSD treatment is most accurate?",
+    "options": {
+      "A": "It is less effective than SSRIs and venlafaxine",
+      "B": "It is more effective than SSRIs and venlafaxine",
+      "C": "It is equally effective as SSRIs and venlafaxine",
+      "D": "It is the best overall long-term PTSD treatment option"
+    },
+    "correct_answer": "B",
+    "explanation": "Ketamine has been shown to provide rapid relief from PTSD symptoms, potentially more effectively than traditional antidepressants."
+  },
+  {
+    "number": 16,
+    "question": "Which of these has been shown to be the most effective treatment of sleep disturbances in patients with PTSD?",
+    "options": {
+      "A": "Hydroxyzine",
+      "B": "Mianserin",
+      "C": "Prazosin",
+      "D": "Cognitive-behavioral therapy for insomnia"
+    },
+    "correct_answer": "C",
+    "explanation": "Prazosin has demonstrated effectiveness in reducing nightmares and improving sleep quality in PTSD patients."
+  },
+  {
+    "number": 1,
+    "question": "Which of these drugs works without direct dopamine receptor antagonism?",
+    "options": {
+      "A": "Xanomeline-trospium",
+      "B": "Aripiprazole",
+      "C": "Iloperidone",
+      "D": "Thioridazine"
+    },
+    "correct_answer": "A",
+    "explanation": "Xanomeline-trospium mainly acts on muscarinic receptors rather than directly antagonizing dopamine receptors."
+  },
+  {
+    "number": 2,
+    "question": "How does the type of antipsychotic medication affect risk for psychiatric hospital readmission among patients with schizophrenia?",
+    "options": {
+      "A": "Long-acting injectable antipsychotics reduce risk most",
+      "B": "Oral antipsychotics reduce risk most",
+      "C": "Early discontinuation of either medication triples risk",
+      "D": "There is no significant difference found"
+    },
+    "correct_answer": "A",
+    "explanation": "Long-acting injectable antipsychotics are shown to significantly reduce readmission rates due to improved adherence."
+  },
+  {
+    "number": 3,
+    "question": "Patients treated with antipsychotics for dementia experienced doubled risk for which of these conditions?",
+    "options": {
+      "A": "Cholecystitis",
+      "B": "Myocardial infarction",
+      "C": "Pneumonia",
+      "D": "Ventricular arrhythmia"
+    },
+    "correct_answer": "C",
+    "explanation": "Antipsychotic treatments in dementia patients are associated with a higher incidence of pneumonia due to sedation and swallowing difficulties."
+  },
+  {
+    "number": 4,
+    "question": "How did atypical antipsychotics and haloperidol compare in the treatment of postoperative delirium in older patients?",
+    "options": {
+      "A": "Atypical antipsychotics were safer",
+      "B": "Haloperidol was safer",
+      "C": "Atypical antipsychotics were more effective, but haloperidol was safer",
+      "D": "No significant difference was found"
+    },
+    "correct_answer": "A",
+    "explanation": "Atypical antipsychotics are generally preferred due to a better safety profile regarding side effects."
+  },
+  {
+    "number": 5,
+    "question": "Which of these commonly prescribed antipsychotic medications was found to be most effective in patients who previously did not respond to two other medications?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Olanzapine",
+      "C": "Quetiapine",
+      "D": "Ziprasidone"
+    },
+    "correct_answer": "A",
+    "explanation": "Clozapine is well-established for its efficacy in treatment-resistant schizophrenia after failure of other antipsychotics."
+  },
+  {
+    "number": 6,
+    "question": "A 30-year-old man with diabetes mellitus is referred by his general practitioner for treatment of a depressive episode. Which of the following antidepressants would be the most suitable?",
+    "options": {
+      "A": "Clomipramine",
+      "B": "Fluoxetine",
+      "C": "Mirtazapine",
+      "D": "Phenelzine",
+      "E": "Sertraline"
+    },
+    "correct_answer": "B",
+    "explanation": "Fluoxetine is effective for depression and has a favorable profile in patients with diabetes."
+  },
+  {
+    "number": 7,
+    "question": "When do primary cognitive impairments typically start in people with schizophrenia?",
+    "options": {
+      "A": "At the same time as psychotic symptoms first occur",
+      "B": "After onset of psychotic symptoms",
+      "C": "Before onset of psychotic symptoms"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive impairments often become apparent before the emergence of psychotic symptoms in individuals who later develop schizophrenia."
+  },
+  {
+    "number": 8,
+    "question": "How do cognitive impairments typically impact function in people with schizophrenia?",
+    "options": {
+      "A": "Little impact early in disease course, progressively increasing impact in 2nd, 3rd decade after Dx.",
+      "B": "Minor impact on function when co-occurring with negative symptoms",
+      "C": "Impairment of function in school, vocation, socially, and daily life",
+      "D": "Third point impairment but only when co-occurring with negative symptoms"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive impairments significantly affect overall functioning across various domains in schizophrenia."
+  },
+  {
+    "number": 9,
+    "question": "Difficulty remembering what to buy and which aisles to find the groceries in and being unable to select options quickly enough on self-checkout tills at the grocery store suggest impairments in what cognitive domains?",
+    "options": {
+      "A": "Negative symptoms of amotivation and anhedonia",
+      "B": "Cognitive impairment in visual memory and processing speed",
+      "C": "Cognitive impairments in social cognition and verbal memory",
+      "D": "Negative symptoms of asociality and cognitive impairment in processing speed"
+    },
+    "correct_answer": "B",
+    "explanation": "The described difficulties indicate impairments in visual memory and processing speed."
+  },
+  {
+    "number": 10,
+    "question": "What performance-based instrument is recommended for assessment of cognitive symptoms in schizophrenia and can be completed in less than 1 hour?",
+    "options": {
+      "A": "BACS",
+      "B": "MCCB",
+      "C": "SCoRS"
+    },
+    "correct_answer": "B",
+    "explanation": "The MATRICS Consensus Cognitive Battery (MCCB) is specifically designed to assess cognitive function in schizophrenia."
+  },
+  {
+    "number": 11,
+    "question": "What is an appropriate next step for optimizing their cognitive health?",
+    "options": {
+      "A": "Refer for neuropsychological testing",
+      "B": "Assess cognitive symptoms again in about 4 months",
+      "C": "Ask team members and the patient's support person about signs of poor function related to cognition"
+    },
+    "correct_answer": "A",
+    "explanation": "Referring for neuropsychological testing can yield more detailed insights into cognitive functions impacting the patient's daily life."
+  },
+  {
+    "number": 12,
+    "question": "Which of these symptoms distinguishes complex PTSD (CPTSD) from PTSD?",
+    "options": {
+      "A": "Avoidance",
+      "B": "Hyperarousal",
+      "C": "Negative thoughts",
+      "D": "Emotional dysregulation"
+    },
+    "correct_answer": "D",
+    "explanation": "Emotional dysregulation is a characteristic symptom of complex PTSD that is typically not present in standard PTSD."
+  },
+  {
+    "number": 13,
+    "question": "The US Department of Veterans Affairs/Department of Defense (VA/DoD) 2023 guidelines recommend using which instrument to screen for PTSD?",
+    "options": {
+      "A": "PTSD Symptom Scale - Interview for DSM-5 (PSS-I-5)",
+      "B": "PTSD Checklist for DSM-5 (PCL-5)",
+      "C": "Primary Care PTSD Screen for DSM-5 (PC-PTSD-5)",
+      "D": "Clinician-Administered PTSD Scale for DSM-5 (CAPS-5)"
+    },
+    "correct_answer": "B",
+    "explanation": "The PTSD Checklist for DSM-5 (PCL-5) is the preferred tool recommended in the VA/DoD guidelines for PTSD screening."
+  },
+  {
+    "number": 14,
+    "question": "The VA/DoD 2023 guidelines recommend which of these drugs for PTSD treatment?",
+    "options": {
+      "A": "Sertraline",
+      "B": "Fluoxetine",
+      "C": "Nefazodone",
+      "D": "Imipramine"
+    },
+    "correct_answer": "A",
+    "explanation": "Sertraline is one of the first-line pharmacological treatments for PTSD according to the latest guidelines."
+  },
+  {
+    "number": 15,
+    "question": "Which of these statements regarding ketamine as a PTSD treatment is most accurate?",
+    "options": {
+      "A": "It is less effective than SSRIs and venlafaxine",
+      "B": "It is more effective than SSRIs and venlafaxine",
+      "C": "It is equally effective as SSRIs and venlafaxine",
+      "D": "It is the best overall long-term PTSD treatment option"
+    },
+    "correct_answer": "B",
+    "explanation": "Research indicates that ketamine can provide rapid relief from PTSD symptoms and is often considered more effective than traditional SSRIs."
+  },
+  {
+    "number": 16,
+    "question": "Which of these has been shown to be the most effective treatment of sleep disturbances in patients with PTSD?",
+    "options": {
+      "A": "Hydroxyzine",
+      "B": "Mianserin",
+      "C": "Prazosin",
+      "D": "Cognitive-behavioral therapy for insomnia"
+    },
+    "correct_answer": "C",
+    "explanation": "Prazosin is specifically used to address nightmares and other sleep disturbances associated with PTSD."
+  },
+  {
+    "number": 1,
+    "question": "Formal characteristics of images include the following EXCEPT:",
+    "options": {
+      "A": "Images are not clearly delineated",
+      "B": "Images have a character of objectivity",
+      "C": "Images appear in inner subjective space",
+      "D": "Images are actively created",
+      "E": "Images dissipate rapidly and have to be recreated"
+    },
+    "correct_answer": "A",
+    "explanation": "Images are typically clearly delineated; the statement in option A contrasts the expected clarity of perceptual images."
+  },
+  {
+    "number": 2,
+    "question": "In synaesthesia the following are TRUE EXCEPT:",
+    "options": {
+      "A": "The perception of a sensory object is presented in another sensory modality",
+      "B": "The perception occurs in peri-personal space",
+      "C": "Music to colour transformations occur",
+      "D": "Elaboration of form constants is a feature",
+      "E": "Emotional distress is a common accompaniment"
+    },
+    "correct_answer": "E",
+    "explanation": "While synesthetic experiences can be intriguing, emotional distress is not a defining characteristic of synaesthesia."
+  },
+  {
+    "number": 3,
+    "question": "Autoscopy can involve all of the following EXCEPT:",
+    "options": {
+      "A": "Feeling of presence",
+      "B": "Failure to perceive self in a mirror",
+      "C": "Visual hallucination of internal organs within bodily space",
+      "D": "Visual hallucination of exact copy of the self in mirror image",
+      "E": "Projection of the observing self in extrapersonal space"
+    },
+    "correct_answer": "C",
+    "explanation": "Autoscopy typically involves the perception of an external self rather than internal organs being visualized."
+  },
+  {
+    "number": 4,
+    "question": "The husband of a 28-year-old woman, who gave birth to a healthy infant 2 weeks ago, reports that he found her shaking the infant to stop it from crying. When the doctor questions the woman about the incident, she says, 'I did not realize it would be so much work.' The patient also reports that she wakes up at 5 AM every day and cannot fall back asleep and has very little appetite. The next step in management is for the doctor to:",
+    "options": {
+      "A": "Assess the patient for thoughts of suicide",
+      "B": "Advise the father to hire a caregiver to assist the mother in caring for the child",
+      "C": "Set up another appointment for the following week",
+      "D": "Prescribe an antidepressant",
+      "E": "Tell the father that the mother is showing evidence of the 'baby blues'"
+    },
+    "correct_answer": "A",
+    "explanation": "Given the potential risk to the infant and the mother's mental state, assessing for suicidal thoughts is a critical next step."
+  },
+  {
+    "number": 5,
+    "question": "A well-trained, highly qualified obstetrician has a busy practice. Which of the following is most likely to be true about postpartum reactions in this doctor’s patients?",
+    "options": {
+      "A": "Postpartum blues will occur in about 10% of the patients.",
+      "B": "Major depression will occur in about 25% of the patients.",
+      "C": "Brief psychotic disorder will occur in about 8% of the patients.",
+      "D": "Brief psychotic disorder will last about 1 year.",
+      "E": "Postpartum blues will usually last up to 2 weeks."
+    },
+    "correct_answer": "B",
+    "explanation": "Major depression occurs in a significant percentage of postpartum women, highlighting the importance of monitoring mood symptoms."
+  },
+  {
+    "number": 6,
+    "question": "Which of the following statements concerning generalized anxiety disorder is NOT true?",
+    "options": {
+      "A": "Alcohol misuse is a common comorbidity",
+      "B": "Cognitive behaviour therapy is generally helpful",
+      "C": "Excessive worries and anxiety symptoms are episodic",
+      "D": "Short-term benzodiazepines can be an effective treatment",
+      "E": "There is a 2 to 1 ratio of women to men suffering from this disorder"
+    },
+    "correct_answer": "C",
+    "explanation": "In generalized anxiety disorder, excessive worries and anxiety symptoms are persistent rather than episodic."
+  },
+  {
+    "number": 7,
+    "question": "Individuals with social phobia:",
+    "options": {
+      "A": "Experience an image from a field perspective (i.e., as looking out from their own eyes)",
+      "B": "Lack social skills",
+      "C": "Avoid social situations to prevent negative evaluation",
+      "D": "Focus on the perceived negative evaluation of a revealing flaw or unacceptable behaviour",
+      "E": "May assume they will be rejected or fail to achieve important goal."
+    },
+    "correct_answer": "C",
+    "explanation": "Individuals with social phobia often avoid situations to prevent perceived negative evaluations from others."
+  },
+  {
+    "number": 8,
+    "question": "Social phobia:",
+    "options": {
+      "A": "Is the third most common mental disorder in adults",
+      "B": "Has a lifetime prevalence rate of about 10%",
+      "C": "Occurs more frequently in males than females in psychiatric clinics",
+      "D": "Has significant comorbidity with depression, and substance misuse",
+      "E": "Is more likely to occur among unmarried individuals with a lower socio-economic status"
+    },
+    "correct_answer": "B",
+    "explanation": "Social phobia has a lifetime prevalence of around 10% in the general population."
+  },
+  {
+    "number": 9,
+    "question": "In cognitive therapy of social phobia:",
+    "options": {
+      "A": "Fluoxetine was found to be more effective than CBT",
+      "B": "The aim of shifting attentional focus is to enable patients to concentrate on how they think they appear to others",
+      "C": "The aim of video feedback is to demonstrate that the patient’s impressions of how they think they appear are inaccurate and based on internal images and feelings",
+      "D": "Behavioural experiments are used to make predictions which are then tested",
+      "E": "Social skills training is provided."
+    },
+    "correct_answer": "D",
+    "explanation": "In cognitive therapy for social phobia, behavioral experiments are a core component used to validate or invalidate predictions of social fears."
+  },
+  {
+    "number": 10,
+    "question": "In the presentation of social phobia:",
+    "options": {
+      "A": "Onset is gradual during adolescence",
+      "B": "The typical course is chronic and life-long",
+      "C": "Predisposing factors include a shy or anxious temperament from childhood",
+      "D": "A minority are of late onset after a significant life event",
+      "E": "Panic often occurs when alone."
+    },
+    "correct_answer": "C",
+    "explanation": "A shy or anxious temperament in childhood is often a predisposing factor for the development of social phobia."
+  },
+  {
+    "number": 11,
+    "question": "In pharmacotherapy for social phobia:",
+    "options": {
+      "A": "An SSRI should usually be commenced at a lower dose than that used for depression",
+      "B": "The full response occurs in about 6 weeks",
+      "C": "An alternative to an SSRI is an MAOI",
+      "D": "Short-acting benzodiazepines are recommended"
+    },
+    "correct_answer": "A",
+    "explanation": "SSRIs are often started at a lower dose for social phobia to minimize early side effects while monitoring the response."
+  },
+  {
+    "number": 12,
+    "question": "Which of the following medications is considered the first-line treatment for social anxiety disorder?",
+    "options": {
+      "A": "Fluoxetine",
+      "B": "Sertraline",
+      "C": "Venlafaxine",
+      "D": "Paroxetine"
+    },
+    "correct_answer": "C",
+    "explanation": "Venlafaxine, an SNRI, is considered a first-line treatment for social anxiety disorder."
+  },
+  {
+    "number": 1,
+    "question": "Which one has less anticholinergic effects and less cardiotoxic potentials?",
+    "options": {
+      "A": "Quetiapine",
+      "B": "Amitriptyline",
+      "C": "Clozapine",
+      "D": "Trazodone"
+    },
+    "correct_answer": "D",
+    "explanation": "Trazodone has fewer anticholinergic properties and significantly lower cardiotoxic risks compared to other options listed."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following increases the risk of priapism in patients on trazodone?",
+    "options": {
+      "A": "Sickle cell anaemia",
+      "B": "Sickle cell traits",
+      "C": "Leukaemia",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Conditions like sickle cell anemia, sickle cell traits, and leukaemia can all predispose patients to priapism when on trazodone."
+  },
+  {
+    "number": 3,
+    "question": "In which tricyclic there is a curvilinear relationship between plasma concentration and clinical response?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Imipramine",
+      "C": "Nortriptyline",
+      "D": "Butriptyline"
+    },
+    "correct_answer": "C",
+    "explanation": "Nortriptyline demonstrates a curvilinear relationship between plasma levels and response due to its pharmacokinetics."
+  },
+  {
+    "number": 4,
+    "question": "Which SSRIs are FDA approved for treatment of OCD?",
+    "options": {
+      "A": "Fluvoxamine",
+      "B": "Fluoxetine",
+      "C": "Sertraline",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All of the listed SSRIs — fluvoxamine, fluoxetine, and sertraline — are approved for the treatment of obsessive-compulsive disorder."
+  },
+  {
+    "number": 5,
+    "question": "SSRIs affect which part of CNS to cause sexual dysfunction?",
+    "options": {
+      "A": "Midbrain",
+      "B": "Spinal cord",
+      "C": "Prefrontal",
+      "D": "Basal ganglia"
+    },
+    "correct_answer": "D",
+    "explanation": "SSRIs can influence sexual function through serotonergic actions particularly in the basal ganglia."
+  },
+  {
+    "number": 6,
+    "question": "SSRIs affect which part of the brain to cause insomnia?",
+    "options": {
+      "A": "Midbrain",
+      "B": "Spinal cord",
+      "C": "Basal ganglia",
+      "D": "Prefrontal cortex"
+    },
+    "correct_answer": "A",
+    "explanation": "The midbrain, including its role in regulating sleep-wake cycles, is affected by SSRIs, which can lead to insomnia."
+  },
+  {
+    "number": 7,
+    "question": "Which one is a safer option in pregnancy?",
+    "options": {
+      "A": "Sertraline",
+      "B": "Fluoxetine",
+      "C": "Lithium",
+      "D": "Bupropion"
+    },
+    "correct_answer": "A",
+    "explanation": "Sertraline is considered one of the safer SSRIs for use during pregnancy."
+  },
+  {
+    "number": 8,
+    "question": "Trazodone can help the following except for?",
+    "options": {
+      "A": "Depressive disorder",
+      "B": "Nightmares in PTSD",
+      "C": "Anxiety disorder",
+      "D": "OCD"
+    },
+    "correct_answer": "D",
+    "explanation": "While trazodone is effective for depression and sleep disturbances, it is not typically used for obsessive-compulsive disorder."
+  },
+  {
+    "number": 9,
+    "question": "Which one has no effect on ECG?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Olanzapine",
+      "C": "Quetiapine",
+      "D": "Lurasidone"
+    },
+    "correct_answer": "A",
+    "explanation": "Aripiprazole has a minimal effect on the ECG compared to other antipsychotics."
+  },
+  {
+    "number": 10,
+    "question": "Which one is a partial agonist of D2 and D3 receptors?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Quetiapine",
+      "C": "Risperidone",
+      "D": "Clozapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Aripiprazole acts as a partial agonist at dopamine D2 and D3 receptors, which helps stabilize dopamine activity."
+  },
+  {
+    "number": 11,
+    "question": "Which one can be used to treat tics disorder?",
+    "options": {
+      "A": "Clonidine or Guanfacine",
+      "B": "Risperidone",
+      "C": "Haloperidol",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All listed medications can be effective in treating tics disorders, particularly in pediatric populations."
+  },
+  {
+    "number": 12,
+    "question": "Which antidepressant is serotonin receptor antagonist with serotonin reuptake inhibition?",
+    "options": {
+      "A": "Vortioxetine",
+      "B": "Sertraline",
+      "C": "Venlafaxine",
+      "D": "Agomelatine"
+    },
+    "correct_answer": "A",
+    "explanation": "Vortioxetine functions as a serotonin reuptake inhibitor and acts as a serotonin receptor modulator."
+  },
+  {
+    "number": 13,
+    "question": "Which antidepressant works through glutamatergic neurotransmission system?",
+    "options": {
+      "A": "Ketamine",
+      "B": "Vortioxetine",
+      "C": "Bupropion",
+      "D": "Trazodone"
+    },
+    "correct_answer": "A",
+    "explanation": "Ketamine acts primarily through glutamatergic pathways which have rapid antidepressant effects."
+  },
+  {
+    "number": 14,
+    "question": "What gap is needed when we switch from fluoxetine to MAOIs?",
+    "options": {
+      "A": "5 weeks",
+      "B": "2 weeks",
+      "C": "5 days",
+      "D": "2 days"
+    },
+    "correct_answer": "A",
+    "explanation": "After discontinuing fluoxetine, a 5-week washout period is required before starting MAOIs due to its long half-life."
+  },
+  {
+    "number": 15,
+    "question": "What gap is needed when we switch from MAOIs to fluoxetine?",
+    "options": {
+      "A": "5 weeks",
+      "B": "2 weeks",
+      "C": "5 days",
+      "D": "2 days"
+    },
+    "correct_answer": "B",
+    "explanation": "A 2-week gap is needed after stopping MAOIs before starting fluoxetine to prevent serotonin syndrome."
+  },
+  {
+    "number": 16,
+    "question": "Which tricyclic antidepressant is more sedative?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Clomipramine",
+      "C": "Imipramine",
+      "D": "Nortriptyline"
+    },
+    "correct_answer": "A",
+    "explanation": "Amitriptyline is well-known for its sedative properties."
+  },
+  {
+    "number": 17,
+    "question": "Which tricyclic antidepressant is less sedating and is appropriate in case of psychomotor retardation?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Clomipramine",
+      "C": "Imipramine",
+      "D": "Nortriptyline"
+    },
+    "correct_answer": "D",
+    "explanation": "Nortriptyline causes less sedation compared to the others and can be preferred in cases where sedation is undesirable."
+  },
+  {
+    "number": 18,
+    "question": "Which tricyclic antidepressant has the most benign side effect profile?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Clomipramine",
+      "C": "Imipramine",
+      "D": "Nortriptyline"
+    },
+    "correct_answer": "D",
+    "explanation": "Nortriptyline is associated with a more benign side effect profile compared to other tricyclic antidepressants."
+  },
+  {
+    "number": 19,
+    "question": "Which one is not a part of pharmacokinetic?",
+    "options": {
+      "A": "Absorption",
+      "B": "Distribution",
+      "C": "Metabolism & Elimination",
+      "D": "Effect on receptors"
+    },
+    "correct_answer": "D",
+    "explanation": "Effect on receptors pertains to pharmacodynamics rather than pharmacokinetics."
+  },
+  {
+    "number": 20,
+    "question": "Which one goes through first-pass metabolism?",
+    "options": {
+      "A": "Oral administration",
+      "B": "IV administration",
+      "C": "IM administration",
+      "D": "Sublingual administration"
+    },
+    "correct_answer": "A",
+    "explanation": "First-pass metabolism occurs primarily with orally administered medications as they are metabolized by the liver before entering systemic circulation."
+  },
+  {
+    "number": 21,
+    "question": "First-pass metabolism can occur in the following places except:",
+    "options": {
+      "A": "Hepatic first-pass metabolism",
+      "B": "Intestinal first-pass metabolism",
+      "C": "Pulmonary first-pass metabolism",
+      "D": "Skin first-pass metabolism"
+    },
+    "correct_answer": "D",
+    "explanation": "Skin does not participate in first-pass metabolism; it primarily affects various routes of drug administration through the liver and intestines."
+  },
+  {
+    "number": 22,
+    "question": "First-pass metabolism is reduced by which one?",
+    "options": {
+      "A": "Propranolol",
+      "B": "H2 receptor blockers (eg cimetidine)",
+      "C": "Chloramphenicol",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All listed options can affect first-pass metabolism, either by reducing efficiency or altering hepatic enzyme activity."
+  },
+  {
+    "number": 23,
+    "question": "Which one can contribute in the causation of sleep paralysis?",
+    "options": {
+      "A": "Insomnia",
+      "B": "Irregular sleep due to night shift",
+      "C": "Anxiety & Depression",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All of the listed factors can contribute to the occurrence of sleep paralysis by disrupting sleep cycles."
+  },
+  {
+    "number": 24,
+    "question": "In a seventy years old right-handed man who presents with telegraphic talking and problems in repetition of a sentence and MRI brain shows atrophy in left parietal lobe which of the following describes the above?",
+    "options": {
+      "A": "Dyspraxia",
+      "B": "Agnosia",
+      "C": "Non-fluent aphasia",
+      "D": "Acalculia"
+    },
+    "correct_answer": "C",
+    "explanation": "Non-fluent aphasia is characterized by difficulties in speech production and often correlates with left hemisphere damage."
+  },
+  {
+    "number": 25,
+    "question": "In which one we can see features of Parkinsonism?",
+    "options": {
+      "A": "Parkinson’s Disease",
+      "B": "Lewy Body Dementia",
+      "C": "Fronto-Temporal Dementia",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All mentioned conditions can exhibit features of Parkinsonism due to their neurological impact."
+  },
+  {
+    "number": 26,
+    "question": "Which one is a three-monthly depot injection:",
+    "options": {
+      "A": "Trevicta",
+      "B": "Paliperidone",
+      "C": "Risperidone consta",
+      "D": "Haloperidol"
+    },
+    "correct_answer": "A",
+    "explanation": "Trevicta is formulated for intramuscular injection every three months as a long-acting antipsychotic."
+  },
+  {
+    "number": 27,
+    "question": "Which one is used to assess personality disorders:",
+    "options": {
+      "A": "SCID 5",
+      "B": "SCID 2",
+      "C": "ASRS",
+      "D": "Y-BOCS"
+    },
+    "correct_answer": "B",
+    "explanation": "SCID-2 is specifically designed for assessingAxis II disorders, which includes personality disorders."
+  },
+  {
+    "number": 28,
+    "question": "Adult ADHD can be seen more commonly with which diagnosis?",
+    "options": {
+      "A": "Anxiety & Depressive disorder",
+      "B": "Personality disorder",
+      "C": "Psychotic disorder",
+      "D": "Drugs & alcohol dependency"
+    },
+    "correct_answer": "A",
+    "explanation": "Adult ADHD often co-occurs with anxiety and depressive disorders due to overlapping symptoms and vulnerabilities."
+  },
+  {
+    "number": 29,
+    "question": "Which one is less likely to be seen in ASD?",
+    "options": {
+      "A": "Lack of fear or more fear than usual",
+      "B": "Lack of sensitivity to change",
+      "C": "Delay in developmental milestones",
+      "D": "Problem in socialisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Individuals with autism tend to have heightened sensitivity to change and may display fear responses differently."
+  },
+  {
+    "number": 30,
+    "question": "Which option explains poor handwriting or legibility in children?",
+    "options": {
+      "A": "ADHD",
+      "B": "Developmental coordination disorder",
+      "C": "Written language disorder",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Poor handwriting can be associated with various issues, including ADHD and specific learning disabilities related to writing."
+  },
+  {
+    "number": 31,
+    "question": "Which option is incorrect about ARFID (Avoidant Restrictive Food Intake Disorder)?",
+    "options": {
+      "A": "Described in DSM-5",
+      "B": "There is body image disturbance",
+      "C": "Is a type of eating disorder",
+      "D": "Possible link with autism"
+    },
+    "correct_answer": "B",
+    "explanation": "ARFID is characterized by avoidance of food based on sensory features, and does not necessarily involve body image disturbance."
+  },
+  {
+    "number": 32,
+    "question": "Which one is psychodelic?",
+    "options": {
+      "A": "Cocaine",
+      "B": "Amphetamine",
+      "C": "Cannabis",
+      "D": "Psilocybin"
+    },
+    "correct_answer": "D",
+    "explanation": "Psilocybin is known as a psychedelic substance that induces altered states of consciousness and perception."
+  },
+  {
+    "number": 33,
+    "question": "Which one is not seen in Wernicke's encephalopathy?",
+    "options": {
+      "A": "Ophthalmoparesia",
+      "B": "Ataxia",
+      "C": "Confusion",
+      "D": "Permanent damage to the brain"
+    },
+    "correct_answer": "D",
+    "explanation": "Wernicke's encephalopathy causes neurological deficits that can be reversible with thiamine treatment, but permanent brain damage is not a direct symptom."
+  },
+  {
+    "number": 1,
+    "question": "Of the following, the most likely cause of this picture is:",
+    "options": {
+      "A": "Alcohol use",
+      "B": "Alcohol withdrawal",
+      "C": "Heroin use",
+      "D": "Heroin withdrawal",
+      "E": "Amphetamine withdrawal"
+    },
+    "correct_answer": "D",
+    "explanation": "The patient's symptoms, including sweating, muscle aches, and goosebumps, align with heroin withdrawal symptoms."
+  },
+  {
+    "number": 2,
+    "question": "Of the following, the most effective immediate treatment for relief of this patient’s symptoms is:",
+    "options": {
+      "A": "Naloxone",
+      "B": "Naltrexone",
+      "C": "An antipsychotic",
+      "D": "A stimulant",
+      "E": "Clonidine"
+    },
+    "correct_answer": "E",
+    "explanation": "Clonidine is effective in alleviating withdrawal symptoms associated with opioid withdrawal, including agitation and autonomic instability."
+  },
+  {
+    "number": 3,
+    "question": "The next step that the physician should take is to:",
+    "options": {
+      "A": "Check his liver function",
+      "B": "Ask him if he has a problem with alcohol",
+      "C": "Call his previous employer for information",
+      "D": "Ask him the CAGE questions"
+    },
+    "correct_answer": "D",
+    "explanation": "The CAGE questionnaire is a validated method to screen for alcohol use disorders, which is appropriate in this scenario."
+  },
+  {
+    "number": 4,
+    "question": "Which of the following medications would be the most suitable for the 20-year-old female patient who has little interest in going back to school or getting a job and has cravings for snack food?",
+    "options": {
+      "A": "Phencyclidine (PCP)",
+      "B": "Lysergic acid diethylamide (LSD)",
+      "C": "Marijuana",
+      "D": "Cocaine",
+      "E": "Heroin"
+    },
+    "correct_answer": "C",
+    "explanation": "Marijuana use is often associated with increased appetite and cravings for food, aligning with the patient’s symptoms."
+  },
+  {
+    "number": 5,
+    "question": "A 60-year-old man is brought to the hospital after a fall outside of a neighborhood bar. Radiologic studies indicate that the patient has a fractured hip and surgery is performed immediately. Two days later, the patient begins to show an intense hand tremor and tachycardia. Which of the following is the most likely cause of this picture?",
+    "options": {
+      "A": "Alcohol use",
+      "B": "Alcohol withdrawal",
+      "C": "Heroin use",
+      "D": "Heroin withdrawal",
+      "E": "Amphetamine withdrawal"
+    },
+    "correct_answer": "B",
+    "explanation": "The patient's symptoms of tremors and tachycardia following surgery and likely cessation of alcohol intake indicate alcohol withdrawal."
+  },
+  {
+    "number": 6,
+    "question": "A 26-year-old woman who has been taking a benzodiazepine daily in moderate doses over the past 5 years abruptly stops taking the drug. When a physician sees her 2 days after her last dose, she is most likely to show:",
+    "options": {
+      "A": "Hypersomnia",
+      "B": "Tremor",
+      "C": "Lethargy",
+      "D": "Respiratory depression",
+      "E": "Sedation"
+    },
+    "correct_answer": "B",
+    "explanation": "Tremors are a common withdrawal symptom from benzodiazepines after abrupt cessation."
+  },
+  {
+    "number": 7,
+    "question": "A very anxious 25-year-old patient is examined in the emergency room. There is no evidence of physical illness. If it could be measured, the Gamma-aminobutyric acid (GABA) activity in the brain of this patient would most likely be:",
+    "options": {
+      "A": "Increased",
+      "B": "Decreased",
+      "C": "Unchanged",
+      "D": "Higher than the activity of serotonin",
+      "E": "Higher than the activity of norepinephrine"
+    },
+    "correct_answer": "B",
+    "explanation": "Decreased GABAergic activity contributes to increased anxiety symptoms, often seen in anxiety disorders."
+  },
+  {
+    "number": 8,
+    "question": "Which of the following is common in opioid withdrawal?",
+    "options": {
+      "A": "Constipation",
+      "B": "Hypotension",
+      "C": "Lacrimation",
+      "D": "Psychosis",
+      "E": "Pupillary constriction"
+    },
+    "correct_answer": "C",
+    "explanation": "Lacrimation is a classic symptom of opioid withdrawal, along with other symptoms such as diarrhea and agitation."
+  },
+  {
+    "number": 9,
+    "question": "Which of these psychiatric diagnoses is one of the most common comorbid ones with alcohol-related disorders?",
+    "options": {
+      "A": "Anorexia nervosa",
+      "B": "Antisocial personality",
+      "C": "Attention-deficit hyperactivity",
+      "D": "Autism spectrum",
+      "E": "Schizophrenia"
+    },
+    "correct_answer": "B",
+    "explanation": "Antisocial personality disorder frequently co-occurs with alcohol-related disorders due to shared risk factors."
+  },
+  {
+    "number": 10,
+    "question": "Which of the following is NOT a core feature of cognitive impairment associated with schizophrenia (CIAS)?",
+    "options": {
+      "A": "Associated with poorer functioning in valued activities",
+      "B": "Causes a steadily progressive decline in cognition starting at the first episode",
+      "C": "Impacts multiple areas of cognition",
+      "D": "Present in the early phases of illness"
+    },
+    "correct_answer": "B",
+    "explanation": "Cognitive impairments in schizophrenia do not necessarily progress steadily; they can manifest variably at illness onset."
+  },
+  {
+    "number": 1,
+    "question": "Which personality disorder diagnosis appears most appropriate?",
+    "options": {
+      "A": "Antisocial",
+      "B": "Avoidant",
+      "C": "Histrionic",
+      "D": "Obsessive-compulsive",
+      "E": "Schizotypal"
+    },
+    "correct_answer": "D",
+    "explanation": "The symptoms described, such as stubbornness and rigid control over his environment, align most closely with obsessive-compulsive personality disorder."
+  },
+  {
+    "number": 2,
+    "question": "You expect the patient may act out in which of the following fashions when under stress in the hospital?",
+    "options": {
+      "A": "Strange behavior may put off caregivers",
+      "B": "Sees hospitalization as a threat to his control",
+      "C": "Can be charming but in a manipulative fashion; resists rules",
+      "D": "Uses splitting, possibly dividing the staff, who might take sides",
+      "E": "Likely to be cooperative and do well with the attention"
+    },
+    "correct_answer": "B",
+    "explanation": "Patients with obsessive-compulsive personality disorder often perceive loss of control as a significant threat, which may lead to rigid behaviors."
+  },
+  {
+    "number": 3,
+    "question": "You might recommend which of the following interventions to the staff regarding the patient?",
+    "options": {
+      "A": "Set firm limits; consider an antidepressant",
+      "B": "Set firm limits on patient and staff roles; remain noncritical",
+      "C": "Odd behavior may make staff uneasy, but avoid ridicule",
+      "D": "Similar patients generally do well, but avoid criticism",
+      "E": "Share control with the patient in as many ways as possible"
+    },
+    "correct_answer": "E",
+    "explanation": "Sharing control with the patient can help to ease their feelings of anxiety related to the perceived threat to their control."
+  },
+  {
+    "number": 4,
+    "question": "Which personality disorder diagnosis appears most appropriate?",
+    "options": {
+      "A": "Antisocial",
+      "B": "Narcissistic",
+      "C": "Paranoid",
+      "D": "Schizoid",
+      "E": "Schizotypal"
+    },
+    "correct_answer": "A",
+    "explanation": "The patient’s manipulative behavior and lack of remorse align with the diagnostic criteria for antisocial personality disorder."
+  },
+  {
+    "number": 5,
+    "question": "You expect this patient may act out in which of the following fashions when under stress in the hospital?",
+    "options": {
+      "A": "Aloof; may want to leave against medical advice",
+      "B": "Strange behavior may put off caregivers",
+      "C": "Will likely be charming and fascinating; his sense of attractiveness may be threatened by illness",
+      "D": "Might suffer feelings of abandonment and helplessness"
+    },
+    "correct_answer": "C",
+    "explanation": "Patients with antisocial personality disorder may appear charming, but they can also exhibit manipulative behaviors, especially when they perceive their attractiveness is at stake."
+  },
+  {
+    "number": 6,
+    "question": "You might recommend which of the following interventions to the staff for the patient?",
+    "options": {
+      "A": "Set firm limits and consider an antidepressant",
+      "B": "Odd behavior may make staff uneasy, but avoid ridicule",
+      "C": "Set firm limits; anticipate a demand for discharge against medical advice",
+      "D": "Be straightforward, explain everything, and expect distrust"
+    },
+    "correct_answer": "C",
+    "explanation": "Setting firm limits is important for managing patients with antisocial personality disorder to reduce manipulative behaviors."
+  },
+  {
+    "number": 7,
+    "question": "You would recommend which of the following courses of treatment for this patient after discharge?",
+    "options": {
+      "A": "Treatment with benzodiazepines to reduce anxiety",
+      "B": "Individual therapy focusing on building a strong patient–therapist relationship",
+      "C": "Tell the patient there is no hope for treatment and you will not take his money",
+      "D": "Group therapy with a particular therapist and patients"
+    },
+    "correct_answer": "D",
+    "explanation": "Group therapy can provide additional support and may be a beneficial therapeutic option for individuals with antisocial personality disorder."
+  },
+  {
+    "number": 8,
+    "question": "A 35-year-old single man is admitted to the hospital for deep vein thrombosis. He has been inappropriately provocative and seductive toward the female staff. Dramatic and suggestible, he appears obsessed with his attractiveness. He exaggerates his familiarity with some staff members and displays shallow, shifting emotions. Which personality disorder diagnosis appears most appropriate?",
+    "options": {
+      "A": "Antisocial",
+      "B": "Avoidant",
+      "C": "Histrionic",
+      "D": "Obsessive-compulsive",
+      "E": "Paranoid"
+    },
+    "correct_answer": "C",
+    "explanation": "The described behaviors, including provocative actions and a need for attention, align closely with histrionic personality disorder."
+  },
+  {
+    "number": 9,
+    "question": "You expect this patient may act out in which fashion when under stress in the hospital?",
+    "options": {
+      "A": "Aloof; may want to leave against medical advice",
+      "B": "Will likely be charming and fascinating; his sense of attractiveness may be threatened by illness",
+      "C": "Very guarded, suspicious, and quarrelsome",
+      "D": "Will use splitting, possibly dividing the staff, who might take sides"
+    },
+    "correct_answer": "B",
+    "explanation": "Histrionic patients may engage in charming behaviors; they could feel threatened by the hospitalization due to concerns about their attractiveness."
+  },
+  {
+    "number": 10,
+    "question": "For this patient, you might recommend which of the following interventions to the staff?",
+    "options": {
+      "A": "Be straightforward, explain everything, and expect distrust",
+      "B": "Set firm limits and consider an antidepressant",
+      "C": "Similar patients generally do well, but avoid criticism",
+      "D": "Share control with the patient in as many ways as possible"
+    },
+    "correct_answer": "B",
+    "explanation": "Setting firm limits is important in managing patients with histrionic traits to address boundary issues in behavior."
+  },
+  {
+    "number": 1,
+    "question": "Which of these drugs works without direct dopamine receptor antagonism?",
+    "options": {
+      "A": "Xanomeline-trospium",
+      "B": "Aripiprazole",
+      "C": "Iloperidone",
+      "D": "Thioridazine"
+    },
+    "correct_answer": "A",
+    "explanation": "Xanomeline-trospium primarily targets muscarinic receptors rather than directly antagonizing dopamine receptors."
+  },
+  {
+    "number": 2,
+    "question": "How does the type of antipsychotic medication affect risk for psychiatric hospital readmission among patients with schizophrenia?",
+    "options": {
+      "A": "Long-acting injectable antipsychotics reduce risk most",
+      "B": "Oral antipsychotics reduce risk most",
+      "C": "Early discontinuation of either medication triples risk",
+      "D": "There is no significant difference found"
+    },
+    "correct_answer": "A",
+    "explanation": "Long-acting injectable antipsychotics are linked to lower readmission rates due to improved adherence."
+  },
+  {
+    "number": 3,
+    "question": "Patients treated with antipsychotics for dementia experienced doubled risk for which of these conditions?",
+    "options": {
+      "A": "Cholecystitis",
+      "B": "Myocardial infarction",
+      "C": "Pneumonia",
+      "D": "Ventricular arrhythmia"
+    },
+    "correct_answer": "C",
+    "explanation": "Antipsychotic use in dementia patients is associated with an increased risk of pneumonia due to various factors, including sedation."
+  },
+  {
+    "number": 4,
+    "question": "How did atypical antipsychotics and haloperidol compare in the treatment of postoperative delirium in older patients?",
+    "options": {
+      "A": "Atypical antipsychotics were safer",
+      "B": "Haloperidol was safer",
+      "C": "Atypical antipsychotics were more effective, but haloperidol was safer",
+      "D": "No significant difference was found"
+    },
+    "correct_answer": "A",
+    "explanation": "Atypical antipsychotics are usually preferred due to their better side effect profiles and safety in the elderly."
+  },
+  {
+    "number": 5,
+    "question": "Which of these commonly prescribed antipsychotic medications was found to be most effective in patients who previously did not respond to two other medications?",
+    "options": {
+      "A": "Clozapine",
+      "B": "Olanzapine",
+      "C": "Quetiapine",
+      "D": "Ziprasidone"
+    },
+    "correct_answer": "A",
+    "explanation": "Clozapine is indicated for treatment-resistant schizophrenia and is effective in patients who have not responded to other medications."
+  },
+  {
+    "number": 6,
+    "question": "A 30-year-old man with diabetes mellitus is referred by his general practitioner for treatment of a depressive episode. Which of the following antidepressants would be the most suitable?",
+    "options": {
+      "A": "Clomipramine",
+      "B": "Fluoxetine",
+      "C": "Mirtazapine",
+      "D": "Phenelzine",
+      "E": "Sertraline"
+    },
+    "correct_answer": "B",
+    "explanation": "Fluoxetine is effective for treating depression and has a safer profile for patients with diabetes mellitus."
+  },
+  {
+    "number": 7,
+    "question": "When do primary cognitive impairments typically start in people with schizophrenia?",
+    "options": {
+      "A": "At the same time as psychotic symptoms first occur",
+      "B": "After onset of psychotic symptoms",
+      "C": "Before onset of psychotic symptoms"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive impairments often begin before psychotic symptoms, sometimes already noticeable in childhood or adolescence."
+  },
+  {
+    "number": 8,
+    "question": "How do cognitive impairments typically impact function in people with schizophrenia?",
+    "options": {
+      "A": "Little impact early in disease course, progressively increasing impact in 2nd, 3rd decade after Dx.",
+      "B": "Minor impact on function when co-occurring with negative symptoms",
+      "C": "Impairment of function in school, vocation, socially, and daily life",
+      "D": "Third point impairment but only when co-occurring with negative symptoms"
+    },
+    "correct_answer": "C",
+    "explanation": "Cognitive impairments significantly impact multiple domains of daily functioning, including social, vocational, and academic settings."
+  },
+  {
+    "number": 9,
+    "question": "Difficulty remembering what to buy and which aisles to find groceries in, and being unable to select options quickly enough on self-checkout tills at the grocery store suggest impairments in what cognitive domains?",
+    "options": {
+      "A": "Negative symptoms of amotivation and anhedonia",
+      "B": "Cognitive impairment in visual memory and processing speed",
+      "C": "Cognitive impairments in social cognition and verbal memory",
+      "D": "Negative symptoms of asociality and cognitive impairment in processing speed"
+    },
+    "correct_answer": "B",
+    "explanation": "The challenges described are indicative of deficits in visual memory and processing speed."
+  },
+  {
+    "number": 10,
+    "question": "What performance-based instrument is recommended for assessment of cognitive symptoms in schizophrenia and can be completed in less than 1 hour?",
+    "options": {
+      "A": "BACS",
+      "B": "MCCB",
+      "C": "SCoRS"
+    },
+    "correct_answer": "B",
+    "explanation": "The MATRICS Consensus Cognitive Battery (MCCB) is designed for assessing cognitive deficits in schizophrenia and is efficient for use."
+  },
+  {
+    "number": 11,
+    "question": "What is an appropriate next step for optimizing their cognitive health?",
+    "options": {
+      "A": "Refer for neuropsychological testing",
+      "B": "Assess cognitive symptoms again in about 4 months",
+      "C": "Ask team members and the patient's support person about signs of poor function related to cognition"
+    },
+    "correct_answer": "A",
+    "explanation": "Referring for neuropsychological testing provides a comprehensive evaluation of cognitive functioning."
+  },
+  {
+    "number": 12,
+    "question": "Which of these symptoms distinguishes complex PTSD (CPTSD) from PTSD?",
+    "options": {
+      "A": "Avoidance",
+      "B": "Hyperarousal",
+      "C": "Negative thoughts",
+      "D": "Emotional dysregulation"
+    },
+    "correct_answer": "D",
+    "explanation": "Emotional dysregulation is a distinguishing feature of complex PTSD that isn't found in typical PTSD."
+  },
+  {
+    "number": 13,
+    "question": "The US Department of Veterans Affairs/Department of Defense (VA/DoD) 2023 guidelines recommend using which instrument to screen for PTSD?",
+    "options": {
+      "A": "PTSD Symptom Scale - Interview for DSM-5 (PSS-I-5)",
+      "B": "PTSD Checklist for DSM-5 (PCL-5)",
+      "C": "Primary Care PTSD Screen for DSM-5 (PC-PTSD-5)",
+      "D": "Clinician-Administered PTSD Scale for DSM-5 (CAPS-5)"
+    },
+    "correct_answer": "B",
+    "explanation": "The PTSD Checklist for DSM-5 (PCL-5) is the recommended screening tool in current VA/DoD guidelines."
+  },
+  {
+    "number": 14,
+    "question": "The VA/DoD 2023 guidelines recommend which of these drugs for PTSD treatment?",
+    "options": {
+      "A": "Sertraline",
+      "B": "Fluoxetine",
+      "C": "Nefazodone",
+      "D": "Imipramine"
+    },
+    "correct_answer": "A",
+    "explanation": "Sertraline is one of the SSRIs recommended for the treatment of PTSD according to recent VA/DoD guidelines."
+  },
+  {
+    "number": 15,
+    "question": "Which of these statements regarding ketamine as a PTSD treatment is most accurate?",
+    "options": {
+      "A": "It is less effective than SSRIs and venlafaxine",
+      "B": "It is more effective than SSRIs and venlafaxine",
+      "C": "It is equally effective as SSRIs and venlafaxine",
+      "D": "It is the best overall long-term PTSD treatment option"
+    },
+    "correct_answer": "B",
+    "explanation": "Recent studies have shown that ketamine can provide rapid relief of PTSD symptoms, often more effectively than traditional antidepressants."
+  },
+  {
+    "number": 16,
+    "question": "Which of these has been shown to be the most effective treatment of sleep disturbances in patients with PTSD?",
+    "options": {
+      "A": "Hydroxyzine",
+      "B": "Mianserin",
+      "C": "Prazosin",
+      "D": "Cognitive-behavioral therapy for insomnia"
+    },
+    "correct_answer": "C",
+    "explanation": "Prazosin is specifically effective for treating nightmares and sleep disturbances in PTSD."
+  },
+  {
+    "number": 1,
+    "question": "Which of these drugs works without direct dopamine receptor antagonism?",
+    "options": {
+      "A": "Xanomeline-trospium",
+      "B": "Aripiprazole",
+      "C": "Iloperidone",
+      "D": "Thioridazine"
+    },
+    "correct_answer": "A",
+    "explanation": "Xanomeline-trospium primarily targets muscarinic receptors rather than directly antagonizing dopamine receptors."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following increases the risk of priapism in patients on trazodone?",
+    "options": {
+      "A": "Sickle cell anaemia",
+      "B": "Sickle cell traits",
+      "C": "Leukaemia",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All of the conditions listed can increase the risk of priapism when taking trazodone."
+  },
+  {
+    "number": 3,
+    "question": "In which tricyclic is there a curvilinear relationship between plasma concentration and clinical response?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Imipramine",
+      "C": "Nortriptyline",
+      "D": "Butriptyline"
+    },
+    "correct_answer": "C",
+    "explanation": "Nortriptyline shows a curvilinear relationship between its plasma concentration and clinical response."
+  },
+  {
+    "number": 4,
+    "question": "Which SSRIs are FDA approved for the treatment of OCD?",
+    "options": {
+      "A": "Fluvoxamine",
+      "B": "Fluoxetine",
+      "C": "Sertraline",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Fluvoxamine, Fluoxetine, and Sertraline are all approved for the treatment of obsessive-compulsive disorder."
+  },
+  {
+    "number": 5,
+    "question": "SSRIs affect which part of the CNS to cause sexual dysfunction?",
+    "options": {
+      "A": "Midbrain",
+      "B": "Spinal cord",
+      "C": "Prefrontal",
+      "D": "Basal ganglia"
+    },
+    "correct_answer": "D",
+    "explanation": "SSRIs can impact sexual function through serotonergic actions in the basal ganglia."
+  },
+  {
+    "number": 6,
+    "question": "SSRIs affect which part of the brain to cause insomnia?",
+    "options": {
+      "A": "Midbrain",
+      "B": "Spinal cord",
+      "C": "Basal ganglia",
+      "D": "Prefrontal cortex"
+    },
+    "correct_answer": "A",
+    "explanation": "The midbrain plays a crucial role in regulating wakefulness, and SSRIs can disrupt sleep cycles."
+  },
+  {
+    "number": 7,
+    "question": "Which one is a safer option in pregnancy?",
+    "options": {
+      "A": "Sertraline",
+      "B": "Fluoxetine",
+      "C": "Lithium",
+      "D": "Bupropion"
+    },
+    "correct_answer": "A",
+    "explanation": "Sertraline is generally regarded as a safer SSRI for use during pregnancy."
+  },
+  {
+    "number": 8,
+    "question": "Trazodone can help the following except for?",
+    "options": {
+      "A": "Depressive disorder",
+      "B": "Nightmares in PTSD",
+      "C": "Anxiety disorder",
+      "D": "OCD"
+    },
+    "correct_answer": "D",
+    "explanation": "Trazodone is effective for depression and sleep disturbances but is not typically used for OCD."
+  },
+  {
+    "number": 9,
+    "question": "Which one has no effect on ECG?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Olanzapine",
+      "C": "Quetiapine",
+      "D": "Lurasidone"
+    },
+    "correct_answer": "A",
+    "explanation": "Aripiprazole is associated with minimal cardiovascular effects relative to other antipsychotics."
+  },
+  {
+    "number": 10,
+    "question": "Which one is a partial agonist of D2 and D3 receptors?",
+    "options": {
+      "A": "Aripiprazole",
+      "B": "Quetiapine",
+      "C": "Risperidone",
+      "D": "Clozapine"
+    },
+    "correct_answer": "A",
+    "explanation": "Aripiprazole acts as a partial agonist at dopamine D2 and D3 receptors, providing a unique mechanism of action."
+  },
+  {
+    "number": 11,
+    "question": "Which one can be used to treat tics disorder?",
+    "options": {
+      "A": "Clonidine or Guanfacine",
+      "B": "Risperidone",
+      "C": "Haloperidol",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All three agents have been utilized in the treatment of tic disorders, particularly in children."
+  },
+  {
+    "number": 12,
+    "question": "Which antidepressant is serotonin receptor antagonist with serotonin reuptake inhibition?",
+    "options": {
+      "A": "Vortioxetine",
+      "B": "Sertraline",
+      "C": "Venlafaxine",
+      "D": "Agomelatine"
+    },
+    "correct_answer": "A",
+    "explanation": "Vortioxetine is known for its dual action as a serotonin reuptake inhibitor and a serotonin receptor modulator."
+  },
+  {
+    "number": 13,
+    "question": "Which antidepressant works through glutamatergic neurotransmission system?",
+    "options": {
+      "A": "Ketamine",
+      "B": "Vortioxetine",
+      "C": "Bupropion",
+      "D": "Trazodone"
+    },
+    "correct_answer": "A",
+    "explanation": "Ketamine is recognized for its rapid antidepressant effects that involve modulation of the glutamatergic system."
+  },
+  {
+    "number": 14,
+    "question": "What gap is needed when we switch from fluoxetine to MAOIs?",
+    "options": {
+      "A": "5 weeks",
+      "B": "2 weeks",
+      "C": "5 days",
+      "D": "2 days"
+    },
+    "correct_answer": "A",
+    "explanation": "A 5-week interval is necessary after discontinuing fluoxetine to safely transition to MAOIs due to the risk of serotonin syndrome."
+  },
+  {
+    "number": 15,
+    "question": "What gap is needed when we switch from MAOIs to fluoxetine?",
+    "options": {
+      "A": "5 weeks",
+      "B": "2 weeks",
+      "C": "5 days",
+      "D": "2 days"
+    },
+    "correct_answer": "B",
+    "explanation": "A 2-week wait is required when switching from MAOIs to fluoxetine to prevent serotonin syndrome."
+  },
+  {
+    "number": 16,
+    "question": "Which tricyclic antidepressant is more sedative?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Clomipramine",
+      "C": "Imipramine",
+      "D": "Nortriptyline"
+    },
+    "correct_answer": "A",
+    "explanation": "Amitriptyline is well-known for its sedative properties and is often used for its sleep-inducing effects."
+  },
+  {
+    "number": 17,
+    "question": "Which tricyclic antidepressant is less sedating and is appropriate in cases of psychomotor retardation?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Clomipramine",
+      "C": "Imipramine",
+      "D": "Nortriptyline"
+    },
+    "correct_answer": "D",
+    "explanation": "Nortriptyline is less sedating and is a favorable choice for patients with concerns about sedation."
+  },
+  {
+    "number": 18,
+    "question": "Which tricyclic antidepressant has the most benign side effect profile?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Clomipramine",
+      "C": "Imipramine",
+      "D": "Nortriptyline"
+    },
+    "correct_answer": "D",
+    "explanation": "Nortriptyline is associated with fewer side effects compared to other tricyclic antidepressants."
+  },
+  {
+    "number": 19,
+    "question": "Which one is not a part of pharmacokinetic?",
+    "options": {
+      "A": "Absorption",
+      "B": "Distribution",
+      "C": "Metabolism & Elimination",
+      "D": "Effect on receptors"
+    },
+    "correct_answer": "D",
+    "explanation": "The effect on receptors pertains to pharmacodynamics, not pharmacokinetics."
+  },
+  {
+    "number": 20,
+    "question": "Which one goes through first-pass metabolism?",
+    "options": {
+      "A": "Oral administration",
+      "B": "IV administration",
+      "C": "IM administration",
+      "D": "Sublingual administration"
+    },
+    "correct_answer": "A",
+    "explanation": "Oral administration of drugs typically undergoes first-pass metabolism before reaching systemic circulation."
+  },
+  {
+    "number": 21,
+    "question": "First-pass metabolism can occur in the following places except:",
+    "options": {
+      "A": "Hepatic first-pass metabolism",
+      "B": "Intestinal first-pass metabolism",
+      "C": "Pulmonary first-pass metabolism",
+      "D": "Skin first-pass metabolism"
+    },
+    "correct_answer": "D",
+    "explanation": "Skin does not participate in first-pass metabolism; this occurs mainly in the liver and intestines."
+  },
+  {
+    "number": 22,
+    "question": "First-pass metabolism is reduced by which one?",
+    "options": {
+      "A": "Propranolol",
+      "B": "H2 receptor blockers (eg cimetidine)",
+      "C": "Chloramphenicol",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All listed options can interfere with first-pass metabolism, reducing its efficiency."
+  },
+  {
+    "number": 23,
+    "question": "Which one can contribute to the causation of sleep paralysis?",
+    "options": {
+      "A": "Insomnia",
+      "B": "Irregular sleep due to night shift",
+      "C": "Anxiety & Depression",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "All these factors can contribute to the occurrence of sleep paralysis due to sleep disruptions."
+  },
+  {
+    "number": 24,
+    "question": "In a seventy years old right-handed man who presents with telegraphic talking and problems in repetition of a sentence and MRI brain shows atrophy in left parietal lobe, which of the following describes the above?",
+    "options": {
+      "A": "Dyspraxia",
+      "B": "Agnosia",
+      "C": "Non-fluent aphasia",
+      "D": "Acalculia"
+    },
+    "correct_answer": "C",
+    "explanation": "Non-fluent aphasia is marked by difficulty in speech production and often corresponds with left hemisphere atrophy."
+  },
+  {
+    "number": 25,
+    "question": "In which one we can see features of Parkinsonism?",
+    "options": {
+      "A": "Parkinson’s Disease",
+      "B": "Lewy Body Dementia",
+      "C": "Fronto-Temporal Dementia",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Parkinsonism features can manifest across all mentioned disorders due to their neurological impacts."
+  },
+  {
+    "number": 26,
+    "question": "Which one is a three-monthly depot injection:",
+    "options": {
+      "A": "Trevicta",
+      "B": "Paliperidone",
+      "C": "Risperidone consta",
+      "D": "Haloperidol"
+    },
+    "correct_answer": "A",
+    "explanation": "Trevicta is specifically designed for administration every three months for long-acting antipsychotic therapy."
+  },
+  {
+    "number": 27,
+    "question": "Which one is used to assess personality disorders:",
+    "options": {
+      "A": "SCID 5",
+      "B": "SCID 2",
+      "C": "ASRS",
+      "D": "Y-BOCS"
+    },
+    "correct_answer": "B",
+    "explanation": "SCID-2 is the structured clinical interview designed for assessing personality disorders."
+  },
+  {
+    "number": 28,
+    "question": "Adult ADHD can be seen more commonly with which diagnosis?",
+    "options": {
+      "A": "Anxiety & Depressive disorder",
+      "B": "Personality disorder",
+      "C": "Psychotic disorder",
+      "D": "Drugs & alcohol dependency"
+    },
+    "correct_answer": "A",
+    "explanation": "Adult ADHD frequently co-occurs with anxiety and depression due to overlapping symptoms."
+  },
+  {
+    "number": 29,
+    "question": "Which one is less likely to be seen in ASD?",
+    "options": {
+      "A": "Lack of fear or more fear than usual",
+      "B": "Lack of sensitivity to change",
+      "C": "Delay in developmental milestones",
+      "D": "Problem in socialisation"
+    },
+    "correct_answer": "A",
+    "explanation": "Individuals with autism spectrum disorder often demonstrate increased sensitivity to change and variable responses to fear."
+  },
+  {
+    "number": 30,
+    "question": "Which option explains poor handwriting or legibility in children?",
+    "options": {
+      "A": "ADHD",
+      "B": "Developmental coordination disorder",
+      "C": "Written language disorder",
+      "D": "All of the above"
+    },
+    "correct_answer": "D",
+    "explanation": "Poor handwriting can result from various conditions like ADHD, developmental coordination disorder, and written language disorders."
+  },
+  {
+    "number": 31,
+    "question": "Which option is incorrect about ARFID (Avoidant Restrictive Food Intake Disorder)?",
+    "options": {
+      "A": "Described in DSM-5",
+      "B": "There is body image disturbance",
+      "C": "Is a type of eating disorder",
+      "D": "Possible link with autism"
+    },
+    "correct_answer": "B",
+    "explanation": "ARFID does not typically present with body image disturbance; it is characterized by avoidance of certain foods for sensory reasons."
+  },
+  {
+    "number": 32,
+    "question": "Which one is psychedelic?",
+    "options": {
+      "A": "Cocaine",
+      "B": "Amphetamine",
+      "C": "Cannabis",
+      "D": "Psilocybin"
+    },
+    "correct_answer": "D",
+    "explanation": "Psilocybin is classified as a psychedelic substance often associated with altered states of consciousness."
+  },
+  {
+    "number": 33,
+    "question": "Which one is not seen in Wernicke's encephalopathy?",
+    "options": {
+      "A": "Ophthalmoparesia",
+      "B": "Ataxia",
+      "C": "Confusion",
+      "D": "Permanent damage to brain"
+    },
+    "correct_answer": "D",
+    "explanation": "Wernicke's encephalopathy mostly results in reversible symptoms when treated promptly, though neglect can lead to lasting damage."
+  }
+]
