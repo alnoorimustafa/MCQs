@@ -26,33 +26,10 @@ const cancelSelection = () => {
   <div class="container">
     <nav>
       <ul>
-        <li><strong>MCQs</strong></li>
+        <li>Psychiatry MCQs</li>
       </ul>
       <ul>
-        <li>
-          <!-- <button
-            :class="page === 'bof' ? 'primary' : 'secondary'"
-            @click="page = 'bof'"
-          >
-            Best of Five
-          </button> -->
-        </li>
-        <li>
-          <!-- <button
-            :class="page === 'spmm' ? 'primary' : 'secondary'"
-            @click="page = 'spmm'"
-          >
-            SPMM
-          </button> -->
-        </li>
-        <li>
-          <!-- <button
-            :class="page === '600' ? 'primary' : 'secondary'"
-            @click="page = '600'"
-          >
-            600
-          </button> -->
-        </li>
+        <li>Dr. Mustafa Alnoori Wish You Luck</li>
       </ul>
     </nav>
   </div>
@@ -87,8 +64,8 @@ const cancelSelection = () => {
     </div>
   </div>
   <BestOfFive
-    v-if="page === 'bof1' || 'bof2' || 'bof3'"
-    :selectedPaper="page"
+    v-if="page === 'bof1' || page === 'bof2' || page === 'bof3'"
+    :selectedPaper="selectedImage ? page : ''"
   />
   <Book600 v-if="page === '600'" />
 </template>
@@ -109,7 +86,7 @@ body {
 .center img {
   width: 100%; /* or a specific width like 200px */
   height: auto; /* maintain aspect ratio */
-  max-width: 300px; /* set a maximum width */
+  max-width: 300px;
   object-fit: cover; /* cover the area without distortion */
   border-radius: 2%;
 }
