@@ -2,6 +2,7 @@
 import { ref } from "vue";
 import BestOfFive from "./components/BestOfFive.vue";
 import Book600 from "./components/Book600.vue";
+import lazy from "./directives/lazy";
 
 let page = ref("");
 let selectedImage = ref<string | null>(null); // Track the selected image
