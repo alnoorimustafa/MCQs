@@ -53,17 +53,20 @@ const deauthenticate = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
         <img @click="" src="../assets/small/bof3.png" alt="" />
       </div>
+      <div class="center" v-if="!selectedImage" @click="selectImage('501')">
+        <img src="../assets/small/501.png" alt="" />
+      </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
         <img src="../assets/small/600-1.png" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
         <img src="../assets/small/600-2.png" alt="" />
       </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('501')">
-        <img src="../assets/small/501.png" alt="" />
-      </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
         <img src="../assets/small/spmm.png" alt="" />
+      </div>
+      <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
+        <img src="../assets/small/ghazi.png" alt="" />
       </div>
 
       <div class="center" v-if="selectedImage">

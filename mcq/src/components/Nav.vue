@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { defineProps, ref } from "vue";
+import { defineProps, ref, onMounted, onUnmounted } from "vue";
 import PocketBase from "pocketbase";
 
 const emit = defineEmits(["logout"]);
@@ -7,6 +7,26 @@ const pb = new PocketBase("https://mcq-db.dakakean.com");
 const props = defineProps<{
   show: boolean;
 }>();
+
+// Reactive variable for theme mode
+const isDarkMode = ref(false);
+
+// Function to update the theme mode based on system preference
+const updateDarkMode = (event: any) => {
+  isDarkMode.value = event.matches;
+};
+
+onMounted(() => {
+  const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+  isDarkMode.value = mediaQuery.matches; // Set initial value
+  mediaQuery.addEventListener("change", updateDarkMode); // Listen for changes
+});
+
+// Cleanup listener when the component is unmounted
+onUnmounted(() => {
+  const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+  mediaQuery.removeEventListener("change", updateDarkMode);
+});
 
 const deauthenticate = () => {
   console.log("de auth");
@@ -24,27 +44,31 @@ const deauthenticate = () => {
 </script>
 
 <template>
-  <div class="background-azure">
+  <div :class="isDarkMode ? 'light' : 'dark'">
     <div class="container">
-      <nav>
+      <nav v-if="!show">
         <ul>
           <li>Psychiatry MCQs</li>
         </ul>
-        <div v-if="show">
+        <div>
           <ul>
-            <li>Dr. Mustafa Alnoori Wish You Luck</li>
-            <li>
-              <input
-                type="button"
-                value="Logout"
-                class="secondary"
-                @click.prevent="deauthenticate"
-              />
-            </li>
+            <li>Login please</li>
           </ul>
         </div>
-        <ul v-else>
-          <li>Login please</li>
+      </nav>
+      <nav v-if="show">
+        <ul>
+          <li>Dr. Mustafa Alnoori Wish You Luck</li>
+        </ul>
+        <ul>
+          <li>
+            <input
+              type="button"
+              value="Logout"
+              class="secondary"
+              @click.prevent="deauthenticate"
+            />
+          </li>
         </ul>
       </nav>
     </div>
@@ -52,14 +76,19 @@ const deauthenticate = () => {
 </template>
 
 <style scoped>
-.background-azure {
-  background-color: #017fc0;
-}
-.background-red {
-  background-color: #c00101;
+.light {
+  background-color: white;
 }
 
-nav ul {
+.light nav ul {
+  color: black;
+}
+
+.dark {
+  background-color: #017fc0;
+}
+
+.dark nav ul {
   color: white;
 }
 </style>
