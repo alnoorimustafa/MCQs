@@ -9,12 +9,18 @@ const isLoggedIn = ref(false);
 import PocketBase from "pocketbase";
 const pb = new PocketBase("https://mcq-db.dakakean.com");
 
-function handleLogin() {
+async function handleLogin() {
   isLoggedIn.value = true;
 }
 
-function handleLogout() {
+async function handleLogout() {
   isLoggedIn.value = false;
+}
+
+if (pb.authStore.isValid) {
+  isLoggedIn.value = pb.authStore.isValid;
+} else {
+  console.log("User is not logged in");
 }
 
 // async function createMCQs() {

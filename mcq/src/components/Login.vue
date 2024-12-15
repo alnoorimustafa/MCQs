@@ -2,8 +2,8 @@
 import { ref, defineEmits } from "vue";
 import PocketBase from "pocketbase";
 
-let user = ref("");
-let password = ref("");
+let user = ref("samah@mcq.com");
+let password = ref("12345678");
 let login = ref(false);
 
 const emit = defineEmits(["login"]);

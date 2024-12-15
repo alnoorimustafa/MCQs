@@ -153,8 +153,6 @@ const loadQuestionsData = async (
       filter: `book = '${selectedBook}' && chapter = '${selectedChapter}'`,
       sort: "number",
     });
-    console.log("records");
-    console.log(records);
     questionsData.value = records;
   } catch (error) {
     console.error("Error loading questions data:", error);
@@ -181,13 +179,15 @@ const selectedBookName = computed(() => {
     ? "600 Paper 2: 665 MCQ"
     : props.selectedBook === "501"
     ? "501 Psychopharmacology: 556 MCQ"
-    : "SPMM";
+    : props.selectedBook === "spmm"
+    ? "SPMM"
+    : "Dr.Ghazi Telegram Group";
 });
 </script>
 
 <template>
   <div class="container">
-    <h5>Selected Book: {{ selectedBookName }}</h5>
+    <h5>{{ selectedBookName }}</h5>
 
     <select
       name="select"
