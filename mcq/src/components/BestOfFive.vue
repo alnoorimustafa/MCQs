@@ -1,6 +1,9 @@
 <script setup lang="ts">
 import { ref, defineProps, computed } from "vue";
 import ChapterMCQs from "./ChapterMCQs.vue";
+import PocketBase from "pocketbase";
+
+const pb = new PocketBase("https://mcq-db.dakakean.com");
 
 const props = defineProps<{
   selectedBook: string;
@@ -45,31 +48,30 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "3-7", label: "Chapter 7: Psychotherapy" },
   ],
   "600-1": [
-    { value: "1-1", label: "Chapter 1" },
-    { value: "1-2", label: "Chapter 2" },
-    { value: "1-3", label: "Chapter 3" },
-    { value: "1-4", label: "Chapter 4" },
-    { value: "1-5", label: "Chapter 5" },
+    { value: "Chapter 1", label: "Chapter 1" },
+    { value: "Chapter 2", label: "Chapter 2" },
+    { value: "Chapter 3", label: "Chapter 3" },
+    { value: "Chapter 4", label: "Chapter 4" },
+    { value: "Chapter 5", label: "Chapter 5" },
   ],
   "600-2": [
-    { value: "2-1", label: "Chapter 1" },
-    { value: "2-2", label: "Chapter 2" },
-    { value: "2-3", label: "Chapter 3" },
-    { value: "2-4", label: "Chapter 4" },
-    { value: "2-5", label: "Chapter 5" },
+    { value: "Chapter 1", label: "Chapter 1" },
+    { value: "Chapter 2", label: "Chapter 2" },
+    { value: "Chapter 3", label: "Chapter 3" },
+    { value: "Chapter 4", label: "Chapter 4" },
+    { value: "Chapter 5", label: "Chapter 5" },
   ],
   "501": [
-    { value: "1-1", label: "Part 1" },
-    { value: "1-2", label: "Part 2" },
-    { value: "1-3", label: "Part 3" },
-    { value: "1-4", label: "Part 4" },
-    { value: "1-5", label: "Part 5" },
-    { value: "1-6", label: "Part 6" },
-    { value: "1-7", label: "Part 7" },
-    { value: "1-8", label: "Part 8" },
-    { value: "1-9", label: "Part 9" },
-    { value: "1-10", label: "Part 10" },
-    { value: "1-11", label: "Part 11" },
+    { value: "Part 1", label: "Part 1" },
+    { value: "Part 2", label: "Part 2" },
+    { value: "Part 3", label: "Part 3" },
+    { value: "Part 4", label: "Part 4" },
+    { value: "Part 5", label: "Part 5" },
+    { value: "Part 6", label: "Part 6" },
+    { value: "Part 7", label: "Part 7" },
+    { value: "Part 8", label: "Part 8" },
+    { value: "Part 9", label: "Part 9" },
+    { value: "Part 10", label: "Part 10" },
   ],
   spmm: [
     { value: "spmm-1-1", label: "Basic Psychology" },
@@ -114,10 +116,21 @@ const loadQuestionsData = async (
   selectedChapter: string
 ) => {
   try {
-    const data = await import(
-      `../mcqs/${selectedBook}/${selectedChapter}.json`
-    );
-    questionsData.value = data.default;
+    if (selectedBook === "501") {
+      console.log("501");
+      const records = await pb.collection("mcqs").getFullList({
+        filter: `book = '${selectedBook}' && chapter = '${selectedChapter}'`,
+        sort: "number",
+      });
+      console.log("records");
+      console.log(records);
+      questionsData.value = records;
+    } else {
+      const data = await import(
+        `../mcqs/${selectedBook}/${selectedChapter}.json`
+      );
+      questionsData.value = data.default;
+    }
   } catch (error) {
     console.error("Error loading questions data:", error);
     questionsData.value = {}; // Reset questionsData on error
@@ -127,17 +140,17 @@ const loadQuestionsData = async (
 // Computed property for the selected book name
 const selectedBookName = computed(() => {
   return props.selectedBook === "bof1"
-    ? "Best Of Five 1"
+    ? "Best Of Five 1: 450 MCQ"
     : props.selectedBook === "bof2"
-    ? "Best Of Five 2"
+    ? "Best Of Five 2: 455 MCQ"
     : props.selectedBook === "bof3"
     ? "Best Of Five 3"
     : props.selectedBook === "600-1"
-    ? "600 Paper 1"
+    ? "600 Paper 1: 634 MCQ"
     : props.selectedBook === "600-2"
-    ? "600 Paper 2"
+    ? "600 Paper 2: 665 MCQ"
     : props.selectedBook === "501"
-    ? "501 Psychopharmacology"
+    ? "501 Psychopharmacology: 556 MCQ"
     : "SPMM";
 });
 </script>

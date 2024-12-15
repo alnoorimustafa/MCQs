@@ -1,602 +1,602 @@
 [
-    {
-        "question": "According to ICD-10 criteria which of the following is considered to be the minimum required weight loss to be significant as a diagnostic criteria for somatic syndrome associated with depression?",
-        "options": {
-            "A": "Loss of 1% body weight in 1 month",
-            "B": "Loss of 5% body weight in 3 months",
-            "C": "Loss of 2% body weight in 2 weeks",
-            "D": "Loss of 5% body weight in 1 month",
-            "E": "Loss of 15% body weight in 1 week"
-        },
-        "correct_answer": "D",
-        "explanation": "Somatic syndrome is defined by a set of vegetative or biological features of depression. The ICD-10 criteria for somatic syndrome of depression require at least four symptoms from a list of eight. These are (1) marked loss of interest or pleasure; (2) loss of emotional reactions; (3) early-morning awakening (2 hours before normal waking time); (4) diurnal worsening of mood; (5) objective evidence of marked psychomotor retardation or agitation; (6) marked loss of appetite; (7) loss of libido and (8) 5% or more of body weight lost unintentionally in the past month. To diagnose anorexia nervosa, there must be a weight loss leading to a body weight at least 15% below the normal expected weight for age and height. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 11"
+  {
+    "question": "According to ICD-10 criteria which of the following is considered to be the minimum required weight loss to be significant as a diagnostic criteria for somatic syndrome associated with depression?",
+    "options": {
+      "A": "Loss of 1% body weight in 1 month",
+      "B": "Loss of 5% body weight in 3 months",
+      "C": "Loss of 2% body weight in 2 weeks",
+      "D": "Loss of 5% body weight in 1 month",
+      "E": "Loss of 15% body weight in 1 week"
     },
-    {
-        "question": "The prevalence of catatonic phenomenon among patients with schizophrenia is estimated to be around",
-        "options": {
-            "A": "1–2%",
-            "B": "0.01–0.05%",
-            "C": "5–10%",
-            "D": "15–25%",
-            "E": "30–35%"
-        },
-        "correct_answer": "C",
-        "explanation": "According to the International Pilot Study of Schizophrenia (World Health Organization 1973), 7% of 811 schizophrenia patients exhibited one or other catatonic phenomenon. Further studies that followed gave a figure of between 5% and 10%. Mannerisms are the most common catatonic phenomenon in schizophrenia, followed by stereotypies, stupor, negativism, automatism and echopraxia in order of frequency. About 10–15% of patients with catatonia meet the criteria for schizophrenia. It is widely appreciated that catatonic symptoms are more prevalent in the developing nations than in the West. When one includes all psychiatric patients, not just schizophrenia, the prevalence of catatonia increases to 10–20%. This is because depression contributes to most of the observed catatonia in practice. Immobility and mutism are the most commonly observed catatonic symptoms among depressed patients. Hirsch SR and Weinberger DR, eds. Schizophrenia, 2nd edn. Blackwell Science, 2007, p.19. Taylor MA and Fink M. Catatonia in psychiatric classification: a home of its own. American Journal of Psychiatry 2003; 160: 1233–1241"
+    "correct_answer": "D",
+    "explanation": "Somatic syndrome is defined by a set of vegetative or biological features of depression. The ICD-10 criteria for somatic syndrome of depression require at least four symptoms from a list of eight. These are (1) marked loss of interest or pleasure; (2) loss of emotional reactions; (3) early-morning awakening (2 hours before normal waking time); (4) diurnal worsening of mood; (5) objective evidence of marked psychomotor retardation or agitation; (6) marked loss of appetite; (7) loss of libido and (8) 5% or more of body weight lost unintentionally in the past month. To diagnose anorexia nervosa, there must be a weight loss leading to a body weight at least 15% below the normal expected weight for age and height. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 11"
+  },
+  {
+    "question": "The prevalence of catatonic phenomenon among patients with schizophrenia is estimated to be around",
+    "options": {
+      "A": "1–2%",
+      "B": "0.01–0.05%",
+      "C": "5–10%",
+      "D": "15–25%",
+      "E": "30–35%"
     },
-    {
-        "question": "Seasonal affective disorder (SAD) is a popular concept but not formally considered as a separate category under current classificatory systems. Which of the following statements is true with regard to this condition?",
-        "options": {
-            "A": "Seasonal depression carries higher familial risk of affective disorders than non-seasonal depression",
-            "B": "In phototherapy for SAD, exposure to skin is more effective than exposure to eye",
-            "C": "Early-morning light therapy is more effective than evening exposure",
-            "D": "Side-effects of exposure are more intense with evening than morning therapy",
-            "E": "Conventional antidepressants have no effect on seasonal depression"
-        },
-        "correct_answer": "C",
-        "explanation": "ICD-10 clinical guidelines do not include specific criteria for SAD. However, specific criteria are included in DSM-IV (Text Revision) and the research version of ICD-10. ICD-10 provisional criteria for SAD specify the disorder as a subtype of mood disorder where three or more episodes must occur with onset within the same 90-day period of the year for three or more consecutive years; Remissions also occur within a particular 90-day period of the year. Seasonal episodes must outnumber any non-seasonal episodes that may occur. Familial risks of affective disorders in SAD are similar to those found in non-seasonal depressive illnesses. Typical depressive symptoms of SAD respond better to bright-light therapy whereas atypical symptoms respond to phototherapy at all intensities. In phototherapy retinal light exposure is important; skin absorption is not sufficient to modify circadian rhythms or depressive symptoms. Early-morning phototherapy is superior but leads to more side-effects, such as easy startle, gastrointestinal intolerance and headaches. Conventional antidepressants have also been reported to have a therapeutic effect in SAD. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 13. Rodin I and Thompson C. Seasonal affective disorder. Advances in Psychiatric Treatment, 1997; 3: 352–359"
+    "correct_answer": "C",
+    "explanation": "According to the International Pilot Study of Schizophrenia (World Health Organization 1973), 7% of 811 schizophrenia patients exhibited one or other catatonic phenomenon. Further studies that followed gave a figure of between 5% and 10%. Mannerisms are the most common catatonic phenomenon in schizophrenia, followed by stereotypies, stupor, negativism, automatism and echopraxia in order of frequency. About 10–15% of patients with catatonia meet the criteria for schizophrenia. It is widely appreciated that catatonic symptoms are more prevalent in the developing nations than in the West. When one includes all psychiatric patients, not just schizophrenia, the prevalence of catatonia increases to 10–20%. This is because depression contributes to most of the observed catatonia in practice. Immobility and mutism are the most commonly observed catatonic symptoms among depressed patients. Hirsch SR and Weinberger DR, eds. Schizophrenia, 2nd edn. Blackwell Science, 2007, p.19. Taylor MA and Fink M. Catatonia in psychiatric classification: a home of its own. American Journal of Psychiatry 2003; 160: 1233–1241"
+  },
+  {
+    "question": "Seasonal affective disorder (SAD) is a popular concept but not formally considered as a separate category under current classificatory systems. Which of the following statements is true with regard to this condition?",
+    "options": {
+      "A": "Seasonal depression carries higher familial risk of affective disorders than non-seasonal depression",
+      "B": "In phototherapy for SAD, exposure to skin is more effective than exposure to eye",
+      "C": "Early-morning light therapy is more effective than evening exposure",
+      "D": "Side-effects of exposure are more intense with evening than morning therapy",
+      "E": "Conventional antidepressants have no effect on seasonal depression"
     },
-    {
-        "question": "The 1-year prevalence of dysthymia is estimated to be around",
-        "options": {
-            "A": "15–20%",
-            "B": "20–25%",
-            "C": "1–6%",
-            "D": "0.1–0.6%",
-            "E": "10–15%"
-        },
-        "correct_answer": "C",
-        "explanation": "Dysthymia has a 1-year prevalence of 1–3%. The lifetime prevalence according to the National Comorbidity Survey 1994 is 6%. Dysthymia has a high comorbidity with other psychiatric disorders, particularly major depression. In one series, only about 25–30% of cases were observed to occur over a lifetime in the absence of other psychiatric disorders. The comorbidity of personality disorders seems to be very high (60–80%). Early-onset dysthymia is defined as having onset before age 21. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 14"
+    "correct_answer": "C",
+    "explanation": "ICD-10 clinical guidelines do not include specific criteria for SAD. However, specific criteria are included in DSM-IV (Text Revision) and the research version of ICD-10. ICD-10 provisional criteria for SAD specify the disorder as a subtype of mood disorder where three or more episodes must occur with onset within the same 90-day period of the year for three or more consecutive years; Remissions also occur within a particular 90-day period of the year. Seasonal episodes must outnumber any non-seasonal episodes that may occur. Familial risks of affective disorders in SAD are similar to those found in non-seasonal depressive illnesses. Typical depressive symptoms of SAD respond better to bright-light therapy whereas atypical symptoms respond to phototherapy at all intensities. In phototherapy retinal light exposure is important; skin absorption is not sufficient to modify circadian rhythms or depressive symptoms. Early-morning phototherapy is superior but leads to more side-effects, such as easy startle, gastrointestinal intolerance and headaches. Conventional antidepressants have also been reported to have a therapeutic effect in SAD. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 13. Rodin I and Thompson C. Seasonal affective disorder. Advances in Psychiatric Treatment, 1997; 3: 352–359"
+  },
+  {
+    "question": "The 1-year prevalence of dysthymia is estimated to be around",
+    "options": {
+      "A": "15–20%",
+      "B": "20–25%",
+      "C": "1–6%",
+      "D": "0.1–0.6%",
+      "E": "10–15%"
     },
-    {
-        "question": "The most powerful predictors of recurrence of depressive episodes among the following is",
-        "options": {
-            "A": "Previous episodes of depression and presence of residual symptoms",
-            "B": "Non-bipolar diagnosis and later age of onset",
-            "C": "Female gender and earlier age of onset",
-            "D": "Higher degree of life events and family history of affective disorders",
-            "E": "Male gender and past history of psychiatric admission"
-        },
-        "correct_answer": "A",
-        "explanation": "Follow-up studies in depression reveal two powerful predictors of recurrence: the presence of residual symptoms after apparent recovery and history of previous episodes of depression. The presence of residual symptoms increases the risk of recurrence nearly threefold, whereas past history of depression doubles the risk, with each new episode increasing the risk further. Other possible risk predictors for recurrence include somatic syndrome, reversed vegetative signs, early age of onset, and family history of mood disorders. Recurrence risk is higher in bipolar than in unipolar mood disorders. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 17"
+    "correct_answer": "C",
+    "explanation": "Dysthymia has a 1-year prevalence of 1–3%. The lifetime prevalence according to the National Comorbidity Survey 1994 is 6%. Dysthymia has a high comorbidity with other psychiatric disorders, particularly major depression. In one series, only about 25–30% of cases were observed to occur over a lifetime in the absence of other psychiatric disorders. The comorbidity of personality disorders seems to be very high (60–80%). Early-onset dysthymia is defined as having onset before age 21. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 14"
+  },
+  {
+    "question": "The most powerful predictors of recurrence of depressive episodes among the following is",
+    "options": {
+      "A": "Previous episodes of depression and presence of residual symptoms",
+      "B": "Non-bipolar diagnosis and later age of onset",
+      "C": "Female gender and earlier age of onset",
+      "D": "Higher degree of life events and family history of affective disorders",
+      "E": "Male gender and past history of psychiatric admission"
     },
-    {
-        "question": "The proportion of patients who develop a depressive episode and then go on to develop an episode of mania within 10 years is approximately",
-        "options": {
-            "A": "1 in 2",
-            "B": "1 in 10",
-            "C": "1 in 4",
-            "D": "1 in 50",
-            "E": "1 in 200"
-        },
-        "correct_answer": "B",
-        "explanation": "In community studies, 1 in 10 patients who begin with a depressive episode go on to develop an episode of mania within 10 years. If the illness begins at a younger age, the switch happens earlier. This rate increases to nearly 50% if severely depressed hospitalized patients are considered. Long-term follow-up studies blinded for severity and number of previous episodes show much lower conversion rates (3.2%). It is known that the majority of bipolar patients, particularly women, begin with depressive episodes. Among hospitalized depressed patients followed up for nearly a decade, 1% a year converted to bipolar I and 0.5% a year converted to bipolar II. However, this conversion rate is less for outpatients with depression. Factors associated with a change of polarity from unipolar to bipolar were younger age, male sex, family history of bipolarity, antidepressant-induced hypomania, hypersomnic and retarded phenomenology, psychotic depression, and a postpartum episode. The mean age at which the switch occurs is 32 years. The average number of previous episodes in those who switch varies between two and four. The huge differences in switch rates probably reflect the severity of the initial depression, the length of follow-up, and the expanding definitions of bipolar II disorder. Angst J, et al. Diagnostic conversion from depression to bipolar disorders: results of a long-term prospective study of hospital admissions. Journal of Affective disorders 2005; 84: 149–157. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 18"
+    "correct_answer": "A",
+    "explanation": "Follow-up studies in depression reveal two powerful predictors of recurrence: the presence of residual symptoms after apparent recovery and history of previous episodes of depression. The presence of residual symptoms increases the risk of recurrence nearly threefold, whereas past history of depression doubles the risk, with each new episode increasing the risk further. Other possible risk predictors for recurrence include somatic syndrome, reversed vegetative signs, early age of onset, and family history of mood disorders. Recurrence risk is higher in bipolar than in unipolar mood disorders. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 17"
+  },
+  {
+    "question": "The proportion of patients who develop a depressive episode and then go on to develop an episode of mania within 10 years is approximately",
+    "options": {
+      "A": "1 in 2",
+      "B": "1 in 10",
+      "C": "1 in 4",
+      "D": "1 in 50",
+      "E": "1 in 200"
     },
-    {
-        "question": "Clinical depression and bereavement share many common features. Which of the following clinical features points to clinical depression rather than normal mourning?",
-        "options": {
-            "A": "Brief hallucinations",
-            "B": "Somatic symptoms",
-            "C": "Anxiety when reminded of loss",
-            "D": "Psychomotor retardation",
-            "E": "Angry pining"
-        },
-        "correct_answer": "D",
-        "explanation": "Parkes described features that may distinguish normal mourning from depression. Normal mourning is characterized by pangs of grief, angry pining, and anxiety when reminded of the loss, brief hallucinations, somatic symptoms, and identification-related behaviours. The presence of psychomotor retardation, generalized guilt and suicidal thoughts after the first month suggest development of depression. Parkes CM and Prigerson H Bereavement: Studies of Grief in Adult Life, 3rd edn. Penguin, 1998. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 19"
+    "correct_answer": "B",
+    "explanation": "In community studies, 1 in 10 patients who begin with a depressive episode go on to develop an episode of mania within 10 years. If the illness begins at a younger age, the switch happens earlier. This rate increases to nearly 50% if severely depressed hospitalized patients are considered. Long-term follow-up studies blinded for severity and number of previous episodes show much lower conversion rates (3.2%). It is known that the majority of bipolar patients, particularly women, begin with depressive episodes. Among hospitalized depressed patients followed up for nearly a decade, 1% a year converted to bipolar I and 0.5% a year converted to bipolar II. However, this conversion rate is less for outpatients with depression. Factors associated with a change of polarity from unipolar to bipolar were younger age, male sex, family history of bipolarity, antidepressant-induced hypomania, hypersomnic and retarded phenomenology, psychotic depression, and a postpartum episode. The mean age at which the switch occurs is 32 years. The average number of previous episodes in those who switch varies between two and four. The huge differences in switch rates probably reflect the severity of the initial depression, the length of follow-up, and the expanding definitions of bipolar II disorder. Angst J, et al. Diagnostic conversion from depression to bipolar disorders: results of a long-term prospective study of hospital admissions. Journal of Affective disorders 2005; 84: 149–157. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 18"
+  },
+  {
+    "question": "Clinical depression and bereavement share many common features. Which of the following clinical features points to clinical depression rather than normal mourning?",
+    "options": {
+      "A": "Brief hallucinations",
+      "B": "Somatic symptoms",
+      "C": "Anxiety when reminded of loss",
+      "D": "Psychomotor retardation",
+      "E": "Angry pining"
     },
-    {
-        "question": "Which of the following is an early sign of prolonged grief?",
-        "options": {
-            "A": "Self-blame regarding the death",
-            "B": "Shock and disbelief",
-            "C": "Clinging behaviour",
-            "D": "Anxiety when reminded of loss",
-            "E": "Brief hallucinations"
-        },
-        "correct_answer": "C",
-        "explanation": "Clinging behaviour and inordinate pining may be early signs of prolonged grief as described by Parkes. More recently, childhood experiences of early parental death or divorce, sudden or violent death of a loved one, and high levels of dependency on the deceased for a sense of personal well-being are thought to be associated with prolonged grief. Several of these factors suggest the role of attachment insecurity in increasing a person’s vulnerability to complicated bereavement. Lichtenthal WG, Cruess DG and Prigerson HG. A case for establishing complicated grief as a distinct mental disorder in DSM-V. Clinical Psychology Review, 2004; 24: 637–662. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 20"
+    "correct_answer": "D",
+    "explanation": "Parkes described features that may distinguish normal mourning from depression. Normal mourning is characterized by pangs of grief, angry pining, and anxiety when reminded of the loss, brief hallucinations, somatic symptoms, and identification-related behaviours. The presence of psychomotor retardation, generalized guilt and suicidal thoughts after the first month suggest development of depression. Parkes CM and Prigerson H Bereavement: Studies of Grief in Adult Life, 3rd edn. Penguin, 1998. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 19"
+  },
+  {
+    "question": "Which of the following is an early sign of prolonged grief?",
+    "options": {
+      "A": "Self-blame regarding the death",
+      "B": "Shock and disbelief",
+      "C": "Clinging behaviour",
+      "D": "Anxiety when reminded of loss",
+      "E": "Brief hallucinations"
     },
-    {
-        "question": "The term ‘specifier’ is used when describing psychiatric diagnoses. Which of the following is correct with regard to this term?",
-        "options": {
-            "A": "It is used in ICD-10 only",
-            "B": "It is used in DSM-IV only",
-            "C": "It refers to treatment response",
-            "D": "It is used in both DSM IV and ICD 10",
-            "E": "It refers to number of previous episodes"
-        },
-        "correct_answer": "B",
-        "explanation": "Specifiers are extensions to a diagnosis that further clarify the course, severity, or special features of the diagnosis. Note that while subtypes are mutually exclusive and jointly exhaustive patterns of diagnostic description, specifiers merely provide an opportunity to define a more homogeneous subgrouping based on observable clinical phenomenon. DSM-IV uses specifiers extensively while dealing with mood disorders. These include specifiers of the most recent episode and the longitudinal course. Specifiers of current clinical severity, psychotic features, and remission status are the most commonly used. Other descriptive specifiers include catatonic features, melancholic features, atypical features, and postpartum onset. The longitudinal course specifiers include a seasonal pattern and the presence of rapid cycling. ICD-10 does not use the term ‘specifiers’ separately, although the majority are discussed in the core text. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 26"
+    "correct_answer": "C",
+    "explanation": "Clinging behaviour and inordinate pining may be early signs of prolonged grief as described by Parkes. More recently, childhood experiences of early parental death or divorce, sudden or violent death of a loved one, and high levels of dependency on the deceased for a sense of personal well-being are thought to be associated with prolonged grief. Several of these factors suggest the role of attachment insecurity in increasing a person’s vulnerability to complicated bereavement. Lichtenthal WG, Cruess DG and Prigerson HG. A case for establishing complicated grief as a distinct mental disorder in DSM-V. Clinical Psychology Review, 2004; 24: 637–662. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 20"
+  },
+  {
+    "question": "The term ‘specifier’ is used when describing psychiatric diagnoses. Which of the following is correct with regard to this term?",
+    "options": {
+      "A": "It is used in ICD-10 only",
+      "B": "It is used in DSM-IV only",
+      "C": "It refers to treatment response",
+      "D": "It is used in both DSM IV and ICD 10",
+      "E": "It refers to number of previous episodes"
     },
-    {
-        "question": "Which of the following is true with regard to the longitudinal course of bipolar disorder?",
-        "options": {
-            "A": "The duration of mood episodes decreases progressively",
-            "B": "Initial episodes have more rapid onset than later episodes",
-            "C": "The interval between episodes decreases progressively",
-            "D": "Seasonal pattern is more common in bipolar type 1 than type 2",
-            "E": "Later episodes are more likely to be triggered by life events than the initial episodes"
-        },
-        "correct_answer": "C",
-        "explanation": "In any patient with bipolar disorder, the duration of individual mood episodes tends to be relatively stable throughout the course, with mania generally lasting for a shorter time than depression. But the onset may become more rapid with age. The interval from one episode to the next tends to decrease through the course of illness, although some evidence suggests a tendency for the inter-episode intervals to stabilize after approximately five episodes. Patients with seasonal patterns are more commonly of bipolar II subtype than bipolar I. The first episode is more likely to be triggered by life events than later episodes. Ambelas confirmed the strong correlation between stressful life events and first manic admissions; this association weakens as the illness progresses. This is particularly true for younger bipolar patients with mania rather than depression. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 27–29. Ambelas A. Life events and mania: a special relationship? British Journal of Psychiatry 1987; 150: 235–240"
+    "correct_answer": "B",
+    "explanation": "Specifiers are extensions to a diagnosis that further clarify the course, severity, or special features of the diagnosis. Note that while subtypes are mutually exclusive and jointly exhaustive patterns of diagnostic description, specifiers merely provide an opportunity to define a more homogeneous subgrouping based on observable clinical phenomenon. DSM-IV uses specifiers extensively while dealing with mood disorders. These include specifiers of the most recent episode and the longitudinal course. Specifiers of current clinical severity, psychotic features, and remission status are the most commonly used. Other descriptive specifiers include catatonic features, melancholic features, atypical features, and postpartum onset. The longitudinal course specifiers include a seasonal pattern and the presence of rapid cycling. ICD-10 does not use the term ‘specifiers’ separately, although the majority are discussed in the core text. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 26"
+  },
+  {
+    "question": "Which of the following is true with regard to the longitudinal course of bipolar disorder?",
+    "options": {
+      "A": "The duration of mood episodes decreases progressively",
+      "B": "Initial episodes have more rapid onset than later episodes",
+      "C": "The interval between episodes decreases progressively",
+      "D": "Seasonal pattern is more common in bipolar type 1 than type 2",
+      "E": "Later episodes are more likely to be triggered by life events than the initial episodes"
     },
-    {
-        "question": "The most common psychiatric disturbance associated with Cushing’s disease is",
-        "options": {
-            "A": "Depression",
-            "B": "Mania",
-            "C": "Mixed affective state",
-            "D": "Schizophreniform psychosis",
-            "E": "Dementia"
-        },
-        "correct_answer": "A",
-        "explanation": "Cushing’s syndrome is very frequently, although not invariably, associated with depression. Nearly 40% of cases in one series of observation had depression whereas only 3% had mania. It is claimed that the predominance of pure depressive disorders may be a result of publication bias; controlling for this yields mixed anxiety and depression as the most common psychiatric disturbance in Cushing’s syndrome. Depression in Cushing’s syndrome may occur as a prodrome even before the medical disorder is diagnosed; the phenomenology may differ from primary major depression in that the symptoms are intermittent when associated with Cushing’s syndrome. Psychosis occurs more commonly in association with affective states; isolated schizophreniform psychosis is rare. Delirium may occur in 15–20% of patients. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 30"
+    "correct_answer": "C",
+    "explanation": "In any patient with bipolar disorder, the duration of individual mood episodes tends to be relatively stable throughout the course, with mania generally lasting for a shorter time than depression. But the onset may become more rapid with age. The interval from one episode to the next tends to decrease through the course of illness, although some evidence suggests a tendency for the inter-episode intervals to stabilize after approximately five episodes. Patients with seasonal patterns are more commonly of bipolar II subtype than bipolar I. The first episode is more likely to be triggered by life events than later episodes. Ambelas confirmed the strong correlation between stressful life events and first manic admissions; this association weakens as the illness progresses. This is particularly true for younger bipolar patients with mania rather than depression. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 27–29. Ambelas A. Life events and mania: a special relationship? British Journal of Psychiatry 1987; 150: 235–240"
+  },
+  {
+    "question": "The most common psychiatric disturbance associated with Cushing’s disease is",
+    "options": {
+      "A": "Depression",
+      "B": "Mania",
+      "C": "Mixed affective state",
+      "D": "Schizophreniform psychosis",
+      "E": "Dementia"
     },
-    {
-        "question": "Polyuria can be a troublesome side-effect with lithium therapy. Which of the following is NOT correct with response to lithium-related polyuria?",
-        "options": {
-            "A": "It is seen in one-third of those treated with lithium",
-            "B": "It is usually reversible",
-            "C": "Once-daily dose produces more polyuria than multiple doses a day",
-            "D": "Amiloride is a useful intervention",
-            "E": "Dose reduction may alleviate polyuria"
-        },
-        "correct_answer": "C",
-        "explanation": "Lithium-related polyuria and polydipsia are seen in nearly one-third of those treated. Polyuria is usually reversible in the early stages but may become obstinate the longer the therapy lasts. When a once-daily preparation of lithium is used instead of multiple divided doses, the frequency of polyuria seems to be less, but a direct correlation between plasma peaks and polyuria is not clearly demonstrated in clinical samples. Dose reduction or use of amiloride can be tried in those who have troublesome levels of polyuria. Amiloride has relatively less propensity to cause electrolyte disturbances when co-prescribed with lithium than with other diuretics. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 34"
+    "correct_answer": "A",
+    "explanation": "Cushing’s syndrome is very frequently, although not invariably, associated with depression. Nearly 40% of cases in one series of observation had depression whereas only 3% had mania. It is claimed that the predominance of pure depressive disorders may be a result of publication bias; controlling for this yields mixed anxiety and depression as the most common psychiatric disturbance in Cushing’s syndrome. Depression in Cushing’s syndrome may occur as a prodrome even before the medical disorder is diagnosed; the phenomenology may differ from primary major depression in that the symptoms are intermittent when associated with Cushing’s syndrome. Psychosis occurs more commonly in association with affective states; isolated schizophreniform psychosis is rare. Delirium may occur in 15–20% of patients. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 30"
+  },
+  {
+    "question": "Polyuria can be a troublesome side-effect with lithium therapy. Which of the following is NOT correct with response to lithium-related polyuria?",
+    "options": {
+      "A": "It is seen in one-third of those treated with lithium",
+      "B": "It is usually reversible",
+      "C": "Once-daily dose produces more polyuria than multiple doses a day",
+      "D": "Amiloride is a useful intervention",
+      "E": "Dose reduction may alleviate polyuria"
     },
-    {
-        "question": "Which of the following electrolyte disturbances simulate lithium-induced changes in electrocardiogram?",
-        "options": {
-            "A": "Hyperkalaemia",
-            "B": "Hypocalcaemia",
-            "C": "Hypomagnesaemia",
-            "D": "Hypokalaemia",
-            "E": "Hyponatraemia"
-        },
-        "correct_answer": "D",
-        "explanation": "Lithium exerts minimal cardiac effects at therapeutic doses in most patients. It most commonly produces benign reversible T-wave changes (including inversion and flattening) in the resting electrocardiogram (ECG). These hypokalaemia-like changes are seen in approximately 20–30% of patients treated with lithium. ECG abnormalities of clinical significance are mainly documented at toxic levels: they include all kinds of arrhythmias (sinus node dysfunction is well documented) and QTc prolongation. SA node dysfunction is the characteristic complication of lithium therapy and can manifest clinically as sinus bradycardia or atrioventricular conduction disturbances. Other parameters such as PR and QRS intervals often remain normal. Combining carbamazepine with lithium increases the risk for cardiac arrhythmias. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 35. Mitchell JE and Mackenzie, TB. Cardiac effects of lithium therapy in man: a review. J Clin Psychiatry 1982; 43: 47–51"
+    "correct_answer": "C",
+    "explanation": "Lithium-related polyuria and polydipsia are seen in nearly one-third of those treated. Polyuria is usually reversible in the early stages but may become obstinate the longer the therapy lasts. When a once-daily preparation of lithium is used instead of multiple divided doses, the frequency of polyuria seems to be less, but a direct correlation between plasma peaks and polyuria is not clearly demonstrated in clinical samples. Dose reduction or use of amiloride can be tried in those who have troublesome levels of polyuria. Amiloride has relatively less propensity to cause electrolyte disturbances when co-prescribed with lithium than with other diuretics. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 34"
+  },
+  {
+    "question": "Which of the following electrolyte disturbances simulate lithium-induced changes in electrocardiogram?",
+    "options": {
+      "A": "Hyperkalaemia",
+      "B": "Hypocalcaemia",
+      "C": "Hypomagnesaemia",
+      "D": "Hypokalaemia",
+      "E": "Hyponatraemia"
     },
-    {
-        "question": "Lithium is associated with thyroid dysfunction in some cases. Which of the following is false with respect to this association?",
-        "options": {
-            "A": "5–10% of patients on lithium develop clinical hypothyroidism",
-            "B": "Thyroid enlargement is the most common clinical presentation",
-            "C": "Presence of thyroid antibodies increases the risk",
-            "D": "Family history of thyroid disease increases the risk",
-            "E": "Increased TSH is the most sensitive laboratory index"
-        },
-        "correct_answer": "B",
-        "explanation": "Nearly one-fifth of lithium-treated patients show increased plasma thyroid-stimulating hormone (TSH). About 5% show thyroid enlargement (goitre) whereas 5–10% have clinical hypothyroidism. Weight gain and lethargy are the most common clinical features. These effects are dependent on dose and the duration of lithium therapy. Middle-aged women with a pre-existing propensity for hypothyroidism in the form of autoantibodies against the thyroid are the most susceptible clinical group. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 35"
+    "correct_answer": "D",
+    "explanation": "Lithium exerts minimal cardiac effects at therapeutic doses in most patients. It most commonly produces benign reversible T-wave changes (including inversion and flattening) in the resting electrocardiogram (ECG). These hypokalaemia-like changes are seen in approximately 20–30% of patients treated with lithium. ECG abnormalities of clinical significance are mainly documented at toxic levels: they include all kinds of arrhythmias (sinus node dysfunction is well documented) and QTc prolongation. SA node dysfunction is the characteristic complication of lithium therapy and can manifest clinically as sinus bradycardia or atrioventricular conduction disturbances. Other parameters such as PR and QRS intervals often remain normal. Combining carbamazepine with lithium increases the risk for cardiac arrhythmias. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 35. Mitchell JE and Mackenzie, TB. Cardiac effects of lithium therapy in man: a review. J Clin Psychiatry 1982; 43: 47–51"
+  },
+  {
+    "question": "Lithium is associated with thyroid dysfunction in some cases. Which of the following is false with respect to this association?",
+    "options": {
+      "A": "5–10% of patients on lithium develop clinical hypothyroidism",
+      "B": "Thyroid enlargement is the most common clinical presentation",
+      "C": "Presence of thyroid antibodies increases the risk",
+      "D": "Family history of thyroid disease increases the risk",
+      "E": "Increased TSH is the most sensitive laboratory index"
     },
-    {
-        "question": "Compared with the general population, the risk of Ebstein’s anomaly in children of mothers exposed to lithium during the first trimester of pregnancy is",
-        "options": {
-            "A": "2–3 times higher",
-            "B": "10–20 times higher",
-            "C": "50–80 times higher",
-            "D": "100–120 times higher",
-            "E": "4–5 times higher"
-        },
-        "correct_answer": "B",
-        "explanation": "The risk of major congenital anomalies in children exposed to lithium in the uterus is 4–12%. This is nearly three times higher than non-exposed fetuses. The UK National Teratology Information Service has concluded that lithium increases the risk of cardiac malformations by approximately eightfold. First trimester exposure to lithium increases the risk of Ebstein’s anomaly by nearly 10–20 times, bringing the absolute risk to 0.05–0.1%. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 36. Williams K and Oke S. Lithium and pregnancy. Psychiatric Bulletin 2000; 24: 229–231"
+    "correct_answer": "B",
+    "explanation": "Nearly one-fifth of lithium-treated patients show increased plasma thyroid-stimulating hormone (TSH). About 5% show thyroid enlargement (goitre) whereas 5–10% have clinical hypothyroidism. Weight gain and lethargy are the most common clinical features. These effects are dependent on dose and the duration of lithium therapy. Middle-aged women with a pre-existing propensity for hypothyroidism in the form of autoantibodies against the thyroid are the most susceptible clinical group. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 35"
+  },
+  {
+    "question": "Compared with the general population, the risk of Ebstein’s anomaly in children of mothers exposed to lithium during the first trimester of pregnancy is",
+    "options": {
+      "A": "2–3 times higher",
+      "B": "10–20 times higher",
+      "C": "50–80 times higher",
+      "D": "100–120 times higher",
+      "E": "4–5 times higher"
     },
-    {
-        "question": "A 48-year-old man is prescribed sodium valproate for prophylaxis against bipolar mania. He develops a confusional state despite liver function tests being within the normal range. Which of the following conditions related to valproate use is most likely to be associated with the above presentation?",
-        "options": {
-            "A": "Hyperammonaemia",
-            "B": "Hepatic failure",
-            "C": "Pancreatitis",
-            "D": "Hypertensive encephalopathy",
-            "E": "Ketoacidosis"
-        },
-        "correct_answer": "A",
-        "explanation": "Valproate is associated with elevated plasma ammonia. In some people, hyperammonaemia may be clinically significant, resulting in hyperammonaemic encephalopathy characterized by varied clinical presentation, including irritability, agitation, drowsiness, asterixis, coma, and paradoxical seizures. Other symptoms may include loss of appetite, nausea, and vomiting. Valproic acid-induced hyperammonaemic encephalopathy may occur in people with normal liver function, despite normal doses and serum levels. It is more common in children with urea cycle enzyme deficiencies. Other risk factors include concomitant antiepileptic prescriptions (especially topiramate), underlying liver disease or hypoalbuminaemia, initiation of high-dose and long-term therapy. Propionate, a metabolite of valproate reduces the hepatic N-acetylglutamate concentration, which is an obligatory activator of carbamoyl phosphate synthetase 1 (CPS-1), the first enzyme of the urea cycle. Another potential mechanism may be via valproate-induced reduction in hepatic carnitine levels. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 38. Barrueto F Jr and Hack JB. Hyperammonemia and coma without hepatic dysfunction induced by valproate therapy. Academic Emergency Medicine 2001; 8: 999–1001"
+    "correct_answer": "B",
+    "explanation": "The risk of major congenital anomalies in children exposed to lithium in the uterus is 4–12%. This is nearly three times higher than non-exposed fetuses. The UK National Teratology Information Service has concluded that lithium increases the risk of cardiac malformations by approximately eightfold. First trimester exposure to lithium increases the risk of Ebstein’s anomaly by nearly 10–20 times, bringing the absolute risk to 0.05–0.1%. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 36. Williams K and Oke S. Lithium and pregnancy. Psychiatric Bulletin 2000; 24: 229–231"
+  },
+  {
+    "question": "A 48-year-old man is prescribed sodium valproate for prophylaxis against bipolar mania. He develops a confusional state despite liver function tests being within the normal range. Which of the following conditions related to valproate use is most likely to be associated with the above presentation?",
+    "options": {
+      "A": "Hyperammonaemia",
+      "B": "Hepatic failure",
+      "C": "Pancreatitis",
+      "D": "Hypertensive encephalopathy",
+      "E": "Ketoacidosis"
     },
-    {
-        "question": "All of the following patients are under carbamazepine therapy for bipolar disorder. In which of the following patients will you discontinue the carbamazepine treatment immediately?",
-        "options": {
-            "A": "A 34-year-old man developing dizziness",
-            "B": "A 50-year-old man with blood carbamazepine levels 9 mg/L",
-            "C": "A 44-year-old woman with neutrophil count less than 1000 per mm3",
-            "D": "A 37-year-old man with sodium levels 129 mEq/dL",
-            "E": "A 48-year-old woman with elevation of thyroid-stimulating hormone (TSH) levels"
-        },
-        "correct_answer": "C",
-        "explanation": "Nausea, ataxia, and dizziness are common side-effects of carbamazepine; usually, none of these in isolation warrants a cessation of therapy. A maculopapular rash is noted in nearly 1 in 10 patients receiving carbamazepine. This usually occurs within 2 weeks of therapy and often requires cessation of treatment if associated with an abnormal blood count. Although leucopenia is seen in 1–2% of patients, serious agranulocytosis occurs rarely (about eight per million prescriptions). This bone marrow toxicity warrants a cessation of therapy and is indicated by a total white blood cell (WBC) count of less than 3000 per mm3 or a neutrophil count less than 1500 per mm3. Hyponatraemia is a common side-effect but levels up to 125 mEq/L can be managed conservatively without requiring sudden cessation of treatment. Elevation of thyroid-stimulating hormone does not necessitate stopping carbamazepine. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 39"
+    "correct_answer": "A",
+    "explanation": "Valproate is associated with elevated plasma ammonia. In some people, hyperammonaemia may be clinically significant, resulting in hyperammonaemic encephalopathy characterized by varied clinical presentation, including irritability, agitation, drowsiness, asterixis, coma, and paradoxical seizures. Other symptoms may include loss of appetite, nausea, and vomiting. Valproic acid-induced hyperammonaemic encephalopathy may occur in people with normal liver function, despite normal doses and serum levels. It is more common in children with urea cycle enzyme deficiencies. Other risk factors include concomitant antiepileptic prescriptions (especially topiramate), underlying liver disease or hypoalbuminaemia, initiation of high-dose and long-term therapy. Propionate, a metabolite of valproate reduces the hepatic N-acetylglutamate concentration, which is an obligatory activator of carbamoyl phosphate synthetase 1 (CPS-1), the first enzyme of the urea cycle. Another potential mechanism may be via valproate-induced reduction in hepatic carnitine levels. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 38. Barrueto F Jr and Hack JB. Hyperammonemia and coma without hepatic dysfunction induced by valproate therapy. Academic Emergency Medicine 2001; 8: 999–1001"
+  },
+  {
+    "question": "All of the following patients are under carbamazepine therapy for bipolar disorder. In which of the following patients will you discontinue the carbamazepine treatment immediately?",
+    "options": {
+      "A": "A 34-year-old man developing dizziness",
+      "B": "A 50-year-old man with blood carbamazepine levels 9 mg/L",
+      "C": "A 44-year-old woman with neutrophil count less than 1000 per mm3",
+      "D": "A 37-year-old man with sodium levels 129 mEq/dL",
+      "E": "A 48-year-old woman with elevation of thyroid-stimulating hormone (TSH) levels"
     },
-    {
-        "question": "Which of the following predicts a good prophylactic effect of lithium in bipolar disorder?",
-        "options": {
-            "A": "Absence of family history of bipolar disorder",
-            "B": "Presence of neurological signs",
-            "C": "‘Depression–mania–well interval’ pattern of bipolar course",
-            "D": "Good antimanic efficacy during acute episode",
-            "E": "Absence of complete inter-episode recovery"
-        },
-        "correct_answer": "C",
-        "explanation": "Nausea, ataxia, and dizziness are common side-effects of carbamazepine; usually, none of these in isolation warrants a cessation of therapy. A maculopapular rash is noted in nearly 1 in 10 patients receiving carbamazepine. This usually occurs within 2 weeks of therapy and often requires cessation of treatment if associated with an abnormal blood count. Although leucopenia is seen in 1–2% of patients, serious agranulocytosis occurs rarely (about eight per million prescriptions). This bone marrow toxicity warrants a cessation of therapy and is indicated by a total white blood cell (WBC) count of less than 3000 per mm3 or a neutrophil count less than 1500 per mm3. Hyponatraemia is a common side-effect but levels up to 125 mEq/L can be managed conservatively without requiring sudden cessation of treatment. Elevation of thyroid-stimulating hormone does not necessitate stopping carbamazepine. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 39"
+    "correct_answer": "C",
+    "explanation": "Nausea, ataxia, and dizziness are common side-effects of carbamazepine; usually, none of these in isolation warrants a cessation of therapy. A maculopapular rash is noted in nearly 1 in 10 patients receiving carbamazepine. This usually occurs within 2 weeks of therapy and often requires cessation of treatment if associated with an abnormal blood count. Although leucopenia is seen in 1–2% of patients, serious agranulocytosis occurs rarely (about eight per million prescriptions). This bone marrow toxicity warrants a cessation of therapy and is indicated by a total white blood cell (WBC) count of less than 3000 per mm3 or a neutrophil count less than 1500 per mm3. Hyponatraemia is a common side-effect but levels up to 125 mEq/L can be managed conservatively without requiring sudden cessation of treatment. Elevation of thyroid-stimulating hormone does not necessitate stopping carbamazepine. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 39"
+  },
+  {
+    "question": "Which of the following predicts a good prophylactic effect of lithium in bipolar disorder?",
+    "options": {
+      "A": "Absence of family history of bipolar disorder",
+      "B": "Presence of neurological signs",
+      "C": "‘Depression–mania–well interval’ pattern of bipolar course",
+      "D": "Good antimanic efficacy during acute episode",
+      "E": "Absence of complete inter-episode recovery"
     },
-    {
-        "question": "Which of the following situations associated with parental loss carries the highest risk of developing depression as an adult?",
-        "options": {
-            "A": "Children born to single mothers",
-            "B": "Children of divorced mothers",
-            "C": "Children of remarried mothers with conflicts after remarriage",
-            "D": "Childhood bereavement with loss of one parent",
-            "E": "Children living with divorced parent after conflictual relationship"
-        },
-        "correct_answer": "D",
-        "explanation": "Various clinical, biological, and genetic factors that predict lithium responsiveness in prophylaxis of bipolar disorder have been studied. The presence of typical features of bipolar disorder, good inter-episode clinical recovery, a family history of bipolar disorder, experiencing mania as the first bipolar episode, and a good response to lithium in the acute manic phase predict lithium responsiveness. The presence of neurological signs, comorbid substance use, and the presence of rapid cycling predict a poor response to lithium. The lithium response in a sample composed of relatives of lithium responder probands was 67% compared with 30% in the control group; this indicates that lithium responsiveness may have a certain degree of heritability. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 40. Grof P, Duffy A, Cavazzoni P, et al. Is response to prophylactic lithium a familial trait? Journal of Clinical Psychiatry 2002; 63: 942–947"
+    "correct_answer": "C",
+    "explanation": "Nausea, ataxia, and dizziness are common side-effects of carbamazepine; usually, none of these in isolation warrants a cessation of therapy. A maculopapular rash is noted in nearly 1 in 10 patients receiving carbamazepine. This usually occurs within 2 weeks of therapy and often requires cessation of treatment if associated with an abnormal blood count. Although leucopenia is seen in 1–2% of patients, serious agranulocytosis occurs rarely (about eight per million prescriptions). This bone marrow toxicity warrants a cessation of therapy and is indicated by a total white blood cell (WBC) count of less than 3000 per mm3 or a neutrophil count less than 1500 per mm3. Hyponatraemia is a common side-effect but levels up to 125 mEq/L can be managed conservatively without requiring sudden cessation of treatment. Elevation of thyroid-stimulating hormone does not necessitate stopping carbamazepine. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 39"
+  },
+  {
+    "question": "Which of the following situations associated with parental loss carries the highest risk of developing depression as an adult?",
+    "options": {
+      "A": "Children born to single mothers",
+      "B": "Children of divorced mothers",
+      "C": "Children of remarried mothers with conflicts after remarriage",
+      "D": "Childhood bereavement with loss of one parent",
+      "E": "Children living with divorced parent after conflictual relationship"
     },
-    {
-        "question": "Adverse life events are consistently associated with depression. Which of the following statements with respect to the above relationship is NOT true?",
-        "options": {
-            "A": "30% of those with depression have no history of preceding significant life events",
-            "B": "Suicide attempters have a higher amount of life events than depressed patients",
-            "C": "Loss or humiliation events are highly correlated with depression",
-            "D": "The impact of life events depends on the contextual threat posed by them",
-            "E": "No reverse causality exists between depression and life events"
-        },
-        "correct_answer": "C",
-        "explanation": "Parental divorce between birth and age 7, regardless of subsequent remarriage, was predictive of a twofold higher depression risk. The relative risk of depression was highest for children whose single parent remarried into a conflictual relationship following divorce. It was shown that the quality of parental relationship, especially in relation to continuing conflict among those taking parental responsibilities, has a major effect on the subsequent risk of depression. Although childhood socioeconomic status was found to be a significant predictor of later depression, the risk for depression associated with parental divorce was found to be of a similar magnitude across categories of childhood socioeconomic status. There is little evidence that childhood bereavement itself predisposes to adult depression. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 54. Gilman SE, et al. Family disruption in childhood and risk of adult depression. American Journal of Psychiatry 2003; 160: 939–946"
+    "correct_answer": "D",
+    "explanation": "Various clinical, biological, and genetic factors that predict lithium responsiveness in prophylaxis of bipolar disorder have been studied. The presence of typical features of bipolar disorder, good inter-episode clinical recovery, a family history of bipolar disorder, experiencing mania as the first bipolar episode, and a good response to lithium in the acute manic phase predict lithium responsiveness. The presence of neurological signs, comorbid substance use, and the presence of rapid cycling predict a poor response to lithium. The lithium response in a sample composed of relatives of lithium responder probands was 67% compared with 30% in the control group; this indicates that lithium responsiveness may have a certain degree of heritability. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 40. Grof P, Duffy A, Cavazzoni P, et al. Is response to prophylactic lithium a familial trait? Journal of Clinical Psychiatry 2002; 63: 942–947"
+  },
+  {
+    "question": "Adverse life events are consistently associated with depression. Which of the following statements with respect to the above relationship is NOT true?",
+    "options": {
+      "A": "30% of those with depression have no history of preceding significant life events",
+      "B": "Suicide attempters have a higher amount of life events than depressed patients",
+      "C": "Loss or humiliation events are highly correlated with depression",
+      "D": "The impact of life events depends on the contextual threat posed by them",
+      "E": "No reverse causality exists between depression and life events"
     },
-    {
-        "question": "All of the following are characteristic features of a depression-prone individual except",
-        "options": {
-            "A": "Perceiving higher probability for aversive outcomes",
-            "B": "Believing that aversive events are uncontrollable",
-            "C": "Attributing negative events to external, unstable but specific causes",
-            "D": "Fragile self-esteem",
-            "E": "Harbouring high amount of information processing biases"
-        },
-        "correct_answer": "E",
-        "explanation": "Only 30% of those with depression give no history of significant life events. Depression itself may generate negative life events (reverse causality). Similarly, there may be a genetic contribution to the experience of adverse life events, making the gene–environment interaction more complex. The Life Events and Difficulties Scale is considered to be the standard life events assessment instrument. This scale is based on contextual measurement of the threat posed by life events (i.e. an event can be considered as significant only in accordance with social and cultural backgrounds and the life situation in which it occurs). It is shown that suicide attempters have a higher rate of life events than those with depression. Loss, humiliation, or separation events highly correlate with depression. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 55"
+    "correct_answer": "C",
+    "explanation": "Parental divorce between birth and age 7, regardless of subsequent remarriage, was predictive of a twofold higher depression risk. The relative risk of depression was highest for children whose single parent remarried into a conflictual relationship following divorce. It was shown that the quality of parental relationship, especially in relation to continuing conflict among those taking parental responsibilities, has a major effect on the subsequent risk of depression. Although childhood socioeconomic status was found to be a significant predictor of later depression, the risk for depression associated with parental divorce was found to be of a similar magnitude across categories of childhood socioeconomic status. There is little evidence that childhood bereavement itself predisposes to adult depression. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 54. Gilman SE, et al. Family disruption in childhood and risk of adult depression. American Journal of Psychiatry 2003; 160: 939–946"
+  },
+  {
+    "question": "All of the following are characteristic features of a depression-prone individual except",
+    "options": {
+      "A": "Perceiving higher probability for aversive outcomes",
+      "B": "Believing that aversive events are uncontrollable",
+      "C": "Attributing negative events to external, unstable but specific causes",
+      "D": "Fragile self-esteem",
+      "E": "Harbouring high amount of information processing biases"
     },
-    {
-        "question": "Anti-obesity drug rimonabant is associated with significant psychiatric adverse effects. Which of the following correctly describes the mechanism of action of rimonabant?",
-        "options": {
-            "A": "Cannabinoid CB-receptor antagonist 1",
-            "B": "Cannabinoid CB-receptor antagonist 2",
-            "C": "Monoclonal antibody against GABA subunits A",
-            "D": "NMDA receptor antagonist",
-            "E": "Cholecystokinin antagonist"
-        },
-        "correct_answer": "C",
-        "explanation": "If negative events are ascribed to external, unstable, and specific causes, one may come to believe that they are modifiable; this will also induce less self-blame and guilt and will not induce feelings of helplessness or hopelessness. In contrast, individuals whose locus of control for negative events is internal, global, and non-specific show a higher degree of self-blame and depression-prone attitude. These individuals possess a high degree of information-processing biases characterized by the perception of a higher than possible probability for aversive events and belief that such events are uncontrollable (fatalistic). They also have a fragile self-esteem. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 58"
+    "correct_answer": "E",
+    "explanation": "Only 30% of those with depression give no history of significant life events. Depression itself may generate negative life events (reverse causality). Similarly, there may be a genetic contribution to the experience of adverse life events, making the gene–environment interaction more complex. The Life Events and Difficulties Scale is considered to be the standard life events assessment instrument. This scale is based on contextual measurement of the threat posed by life events (i.e. an event can be considered as significant only in accordance with social and cultural backgrounds and the life situation in which it occurs). It is shown that suicide attempters have a higher rate of life events than those with depression. Loss, humiliation, or separation events highly correlate with depression. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 55"
+  },
+  {
+    "question": "Anti-obesity drug rimonabant is associated with significant psychiatric adverse effects. Which of the following correctly describes the mechanism of action of rimonabant?",
+    "options": {
+      "A": "Cannabinoid CB-receptor antagonist 1",
+      "B": "Cannabinoid CB-receptor antagonist 2",
+      "C": "Monoclonal antibody against GABA subunits A",
+      "D": "NMDA receptor antagonist",
+      "E": "Cholecystokinin antagonist"
     },
-    {
-        "question": "Which of the following neurotransmitters is proposed to be involved in increasing the significance (salience) of external stimuli in patients with schizophrenia?",
-        "options": {
-            "A": "GABA",
-            "B": "Glutamate",
-            "C": "Endocannabinoids",
-            "D": "Dopamine",
-            "E": "Noradrenaline"
-        },
-        "correct_answer": "A",
-        "explanation": "Rimonabant was approved in Europe as an anti-obesity agent in 2006. Rimonabant is a selective antagonist of the cannabinoid type 1 receptor, and it is the first member of a new class of compounds that targets the endocannabinoid system. But concerns have been raised regarding the psychiatric adverse effects of this drug. A meta-analysis by the American Food and Drug Administration showed that 26% of people given rimonabant 20 mg versus 14% of those given placebo had a psychiatric symptom reported as an adverse event. The side-effects range from depressed mood to anxiety and often led to co-prescription of a psychotropic or withdrawal of the drug. The relative risk for psychiatric adverse events in the rimonabant group was twice higher than the placebo group. Christensen R, et al. Efficacy and safety of the weight-loss drug rimonabant: a meta-analysis of randomised trials. Lancet 2007; 370: 1706–1713"
+    "correct_answer": "C",
+    "explanation": "If negative events are ascribed to external, unstable, and specific causes, one may come to believe that they are modifiable; this will also induce less self-blame and guilt and will not induce feelings of helplessness or hopelessness. In contrast, individuals whose locus of control for negative events is internal, global, and non-specific show a higher degree of self-blame and depression-prone attitude. These individuals possess a high degree of information-processing biases characterized by the perception of a higher than possible probability for aversive events and belief that such events are uncontrollable (fatalistic). They also have a fragile self-esteem. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 58"
+  },
+  {
+    "question": "Which of the following neurotransmitters is proposed to be involved in increasing the significance (salience) of external stimuli in patients with schizophrenia?",
+    "options": {
+      "A": "GABA",
+      "B": "Glutamate",
+      "C": "Endocannabinoids",
+      "D": "Dopamine",
+      "E": "Noradrenaline"
     },
-    {
-        "question": "All of the following are diagnostic features of neuroleptic malignant syndrome (NMS) except",
-        "options": {
-            "A": "Diaphoresis",
-            "B": "Fluctuant blood pressure",
-            "C": "Myoclonus",
-            "D": "Tachycardia",
-            "E": "Mutism"
-        },
-        "correct_answer": "D",
-        "explanation": "Kapur proposed that in the normal individual, the role of mesolimbic dopamine is to attach significance or ‘salience’ to an external stimulus or an internal thought. This converts a neutral piece of information into attention-grabbing information. In acute psychosis where a hyperdopaminergic state is noted in the mesolimbic system, insignificant events and perceptions receive inappropriate salience. For example, an innocuous smile of a stranger may be given a high degree of ‘aberrant salience’ leading to delusional elaborations. On a similar note, when such aberrant salience is attached to internally generated self-speech, hallucinations may be experienced. Antipsychotics are claimed to ‘dampen the salience’ of these abnormal experiences rather than erase the symptoms, and provide the platform for a process of psychological resolution. Murray R, et al., eds. Essential Psychiatry, 4th edn. Cambridge University Press, 2008, p. 302. Kapur, S. Psychosis as a state of aberrant salience: a framework linking biology, phenomenology, and pharmacology in schizophrenia. American Journal of Psychiatry 2003; 160: 13–23"
+    "correct_answer": "A",
+    "explanation": "Rimonabant was approved in Europe as an anti-obesity agent in 2006. Rimonabant is a selective antagonist of the cannabinoid type 1 receptor, and it is the first member of a new class of compounds that targets the endocannabinoid system. But concerns have been raised regarding the psychiatric adverse effects of this drug. A meta-analysis by the American Food and Drug Administration showed that 26% of people given rimonabant 20 mg versus 14% of those given placebo had a psychiatric symptom reported as an adverse event. The side-effects range from depressed mood to anxiety and often led to co-prescription of a psychotropic or withdrawal of the drug. The relative risk for psychiatric adverse events in the rimonabant group was twice higher than the placebo group. Christensen R, et al. Efficacy and safety of the weight-loss drug rimonabant: a meta-analysis of randomised trials. Lancet 2007; 370: 1706–1713"
+  },
+  {
+    "question": "All of the following are diagnostic features of neuroleptic malignant syndrome (NMS) except",
+    "options": {
+      "A": "Diaphoresis",
+      "B": "Fluctuant blood pressure",
+      "C": "Myoclonus",
+      "D": "Tachycardia",
+      "E": "Mutism"
     },
-    {
-        "question": "The most common phase of sleep when nocturnal panic attacks appear is",
-        "options": {
-            "A": "Transition between stage 2 and stage 3",
-            "B": "Transition between stage 1 and stage 2",
-            "C": "REM sleep",
-            "D": "Transition between REM sleep and awake state",
-            "E": "Stage 1 sleep"
-        },
-        "correct_answer": "C",
-        "explanation": "DSM-IV-TR research criteria require both severe muscle rigidity and elevated temperature to be present following recent administration of an antipsychotic. In addition, at least two associated signs, symptoms, or laboratory findings must be present. The associated symptoms listed in DSM research criteria include diaphoresis, dysphagia, tremors, incontinence, mutism, tachycardia, elevated blood pressure, leucocytosis, changes in the level of consciousness, and laboratory evidence of muscle injury. NMS must be distinguished from serotonin syndrome. NMS is an idiosyncratic reaction to therapeutic dosages of neuroleptic agents, whereas serotonin syndrome is a toxic reaction due to overstimulation of 5-HT receptors; distinguishing features include bradykinesia and lead pipe rigidity in NMS, whereas hyperkinesia and myoclonus are evident in serotonin syndrome. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 833"
+    "correct_answer": "D",
+    "explanation": "Kapur proposed that in the normal individual, the role of mesolimbic dopamine is to attach significance or ‘salience’ to an external stimulus or an internal thought. This converts a neutral piece of information into attention-grabbing information. In acute psychosis where a hyperdopaminergic state is noted in the mesolimbic system, insignificant events and perceptions receive inappropriate salience. For example, an innocuous smile of a stranger may be given a high degree of ‘aberrant salience’ leading to delusional elaborations. On a similar note, when such aberrant salience is attached to internally generated self-speech, hallucinations may be experienced. Antipsychotics are claimed to ‘dampen the salience’ of these abnormal experiences rather than erase the symptoms, and provide the platform for a process of psychological resolution. Murray R, et al., eds. Essential Psychiatry, 4th edn. Cambridge University Press, 2008, p. 302. Kapur, S. Psychosis as a state of aberrant salience: a framework linking biology, phenomenology, and pharmacology in schizophrenia. American Journal of Psychiatry 2003; 160: 13–23"
+  },
+  {
+    "question": "The most common phase of sleep when nocturnal panic attacks appear is",
+    "options": {
+      "A": "Transition between stage 2 and stage 3",
+      "B": "Transition between stage 1 and stage 2",
+      "C": "REM sleep",
+      "D": "Transition between REM sleep and awake state",
+      "E": "Stage 1 sleep"
     },
-    {
-        "question": "All of the following are sleep changes associated with depression except",
-        "options": {
-            "A": "Reduced REM latency",
-            "B": "Reduced REM density",
-            "C": "Increased duration of first REM period",
-            "D": "Low arousal threshold",
-            "E": "Reduced stage 3 and 4 sleep"
-        },
-        "correct_answer": "A",
-        "explanation": "Nocturnal panic refers to waking from sleep with an abrupt and discrete sense of intense fear accompanied by cognitive and physical symptoms of arousal. It does not differ significantly from panic attacks that occur during wakeful states. Most patients with nocturnal panic experience panic attacks during wakeful states too. But a small subset with predominantly circumscribed nocturnal panic has been described. Most patients report that nocturnal panic occurs between 1 and 3 hours after sleep onset. It is a non-REM event, usually occurring in late Stage II or early Stage III sleep. It is not accompanied by any electroencephalographic abnormalities. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 750. Craske M and Tsao J. Assessment and treatment of nocturnal panic attacks. Sleep Medicine Reviews 2005; 9: 173–184"
+    "correct_answer": "C",
+    "explanation": "DSM-IV-TR research criteria require both severe muscle rigidity and elevated temperature to be present following recent administration of an antipsychotic. In addition, at least two associated signs, symptoms, or laboratory findings must be present. The associated symptoms listed in DSM research criteria include diaphoresis, dysphagia, tremors, incontinence, mutism, tachycardia, elevated blood pressure, leucocytosis, changes in the level of consciousness, and laboratory evidence of muscle injury. NMS must be distinguished from serotonin syndrome. NMS is an idiosyncratic reaction to therapeutic dosages of neuroleptic agents, whereas serotonin syndrome is a toxic reaction due to overstimulation of 5-HT receptors; distinguishing features include bradykinesia and lead pipe rigidity in NMS, whereas hyperkinesia and myoclonus are evident in serotonin syndrome. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 833"
+  },
+  {
+    "question": "All of the following are sleep changes associated with depression except",
+    "options": {
+      "A": "Reduced REM latency",
+      "B": "Reduced REM density",
+      "C": "Increased duration of first REM period",
+      "D": "Low arousal threshold",
+      "E": "Reduced stage 3 and 4 sleep"
     },
-    {
-        "question": "A 60-year-old man has episodes of disturbed sleep. He experiences unusual movements associated with singing and talking to unseen people during some of these episodes. He recalls vivid dreams when he wakes up. The most appropriate diagnosis would be",
-        "options": {
-            "A": "Sleep-walking",
-            "B": "Sleep terrors",
-            "C": "REM sleep behavioral disorder",
-            "D": "Periodic limb movement disorder",
-            "E": "Restless legs syndrome"
-        },
-        "correct_answer": "B",
-        "explanation": "Disrupted sleep architecture is a long-recognized feature of mood disorders. Several sleep-related electroencephalogram (EEG) changes have been noted in around 90% of those with depression. Short REM latency, increased amount of REM sleep, increased REM density, especially in the first REM episode, prolonged sleep latency, increased frequency of awakenings with low arousal threshold, reduced slow-wave sleep, and shifting of delta sleep to second-stage NREM sleep are some of the notable changes. Some reports have suggested that bipolar depression may be atypical with respect to sleep changes in that daytime sleepiness and increased sleep efficiency are reported. In hypomania/mania, short REM latency, inability to fall asleep, short sleep duration, and reduced delta sleep are seen. In patients who have secondary depression due to a chronic medical condition, REM sleep may be reduced. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 750"
+    "correct_answer": "A",
+    "explanation": "Nocturnal panic refers to waking from sleep with an abrupt and discrete sense of intense fear accompanied by cognitive and physical symptoms of arousal. It does not differ significantly from panic attacks that occur during wakeful states. Most patients with nocturnal panic experience panic attacks during wakeful states too. But a small subset with predominantly circumscribed nocturnal panic has been described. Most patients report that nocturnal panic occurs between 1 and 3 hours after sleep onset. It is a non-REM event, usually occurring in late Stage II or early Stage III sleep. It is not accompanied by any electroencephalographic abnormalities. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 750. Craske M and Tsao J. Assessment and treatment of nocturnal panic attacks. Sleep Medicine Reviews 2005; 9: 173–184"
+  },
+  {
+    "question": "A 60-year-old man has episodes of disturbed sleep. He experiences unusual movements associated with singing and talking to unseen people during some of these episodes. He recalls vivid dreams when he wakes up. The most appropriate diagnosis would be",
+    "options": {
+      "A": "Sleep-walking",
+      "B": "Sleep terrors",
+      "C": "REM sleep behavioral disorder",
+      "D": "Periodic limb movement disorder",
+      "E": "Restless legs syndrome"
     },
-    {
-        "question": "All of the following are recognized treatment options for restless legs syndrome except",
-        "options": {
-            "A": "Levodopa",
-            "B": "Pergolide",
-            "C": "Pramipexole",
-            "D": "Amitriptyline",
-            "E": "Clonazepam"
-        },
-        "correct_answer": "C",
-        "explanation": "Normally REM sleep is associated with loss of muscle tone (atonia) and dreaming. In some patients, as an isolated condition or as a prodrome for later neurodegenerative disorders such as Lewy body dementia/Parkinson’s disease, this normal atonia is absent. This then leads to ‘dreams being acted out’ with uncontrolled limb movements. This is called REM sleep behavioral disorder. Patients can recall dreams when awakened, unlike sleep terror. The behaviors may be more complex than simple sleepwalking. Periodic limb movement disorder is characterized by periodic episodes of repetitive and stereotyped limb movements that occur during sleep. These movements can cause clinical sleep disturbance expressed by insomnia or excessive daytime sleepiness. This is not a dream-related behavior, unlike REM sleep behavioral disorder. Restless legs syndrome, in simplistic terms, is the daytime extension of periodic limb movement disorder wherein episodic akathisia and motor restlessness are seen during the day and at night. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 748"
+    "correct_answer": "B",
+    "explanation": "Disrupted sleep architecture is a long-recognized feature of mood disorders. Several sleep-related electroencephalogram (EEG) changes have been noted in around 90% of those with depression. Short REM latency, increased amount of REM sleep, increased REM density, especially in the first REM episode, prolonged sleep latency, increased frequency of awakenings with low arousal threshold, reduced slow-wave sleep, and shifting of delta sleep to second-stage NREM sleep are some of the notable changes. Some reports have suggested that bipolar depression may be atypical with respect to sleep changes in that daytime sleepiness and increased sleep efficiency are reported. In hypomania/mania, short REM latency, inability to fall asleep, short sleep duration, and reduced delta sleep are seen. In patients who have secondary depression due to a chronic medical condition, REM sleep may be reduced. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 750"
+  },
+  {
+    "question": "All of the following are recognized treatment options for restless legs syndrome except",
+    "options": {
+      "A": "Levodopa",
+      "B": "Pergolide",
+      "C": "Pramipexole",
+      "D": "Amitriptyline",
+      "E": "Clonazepam"
     },
-    {
-        "question": "A 29-year-old man presents with erectile dysfunction. His history reveals excessive stress at work. Which of the following indicates a psychogenic rather than an organic cause for his sexual dysfunction?",
-        "options": {
-            "A": "Sudden onset of the erectile problem",
-            "B": "Erectile dysfunction occurs in all settings",
-            "C": "Loss of early-morning erections",
-            "D": "Preserved ejaculation despite impaired erection",
-            "E": "Complete lack of tumescence"
-        },
-        "correct_answer": "D",
-        "explanation": "Pharmacological treatment options for restless leg syndrome include dopaminergic agents (L-dopa, pergolide, pramipexole), anticonvulsants (gabapentin, carbamazepine), certain opioid drugs, and clonazepam. Amitriptyline has no role in the management of restless leg syndrome. An increase in periodic limb movements observed during sleep has been reported as a side-effect of tricyclics. Some patients may report new-onset restless leg syndrome in association with SSRIs or tricyclics when treated for depression. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 747"
+    "correct_answer": "C",
+    "explanation": "Normally REM sleep is associated with loss of muscle tone (atonia) and dreaming. In some patients, as an isolated condition or as a prodrome for later neurodegenerative disorders such as Lewy body dementia/Parkinson’s disease, this normal atonia is absent. This then leads to ‘dreams being acted out’ with uncontrolled limb movements. This is called REM sleep behavioral disorder. Patients can recall dreams when awakened, unlike sleep terror. The behaviors may be more complex than simple sleepwalking. Periodic limb movement disorder is characterized by periodic episodes of repetitive and stereotyped limb movements that occur during sleep. These movements can cause clinical sleep disturbance expressed by insomnia or excessive daytime sleepiness. This is not a dream-related behavior, unlike REM sleep behavioral disorder. Restless legs syndrome, in simplistic terms, is the daytime extension of periodic limb movement disorder wherein episodic akathisia and motor restlessness are seen during the day and at night. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 748"
+  },
+  {
+    "question": "A 29-year-old man presents with erectile dysfunction. His history reveals excessive stress at work. Which of the following indicates a psychogenic rather than an organic cause for his sexual dysfunction?",
+    "options": {
+      "A": "Sudden onset of the erectile problem",
+      "B": "Erectile dysfunction occurs in all settings",
+      "C": "Loss of early-morning erections",
+      "D": "Preserved ejaculation despite impaired erection",
+      "E": "Complete lack of tumescence"
     },
-    {
-        "question": "Which of the following drugs used for erectile dysfunction acts via the dopaminergic mechanism?",
-        "options": {
-            "A": "Sildenafil",
-            "B": "Vardenafil",
-            "C": "Alprostadil",
-            "D": "Apomorphine",
-            "E": "Yohimbine"
-        },
-        "correct_answer": "A",
-        "explanation": "It is important to realize that clear-cut demarcations between psychogenic or organic erectile dysfunctions are difficult to ascertain in clinical practice. But certain clues that may favor a psychogenic origin/overlay of erectile dysfunction include sudden onset of the problem, early collapse of erection (as against complete absence of tumescence), preserved spontaneous (early morning) and self-stimulated erections, antecedent (temporally related) problems or changes in relationship, a history of significant preceding or ongoing life events, and evidence of psychological problems. Clues that may indicate an organic aetiology include preserved ejaculation in spite of impaired erection, unperturbed libido (in the early stages), and a history of antecedent physical injury, surgeries, or vascular risk factors in the medical history, smoking, and other prescribed or recreational drug use. Lue TF. Erectile dysfunction. New England Journal of Medicine 2000; 342: 1802–1813"
+    "correct_answer": "D",
+    "explanation": "Pharmacological treatment options for restless leg syndrome include dopaminergic agents (L-dopa, pergolide, pramipexole), anticonvulsants (gabapentin, carbamazepine), certain opioid drugs, and clonazepam. Amitriptyline has no role in the management of restless leg syndrome. An increase in periodic limb movements observed during sleep has been reported as a side-effect of tricyclics. Some patients may report new-onset restless leg syndrome in association with SSRIs or tricyclics when treated for depression. Kay J and Tasman A. Essentials of Psychiatry. John Wiley and Sons, 2006, p. 747"
+  },
+  {
+    "question": "Which of the following drugs used for erectile dysfunction acts via the dopaminergic mechanism?",
+    "options": {
+      "A": "Sildenafil",
+      "B": "Vardenafil",
+      "C": "Alprostadil",
+      "D": "Apomorphine",
+      "E": "Yohimbine"
     },
-    {
-        "question": "Which of the following instruments is validated for predictive screening for chronic post-traumatic stress disorder (PTSD) in those who are exposed to traumatic events?",
-        "options": {
-            "A": "Holmes and Rahe Social Adjustment scale",
-            "B": "Life Events and Difficulties Scale",
-            "C": "Trauma Screening Questionnaire",
-            "D": "Appraisal of Life Events Scale",
-            "E": "Abbreviated Injury Scale"
-        },
-        "correct_answer": "D",
-        "explanation": "Apomorphine is a dopamine receptor agonist which stimulates both dopamine D1 and D2 receptors and is sometimes used in male erectile dysfunction. Phosphodiesterase-5 (PDE-5) is an enzyme found in the trabecular smooth muscle of the penis. It catalyses the degradation of cGMP, which results in an elevated cytosolic calcium concentration and muscular contraction leading to erection. PDE-5 inhibitors such as sildenafil, vardenafil, and tadalafil block this biochemical pathway to promote erection. Sildenafil and vardenafil must be taken 1 hour before sexual activity to enable their action. Alprostadil is prostaglandin E, which causes smooth muscle relaxation and subsequent vasodilation by acting on adenylate cyclase to increase the intracellular cyclic adenosine monophosphate (cAMP) concentration. Yohimbine is not commonly used for erectile dysfunction; it is an adrenergic antagonist relatively selective for alpha-2 receptors. The site of action of yohimbine when used for erectile dysfunction is suspected to be central rather than peripheral as the predominant subtype of alpha-adrenoceptor in penile erectile tissue is alpha-1 type rather than alpha-2 type. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 682"
+    "correct_answer": "A",
+    "explanation": "It is important to realize that clear-cut demarcations between psychogenic or organic erectile dysfunctions are difficult to ascertain in clinical practice. But certain clues that may favor a psychogenic origin/overlay of erectile dysfunction include sudden onset of the problem, early collapse of erection (as against complete absence of tumescence), preserved spontaneous (early morning) and self-stimulated erections, antecedent (temporally related) problems or changes in relationship, a history of significant preceding or ongoing life events, and evidence of psychological problems. Clues that may indicate an organic aetiology include preserved ejaculation in spite of impaired erection, unperturbed libido (in the early stages), and a history of antecedent physical injury, surgeries, or vascular risk factors in the medical history, smoking, and other prescribed or recreational drug use. Lue TF. Erectile dysfunction. New England Journal of Medicine 2000; 342: 1802–1813"
+  },
+  {
+    "question": "Which of the following instruments is validated for predictive screening for chronic post-traumatic stress disorder (PTSD) in those who are exposed to traumatic events?",
+    "options": {
+      "A": "Holmes and Rahe Social Adjustment scale",
+      "B": "Life Events and Difficulties Scale",
+      "C": "Trauma Screening Questionnaire",
+      "D": "Appraisal of Life Events Scale",
+      "E": "Abbreviated Injury Scale"
     },
-    {
-        "question": "Reduced flush response to nicotinic acid (niacin) skin patches has been demonstrated in",
-        "options": {
-            "A": "Depression",
-            "B": "Bipolar disorder",
-            "C": "Schizophrenia",
-            "D": "Autism",
-            "E": "Anorexia nervosa"
-        },
-        "correct_answer": "C",
-        "explanation": "Not everyone who experiences a traumatic event goes on to develop PTSD. It is difficult to predict exactly who will go on to develop PTSD. Two factors most associated with future risk of PTSD in those exposed to trauma are perceived lack of social support and peri-traumatic dissociation. The possibility of predicting PTSD has led to designing of predictive screening instruments to be used shortly after a traumatic event. The 10-item Trauma Screening Questionnaire (TSQ) is one of the best validated. The TSQ is a predictive screening instrument for victims of violent crime 1–3 weeks after the assault. In spite of high rates of sensitivity and specificity, a lower positive predictive value (around 0.48) means that although the TSQ can detect the vast majority of PTSD sufferers at 1 month, 50% of those who screened positive will not develop PTSD. Other scales listed in the question are not used directly for predicting PTSD. The Holmes and Rahe Social Adjustment Scale is used to measure the impact of life events by means of arbitrary values attached to different types of common life events. The Life Events and Difficulties scale is used to measure the contextual threat posed by life events. Appraisal of the Life Events Scale is designed to provide an index of the three primary appraisal dimensions (threat, challenge, and loss) described in Lazarus and Folkman’s transactional model of stress. The Abbreviated Injury Scale is an anatomical scoring system used to classify motor accident victims to enable emergency physical interventions. Walters JTR, Bisson JI and Shepherd JP. Predicting posttraumatic stress disorder: validation of the Trauma Screening Questionnaire in victims of assault. Psychological Medicine 2007; 37: 143–150"
+    "correct_answer": "D",
+    "explanation": "Apomorphine is a dopamine receptor agonist which stimulates both dopamine D1 and D2 receptors and is sometimes used in male erectile dysfunction. Phosphodiesterase-5 (PDE-5) is an enzyme found in the trabecular smooth muscle of the penis. It catalyses the degradation of cGMP, which results in an elevated cytosolic calcium concentration and muscular contraction leading to erection. PDE-5 inhibitors such as sildenafil, vardenafil, and tadalafil block this biochemical pathway to promote erection. Sildenafil and vardenafil must be taken 1 hour before sexual activity to enable their action. Alprostadil is prostaglandin E, which causes smooth muscle relaxation and subsequent vasodilation by acting on adenylate cyclase to increase the intracellular cyclic adenosine monophosphate (cAMP) concentration. Yohimbine is not commonly used for erectile dysfunction; it is an adrenergic antagonist relatively selective for alpha-2 receptors. The site of action of yohimbine when used for erectile dysfunction is suspected to be central rather than peripheral as the predominant subtype of alpha-adrenoceptor in penile erectile tissue is alpha-1 type rather than alpha-2 type. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 682"
+  },
+  {
+    "question": "Reduced flush response to nicotinic acid (niacin) skin patches has been demonstrated in",
+    "options": {
+      "A": "Depression",
+      "B": "Bipolar disorder",
+      "C": "Schizophrenia",
+      "D": "Autism",
+      "E": "Anorexia nervosa"
     },
-    {
-        "question": "Oral administration of a tryptophan-free amino acid mixture can lead to tryptophan depletion. This can trigger relapse of depression in patients being treated for depression. The above phenomenon is most likely seen in those on",
-        "options": {
-            "A": "Selective serotonin reuptake inhibitors (SSRIs)",
-            "B": "Tricyclic antidepressants",
-            "C": "Reboxetine",
-            "D": "Cognitive behavioral therapy",
-            "E": "Maintenance electroconvulsive therapy"
-        },
-        "correct_answer": "C",
-        "explanation": "Niacin (nicotinic acid) is a water-soluble vitamin used as a drug for hyperlipidaemia. It can induce a visible skin flush response that is caused by prostaglandin-mediated cutaneous vasodilatation. This normal flush response is reduced in patients with schizophrenia. The use of niacin challenge as a simple biochemical test for schizophrenia has been proposed. Depending on the criteria used, the prevalence rates of attenuated or absent response to a niacin skin patch in patients with schizophrenia ranged from 49% to 90%, compared with 8% to 23% in healthy control subjects. The attenuated flush response to a niacin patch seen in schizophrenia patients was not observed in patients with depression, bipolar disorder or autism. The reduced niacin flush response in patients with schizophrenia was not affected by medication status, antipsychotic drug doses, or substances such as cigarette, coffee, or alcohol consumption. Chang S, et al. Impaired flush response to niacin skin patch among schizophrenia patients and their nonpsychotic relatives: the effect of genetic loading. Schizophrenia Bulletin 2009; 35: 213–221"
+    "correct_answer": "C",
+    "explanation": "Not everyone who experiences a traumatic event goes on to develop PTSD. It is difficult to predict exactly who will go on to develop PTSD. Two factors most associated with future risk of PTSD in those exposed to trauma are perceived lack of social support and peri-traumatic dissociation. The possibility of predicting PTSD has led to designing of predictive screening instruments to be used shortly after a traumatic event. The 10-item Trauma Screening Questionnaire (TSQ) is one of the best validated. The TSQ is a predictive screening instrument for victims of violent crime 1–3 weeks after the assault. In spite of high rates of sensitivity and specificity, a lower positive predictive value (around 0.48) means that although the TSQ can detect the vast majority of PTSD sufferers at 1 month, 50% of those who screened positive will not develop PTSD. Other scales listed in the question are not used directly for predicting PTSD. The Holmes and Rahe Social Adjustment Scale is used to measure the impact of life events by means of arbitrary values attached to different types of common life events. The Life Events and Difficulties scale is used to measure the contextual threat posed by life events. Appraisal of the Life Events Scale is designed to provide an index of the three primary appraisal dimensions (threat, challenge, and loss) described in Lazarus and Folkman’s transactional model of stress. The Abbreviated Injury Scale is an anatomical scoring system used to classify motor accident victims to enable emergency physical interventions. Walters JTR, Bisson JI and Shepherd JP. Predicting posttraumatic stress disorder: validation of the Trauma Screening Questionnaire in victims of assault. Psychological Medicine 2007; 37: 143–150"
+  },
+  {
+    "question": "Oral administration of a tryptophan-free amino acid mixture can lead to tryptophan depletion. This can trigger relapse of depression in patients being treated for depression. The above phenomenon is most likely seen in those on",
+    "options": {
+      "A": "Selective serotonin reuptake inhibitors (SSRIs)",
+      "B": "Tricyclic antidepressants",
+      "C": "Reboxetine",
+      "D": "Cognitive behavioral therapy",
+      "E": "Maintenance electroconvulsive therapy"
     },
-    {
-        "question": "All of the following receptor changes are correctly paired except",
-        "options": {
-            "A": "Increased cortical 5HT2A : depressed patients ",
-            "B": "Increased cortical 5HT1A : depressed patients ",
-            "C": "Increased cortical 5HT2A : ECT treatment ",
-            "D": "Increased cortical 5HT2A : suicide victims ",
-            "E": "Decreased β receptors: antidepressant therapy"
-        },
-        "correct_answer": "A",
-        "explanation": "Tryptophan depletion is used as an intervention to deplete serotonin (5-HT) in humans. It is noted to reverse the antidepressant effects of SSRIs and monoamine oxidase inhibitors (MAOIs) in patients in remission with a history of depression but not in patients treated with antidepressants that promote catecholaminergic rather than serotonergic neurotransmission (such as tricyclic antidepressants, reboxetine, or buproprion). Patients who are either unmedicated and/or fully remitted are much less likely to experience relapse than patients who are recently medicated and partially remitted. Recently remitted patients who have been treated with non-pharmacological therapies such as total sleep deprivation, electroconvulsive therapy, or phototherapy and possibly CBT do not commonly show full clinical relapse with tryptophan depletion. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 64. O’Reardon JP, et al. Response to tryptophan depletion in major depression treated with either cognitive therapy or selective serotonin reuptake inhibitor antidepressants. Biological Psychiatry 2004; 55: 957–959"
+    "correct_answer": "C",
+    "explanation": "Niacin (nicotinic acid) is a water-soluble vitamin used as a drug for hyperlipidaemia. It can induce a visible skin flush response that is caused by prostaglandin-mediated cutaneous vasodilatation. This normal flush response is reduced in patients with schizophrenia. The use of niacin challenge as a simple biochemical test for schizophrenia has been proposed. Depending on the criteria used, the prevalence rates of attenuated or absent response to a niacin skin patch in patients with schizophrenia ranged from 49% to 90%, compared with 8% to 23% in healthy control subjects. The attenuated flush response to a niacin patch seen in schizophrenia patients was not observed in patients with depression, bipolar disorder or autism. The reduced niacin flush response in patients with schizophrenia was not affected by medication status, antipsychotic drug doses, or substances such as cigarette, coffee, or alcohol consumption. Chang S, et al. Impaired flush response to niacin skin patch among schizophrenia patients and their nonpsychotic relatives: the effect of genetic loading. Schizophrenia Bulletin 2009; 35: 213–221"
+  },
+  {
+    "question": "All of the following receptor changes are correctly paired except",
+    "options": {
+      "A": "Increased cortical 5HT2A : depressed patients ",
+      "B": "Increased cortical 5HT1A : depressed patients ",
+      "C": "Increased cortical 5HT2A : ECT treatment ",
+      "D": "Increased cortical 5HT2A : suicide victims ",
+      "E": "Decreased β receptors: antidepressant therapy"
     },
-    {
-        "question": "Which of the following is true with regard to lithium toxicity?",
-        "options": {
-            "A": "Severity is highly correlated with serum levels",
-            "B": "Neurotoxicity occurs only above therapeutic serum levels",
-            "C": "Fine tremor is a sign of toxicity",
-            "D": "Lithium levels often rise even after cessation of treatment",
-            "E": "Most patients are left with some residual neurological damage"
-        },
-        "correct_answer": "B",
-        "explanation": "An increased density of 5HT binding sites has been shown in post-mortem studies of depressed/suicidal patients. The increase in 5HT receptors is most prominent in the 2A dorsolateral prefrontal cortex and in platelets of medication naïve patients. A reduction in 5HT 1A receptors has also been noted in the cortex. In contrast, long-term antidepressant treatment has been shown to reduce 5HT receptors and increase 5HT function. But these changes may not be causative in antidepressant action as they pre-date any clinical response in those who have started antidepressant therapy. Of note, ECT treatment actually increases 5HT receptors. 2A Most directly acting 5HT agonists have poor antidepressant activity. Chronic antidepressant treatment induces a reduction in β adrenoreceptor density around 2 weeks after starting antidepressants; this correlates with therapeutic effects. Unmedicated suicide victims show a greater density of β adrenoreceptors. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 64–65"
+    "correct_answer": "A",
+    "explanation": "Tryptophan depletion is used as an intervention to deplete serotonin (5-HT) in humans. It is noted to reverse the antidepressant effects of SSRIs and monoamine oxidase inhibitors (MAOIs) in patients in remission with a history of depression but not in patients treated with antidepressants that promote catecholaminergic rather than serotonergic neurotransmission (such as tricyclic antidepressants, reboxetine, or buproprion). Patients who are either unmedicated and/or fully remitted are much less likely to experience relapse than patients who are recently medicated and partially remitted. Recently remitted patients who have been treated with non-pharmacological therapies such as total sleep deprivation, electroconvulsive therapy, or phototherapy and possibly CBT do not commonly show full clinical relapse with tryptophan depletion. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 64. O’Reardon JP, et al. Response to tryptophan depletion in major depression treated with either cognitive therapy or selective serotonin reuptake inhibitor antidepressants. Biological Psychiatry 2004; 55: 957–959"
+  },
+  {
+    "question": "Which of the following is true with regard to lithium toxicity?",
+    "options": {
+      "A": "Severity is highly correlated with serum levels",
+      "B": "Neurotoxicity occurs only above therapeutic serum levels",
+      "C": "Fine tremor is a sign of toxicity",
+      "D": "Lithium levels often rise even after cessation of treatment",
+      "E": "Most patients are left with some residual neurological damage"
     },
-    {
-        "question": "Which of the following antidepressants demonstrate the highest affinity for muscarinic acetylcholine receptors of the human brain?",
-        "options": {
-            "A": "Amitriptyline",
-            "B": "Clomipramine",
-            "C": "Amoxapine",
-            "D": "Trazodone",
-            "E": "Desipramine"
-        },
-        "correct_answer": "D",
-        "explanation": "The severity of lithium toxicity has a feeble relationship, if any, with levels of serum lithium. Neurotoxicity can occur even within therapeutic levels of lithium. The symptoms of lithium toxicity can be grouped into gastrointestinal symptoms such as nausea, diarrhoea, vomiting; neurological symptoms such as severe tremors (coarse), cerebellar ataxia, slurred speech, myoclonus, and spasticity; mental symptoms such as drowsiness, disorientation, and apathy. Most patients make a full recovery when lithium is stopped but serum levels may continue to rise due to intracellular lithium release even after cessation of treatment. Rarely, persistent cerebellar damage and cognitive impairment are reported following lithium toxicity. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 37"
+    "correct_answer": "B",
+    "explanation": "An increased density of 5HT binding sites has been shown in post-mortem studies of depressed/suicidal patients. The increase in 5HT receptors is most prominent in the 2A dorsolateral prefrontal cortex and in platelets of medication naïve patients. A reduction in 5HT 1A receptors has also been noted in the cortex. In contrast, long-term antidepressant treatment has been shown to reduce 5HT receptors and increase 5HT function. But these changes may not be causative in antidepressant action as they pre-date any clinical response in those who have started antidepressant therapy. Of note, ECT treatment actually increases 5HT receptors. 2A Most directly acting 5HT agonists have poor antidepressant activity. Chronic antidepressant treatment induces a reduction in β adrenoreceptor density around 2 weeks after starting antidepressants; this correlates with therapeutic effects. Unmedicated suicide victims show a greater density of β adrenoreceptors. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 64–65"
+  },
+  {
+    "question": "Which of the following antidepressants demonstrate the highest affinity for muscarinic acetylcholine receptors of the human brain?",
+    "options": {
+      "A": "Amitriptyline",
+      "B": "Clomipramine",
+      "C": "Amoxapine",
+      "D": "Trazodone",
+      "E": "Desipramine"
     },
-    {
-        "question": "The number of patients who die from hypertensive crises (including fatal ‘cheese reaction’) when monoamine oxidase inhibitors such as tranylcypromine are prescribed is approximately",
-        "options": {
-            "A": "1 in 1000 patients",
-            "B": "1 in 100 patients",
-            "C": "1 in 10 000 patients",
-            "D": "1 in 100 000 patients",
-            "E": "1 in 10 patients"
-        },
-        "correct_answer": "A",
-        "explanation": "Amitriptyline has the highest affinity for central muscarinic acetylcholine receptors among various antidepressants. Its affinity is nearly one-tenth of the affinity shown by atropine. This is followed by protriptyline and clomipramine. Trazodone has very low muscarinic affinity. Anticholinergic side-effects of tricyclics include dry mouth, blurred vision, urinary retention, constipation, memory impairment, and confusion especially in elderly people. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 85"
+    "correct_answer": "D",
+    "explanation": "The severity of lithium toxicity has a feeble relationship, if any, with levels of serum lithium. Neurotoxicity can occur even within therapeutic levels of lithium. The symptoms of lithium toxicity can be grouped into gastrointestinal symptoms such as nausea, diarrhoea, vomiting; neurological symptoms such as severe tremors (coarse), cerebellar ataxia, slurred speech, myoclonus, and spasticity; mental symptoms such as drowsiness, disorientation, and apathy. Most patients make a full recovery when lithium is stopped but serum levels may continue to rise due to intracellular lithium release even after cessation of treatment. Rarely, persistent cerebellar damage and cognitive impairment are reported following lithium toxicity. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 37"
+  },
+  {
+    "question": "The number of patients who die from hypertensive crises (including fatal ‘cheese reaction’) when monoamine oxidase inhibitors such as tranylcypromine are prescribed is approximately",
+    "options": {
+      "A": "1 in 1000 patients",
+      "B": "1 in 100 patients",
+      "C": "1 in 10 000 patients",
+      "D": "1 in 100 000 patients",
+      "E": "1 in 10 patients"
     },
-    {
-        "question": "Which of the following antidepressants has been found to be as lethal as tricyclic antidepressants (TCAs) in cases of overdose?",
-        "options": {
-            "A": "Citalopram",
-            "B": "Mirtazapine",
-            "C": "Venlafaxine",
-            "D": "Moclobemide",
-            "E": "Escitalopram"
-        },
-        "correct_answer": "D",
-        "explanation": "One in every 100 000 patients treated with monoamine oxidase inhibitors such as tranylcypromine die due to fatal hypertensive reaction. The fatality rate can also be expressed as 1 in every 8000 hypertensive reactions. The so-called ‘cheese reaction’ is mainly characterized by skin flushing, tachycardia, dyspnoea, sweating, hypertension, conjunctival injection, and headache. The reaction is usually self-limiting, with signs and symptoms lasting from few minutes to a few hours. Tyramine is formed by the decarboxylation of the amino acid tyrosine; it is mainly catabolized via oxidation by monoamine oxidase-A (MAO-A) in man. Thus MAO-A acts as a protective barrier against high tyramine levels in the nervous system. Unmetabolized tyramine is transported into adrenergic nerve terminals where it displaces noradrenaline, causing hypertension. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 91"
+    "correct_answer": "A",
+    "explanation": "Amitriptyline has the highest affinity for central muscarinic acetylcholine receptors among various antidepressants. Its affinity is nearly one-tenth of the affinity shown by atropine. This is followed by protriptyline and clomipramine. Trazodone has very low muscarinic affinity. Anticholinergic side-effects of tricyclics include dry mouth, blurred vision, urinary retention, constipation, memory impairment, and confusion especially in elderly people. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 85"
+  },
+  {
+    "question": "Which of the following antidepressants has been found to be as lethal as tricyclic antidepressants (TCAs) in cases of overdose?",
+    "options": {
+      "A": "Citalopram",
+      "B": "Mirtazapine",
+      "C": "Venlafaxine",
+      "D": "Moclobemide",
+      "E": "Escitalopram"
     },
-    {
-        "question": "The lorazepam challenge test is used in the diagnosis of",
-        "options": {
-            "A": "Dissociative amnesia",
-            "B": "Transient global amnesia",
-            "C": "Catatonia",
-            "D": "Panic disorder",
-            "E": "Endogenous depression"
-        },
-        "correct_answer": "C",
-        "explanation": "Data from the Office of National Statistics from 1993–2002 have demonstrated a significantly higher rate of fatal overdose (fatal toxicity index) with the antidepressant venlafaxine than with SSRIs. Venlafaxine has a similar lethality to TCAs in cases of overdose; most deaths are ascribed to cardiac effects of the drug. Overall, approximately 10% of venlafaxine overdoses that are reported have proven fatal. Blood pressure increases are common in therapeutic doses but severe increases do not appear to be a significant feature of overdose. Fatal toxicity indices (FTIs) are calculated using recorded deaths attributed to drug overdose obtained from prescribing data. TCAs (in particular dothiepin) have been associated with a higher FTI than venlafaxine, which in turn has been associated with a higher FTI than SSRIs. Medicines and Healthcare Products Regulatory Agency. Updated prescribing advice for venlafaxine Effexor/Effexor XL (Accessed 28 December 2008 www.mhra.gov.uk). Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 95"
+    "correct_answer": "D",
+    "explanation": "One in every 100 000 patients treated with monoamine oxidase inhibitors such as tranylcypromine die due to fatal hypertensive reaction. The fatality rate can also be expressed as 1 in every 8000 hypertensive reactions. The so-called ‘cheese reaction’ is mainly characterized by skin flushing, tachycardia, dyspnoea, sweating, hypertension, conjunctival injection, and headache. The reaction is usually self-limiting, with signs and symptoms lasting from few minutes to a few hours. Tyramine is formed by the decarboxylation of the amino acid tyrosine; it is mainly catabolized via oxidation by monoamine oxidase-A (MAO-A) in man. Thus MAO-A acts as a protective barrier against high tyramine levels in the nervous system. Unmetabolized tyramine is transported into adrenergic nerve terminals where it displaces noradrenaline, causing hypertension. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 91"
+  },
+  {
+    "question": "The lorazepam challenge test is used in the diagnosis of",
+    "options": {
+      "A": "Dissociative amnesia",
+      "B": "Transient global amnesia",
+      "C": "Catatonia",
+      "D": "Panic disorder",
+      "E": "Endogenous depression"
     },
-    {
-        "question": "Which of the following laboratory abnormalities is associated with malignant catatonia?",
-        "options": {
-            "A": "High serum magnesium",
-            "B": "Low serum iron",
-            "C": "Low liver enzymes",
-            "D": "High serum amylase",
-            "E": "Low creatinine phosphokinase"
-        },
-        "correct_answer": "C",
-        "explanation": "In the ‘lorazepam challenge test’ (coined by George Bidder), an intravenous line is established and a syringe containing 2–4 mg of lorazepam in 2 mL of solution is prepared, and 1 mg is injected. In the next 2–5 minutes if no reduction is observed in catatonic features, the second 1 mg of lorazepam is injected, and the assessment is repeated. It is noted that more than 80% of patients with catatonia have a rapid reduction in symptoms with an intravenous lorazepam challenge. Such a response to lorazepam typically results in a lorazepam treatment trial, followed by electroconvulsive therapy if substantial relief is not maintained. Fink and Taylor suggest that adhering to this algorithm achieves remission of catatonia in almost all patients. Amytal interview using intravenous barbiturates/benzodiazepines has been used in dissociative amnesia/fugue. Bush G, et al. Catatonia, II: treatment with lorazepam and electroconvulsive therapy. Acta Psychiatrica Scandinavica 1996; 93: 137–143. Fink M and Taylor MA. Catatonia: subtype or syndrome in DSM? American Journal of Psychiatry 2006; 163: 1875–1876"
+    "correct_answer": "C",
+    "explanation": "Data from the Office of National Statistics from 1993–2002 have demonstrated a significantly higher rate of fatal overdose (fatal toxicity index) with the antidepressant venlafaxine than with SSRIs. Venlafaxine has a similar lethality to TCAs in cases of overdose; most deaths are ascribed to cardiac effects of the drug. Overall, approximately 10% of venlafaxine overdoses that are reported have proven fatal. Blood pressure increases are common in therapeutic doses but severe increases do not appear to be a significant feature of overdose. Fatal toxicity indices (FTIs) are calculated using recorded deaths attributed to drug overdose obtained from prescribing data. TCAs (in particular dothiepin) have been associated with a higher FTI than venlafaxine, which in turn has been associated with a higher FTI than SSRIs. Medicines and Healthcare Products Regulatory Agency. Updated prescribing advice for venlafaxine Effexor/Effexor XL (Accessed 28 December 2008 www.mhra.gov.uk). Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 95"
+  },
+  {
+    "question": "Which of the following laboratory abnormalities is associated with malignant catatonia?",
+    "options": {
+      "A": "High serum magnesium",
+      "B": "Low serum iron",
+      "C": "Low liver enzymes",
+      "D": "High serum amylase",
+      "E": "Low creatinine phosphokinase"
     },
-    {
-        "question": "All of the following indicate a better treatment response to ECT except",
-        "options": {
-            "A": "Shorter illness duration",
-            "B": "Past response to antidepressant treatment",
-            "C": "Significant post-ictal suppression on EEG",
-            "D": "High ictal amplitude on EEG",
-            "E": "Past history of mania"
-        },
-        "correct_answer": "B",
-        "explanation": "The syndrome of malignant catatonia is severe form of catatonia characterized by fever, muscle rigidity and autonomic instability and can be fatal (through renal failure, pulmonary embolism or arrhythmias) if not treated promptly. It is indistinguishable from neuroleptic malignant syndrome. ECT is the treatment of choice. Laboratory studies often help to assess the overall health of a catatonic patient; they rarely help in identifying the cause or confirm the diagnosis of catatonia in isolation. Elevated levels of creatinine phosphokinase (CPK), elevated liver enzymes, and leucocytosis are some of the changes noted in patients with malignant catatonia. Low serum iron levels are associated with malignant catatonia; it is also observed in some patients with neuroleptic malignant syndrome. Serum calcium and magnesium levels are either normal or low in catatonia. Ananth J, et al. Neuroleptic malignant syndrome: risk factors, pathophysiology, and treatment. Acta Neuropsychiatrica 2004; 16: 219–228"
+    "correct_answer": "C",
+    "explanation": "In the ‘lorazepam challenge test’ (coined by George Bidder), an intravenous line is established and a syringe containing 2–4 mg of lorazepam in 2 mL of solution is prepared, and 1 mg is injected. In the next 2–5 minutes if no reduction is observed in catatonic features, the second 1 mg of lorazepam is injected, and the assessment is repeated. It is noted that more than 80% of patients with catatonia have a rapid reduction in symptoms with an intravenous lorazepam challenge. Such a response to lorazepam typically results in a lorazepam treatment trial, followed by electroconvulsive therapy if substantial relief is not maintained. Fink and Taylor suggest that adhering to this algorithm achieves remission of catatonia in almost all patients. Amytal interview using intravenous barbiturates/benzodiazepines has been used in dissociative amnesia/fugue. Bush G, et al. Catatonia, II: treatment with lorazepam and electroconvulsive therapy. Acta Psychiatrica Scandinavica 1996; 93: 137–143. Fink M and Taylor MA. Catatonia: subtype or syndrome in DSM? American Journal of Psychiatry 2006; 163: 1875–1876"
+  },
+  {
+    "question": "All of the following indicate a better treatment response to ECT except",
+    "options": {
+      "A": "Shorter illness duration",
+      "B": "Past response to antidepressant treatment",
+      "C": "Significant post-ictal suppression on EEG",
+      "D": "High ictal amplitude on EEG",
+      "E": "Past history of mania"
     },
-    {
-        "question": "While treating social anxiety disorder with SSRIs, an adequate treatment trial should probably extend to",
-        "options": {
-            "A": "4 weeks",
-            "B": "6 weeks",
-            "C": "12 weeks",
-            "D": "24 weeks",
-            "E": "18 months"
-        },
-        "correct_answer": "E",
-        "explanation": "Medication resistance and chronicity of depression are two often noted factors that predict lower response rates to ECT. Though ECT can provide significant benefit for patients who are resistant to medication, the degree of response may be less than in depressed patients who are not considered to have such resistance. Similarly, patients with longer durations of continuous depressive illness are less likely to respond to ECT. Post-ictal suppression and ictal amplitude are two main EEG-related features during ECT treatment that are associated with positive efficacy. Post-ictal suppression refers to the acute fall in EEG amplitude immediately after the ECT-induced seizure terminates. Ictal EEG amplitude or power measured as voltage is felt to be related to seizure strength or intensity. Bipolar depression does not respond to ECT differently from unipolar depression when other variables are controlled for. Tyrer P and Silk K, eds. Cambridge Textbook of Effective Treatments in Psychiatry. Cambridge University Press, 2008, p. 62. Daly JJ, et al. ECT in bipolar and unipolar depression: differences in speed of response. Bipolar Disorders 2001; 3: 95–104"
+    "correct_answer": "B",
+    "explanation": "The syndrome of malignant catatonia is severe form of catatonia characterized by fever, muscle rigidity and autonomic instability and can be fatal (through renal failure, pulmonary embolism or arrhythmias) if not treated promptly. It is indistinguishable from neuroleptic malignant syndrome. ECT is the treatment of choice. Laboratory studies often help to assess the overall health of a catatonic patient; they rarely help in identifying the cause or confirm the diagnosis of catatonia in isolation. Elevated levels of creatinine phosphokinase (CPK), elevated liver enzymes, and leucocytosis are some of the changes noted in patients with malignant catatonia. Low serum iron levels are associated with malignant catatonia; it is also observed in some patients with neuroleptic malignant syndrome. Serum calcium and magnesium levels are either normal or low in catatonia. Ananth J, et al. Neuroleptic malignant syndrome: risk factors, pathophysiology, and treatment. Acta Neuropsychiatrica 2004; 16: 219–228"
+  },
+  {
+    "question": "While treating social anxiety disorder with SSRIs, an adequate treatment trial should probably extend to",
+    "options": {
+      "A": "4 weeks",
+      "B": "6 weeks",
+      "C": "12 weeks",
+      "D": "24 weeks",
+      "E": "18 months"
     },
-    {
-        "question": "A 32-year-old woman presents with concerns regarding her ‘ugly appearance’. She had been convinced for a long time that her appearance was defective and was particularly worried about her ‘streak’ eyes. She admitted spending at least 14–16 hours a day thinking about her appearance and comparing herself with other people or seeking reassurance from others. Which of the following is true with regard to the treatment of this condition?",
-        "options": {
-            "A": "She may respond to higher than usual antidepressant doses of serotonin re-uptake inhibitors (SSRIs)",
-            "B": "There is a good evidence for response to ECT in this condition",
-            "C": "She has a comparable likelihood of response to SSRIs and non-SSRI antidepressants",
-            "D": "She will require a shorter than usual duration of treatment trial with SSRIs",
-            "E": "Cognitive behavioral therapy (CBT) has no role in the treatment"
-        },
-        "correct_answer": "C",
-        "explanation": "SSRIs are now widely used as first-line agents in social anxiety disorder – both limited and generalized subtypes. An adequate trial of treatment with SSRIs in social anxiety must extend to 12 weeks, with a minimum of 6–8 weeks at the highest tolerated doses administered before considering a switch. It may take many months to consolidate a full treatment response and achieve a full remission. If the treatment is effective, it is recommended that it be continued for at least for a year, and then very gradually tapered off. Murray R, et al, eds. Essential Psychiatry, 4th edn. Cambridge University Press, 2008, p. 158. Ballenger JC, et al. Consensus statement on social anxiety disorder from the International Consensus Group on Depression and Anxiety. Journal of Clinical Psychiatry 1998; 59: 54–60"
+    "correct_answer": "E",
+    "explanation": "Medication resistance and chronicity of depression are two often noted factors that predict lower response rates to ECT. Though ECT can provide significant benefit for patients who are resistant to medication, the degree of response may be less than in depressed patients who are not considered to have such resistance. Similarly, patients with longer durations of continuous depressive illness are less likely to respond to ECT. Post-ictal suppression and ictal amplitude are two main EEG-related features during ECT treatment that are associated with positive efficacy. Post-ictal suppression refers to the acute fall in EEG amplitude immediately after the ECT-induced seizure terminates. Ictal EEG amplitude or power measured as voltage is felt to be related to seizure strength or intensity. Bipolar depression does not respond to ECT differently from unipolar depression when other variables are controlled for. Tyrer P and Silk K, eds. Cambridge Textbook of Effective Treatments in Psychiatry. Cambridge University Press, 2008, p. 62. Daly JJ, et al. ECT in bipolar and unipolar depression: differences in speed of response. Bipolar Disorders 2001; 3: 95–104"
+  },
+  {
+    "question": "A 32-year-old woman presents with concerns regarding her ‘ugly appearance’. She had been convinced for a long time that her appearance was defective and was particularly worried about her ‘streak’ eyes. She admitted spending at least 14–16 hours a day thinking about her appearance and comparing herself with other people or seeking reassurance from others. Which of the following is true with regard to the treatment of this condition?",
+    "options": {
+      "A": "She may respond to higher than usual antidepressant doses of serotonin re-uptake inhibitors (SSRIs)",
+      "B": "There is a good evidence for response to ECT in this condition",
+      "C": "She has a comparable likelihood of response to SSRIs and non-SSRI antidepressants",
+      "D": "She will require a shorter than usual duration of treatment trial with SSRIs",
+      "E": "Cognitive behavioral therapy (CBT) has no role in the treatment"
     },
-    {
-        "question": "A 17-year-old girl is admitted to a medical unit following a prolonged period of repeated bingeing and vomiting. She induces vomiting at least six times a day but does not use laxatives or diuretics. Which of the following laboratory finding is most likely in this patient?",
-        "options": {
-            "A": "Low urea levels",
-            "B": "High potassium levels",
-            "C": "Low bicarbonate levels",
-            "D": "Increased thyroxine levels",
-            "E": "High amylase levels"
-        },
-        "correct_answer": "A",
-        "explanation": "The amount of evidence for treatment of body dysmorphic disorder (BDD) is limited, but it is accepted that serotonin reuptake inhibitors (SSRIs) and cognitive–behavioral therapy (CBT) are the treatments of choice. Antidepressants, antipsychotics, or electroconvulsive therapy are not efficacious for BDD, even though the data are limited. BDD symptoms of delusional patients appear as likely as symptoms of non-delusional patients to respond to an SSRI. SSRIs improve preoccupations, distress, and insight with an associated reduction in BDD-related behaviours such as mirror-checking, etc. The patient need not have depression to experience the beneficial effect. Although data are limited with respect to dose-finding studies, it is accepted that BDD often requires higher SSRI doses than those typically used in the treatment of depression, with variable response times ranging from 4–5 weeks to 9 weeks. Many patients may thus require longer than the usual treatment trial. Phillips KA. Pharmacologic treatment of body dysmorphic disorder: review of the evidence and a recommended treatment approach. CNS Spectrums 2002; 7: 453–60"
+    "correct_answer": "C",
+    "explanation": "SSRIs are now widely used as first-line agents in social anxiety disorder – both limited and generalized subtypes. An adequate trial of treatment with SSRIs in social anxiety must extend to 12 weeks, with a minimum of 6–8 weeks at the highest tolerated doses administered before considering a switch. It may take many months to consolidate a full treatment response and achieve a full remission. If the treatment is effective, it is recommended that it be continued for at least for a year, and then very gradually tapered off. Murray R, et al, eds. Essential Psychiatry, 4th edn. Cambridge University Press, 2008, p. 158. Ballenger JC, et al. Consensus statement on social anxiety disorder from the International Consensus Group on Depression and Anxiety. Journal of Clinical Psychiatry 1998; 59: 54–60"
+  },
+  {
+    "question": "A 17-year-old girl is admitted to a medical unit following a prolonged period of repeated bingeing and vomiting. She induces vomiting at least six times a day but does not use laxatives or diuretics. Which of the following laboratory finding is most likely in this patient?",
+    "options": {
+      "A": "Low urea levels",
+      "B": "High potassium levels",
+      "C": "Low bicarbonate levels",
+      "D": "Increased thyroxine levels",
+      "E": "High amylase levels"
     },
-    {
-        "question": "A 54-year-old African-Caribbean man had systematized persecutory delusions that prevented him from eating for 5 weeks. Following admission to a medical unit he was started on realimentation, despite which he developed diplopia, bilateral horizontal nystagmus and right sixth cranial nerve palsy. He had no past history of alcohol use. On transfer to a psychiatric ward, he was started on a normal diet but soon his phosphate levels were markedly reduced (0.26 mmol/L). The most likely diagnosis is",
-        "options": {
-            "A": "Normal pressure hydrocephalus",
-            "B": "Olanzapine overdose",
-            "C": "Refeeding syndrome",
-            "D": "Laxative abuse",
-            "E": "Hepatic failure"
-        },
-        "correct_answer": "E",
-        "explanation": "Elevations of serum amylase have been reported in 25–60% of anorexic/bulimic patients who repeatedly vomit. This amylase appears to derive from the salivary fraction and not the pancreas. Thus it may be associated with a clinical finding of parotid gland enlargement. The use of serum amylase measurement as an index of clinical symptomatology in eating disorders is currently limited as the correlation between amylase levels and symptom severity is poor. Low urea levels are seen in restricting the type of anorexia; they may be increased in those who vomit repeatedly. Hypokalaemia is a feature of laxative abuse or repeated vomiting in anorexia. High bicarbonate levels are associated with vomiting whereas low levels are seen in laxative abuse. Thyroid hormone (T3) is reduced in anorexia; basal TSH values and thyroxine levels may be normal (low T3 syndrome). Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 621. Fairburn CG and Harrison PJ. Eating disorders. Lancet 2003; 361: 407–416"
+    "correct_answer": "A",
+    "explanation": "The amount of evidence for treatment of body dysmorphic disorder (BDD) is limited, but it is accepted that serotonin reuptake inhibitors (SSRIs) and cognitive–behavioral therapy (CBT) are the treatments of choice. Antidepressants, antipsychotics, or electroconvulsive therapy are not efficacious for BDD, even though the data are limited. BDD symptoms of delusional patients appear as likely as symptoms of non-delusional patients to respond to an SSRI. SSRIs improve preoccupations, distress, and insight with an associated reduction in BDD-related behaviours such as mirror-checking, etc. The patient need not have depression to experience the beneficial effect. Although data are limited with respect to dose-finding studies, it is accepted that BDD often requires higher SSRI doses than those typically used in the treatment of depression, with variable response times ranging from 4–5 weeks to 9 weeks. Many patients may thus require longer than the usual treatment trial. Phillips KA. Pharmacologic treatment of body dysmorphic disorder: review of the evidence and a recommended treatment approach. CNS Spectrums 2002; 7: 453–60"
+  },
+  {
+    "question": "A 54-year-old African-Caribbean man had systematized persecutory delusions that prevented him from eating for 5 weeks. Following admission to a medical unit he was started on realimentation, despite which he developed diplopia, bilateral horizontal nystagmus and right sixth cranial nerve palsy. He had no past history of alcohol use. On transfer to a psychiatric ward, he was started on a normal diet but soon his phosphate levels were markedly reduced (0.26 mmol/L). The most likely diagnosis is",
+    "options": {
+      "A": "Normal pressure hydrocephalus",
+      "B": "Olanzapine overdose",
+      "C": "Refeeding syndrome",
+      "D": "Laxative abuse",
+      "E": "Hepatic failure"
     },
-    {
-        "question": "A 17-year-old girl presents with sudden-onset blindness while preparing for her school exit examinations. Which of the following suggests an ocular rather than a psychogenic cause for blindness?",
-        "options": {
-            "A": "Normal visual evoked potentials",
-            "B": "Presence of tubular vision",
-            "C": "Spiral changes in visual fields",
-            "D": "Absence of optokinetic nystagmus",
-            "E": "Disturbances in tests for proprioception"
-        },
-        "correct_answer": "C",
-        "explanation": "Refeeding syndrome refers to severe electrolyte and fluid shift associated with metabolic abnormalities in patients with malnutrition undergoing realimentation. Refeeding syndrome can occur in people with eating disorders and alcoholism but it is often missed in psychiatric units. This patient has developed features of low phosphate and thiamine deficiency following realimentation. The clinical features are related to the shift in metabolism that occurs on refeeding. A change from fat to carbohydrate-based energy production occurs. A glucose load stimulates insulin release, causing increased cellular uptake of glucose, phosphate, potassium, magnesium, and water. This will result in hypophosphataemia, which in turn may cause a deficit in adenosine triphosphate (ATP) with widespread neuromuscular and haematological consequences. Thiamine deficiency occurs due to increased cellular utilization of thiamine in response to carbohydrate refeeding and is associated with the precipitation of Wernicke’s encephalopathy. Catani, M and Howells, R. Risks and pitfalls for the management of refeeding syndrome in psychiatric patients. Psychiatric Bulletin 2007; 31: 209–211"
+    "correct_answer": "E",
+    "explanation": "Elevations of serum amylase have been reported in 25–60% of anorexic/bulimic patients who repeatedly vomit. This amylase appears to derive from the salivary fraction and not the pancreas. Thus it may be associated with a clinical finding of parotid gland enlargement. The use of serum amylase measurement as an index of clinical symptomatology in eating disorders is currently limited as the correlation between amylase levels and symptom severity is poor. Low urea levels are seen in restricting the type of anorexia; they may be increased in those who vomit repeatedly. Hypokalaemia is a feature of laxative abuse or repeated vomiting in anorexia. High bicarbonate levels are associated with vomiting whereas low levels are seen in laxative abuse. Thyroid hormone (T3) is reduced in anorexia; basal TSH values and thyroxine levels may be normal (low T3 syndrome). Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 621. Fairburn CG and Harrison PJ. Eating disorders. Lancet 2003; 361: 407–416"
+  },
+  {
+    "question": "A 17-year-old girl presents with sudden-onset blindness while preparing for her school exit examinations. Which of the following suggests an ocular rather than a psychogenic cause for blindness?",
+    "options": {
+      "A": "Normal visual evoked potentials",
+      "B": "Presence of tubular vision",
+      "C": "Spiral changes in visual fields",
+      "D": "Absence of optokinetic nystagmus",
+      "E": "Disturbances in tests for proprioception"
     },
-    {
-        "question": "Which of the following culture-bound syndromes is closely associated with social phobia?",
-        "options": {
-            "A": "Brain fag syndrome in West Africa",
-            "B": "Dhat syndrome in South Asia",
-            "C": "Frigophobia in China",
-            "D": "Taijin kyofusho in Japan",
-            "E": "Arctic hysteria in Greenland"
-        },
-        "correct_answer": "D",
-        "explanation": "Non-organic visual loss may be psychogenic (conversion phenomenon) or secondary to malingering. It is more common among younger age groups and females, with the most frequently reported complaints being a reduction of visual acuity with or without loss of field. Absence of underlying optic nerve pathology is suggested by the demonstration of normal evoked potentials. On visual field testing the patients may have an inconsistent spiral field. When the patient acknowledges sighting the stimulus at some point on a horizontal axis, the examiner then moves around the field in a circle (clockwise or anticlockwise). This will produce a progressively constricting field and when the same horizontal axis is reached again, the stimulus will only be sighted at a much closer point to the centre. Some patients may have tubular vision. In the presence of true visual field loss, the area of constricted field expands with increasing distance of the testing screen. In non-organic visual loss such field defects remain unchanged in width when tangent screen testing is performed at varying distances. This produces what is known as ‘tubular fields’. Simple tests of proprioception such as the finger–nose test are easily performed by blind patients; in non-organic visual loss, patients may be incapable of carrying out these tests. Intact vision (acuity at least 6/60) will elicit a positive optokinetic nystagmus (eyes moving with a black/white striped drum rolling in front of the eyes). The absence of such nystagmus indicates an ocular rather than psychogenic cause for visual loss. Beatty S. Psychogenic medicine: Non-organic visual loss. Postgraduate Medical Journal 1999; 75: 201–207"
+    "correct_answer": "C",
+    "explanation": "Refeeding syndrome refers to severe electrolyte and fluid shift associated with metabolic abnormalities in patients with malnutrition undergoing realimentation. Refeeding syndrome can occur in people with eating disorders and alcoholism but it is often missed in psychiatric units. This patient has developed features of low phosphate and thiamine deficiency following realimentation. The clinical features are related to the shift in metabolism that occurs on refeeding. A change from fat to carbohydrate-based energy production occurs. A glucose load stimulates insulin release, causing increased cellular uptake of glucose, phosphate, potassium, magnesium, and water. This will result in hypophosphataemia, which in turn may cause a deficit in adenosine triphosphate (ATP) with widespread neuromuscular and haematological consequences. Thiamine deficiency occurs due to increased cellular utilization of thiamine in response to carbohydrate refeeding and is associated with the precipitation of Wernicke’s encephalopathy. Catani, M and Howells, R. Risks and pitfalls for the management of refeeding syndrome in psychiatric patients. Psychiatric Bulletin 2007; 31: 209–211"
+  },
+  {
+    "question": "Which of the following culture-bound syndromes is closely associated with social phobia?",
+    "options": {
+      "A": "Brain fag syndrome in West Africa",
+      "B": "Dhat syndrome in South Asia",
+      "C": "Frigophobia in China",
+      "D": "Taijin kyofusho in Japan",
+      "E": "Arctic hysteria in Greenland"
     },
-    {
-        "question": "Which of the following mechanisms is proposed to underlie hypersalivation seen in patients taking clozapine?",
-        "options": {
-            "A": "Muscarinic M1 blockade",
-            "B": "Muscarinic M4 stimulation",
-            "C": "Histaminic H1 blockade",
-            "D": "Serotonergic 5HT2C blockade",
-            "E": "Noradrenergic α1 blockade"
-        },
-        "correct_answer": "D",
-        "explanation": "Taijin Kyofusho (or anthropophobia: a fear of interpersonal relationships) could be considered as a cultural expression of social phobia among Japanese. Hikikomori, manifest by complete withdrawal from social life, is very closely related. Patients show severe obsession and fear of social contact with extreme self-consciousness regarding appearance, blushing, stuttering, or emitting offensive odours. Brain fag syndrome (known as studiation madness in the Caribbean) is characterized by variety of medically unexplained somatic symptoms, anxiety, depression, and fatigue. Symptoms may be triggered by the effort of reading; it is seen in students from a West African background. Dhat syndrome is characterized by complaints of discharge of semen in urine with no urological cause; this may be associated with fatigue and anxiety of loss of fertility and reproductive potency. Frigophobia (Pa-Leng) is a chronic anxiety state with phobia for cold; the patients may dress compulsively in heavy clothes and may become housebound for the fear of ‘cold attack’. Arctic hysteria or Piboloktoq is an acute dissociative episode of disruptive behaviour characterized by an irritable prodromal period and subsequent wild, excited, and risky behaviour. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 806"
+    "correct_answer": "D",
+    "explanation": "Non-organic visual loss may be psychogenic (conversion phenomenon) or secondary to malingering. It is more common among younger age groups and females, with the most frequently reported complaints being a reduction of visual acuity with or without loss of field. Absence of underlying optic nerve pathology is suggested by the demonstration of normal evoked potentials. On visual field testing the patients may have an inconsistent spiral field. When the patient acknowledges sighting the stimulus at some point on a horizontal axis, the examiner then moves around the field in a circle (clockwise or anticlockwise). This will produce a progressively constricting field and when the same horizontal axis is reached again, the stimulus will only be sighted at a much closer point to the centre. Some patients may have tubular vision. In the presence of true visual field loss, the area of constricted field expands with increasing distance of the testing screen. In non-organic visual loss such field defects remain unchanged in width when tangent screen testing is performed at varying distances. This produces what is known as ‘tubular fields’. Simple tests of proprioception such as the finger–nose test are easily performed by blind patients; in non-organic visual loss, patients may be incapable of carrying out these tests. Intact vision (acuity at least 6/60) will elicit a positive optokinetic nystagmus (eyes moving with a black/white striped drum rolling in front of the eyes). The absence of such nystagmus indicates an ocular rather than psychogenic cause for visual loss. Beatty S. Psychogenic medicine: Non-organic visual loss. Postgraduate Medical Journal 1999; 75: 201–207"
+  },
+  {
+    "question": "Which of the following mechanisms is proposed to underlie hypersalivation seen in patients taking clozapine?",
+    "options": {
+      "A": "Muscarinic M1 blockade",
+      "B": "Muscarinic M4 stimulation",
+      "C": "Histaminic H1 blockade",
+      "D": "Serotonergic 5HT2C blockade",
+      "E": "Noradrenergic α1 blockade"
     },
-    {
-        "question": "Which of the following can increase levels of clozapine via alterations in hepatic metabolism?",
-        "options": {
-            "A": "Rifampicin",
-            "B": "Phenytoin",
-            "C": "Carbamazepine",
-            "D": "Cigarette smoking",
-            "E": "Erythromycin"
-        },
-        "correct_answer": "D",
-        "explanation": "Taijin Kyofusho (or anthropophobia: a fear of interpersonal relationships) could be considered as a cultural expression of social phobia among Japanese. Hikikomori, manifest by complete withdrawal from social life, is very closely related. Patients show severe obsession and fear of social contact with extreme self-consciousness regarding appearance, blushing, stuttering, or emitting offensive odours. Brain fag syndrome (known as studiation madness in the Caribbean) is characterized by variety of medically unexplained somatic symptoms, anxiety, depression, and fatigue. Symptoms may be triggered by the effort of reading; it is seen in students from a West African background. Dhat syndrome is characterized by complaints of discharge of semen in urine with no urological cause; this may be associated with fatigue and anxiety of loss of fertility and reproductive potency. Frigophobia (Pa-Leng) is a chronic anxiety state with phobia for cold; the patients may dress compulsively in heavy clothes and may become housebound for the fear of ‘cold attack’. Arctic hysteria or Piboloktoq is an acute dissociative episode of disruptive behaviour characterized by an irritable prodromal period and subsequent wild, excited, and risky behaviour. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 806"
+    "correct_answer": "D",
+    "explanation": "Taijin Kyofusho (or anthropophobia: a fear of interpersonal relationships) could be considered as a cultural expression of social phobia among Japanese. Hikikomori, manifest by complete withdrawal from social life, is very closely related. Patients show severe obsession and fear of social contact with extreme self-consciousness regarding appearance, blushing, stuttering, or emitting offensive odours. Brain fag syndrome (known as studiation madness in the Caribbean) is characterized by variety of medically unexplained somatic symptoms, anxiety, depression, and fatigue. Symptoms may be triggered by the effort of reading; it is seen in students from a West African background. Dhat syndrome is characterized by complaints of discharge of semen in urine with no urological cause; this may be associated with fatigue and anxiety of loss of fertility and reproductive potency. Frigophobia (Pa-Leng) is a chronic anxiety state with phobia for cold; the patients may dress compulsively in heavy clothes and may become housebound for the fear of ‘cold attack’. Arctic hysteria or Piboloktoq is an acute dissociative episode of disruptive behaviour characterized by an irritable prodromal period and subsequent wild, excited, and risky behaviour. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 806"
+  },
+  {
+    "question": "Which of the following can increase levels of clozapine via alterations in hepatic metabolism?",
+    "options": {
+      "A": "Rifampicin",
+      "B": "Phenytoin",
+      "C": "Carbamazepine",
+      "D": "Cigarette smoking",
+      "E": "Erythromycin"
     },
-    {
-        "question": "A 17-year-old girl presents with sudden-onset blindness while preparing for her school exit examinations. Which of the following suggests an ocular rather than a psychogenic cause for blindness?",
-        "options": {
-            "A": "Raised salivary cortisol measures",
-            "B": "Abnormal dexamethasone suppression test",
-            "C": "Reduced Corticotropin-releasing hormone (CRH) in cerebrospinal fluid",
-            "D": "Downregulated CRH receptors",
-            "E": "Reduced adrenocorticotropic hormone (ACTH) response to CRH infusion"
-        },
-        "correct_answer": "B",
-        "explanation": "Both muscarinic M3 and M4 receptors are expressed in salivary glands. In general, stimulation of these receptors leads to increased salivation. Clozapine has antagonistic properties at muscarinic receptors (M1 to M3, and M5) but acts as an agonist at the M4 receptor. Olanzapine also has direct M4-agonistic properties and can produce hypersalivation; pirenzepine, an M4 antagonist, alleviates hypersalivation. In addition, clozapine may exacerbate salivation through its alpha-2 antagonism. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 255"
-    }
+    "correct_answer": "D",
+    "explanation": "Taijin Kyofusho (or anthropophobia: a fear of interpersonal relationships) could be considered as a cultural expression of social phobia among Japanese. Hikikomori, manifest by complete withdrawal from social life, is very closely related. Patients show severe obsession and fear of social contact with extreme self-consciousness regarding appearance, blushing, stuttering, or emitting offensive odours. Brain fag syndrome (known as studiation madness in the Caribbean) is characterized by variety of medically unexplained somatic symptoms, anxiety, depression, and fatigue. Symptoms may be triggered by the effort of reading; it is seen in students from a West African background. Dhat syndrome is characterized by complaints of discharge of semen in urine with no urological cause; this may be associated with fatigue and anxiety of loss of fertility and reproductive potency. Frigophobia (Pa-Leng) is a chronic anxiety state with phobia for cold; the patients may dress compulsively in heavy clothes and may become housebound for the fear of ‘cold attack’. Arctic hysteria or Piboloktoq is an acute dissociative episode of disruptive behaviour characterized by an irritable prodromal period and subsequent wild, excited, and risky behaviour. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 806"
+  },
+  {
+    "question": "All of the following neuroendocrine changes are noted in depression EXCEPT",
+    "options": {
+      "A": "Raised salivary cortisol measures",
+      "B": "Abnormal dexamethasone suppression test",
+      "C": "Reduced Corticotropin-releasing hormone (CRH) in cerebrospinal fluid",
+      "D": "Downregulated CRH receptors",
+      "E": "Reduced adrenocorticotropic hormone (ACTH) response to CRH infusion"
+    },
+    "correct_answer": "B",
+    "explanation": "Both muscarinic M3 and M4 receptors are expressed in salivary glands. In general, stimulation of these receptors leads to increased salivation. Clozapine has antagonistic properties at muscarinic receptors (M1 to M3, and M5) but acts as an agonist at the M4 receptor. Olanzapine also has direct M4-agonistic properties and can produce hypersalivation; pirenzepine, an M4 antagonist, alleviates hypersalivation. In addition, clozapine may exacerbate salivation through its alpha-2 antagonism. Stein G and Wilkinson G, eds. Seminars in General Adult Psychiatry, 2nd edn. Gaskell, 2007, p. 255"
+  }
 ]

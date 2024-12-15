@@ -13,9 +13,7 @@ const authenticate = async () => {
   console.log("clicked");
 
   if (user.value !== "" && password.value !== "") {
-    console.log("trying");
-    console.log(user.value);
-    console.log(password.value);
+    console.log("trying to log in");
 
     try {
       const authData = await pb
