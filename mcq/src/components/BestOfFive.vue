@@ -213,6 +213,8 @@ const selectedBookName = computed(() => {
       "
       :key="JSON.stringify(questionsData[0]?.question || '')"
       :questionsData="questionsData"
+      :selectedBook="selectedBook"
+      :selectedChapter="selectedChapter"
     />
   </div>
 </template>

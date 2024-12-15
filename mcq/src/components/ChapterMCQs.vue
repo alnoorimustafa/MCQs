@@ -1,50 +1,89 @@
 <script setup lang="ts">
-import { ref, computed, onMounted } from "vue";
+import { ref, computed, inject } from "vue";
+import PocketBase from "pocketbase";
 
-const props = defineProps(["questionsData"]);
+const pb = inject("pb") as PocketBase;
 
-// Reactive data for questions and score
-const questions = ref(props.questionsData); // Initialize questions with data from mcq1.json
-const selectedOptions = ref(Array(questions.value.length).fill(null)); // Track the selected option for each question
-const score = ref(0); // Initialize score
-const wrong = ref(0); // Initialize score
-const loading = ref(true); // Loading state
+const props = defineProps(["questionsData", "selectedChapter", "selectedBook"]);
 
-// Simulate loading questions (replace this with actual loading logic)
-onMounted(() => {
-  setTimeout(() => {
-    loading.value = false; // Set loading to false after loading is complete
-  }, 500); // Simulate a 1 second loading time
-});
+const questions = ref(props.questionsData);
+const selectedOptions = ref(Array(questions.value.length).fill(null));
+const right = ref(0);
+const wrong = ref(0);
+const loading = ref(true);
+const saving = ref(false);
+
+const loadProgress = async () => {
+  saving.value = true;
+  try {
+    const progress = await pb
+      .collection("progress")
+      .getFirstListItem(
+        `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
+      );
+
+    // Populate progress if found
+    if (progress.answered) {
+      selectedOptions.value = progress.answered || selectedOptions.value;
+      right.value = progress.right || 0;
+      wrong.value = progress.wrong || 0;
+    }
+  } catch (err) {
+    console.log("No progress found for this chapter:", err);
+  }
+  saving.value = false;
+};
+
+// Function to save progress to PocketBase
+const saveProgress = async () => {
+  saving.value = true;
+  const payload = {
+    user: pb.authStore.record?.id,
+    chapter: props.selectedChapter,
+    book: props.selectedBook,
+    answered: selectedOptions.value,
+    right: right.value,
+    wrong: wrong.value,
+  };
+
+  try {
+    const existingProgress = await pb
+      .collection("progress")
+      .getFirstListItem(
+        `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
+      );
+
+    if (existingProgress) {
+      await pb.collection("progress").update(existingProgress.id, payload);
+    }
+  } catch {
+    await pb.collection("progress").create(payload);
+  }
+  saving.value = false;
+};
 
 // Function to handle option selection
-const selectOption = (
+const selectOption = async (
   index: number,
   letter: any,
   option: any,
   correctAnswer: any
 ) => {
-  console.log(selectedOptions.value);
-
   if (selectedOptions.value[index] === null) {
-    // Check if the option for this question has not been selected yet
-    selectedOptions.value[index] = option; // Set the selected option for this question
+    selectedOptions.value[index] = option;
     if (letter === correctAnswer) {
-      score.value += 1; // Increment score for correct answer
+      right.value += 1;
     } else if (letter !== correctAnswer) {
-      wrong.value += 1; // Increment score for correct answer
+      wrong.value += 1;
     }
   }
 };
 
-// Computed property to calculate percentage score
-const percentageScore = computed(() => {
-  return (score.value / questions.value.length) * 100; // Calculate percentage
-});
-
-// Computed properties for total questions, correct answers, and wrong answers
+const percentageScore = computed(
+  () => (right.value / questions.value.length) * 100
+);
 const totalQuestions = computed(() => questions.value.length);
-const correctAnswers = computed(() => score.value);
+const correctAnswers = computed(() => right.value);
 const IncorrectAnswers = computed(() => wrong.value);
 </script>
 
@@ -70,9 +109,16 @@ const IncorrectAnswers = computed(() => wrong.value);
             <span class="label">Incorrect Answers:</span>
             <span class="value">{{ IncorrectAnswers }}</span>
           </div>
+          <div class="score-row flex">
+            <button :aria-busy="saving" class="save" @click="saveProgress">
+              <span v-if="!saving"> Save Progress </span>
+            </button>
+            <button :aria-busy="saving" class="load" @click="loadProgress">
+              <span v-if="!saving">Load Progress </span>
+            </button>
+          </div>
         </div>
       </div>
-      <!-- Display additional information -->
       <div v-if="questions.length" class="questions-container">
         <div
           v-for="(question, index) in questions"
@@ -120,6 +166,11 @@ const IncorrectAnswers = computed(() => wrong.value);
 </template>
 
 <style scoped>
+progress {
+  margin-top: 10px;
+  width: 100%;
+}
+
 .score-display {
   min-width: 15%;
   max-width: 50%;
@@ -127,10 +178,30 @@ const IncorrectAnswers = computed(() => wrong.value);
   bottom: 20px;
   right: 20px;
   color: #ffffff;
-  background-color: rgba(1, 127, 192, 0.5);
+  background-color: rgba(1, 127, 192, 0.4);
   padding: 10px;
   border-radius: 5px;
   font-size: 0.8rem;
+}
+
+.score-row button {
+  padding: 5px;
+  margin-top: 5px;
+  font-size: 12px;
+  border: transparent;
+}
+
+.save {
+  background-color: rgb(71, 164, 23, 0.7);
+}
+
+.load {
+  background-color: rgb(255, 191, 0, 0.7);
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
 }
 
 .score-row {
@@ -151,7 +222,7 @@ const IncorrectAnswers = computed(() => wrong.value);
   border: 1px solid #ffffff;
   padding: 20px;
   border-radius: 8px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   text-align: left;
 }
 
