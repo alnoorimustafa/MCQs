@@ -53,3 +53,11 @@ if (pb.authStore.isValid) {
   <Login v-else @login="handleLogin" />
   <!-- <button @click="createMCQs">upload</button> -->
 </template>
+
+<style>
+:root {
+  --pico-font-family-sans-serif: Rubik, system-ui, "Segoe UI", Oxygen, Ubuntu,
+    Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif,
+    var(--pico-font-family-emoji);
+}
+</style>
