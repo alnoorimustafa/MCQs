@@ -15,37 +15,67 @@ let selectedChapter = ref("");
 // Mapping chapters to their respective papers
 const chapterOptions: Record<string, { value: string; label: string }[]> = {
   bof1: [
-    { value: "1-1", label: "Chapter 1: Clinical Skills" },
-    { value: "1-2", label: "Chapter 2: Core Clinical Psychiatry" },
-    { value: "1-3", label: "Chapter 3: Psychopathology" },
-    { value: "1-4", label: "Chapter 4: Psychology" },
-    { value: "1-5", label: "Chapter 5: Psychopharmacology" },
-    { value: "1-6", label: "Chapter 6: History, Social Psychiatry and Ethics" },
+    {
+      value: "Chapter 1: Clinical Skills",
+      label: "Chapter 1: Clinical Skills",
+    },
+    {
+      value: "Chapter 2: Core Clinical Psychiatry",
+      label: "Chapter 2: Core Clinical Psychiatry",
+    },
+    {
+      value: "Chapter 3: Psychopathology",
+      label: "Chapter 3: Psychopathology",
+    },
+    { value: "Chapter 4: Psychology", label: "Chapter 4: Psychology" },
+    {
+      value: "Chapter 5: Psychopharmacology",
+      label: "Chapter 5: Psychopharmacology",
+    },
+    {
+      value: "Chapter 6: History, Social Psychiatry and Ethics",
+      label: "Chapter 6: History, Social Psychiatry and Ethics",
+    },
   ],
   bof2: [
-    { value: "2-1", label: "Chapter 1: Psychiatric Genetics" },
-    { value: "2-2", label: "Chapter 2: Epidemiology" },
-    { value: "2-3", label: "Chapter 3: Advanced Psychology" },
-    { value: "2-4", label: "Chapter 4: Pharmacology" },
-    { value: "2-5", label: "Chapter 5: Neurosciences" },
+    {
+      value: "Chapter 1: Psychiatric Genetics",
+      label: "Chapter 1: Psychiatric Genetics",
+    },
+    { value: "Chapter 2: Epidemiology", label: "Chapter 2: Epidemiology" },
+    {
+      value: "Chapter 3: Advanced Psychology",
+      label: "Chapter 3: Advanced Psychology",
+    },
+    { value: "Chapter 4: Pharmacology", label: "Chapter 4: Pharmacology" },
+    { value: "Chapter 5: Neurosciences", label: "Chapter 5: Neurosciences" },
   ],
   bof3: [
-    { value: "3-1", label: "Chapter 1: General Adult Psychiatry" },
     {
-      value: "3-2",
+      value: "Chapter 1: General Adult Psychiatry",
+      label: "Chapter 1: General Adult Psychiatry",
+    },
+    {
+      value: "Chapter 2: Forensic and Rehabilitation Psychiatry",
       label: "Chapter 2: Forensic and Rehabilitation Psychiatry",
     },
     {
-      value: "3-3",
+      value: "Chapter 3: Child Psychiatry and Learning Disabilities",
       label: "Chapter 3: Child Psychiatry and Learning Disabilities",
     },
-    { value: "3-4", label: "Chapter 4: Old Age Psychiatry" },
-    { value: "3-5", label: "Chapter 5: Substance Use Disorders" },
     {
-      value: "3-6",
+      value: "Chapter 4: Old Age Psychiatry",
+      label: "Chapter 4: Old Age Psychiatry",
+    },
+    {
+      value: "Chapter 5: Substance Use Disorders",
+      label: "Chapter 5: Substance Use Disorders",
+    },
+    {
+      value: "Chapter 6: Organic, Liaison, and Perinatal Psychiatry",
       label: "Chapter 6: Organic, Liaison, and Perinatal Psychiatry",
     },
-    { value: "3-7", label: "Chapter 7: Psychotherapy" },
+    { value: "Chapter 7: Psychotherapy", label: "Chapter 7: Psychotherapy" },
   ],
   "600-1": [
     { value: "Chapter 1", label: "Chapter 1" },
@@ -74,39 +104,42 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "Part 10", label: "Part 10" },
   ],
   spmm: [
-    { value: "spmm-1-1", label: "Basic Psychology" },
-    { value: "spmm-1-2", label: "Social Psychology" },
-    { value: "spmm-1-3", label: "Sociocultural Psychiatry" },
-    { value: "spmm-2-1", label: "Human Development" },
-    { value: "spmm-3-1", label: "Neuroanatomy" },
-    { value: "spmm-3-2", label: "Neuroaphysiology" },
-    { value: "spmm-3-3", label: "Neurochemistry" },
-    { value: "spmm-3-4", label: "Molecular Genetics" },
-    { value: "spmm-3-5", label: "Neuropathology" },
-    { value: "spmm-3-6", label: "Applied Neurosciences" },
-    { value: "spmm-4-1", label: "Basic Pharmacology" },
-    { value: "spmm-4-2", label: "Pharmacokinetics" },
-    { value: "spmm-4-3", label: "Pharmacodynamics" },
-    { value: "spmm-4-4", label: "Adverse Effects" },
-    { value: "spmm-5-1", label: "Classification" },
-    { value: "spmm-5-2", label: "Clinical Examination" },
-    { value: "spmm-5-3", label: "Descriptive Psychopathology" },
-    { value: "spmm-5-4", label: "Dynamic Psychopathology" },
-    { value: "spmm-5-5", label: "Rating scales" },
-    { value: "spmm-2016-1", label: "2016 paper 1" },
-    { value: "spmm-2016-2", label: "2016 paper 2" },
-    { value: "spmm-2016-3", label: "2016 paper 3" },
-    { value: "spmm-2017-1", label: "2017 paper 1" },
-    { value: "spmm-2017-2", label: "2017 paper 2" },
-    { value: "spmm-2018-1", label: "2018 paper 1" },
-    { value: "spmm-2018-2", label: "2018 paper 2" },
-    { value: "spmm-2019-1", label: "2019 paper 1" },
-    { value: "spmm-2019-2", label: "2019 paper 2" },
-    { value: "spmm-2020-1", label: "2020 paper 1" },
-    { value: "spmm-2020-2", label: "2020 paper 2" },
-    { value: "spmm-2021-1", label: "2021 paper 1" },
-    { value: "spmm-2021-2", label: "2021 paper 2" },
-    { value: "spmm-2021-3", label: "2021 paper 3" },
+    { value: "Basic Psychology", label: "Basic Psychology" },
+    { value: "Social Psychology", label: "Social Psychology" },
+    { value: "Sociocultural Psychiatry", label: "Sociocultural Psychiatry" },
+    { value: "Human Development", label: "Human Development" },
+    { value: "Neuroanatomy", label: "Neuroanatomy" },
+    { value: "Neuroaphysiology", label: "Neuroaphysiology" },
+    { value: "Neurochemistry", label: "Neurochemistry" },
+    { value: "Molecular Genetics", label: "Molecular Genetics" },
+    { value: "Neuropathology", label: "Neuropathology" },
+    { value: "Applied Neurosciences", label: "Applied Neurosciences" },
+    { value: "Basic Pharmacology", label: "Basic Pharmacology" },
+    { value: "Pharmacokinetics", label: "Pharmacokinetics" },
+    { value: "Pharmacodynamics", label: "Pharmacodynamics" },
+    { value: "Adverse Effects", label: "Adverse Effects" },
+    { value: "Classification", label: "Classification" },
+    { value: "Clinical Examination", label: "Clinical Examination" },
+    {
+      value: "Descriptive Psychopathology",
+      label: "Descriptive Psychopathology",
+    },
+    { value: "Dynamic Psychopathology", label: "Dynamic Psychopathology" },
+    { value: "Rating scales", label: "Rating scales" },
+    { value: "2016 paper 1", label: "2016 paper 1" },
+    { value: "2016 paper 2", label: "2016 paper 2" },
+    { value: "2016 Additional", label: "2016 Additional" },
+    { value: "2017 paper 1", label: "2017 paper 1" },
+    { value: "2017 paper 2", label: "2017 paper 2" },
+    { value: "2018 paper 1", label: "2018 paper 1" },
+    { value: "2018 paper 2", label: "2018 paper 2" },
+    { value: "2019 paper 1", label: "2019 paper 1" },
+    { value: "2019 paper 2", label: "2019 paper 2" },
+    { value: "2020 paper 1", label: "2020 paper 1" },
+    { value: "2020 paper 2", label: "2020 paper 2" },
+    { value: "2021 paper 1", label: "2021 paper 1" },
+    { value: "2021 paper 2", label: "2021 paper 2" },
+    { value: "2021 Additional", label: "2021 Additional" },
   ],
 };
 
@@ -116,25 +149,22 @@ const loadQuestionsData = async (
   selectedChapter: string
 ) => {
   try {
-    if (selectedBook === "501") {
-      console.log("501");
-      const records = await pb.collection("mcqs").getFullList({
-        filter: `book = '${selectedBook}' && chapter = '${selectedChapter}'`,
-        sort: "number",
-      });
-      console.log("records");
-      console.log(records);
-      questionsData.value = records;
-    } else {
-      const data = await import(
-        `../mcqs/${selectedBook}/${selectedChapter}.json`
-      );
-      questionsData.value = data.default;
-    }
+    const records = await pb.collection("mcqs").getFullList({
+      filter: `book = '${selectedBook}' && chapter = '${selectedChapter}'`,
+      sort: "number",
+    });
+    console.log("records");
+    console.log(records);
+    questionsData.value = records;
   } catch (error) {
     console.error("Error loading questions data:", error);
-    questionsData.value = {}; // Reset questionsData on error
+    questionsData.value = {};
   }
+  // } else {
+  //   const data = await import(
+  //     `../mcqs/${selectedBook}/${selectedChapter}.json`
+  //   );
+  // questionsData.value = data.default;
 };
 
 // Computed property for the selected book name

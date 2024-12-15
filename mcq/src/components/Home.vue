@@ -14,7 +14,7 @@ let selectedImage = ref<string | null>(null);
 const selectImage = (image: string) => {
   page.value = image;
   selectedImage.value = new URL(
-    `../assets/large/${image}.png`,
+    `../assets/small/${image}.png`,
     import.meta.url
   ).href;
   window.scrollTo(0, 0);
