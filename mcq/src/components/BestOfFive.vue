@@ -11,6 +11,7 @@ const props = defineProps<{
 
 let questionsData = ref<Record<string, any>>({});
 let selectedChapter = ref("");
+const loading = ref(false);
 
 // Mapping chapters to their respective papers
 const chapterOptions: Record<string, { value: string; label: string }[]> = {
@@ -143,14 +144,14 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
   ],
 };
 
-// Function to dynamically load the questions data
 const loadQuestionsData = async (
   selectedBook: string,
   selectedChapter: string
 ) => {
+  loading.value = true;
   try {
     const records = await pb.collection("mcqs").getFullList({
-      filter: `book = '${selectedBook}' && chapter = '${selectedChapter}'`,
+      filter: `book = "${selectedBook}" && chapter = "${selectedChapter}"`,
       sort: "number",
     });
     questionsData.value = records;
@@ -158,6 +159,8 @@ const loadQuestionsData = async (
     console.error("Error loading questions data:", error);
     questionsData.value = {};
   }
+  loading.value = false;
+
   // } else {
   //   const data = await import(
   //     `../mcqs/${selectedBook}/${selectedChapter}.json`
@@ -206,9 +209,10 @@ const selectedBookName = computed(() => {
         {{ option.label }}
       </option>
     </select>
+    <article v-if="loading" aria-busy="true">Loading...</article>
 
     <ChapterMCQs
-      v-if="
+      v-else-if="
         questionsData && Object.keys(questionsData).length > 0 && selectedBook
       "
       :key="JSON.stringify(questionsData[0]?.question || '')"

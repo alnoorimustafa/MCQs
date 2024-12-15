@@ -10,7 +10,6 @@ const questions = ref(props.questionsData);
 const selectedOptions = ref(Array(questions.value.length).fill(null));
 const right = ref(0);
 const wrong = ref(0);
-const loading = ref(true);
 const saving = ref(false);
 
 const loadProgress = async () => {
@@ -89,8 +88,7 @@ const IncorrectAnswers = computed(() => wrong.value);
 
 <template>
   <div>
-    <article v-if="loading" aria-busy="true">Loading...</article>
-    <div v-else class="container">
+    <div class="container">
       <div id="app">
         <div class="score-display">
           <div class="score-row">
