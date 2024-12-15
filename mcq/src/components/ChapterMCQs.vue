@@ -14,7 +14,7 @@ const loading = ref(true); // Loading state
 onMounted(() => {
   setTimeout(() => {
     loading.value = false; // Set loading to false after loading is complete
-  }, 1000); // Simulate a 1 second loading time
+  }, 500); // Simulate a 1 second loading time
 });
 
 // Function to handle option selection
