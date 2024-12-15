@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { ref, defineProps, computed } from "vue";
 import ChapterMCQs from "./ChapterMCQs.vue";
+import { ref, defineProps, computed, inject } from "vue";
 import PocketBase from "pocketbase";
 
-const pb = new PocketBase("https://mcq-db.dakakean.com");
+const pb = inject("pb") as PocketBase;
 
 const props = defineProps<{
   selectedBook: string;

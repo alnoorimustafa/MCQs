@@ -3,10 +3,8 @@ import { ref } from "vue";
 import BestOfFive from "./BestOfFive.vue";
 import Book600 from "./Book600.vue";
 
-import PocketBase from "pocketbase";
-
 const emit = defineEmits(["logout"]);
-const pb = new PocketBase("https://mcq-db.dakakean.com");
+
 let page = ref("");
 
 let selectedImage = ref<string | null>(null);
@@ -23,17 +21,6 @@ const selectImage = (image: string) => {
 const cancelSelection = () => {
   selectedImage.value = null;
   page.value = "";
-};
-
-const deauthenticate = () => {
-  if (pb.authStore.isValid) {
-    try {
-      pb.authStore.clear();
-      emit("logout");
-    } catch (error) {
-      console.log(error);
-    }
-  }
 };
 </script>
 
@@ -123,6 +110,15 @@ body {
   position: relative; /* Position relative for absolute positioning of the button */
 }
 
+/* Media query for iPhone to show two columns */
+@media (max-width: 800px) {
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    gap: 20px; /* Adjust gap as needed */
+  }
+}
+
 .cancel-button {
   position: absolute;
   top: 10px; /* Adjust as needed */
@@ -131,16 +127,6 @@ body {
   border: none;
   cursor: pointer;
   color: white; /* Change color as needed */
-  font-size: 24px; /* Adjust size as needed */
-}
-
-/* Media query for iPhone to show two columns */
-@media (max-width: 800px) {
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two columns */
-    gap: 20px; /* Adjust gap as needed */
-  }
 }
 
 .background-azure {

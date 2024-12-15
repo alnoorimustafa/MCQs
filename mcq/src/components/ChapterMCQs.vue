@@ -24,6 +24,8 @@ const selectOption = (
   option: any,
   correctAnswer: any
 ) => {
+  console.log(selectedOptions.value);
+
   if (selectedOptions.value[index] === null) {
     // Check if the option for this question has not been selected yet
     selectedOptions.value[index] = option; // Set the selected option for this question

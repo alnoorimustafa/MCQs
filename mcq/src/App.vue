@@ -1,13 +1,15 @@
 <script setup lang="ts">
-import { ref } from "vue";
+import { ref, provide } from "vue";
 import Nav from "./components/Nav.vue";
 import Login from "./components/Login.vue";
 import Home from "./components/Home.vue";
+import PocketBase from "pocketbase";
+
+const pb = new PocketBase("https://mcq-db.dakakean.com");
+
+provide("pb", pb);
 
 const isLoggedIn = ref(false);
-
-import PocketBase from "pocketbase";
-const pb = new PocketBase("https://mcq-db.dakakean.com");
 
 async function handleLogin() {
   isLoggedIn.value = true;
