@@ -1,31 +1,22 @@
 <script setup lang="ts">
+import { ref } from "vue";
+import Nav from "./components/Nav.vue";
 import Login from "./components/Login.vue";
 import Home from "./components/Home.vue";
+
+const isLoggedIn = ref(false);
+
+function handleLogin() {
+  isLoggedIn.value = true;
+}
+
+function handleLogout() {
+  isLoggedIn.value = false;
+}
 </script>
 
 <template>
-  <div class="background-azure">
-    <div class="container">
-      <nav>
-        <ul>
-          <li>Psychiatry MCQs</li>
-        </ul>
-        <ul>
-          <li>Dr. Mustafa Alnoori Wish You Luck</li>
-        </ul>
-      </nav>
-    </div>
-  </div>
-  <Home />
-  <Login />
+  <Nav :show="isLoggedIn" @logout="handleLogout" />
+  <Home v-if="isLoggedIn" />
+  <Login v-else @login="handleLogin" />
 </template>
-
-<style scoped>
-.background-azure {
-  background-color: #017fc0;
-}
-
-nav ul {
-  color: white;
-}
-</style>

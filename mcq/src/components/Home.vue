@@ -5,11 +5,9 @@ import Book600 from "./Book600.vue";
 
 import PocketBase from "pocketbase";
 
+const emit = defineEmits(["logout"]);
 const pb = new PocketBase("https://mcq-db.dakakean.com");
-
 let page = ref("");
-let login = ref(false);
-login.value = pb.authStore.isValid;
 
 let selectedImage = ref<string | null>(null);
 
@@ -25,6 +23,17 @@ const selectImage = (image: string) => {
 const cancelSelection = () => {
   selectedImage.value = null;
   page.value = "";
+};
+
+const deauthenticate = () => {
+  if (pb.authStore.isValid) {
+    try {
+      pb.authStore.clear();
+      emit("logout");
+    } catch (error) {
+      console.log(error);
+    }
+  }
 };
 </script>
 

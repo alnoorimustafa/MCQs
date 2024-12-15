@@ -1,11 +1,12 @@
 <script setup lang="ts">
+import { ref, defineEmits } from "vue";
 import PocketBase from "pocketbase";
-import { ref } from "vue";
 
 let user = ref("");
 let password = ref("");
 let login = ref(false);
 
+const emit = defineEmits(["login"]);
 const pb = new PocketBase("https://mcq-db.dakakean.com");
 
 const authenticate = async () => {
@@ -26,22 +27,12 @@ const authenticate = async () => {
       console.log(pb.authStore.record?.id);
 
       login.value = pb.authStore.isValid;
+
+      if (login.value) {
+        emit("login");
+      }
     } catch (error) {
       console.error(error);
-    }
-  }
-};
-
-const deauthenticate = () => {
-  console.log("de auth");
-
-  if (pb.authStore.isValid) {
-    console.log("de auth 2");
-    try {
-      pb.authStore.clear();
-      login.value = pb.authStore.isValid;
-    } catch (error) {
-      console.log(error);
     }
   }
 };
@@ -66,12 +57,11 @@ const deauthenticate = () => {
     />
     <input type="button" value="Login" @click.prevent="authenticate" />
   </div>
-  <div class="container" v-else>
-    <input
-      type="button"
-      value="Logout"
-      class="secondary"
-      @click.prevent="deauthenticate"
-    />
-  </div>
 </template>
+
+<style scoped>
+.container {
+  margin: auto;
+  margin-top: 20%;
+}
+</style>
