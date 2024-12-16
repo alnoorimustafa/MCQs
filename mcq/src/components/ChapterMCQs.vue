@@ -147,7 +147,13 @@ const IncorrectAnswers = computed(() => wrong.value);
             </li>
           </ul>
           <details
-            v-if="selectedOptions[index] !== null && question.explanation"
+            v-if="
+              selectedOptions[index] !== null &&
+              question.explanation &&
+              ['bof1', 'bof2', 'bof3', 'gt1', 'gt2', 'gt3'].includes(
+                selectedBook
+              )
+            "
           >
             <summary role="button" class="outline secondary">
               Explanation

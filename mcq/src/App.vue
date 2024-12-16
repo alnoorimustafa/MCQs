@@ -27,18 +27,19 @@ if (pb.authStore.isValid) {
 
 // async function createMCQs() {
 //   try {
-//     const data = await import(`./mcqs-archive/gt2/c6.json`);
+//     const data = await import(`./mcqs-archive/ghazi/p6.json`);
 //     let mcqs = data.default;
 
 //     const promises = mcqs.map(
 //       (mcq, i) =>
 //         pb.collection("mcqs").create(
 //           {
-//             chapter: "Psychopharmacology",
-//             book: "gt2",
+//             chapter: "Part 6",
+//             book: "ghazi",
 //             ...mcq,
+//             number: i + 1,
 //           },
-//           { requestKey: mcq.number.toString() }
+//           { requestKey: mcq.question }
 //         ) // Replace 'mcqs' with your collection name
 //     );
 //     const results = await Promise.all(promises);

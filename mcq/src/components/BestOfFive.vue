@@ -237,6 +237,14 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "2021 paper 2", label: "2021 paper 2" },
     { value: "2021 Additional", label: "2021 Additional" },
   ],
+  ghazi: [
+    { value: "Part 1", label: "Part 1" },
+    { value: "Part 2", label: "Part 2" },
+    { value: "Part 3", label: "Part 3" },
+    { value: "Part 4", label: "Part 4" },
+    { value: "Part 5", label: "Part 5" },
+    { value: "Part 6", label: "Part 6" },
+  ],
 };
 
 const loadQuestionsData = async (
@@ -274,14 +282,17 @@ const selectedBookName = computed(() => {
     ? "SPMM: 2375 MCQ"
     : props.selectedBook === "gt1"
     ? "Get Through Paper 1: 640 MCQ"
-    : "Dr.Ghazi Telegram Group";
+    : props.selectedBook === "gt2"
+    ? "Get Through Paper 2: 350 MCQ"
+    : props.selectedBook === "gt3"
+    ? "Get Through Paper 3: 387 MCQ"
+    : "Dr.Ghazi Telegram Group : 296 MCQ";
 });
 </script>
 
 <template>
   <div class="container">
     <h5>{{ selectedBookName }}</h5>
-
     <select
       name="select"
       aria-label="Select"
