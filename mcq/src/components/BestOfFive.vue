@@ -13,7 +13,6 @@ let questionsData = ref<Record<string, any>>({});
 let selectedChapter = ref("");
 const loading = ref(false);
 
-// Mapping chapters to their respective papers
 const chapterOptions: Record<string, { value: string; label: string }[]> = {
   bof1: [
     {
@@ -104,6 +103,32 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "Part 9", label: "Part 9" },
     { value: "Part 10", label: "Part 10" },
   ],
+  gt1: [
+    {
+      value: "Basic psychological processes",
+      label: "Basic psychological processes",
+    },
+    {
+      value: "Learning theory and personality",
+      label: "Learning theory and personality",
+    },
+    { value: "Human development", label: "Human development" },
+    {
+      value: "Social psychology and basic psychological treatments",
+      label: "Social psychology and basic psychological treatments",
+    },
+    {
+      value: "Descriptive psychopathology",
+      label: "Descriptive psychopathology",
+    },
+    { value: "Psychopharmacology:", label: "Psychopharmacology:" },
+    { value: "Psychopharmacology:", label: "Psychopharmacology:" },
+    { value: "Clinical psychiatry 1", label: "Clinical psychiatry 1" },
+    { value: "Clinical psychiatry 2", label: "Clinical psychiatry 2" },
+    { value: "Clinical psychiatry 3", label: "Clinical psychiatry 3" },
+    { value: "Clinical psychiatry 4", label: "Clinical psychiatry 4" },
+    { value: "Clinical psychiatry 5", label: "Clinical psychiatry 5" },
+  ],
   spmm: [
     { value: "Basic Psychology", label: "Basic Psychology" },
     { value: "Social Psychology", label: "Social Psychology" },
@@ -160,22 +185,15 @@ const loadQuestionsData = async (
     questionsData.value = {};
   }
   loading.value = false;
-
-  // } else {
-  //   const data = await import(
-  //     `../mcqs/${selectedBook}/${selectedChapter}.json`
-  //   );
-  // questionsData.value = data.default;
 };
 
-// Computed property for the selected book name
 const selectedBookName = computed(() => {
   return props.selectedBook === "bof1"
     ? "Best Of Five 1: 450 MCQ"
     : props.selectedBook === "bof2"
     ? "Best Of Five 2: 455 MCQ"
     : props.selectedBook === "bof3"
-    ? "Best Of Five 3"
+    ? "Best Of Five 3: 350 MCQ"
     : props.selectedBook === "600-1"
     ? "600 Paper 1: 634 MCQ"
     : props.selectedBook === "600-2"
@@ -183,7 +201,9 @@ const selectedBookName = computed(() => {
     : props.selectedBook === "501"
     ? "501 Psychopharmacology: 556 MCQ"
     : props.selectedBook === "spmm"
-    ? "SPMM"
+    ? "SPMM: 2375 MCQ"
+    : props.selectedBook === "gt1"
+    ? "Get Through Paper 1: 640 MCQ"
     : "Dr.Ghazi Telegram Group";
 });
 </script>

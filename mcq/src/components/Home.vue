@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import BestOfFive from "./BestOfFive.vue";
-import Book600 from "./Book600.vue";
 
 const emit = defineEmits(["logout"]);
 
@@ -12,7 +11,7 @@ let selectedImage = ref<string | null>(null);
 const selectImage = (image: string) => {
   page.value = image;
   selectedImage.value = new URL(
-    `../assets/small/${image}.png`,
+    `../assets/small/${image}.webp`,
     import.meta.url
   ).href;
   window.scrollTo(0, 0);
@@ -32,28 +31,31 @@ const cancelSelection = () => {
   <div class="container">
     <div class="grid mt-2">
       <div class="center" v-if="!selectedImage" @click="selectImage('bof1')">
-        <img src="../assets/small/bof1.png" alt="" />
+        <img src="../assets/small/bof1.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('bof2')">
-        <img @click="page = 'bof2'" src="../assets/small/bof2.png" alt="" />
+        <img @click="page = 'bof2'" src="../assets/small/bof2.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
-        <img @click="" src="../assets/small/bof3.png" alt="" />
+        <img @click="" src="../assets/small/bof3.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('501')">
-        <img src="../assets/small/501.png" alt="" />
+        <img src="../assets/small/501.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
-        <img src="../assets/small/600-1.png" alt="" />
+        <img src="../assets/small/600-1.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
-        <img src="../assets/small/600-2.png" alt="" />
+        <img src="../assets/small/600-2.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
-        <img src="../assets/small/spmm.png" alt="" />
+        <img src="../assets/small/spmm.webp" alt="" />
+      </div>
+      <div class="center" v-if="!selectedImage" @click="selectImage('gt1')">
+        <img src="../assets/small/gt1.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
-        <img src="../assets/small/ghazi.png" alt="" />
+        <img src="../assets/small/ghazi.webp" alt="" />
       </div>
 
       <div class="center" v-if="selectedImage">
@@ -67,7 +69,6 @@ const cancelSelection = () => {
     </div>
   </div>
   <BestOfFive v-if="page !== ''" :selectedBook="selectedImage ? page : ''" />
-  <Book600 v-if="page === '600'" />
 </template>
 
 <style scoped>

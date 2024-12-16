@@ -27,18 +27,18 @@ if (pb.authStore.isValid) {
 
 // async function createMCQs() {
 //   try {
-//     const data = await import(`./mcqs/spmm/spmm-2021-3.json`);
+//     const data = await import(`./mcqs-archive/gt1/c12.json`);
 //     let mcqs = data.default;
 
 //     const promises = mcqs.map(
 //       (mcq, i) =>
 //         pb.collection("mcqs").create(
 //           {
-//             chapter: "2021 Additional",
-//             book: "spmm",
+//             chapter: "Clinical psychiatry 5",
+//             book: "gt1",
 //             ...mcq,
 //           },
-//           { requestKey: mcq.question }
+//           { requestKey: mcq.number.toString() }
 //         ) // Replace 'mcqs' with your collection name
 //     );
 //     const results = await Promise.all(promises);
