@@ -121,13 +121,83 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
       value: "Descriptive psychopathology",
       label: "Descriptive psychopathology",
     },
-    { value: "Psychopharmacology:", label: "Psychopharmacology:" },
-    { value: "Psychopharmacology:", label: "Psychopharmacology:" },
+    {
+      value: "Psychopharmacology: antipsychotics and organic disorders",
+      label: "Psychopharmacology: antipsychotics and organic disorders",
+    },
+    {
+      value: "Psychopharmacology: antidepressants and anxiolytics",
+      label: "Psychopharmacology: antidepressants and anxiolytics",
+    },
     { value: "Clinical psychiatry 1", label: "Clinical psychiatry 1" },
     { value: "Clinical psychiatry 2", label: "Clinical psychiatry 2" },
     { value: "Clinical psychiatry 3", label: "Clinical psychiatry 3" },
     { value: "Clinical psychiatry 4", label: "Clinical psychiatry 4" },
     { value: "Clinical psychiatry 5", label: "Clinical psychiatry 5" },
+  ],
+  gt2: [
+    {
+      value: "Advanced psychological processes and treatments 1",
+      label: "Advanced psychological processes and treatments 1",
+    },
+    {
+      value: "Advanced psychological processes and treatments 2",
+      label: "Advanced psychological processes and treatments 2",
+    },
+    {
+      value: "Advanced psychology, pharmacology and treatments",
+      label: "Advanced psychology, pharmacology and treatments",
+    },
+    {
+      value: "Neurosciences",
+      label: "Neurosciences",
+    },
+    {
+      value: "Genetics and basic neurosciences",
+      label: "Genetics and basic neurosciences",
+    },
+    {
+      value: "Psychopharmacology",
+      label: "Psychopharmacology",
+    },
+    {
+      value: "Epidemiology",
+      label: "Epidemiology",
+    },
+  ],
+  gt3: [
+    {
+      value: "General adult psychiatry 1",
+      label: "General adult psychiatry 1",
+    },
+    {
+      value: "General adult psychiatry 2",
+      label: "General adult psychiatry 2",
+    },
+    {
+      value: "Old age psychiatry",
+      label: "Old age psychiatry",
+    },
+    {
+      value: "Addiction psychiatry and forensic psychiatry",
+      label: "Addiction psychiatry and forensic psychiatry",
+    },
+    {
+      value: "Child and adolescent psychiatry and learning disability",
+      label: "Child and adolescent psychiatry and learning disability",
+    },
+    {
+      value:
+        "Research methods, evidence-based practice, statistics and critical appraisal 1",
+      label:
+        "Research methods, evidence-based practice, statistics and critical appraisal 1",
+    },
+    {
+      value:
+        "Research methods, evidence-based practice, statistics and critical appraisal 2",
+      label:
+        "Research methods, evidence-based practice, statistics and critical appraisal 2",
+    },
   ],
   spmm: [
     { value: "Basic Psychology", label: "Basic Psychology" },

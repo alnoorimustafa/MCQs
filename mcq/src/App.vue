@@ -27,15 +27,15 @@ if (pb.authStore.isValid) {
 
 // async function createMCQs() {
 //   try {
-//     const data = await import(`./mcqs-archive/gt1/c12.json`);
+//     const data = await import(`./mcqs-archive/gt2/c6.json`);
 //     let mcqs = data.default;
 
 //     const promises = mcqs.map(
 //       (mcq, i) =>
 //         pb.collection("mcqs").create(
 //           {
-//             chapter: "Clinical psychiatry 5",
-//             book: "gt1",
+//             chapter: "Psychopharmacology",
+//             book: "gt2",
 //             ...mcq,
 //           },
 //           { requestKey: mcq.number.toString() }

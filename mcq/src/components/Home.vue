@@ -54,6 +54,12 @@ const cancelSelection = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('gt1')">
         <img src="../assets/small/gt1.webp" alt="" />
       </div>
+      <div class="center" v-if="!selectedImage" @click="selectImage('gt2')">
+        <img src="../assets/small/gt2.webp" alt="" />
+      </div>
+      <div class="center" v-if="!selectedImage" @click="selectImage('gt3')">
+        <img src="../assets/small/gt3.webp" alt="" />
+      </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
         <img src="../assets/small/ghazi.webp" alt="" />
       </div>
