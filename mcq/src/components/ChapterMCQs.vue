@@ -173,7 +173,7 @@ const IncorrectAnswers = computed(() => wrong.value);
     <div class="score-bar">
       <div class="flex-1">
         <div class="toHide">
-          <span class="margin-2">{{ totalQuestions }} MCQ</span>
+          <span>{{ totalQuestions }} MCQ</span>
         </div>
         <span class="toHide"> | </span>
         <div class="toHide2">
@@ -244,7 +244,7 @@ const IncorrectAnswers = computed(() => wrong.value);
   color: white;
   border-radius: 3px;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .score-bar button:disabled {
@@ -253,7 +253,7 @@ const IncorrectAnswers = computed(() => wrong.value);
 }
 
 .margin-2 {
-  margin-left: 5px;
+  margin-left: 4px;
 }
 
 .fa-square-poll-vertical {
@@ -323,7 +323,16 @@ const IncorrectAnswers = computed(() => wrong.value);
   padding: 0;
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 500px) {
+  .flex-1 {
+    font-size: 13px;
+  }
+  .score-bar button {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 400px) {
   .toHide {
     display: none;
   }
