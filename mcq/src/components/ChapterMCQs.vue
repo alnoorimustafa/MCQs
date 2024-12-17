@@ -119,135 +119,160 @@ const IncorrectAnswers = computed(() => wrong.value);
   <div>
     <div class="container">
       <div id="app">
-        <div class="score-display">
-          <div class="score-row">
-            <span class="label">Score:</span>
-            <span class="value">{{ percentageScore.toFixed(0) }}/100</span>
-          </div>
-          <div class="score-row">
-            <span class="label">Total Questions:</span>
-            <span class="value">{{ totalQuestions }}</span>
-          </div>
-          <div class="score-row">
-            <span class="label">Correct Answers:</span>
-            <span class="value">{{ correctAnswers }}</span>
-          </div>
-          <div class="score-row">
-            <span class="label">Incorrect Answers:</span>
-            <span class="value">{{ IncorrectAnswers }}</span>
-          </div>
-          <div class="score-row flex">
-            <button :aria-busy="saving" class="save" @click="saveProgress">
-              <span v-if="!saving"> Save Progress </span>
-            </button>
-            <button :aria-busy="saving" class="load" @click="loadProgress">
-              <span v-if="!saving">Load Progress </span>
-            </button>
-            <button class="randomize" @click="randomizeQuestions">
-              Randomize Questions
-            </button>
+        <div class="questions-container">
+          <div
+            v-for="(question, index) in questions"
+            :key="index"
+            class="question-card"
+          >
+            <p class="question-text">
+              {{ index + 1 }} - {{ question.question }}
+            </p>
+            <ul class="options-list">
+              <li
+                v-for="(option, letter) in question.options"
+                :key="letter"
+                class="option"
+                :class="{
+                  'correct-option':
+                    letter === question.correct_answer &&
+                    selectedOptions[index] === option,
+                  'incorrect-option':
+                    selectedOptions[index] &&
+                    letter !== question.correct_answer &&
+                    selectedOptions[index] === option,
+                }"
+                @click="
+                  selectOption(index, letter, option, question.correct_answer)
+                "
+                :disabled="selectedOptions[index] !== null"
+              >
+                {{ letter }}. {{ option }}
+              </li>
+            </ul>
+            <details
+              v-if="
+                selectedOptions[index] !== null &&
+                question.explanation &&
+                ['bof1', 'bof2', 'bof3', 'gt1', 'gt2', 'gt3'].includes(
+                  selectedBook
+                )
+              "
+            >
+              <summary role="button" class="outline secondary">
+                Explanation
+              </summary>
+              <p class="pico-color-orange-400">{{ question.explanation }}</p>
+            </details>
           </div>
         </div>
       </div>
-      <div v-if="questions.length" class="questions-container">
-        <div
-          v-for="(question, index) in questions"
-          :key="index"
-          class="question-card"
-        >
-          <p class="question-text">{{ index + 1 }} - {{ question.question }}</p>
-          <ul class="options-list">
-            <li
-              v-for="(option, letter) in question.options"
-              :key="letter"
-              class="option"
-              :class="{
-                'correct-option':
-                  letter === question.correct_answer &&
-                  selectedOptions[index] === option,
-                'incorrect-option':
-                  selectedOptions[index] &&
-                  letter !== question.correct_answer &&
-                  selectedOptions[index] === option,
-              }"
-              @click="
-                selectOption(index, letter, option, question.correct_answer)
-              "
-              :disabled="selectedOptions[index] !== null"
-            >
-              {{ letter }}. {{ option }}
-            </li>
-          </ul>
-          <details
-            v-if="
-              selectedOptions[index] !== null &&
-              question.explanation &&
-              ['bof1', 'bof2', 'bof3', 'gt1', 'gt2', 'gt3'].includes(
-                selectedBook
-              )
-            "
-          >
-            <summary role="button" class="outline secondary">
-              Explanation
-            </summary>
-            <p class="pico-color-orange-400">{{ question.explanation }}</p>
-          </details>
+    </div>
+    <!-- Sticky score bar -->
+
+    <div class="score-bar">
+      <div class="flex-1">
+        <div>
+          <span class="margin-2">{{ totalQuestions }} MCQ</span>
         </div>
+        |
+        <div>
+          <i class="fa-solid fa-square-poll-vertical"></i
+          ><span class="margin-2">{{ percentageScore.toFixed(0) }}/100</span>
+        </div>
+        |
+        <div>
+          <i class="fa-solid fa-square-check"></i
+          ><span class="margin-2">{{ correctAnswers }}</span>
+        </div>
+        |
+        <div>
+          <i class="fa-solid fa-square-xmark"></i
+          ><span class="margin-2">{{ IncorrectAnswers }}</span>
+        </div>
+      </div>
+
+      <div class="flex-2">
+        <button :aria-busy="saving" class="save" @click="saveProgress">
+          <span v-if="!saving"> Save </span>
+        </button>
+        <button :aria-busy="saving" class="load" @click="loadProgress">
+          <span v-if="!saving">Load </span>
+        </button>
+        <button class="randomize" @click="randomizeQuestions">Randomize</button>
       </div>
     </div>
   </div>
 </template>
 
 <style scoped>
-progress {
-  margin-top: 10px;
-  width: 100%;
+.flex-1 {
+  flex-grow: 2;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: #999999;
 }
 
-.score-display {
-  min-width: 15%;
-  max-width: 50%;
+.flex-2 {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 5px;
+}
+
+.score-bar {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
-  color: #ffffff;
-  background-color: rgba(1, 127, 192, 0.4);
-  padding: 10px;
-  border-radius: 5px;
-  font-size: 0.8rem;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+  padding: 10px 10px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
 }
 
-.score-row button {
-  padding: 5px;
-  margin-top: 5px;
-  font-size: 12px;
-  border: transparent;
+.score-bar button {
+  padding: 4px 8px;
+  border: none;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.score-bar button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.margin-2 {
+  margin-left: 5px;
+}
+
+.fa-square-poll-vertical {
+  color: #017fc0;
+}
+.fa-square-check {
+  color: #398712;
+}
+.fa-square-xmark {
+  color: #d93526;
 }
 
 .save {
-  background-color: rgb(71, 164, 23, 0.7);
+  background-color: rgb(71, 164, 23, 0.8);
 }
-
 .load {
-  background-color: rgb(255, 191, 0, 0.7);
+  background-color: rgb(255, 191, 0, 0.8);
 }
-
-.flex {
-  display: flex;
-  flex-direction: column;
-}
-
-.score-row {
-  display: flex;
-  justify-content: space-between;
-}
-
-.label {
-  text-align: left;
-}
-
-.value {
-  text-align: right;
+.randomize {
+  background-color: rgb(1, 127, 192, 0.8);
 }
 
 .question-card {
@@ -266,7 +291,6 @@ progress {
   color: #555;
 }
 
-/* Styling for options list */
 .options-list {
   list-style-type: none;
   padding-left: 0;

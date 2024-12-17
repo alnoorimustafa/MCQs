@@ -48,6 +48,8 @@ const cancelSelection = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
         <img src="../assets/small/600-2.webp" alt="" />
       </div>
+    </div>
+    <div class="grid mt-2">
       <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
         <img src="../assets/small/spmm.webp" alt="" />
       </div>
@@ -63,7 +65,9 @@ const cancelSelection = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
         <img src="../assets/small/ghazi.webp" alt="" />
       </div>
-
+      <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
+        <img src="../assets/small/focus.webp" alt="" />
+      </div>
       <div class="center" v-if="selectedImage">
         <div class="image-container">
           <img :src="selectedImage" alt="Selected Image" />
@@ -93,7 +97,7 @@ body {
 .center img {
   width: 100%; /* or a specific width like 200px */
   height: auto; /* maintain aspect ratio */
-  max-width: 300px;
+  max-width: 400px;
   object-fit: cover; /* cover the area without distortion */
   border-radius: 2%;
 }

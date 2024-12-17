@@ -5,7 +5,8 @@
     "mcqs",
     "Neuroanatomy",
     "pico",
-    "SPMM"
+    "SPMM",
+    "xmark"
   ],
   "cSpell.ignoreWords": ["pdfplumber"]
 }
