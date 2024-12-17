@@ -172,24 +172,25 @@ const IncorrectAnswers = computed(() => wrong.value);
 
     <div class="score-bar">
       <div class="flex-1">
-        <div>
+        <div class="toHide">
           <span class="margin-2">{{ totalQuestions }} MCQ</span>
         </div>
-        |
-        <div>
+        <span class="toHide"> | </span>
+        <div class="toHide2">
           <i class="fa-solid fa-square-poll-vertical"></i
           ><span class="margin-2">{{ percentageScore.toFixed(0) }}/100</span>
         </div>
-        |
+        <span class="toHide2"> | </span>
         <div>
           <i class="fa-solid fa-square-check"></i
           ><span class="margin-2">{{ correctAnswers }}</span>
         </div>
-        |
+        <span> | </span>
         <div>
           <i class="fa-solid fa-square-xmark"></i
           ><span class="margin-2">{{ IncorrectAnswers }}</span>
         </div>
+        <span> | </span>
       </div>
 
       <div class="flex-2">
@@ -215,11 +216,11 @@ const IncorrectAnswers = computed(() => wrong.value);
 }
 
 .flex-2 {
+  max-width: 250px;
   flex-grow: 1;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  margin-left: 5px;
 }
 
 .score-bar {
@@ -320,5 +321,17 @@ const IncorrectAnswers = computed(() => wrong.value);
 
 .container {
   padding: 0;
+}
+
+@media screen and (max-width: 450px) {
+  .toHide {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .toHide2 {
+    display: none;
+  }
 }
 </style>
