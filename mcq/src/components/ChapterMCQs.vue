@@ -21,9 +21,15 @@ const loadProgress = async () => {
         `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
       );
 
-    // Populate progress if found
-    if (progress.answered) {
-      selectedOptions.value = progress.answered || selectedOptions.value;
+    if (progress?.answered) {
+      // Map saved answers back to the current questions
+      selectedOptions.value = questions.value.map((question: any) => {
+        const savedAnswer = progress.answered.find(
+          (item: any) => item.questionId === question.id
+        );
+        return savedAnswer?.selectedOption || null;
+      });
+
       right.value = progress.right || 0;
       wrong.value = progress.wrong || 0;
     }
@@ -33,14 +39,20 @@ const loadProgress = async () => {
   saving.value = false;
 };
 
-// Function to save progress to PocketBase
 const saveProgress = async () => {
   saving.value = true;
+
+  // Map answers to question IDs
+  const answered = questions.value.map((question: any, index: any) => ({
+    questionId: question.id, // Assuming each question has a unique `id`
+    selectedOption: selectedOptions.value[index],
+  }));
+
   const payload = {
     user: pb.authStore.record?.id,
     chapter: props.selectedChapter,
     book: props.selectedBook,
-    answered: selectedOptions.value,
+    answered,
     right: right.value,
     wrong: wrong.value,
   };
@@ -58,6 +70,7 @@ const saveProgress = async () => {
   } catch {
     await pb.collection("progress").create(payload);
   }
+
   saving.value = false;
 };
 
@@ -76,6 +89,22 @@ const selectOption = async (
       wrong.value += 1;
     }
   }
+};
+
+const randomizeQuestions = () => {
+  const combined = questions.value.map((question: any, index: any) => ({
+    question,
+    selectedOption: selectedOptions.value[index],
+  }));
+
+  // Shuffle the combined array
+  combined.sort(() => Math.random() - 0.5);
+
+  // Update questions and selected options based on the shuffled array
+  questions.value = combined.map((item: { question: any }) => item.question);
+  selectedOptions.value = combined.map(
+    (item: { selectedOption: any }) => item.selectedOption
+  );
 };
 
 const percentageScore = computed(
@@ -113,6 +142,9 @@ const IncorrectAnswers = computed(() => wrong.value);
             </button>
             <button :aria-busy="saving" class="load" @click="loadProgress">
               <span v-if="!saving">Load Progress </span>
+            </button>
+            <button class="randomize" @click="randomizeQuestions">
+              Randomize Questions
             </button>
           </div>
         </div>
@@ -161,9 +193,6 @@ const IncorrectAnswers = computed(() => wrong.value);
             <p class="pico-color-orange-400">{{ question.explanation }}</p>
           </details>
         </div>
-      </div>
-      <div v-else class="placeholder">
-        <p>Select A Chapter to Show MCQs</p>
       </div>
     </div>
   </div>
@@ -263,14 +292,6 @@ progress {
 .incorrect-option {
   background-color: #d93526;
   color: white;
-}
-
-/* Placeholder when no file is uploaded */
-.placeholder {
-  font-size: 1rem;
-  color: #383838;
-  margin-top: 20px;
-  font-style: italic;
 }
 
 .container {
