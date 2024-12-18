@@ -24,53 +24,54 @@ const cancelSelection = () => {
 </script>
 
 <template>
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
-  />
   <div class="container">
     <div class="grid mt-2">
       <div class="center" v-if="!selectedImage" @click="selectImage('bof1')">
-        <img src="../assets/small/bof1.webp" alt="" />
+        <img loading="lazy" src="../assets/small/bof1.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('bof2')">
-        <img @click="page = 'bof2'" src="../assets/small/bof2.webp" alt="" />
+        <img
+          loading="lazy"
+          @click="page = 'bof2'"
+          src="../assets/small/bof2.webp"
+          alt=""
+        />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
-        <img @click="" src="../assets/small/bof3.webp" alt="" />
+        <img loading="lazy" @click="" src="../assets/small/bof3.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('501')">
-        <img src="../assets/small/501.webp" alt="" />
+        <img loading="lazy" src="../assets/small/501.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
-        <img src="../assets/small/600-1.webp" alt="" />
+        <img loading="lazy" src="../assets/small/600-1.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
-        <img src="../assets/small/600-2.webp" alt="" />
+        <img loading="lazy" src="../assets/small/600-2.webp" alt="" />
       </div>
     </div>
     <div class="grid mt-2">
       <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
-        <img src="../assets/small/spmm.webp" alt="" />
+        <img loading="lazy" src="../assets/small/spmm.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('gt1')">
-        <img src="../assets/small/gt1.webp" alt="" />
+        <img loading="lazy" src="../assets/small/gt1.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('gt2')">
-        <img src="../assets/small/gt2.webp" alt="" />
+        <img loading="lazy" src="../assets/small/gt2.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('gt3')">
-        <img src="../assets/small/gt3.webp" alt="" />
+        <img loading="lazy" src="../assets/small/gt3.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
-        <img src="../assets/small/ghazi.webp" alt="" />
+        <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
-        <img src="../assets/small/focus.webp" alt="" />
+        <img loading="lazy" src="../assets/small/focus.webp" alt="" />
       </div>
       <div class="center" v-if="selectedImage">
         <div class="image-container">
-          <img :src="selectedImage" alt="Selected Image" />
+          <img loading="lazy" :src="selectedImage" alt="Selected Image" />
           <button class="cancel-button" @click="cancelSelection">
             <i class="fas fa-times"></i>
           </button>

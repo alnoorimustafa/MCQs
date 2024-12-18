@@ -1,9 +1,12 @@
 <script setup lang="ts">
-import { ref, provide } from "vue";
+import { ref, provide, defineAsyncComponent } from "vue";
 import Nav from "./components/Nav.vue";
-import Login from "./components/Login.vue";
-import Home from "./components/Home.vue";
+// import Login from "./components/Login.vue";
+// import Home from "./components/Home.vue";
 import PocketBase from "pocketbase";
+
+const Home = defineAsyncComponent(() => import("./components/Home.vue"));
+const Login = defineAsyncComponent(() => import("./components/Login.vue"));
 
 const pb = new PocketBase("https://mcq-db.dakakean.com");
 

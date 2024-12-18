@@ -162,7 +162,7 @@ const IncorrectAnswers = computed(() => wrong.value);
               <summary role="button" class="outline secondary">
                 Explanation
               </summary>
-              <p class="pico-color-orange-400">{{ question.explanation }}</p>
+              <p class="explanation">{{ question.explanation }}</p>
             </details>
           </div>
         </div>
@@ -321,6 +321,10 @@ const IncorrectAnswers = computed(() => wrong.value);
 
 .container {
   padding: 0;
+}
+
+.explanation {
+  color: #777;
 }
 
 @media screen and (max-width: 500px) {
