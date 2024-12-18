@@ -270,7 +270,7 @@ const IncorrectAnswers = computed(() => wrong.value);
   background-color: rgb(71, 164, 23, 0.8);
 }
 .load {
-  background-color: rgb(255, 191, 0, 0.8);
+  background-color: rgb(216, 161, 0, 0.8);
 }
 .randomize {
   background-color: rgb(1, 127, 192, 0.8);

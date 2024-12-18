@@ -5,13 +5,13 @@ import PocketBase from "pocketbase";
 let user = ref("samah@mcq.com");
 let password = ref("12345678");
 let login = ref(false);
+let loading = ref(false);
 
 const emit = defineEmits(["login"]);
 const pb = new PocketBase("https://mcq-db.dakakean.com");
 
 const authenticate = async () => {
-  console.log("clicked");
-
+  loading.value = true;
   if (user.value !== "" && password.value !== "") {
     console.log("trying to log in");
 
@@ -34,6 +34,7 @@ const authenticate = async () => {
     }
   }
 };
+loading.value = false;
 </script>
 
 <template>
@@ -53,7 +54,15 @@ const authenticate = async () => {
       autocomplete="current-password"
       v-model="password"
     />
-    <input type="button" value="Login" @click.prevent="authenticate" />
+    <button
+      class="login"
+      :aria-busy="loading"
+      type="button"
+      value="Login"
+      @click.prevent="authenticate"
+    >
+      {{ loading ? "" : "Login" }}
+    </button>
   </div>
 </template>
 
@@ -61,5 +70,9 @@ const authenticate = async () => {
 .container {
   margin: auto;
   margin-top: 20%;
+}
+
+.login {
+  width: 100%;
 }
 </style>
