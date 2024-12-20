@@ -2,7 +2,7 @@
 import { ref, defineEmits } from "vue";
 import PocketBase from "pocketbase";
 
-let user = ref("samah@mcq.com");
+let user = ref("test@mcq.com");
 let password = ref("12345678");
 let login = ref(false);
 let loading = ref(false);
