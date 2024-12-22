@@ -27,6 +27,9 @@ const loadProgress = async () => {
         const savedAnswer = progress.answered.find(
           (item: any) => item.questionId === question.id
         )
+        if (savedAnswer) {
+          question.showCorrectAnswer = savedAnswer.showCorrectAnswer
+        }
         return savedAnswer?.selectedOption || null
       })
 
@@ -46,6 +49,7 @@ const saveProgress = async () => {
   const answered = questions.value.map((question: any, index: any) => ({
     questionId: question.id, // Assuming each question has a unique `id`
     selectedOption: selectedOptions.value[index],
+    showCorrectAnswer: question.showCorrectAnswer || false,
   }))
 
   const payload = {
@@ -85,8 +89,9 @@ const selectOption = async (
     selectedOptions.value[index] = option
     if (letter === correctAnswer) {
       right.value += 1
-    } else if (letter !== correctAnswer) {
+    } else {
       wrong.value += 1
+      questions.value[index].showCorrectAnswer = true
     }
   }
 }
@@ -136,7 +141,8 @@ const IncorrectAnswers = computed(() => wrong.value)
                 :class="{
                   'correct-option':
                     letter === question.correct_answer &&
-                    selectedOptions[index] === option,
+                    (selectedOptions[index] === option ||
+                      question.showCorrectAnswer),
                   'incorrect-option':
                     selectedOptions[index] &&
                     letter !== question.correct_answer &&
