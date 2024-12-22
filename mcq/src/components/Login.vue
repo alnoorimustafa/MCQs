@@ -1,40 +1,41 @@
 <script setup lang="ts">
-import { ref, defineEmits } from "vue";
-import PocketBase from "pocketbase";
+import { ref, defineEmits } from "vue"
+import PocketBase from "pocketbase"
 
-let user = ref("test@mcq.com");
-let password = ref("12345678");
-let login = ref(false);
-let loading = ref(false);
+let user = ref("test@mcq.com")
+let password = ref("12345678")
+let login = ref(false)
+let loading = ref(false)
+let error = ref("")
 
-const emit = defineEmits(["login"]);
-const pb = new PocketBase("https://mcq-db.dakakean.com");
+const emit = defineEmits(["login"])
+const pb = new PocketBase("https://mcq-db.dakakean.com")
 
 const authenticate = async () => {
-  loading.value = true;
+  loading.value = true
+  error.value = ""
   if (user.value !== "" && password.value !== "") {
-    console.log("trying to log in");
+    console.log("trying to log in")
 
     try {
       const authData = await pb
         .collection("users")
-        .authWithPassword(user.value, password.value);
+        .authWithPassword(user.value, password.value)
 
-      console.log(pb.authStore.isValid);
-      console.log(pb.authStore.token);
-      console.log(pb.authStore.record?.id);
-
-      login.value = pb.authStore.isValid;
+      login.value = pb.authStore.isValid
 
       if (login.value) {
-        emit("login");
+        emit("login")
       }
-    } catch (error) {
-      console.error(error);
+    } catch (err) {
+      console.error(err)
+      error.value = "Login failed. Please check your credentials and try again."
     }
+  } else {
+    error.value = "Please enter both username and password."
   }
-};
-loading.value = false;
+  loading.value = false
+}
 </script>
 
 <template>
@@ -63,6 +64,7 @@ loading.value = false;
     >
       {{ loading ? "" : "Login" }}
     </button>
+    <p v-if="error" class="error">{{ error }}</p>
   </div>
 </template>
 
@@ -74,5 +76,10 @@ loading.value = false;
 
 .login {
   width: 100%;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
 }
 </style>

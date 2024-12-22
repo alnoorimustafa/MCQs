@@ -1,52 +1,52 @@
 <script setup lang="ts">
-import { ref, computed, inject } from "vue";
-import PocketBase from "pocketbase";
+import { ref, computed, inject } from "vue"
+import PocketBase from "pocketbase"
 
-const pb = inject("pb") as PocketBase;
+const pb = inject("pb") as PocketBase
 
-const props = defineProps(["questionsData", "selectedChapter", "selectedBook"]);
+const props = defineProps(["questionsData", "selectedChapter", "selectedBook"])
 
-const questions = ref(props.questionsData);
-const selectedOptions = ref(Array(questions.value.length).fill(null));
-const right = ref(0);
-const wrong = ref(0);
-const saving = ref(false);
+const questions = ref(props.questionsData)
+const selectedOptions = ref(Array(questions.value.length).fill(null))
+const right = ref(0)
+const wrong = ref(0)
+const saving = ref(false)
 
 const loadProgress = async () => {
-  saving.value = true;
+  saving.value = true
   try {
     const progress = await pb
       .collection("progress")
       .getFirstListItem(
         `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
-      );
+      )
 
     if (progress?.answered) {
       // Map saved answers back to the current questions
       selectedOptions.value = questions.value.map((question: any) => {
         const savedAnswer = progress.answered.find(
           (item: any) => item.questionId === question.id
-        );
-        return savedAnswer?.selectedOption || null;
-      });
+        )
+        return savedAnswer?.selectedOption || null
+      })
 
-      right.value = progress.right || 0;
-      wrong.value = progress.wrong || 0;
+      right.value = progress.right || 0
+      wrong.value = progress.wrong || 0
     }
   } catch (err) {
-    console.log("No progress found for this chapter:", err);
+    console.log("No progress found for this chapter:", err)
   }
-  saving.value = false;
-};
+  saving.value = false
+}
 
 const saveProgress = async () => {
-  saving.value = true;
+  saving.value = true
 
   // Map answers to question IDs
   const answered = questions.value.map((question: any, index: any) => ({
     questionId: question.id, // Assuming each question has a unique `id`
     selectedOption: selectedOptions.value[index],
-  }));
+  }))
 
   const payload = {
     user: pb.authStore.record?.id,
@@ -55,24 +55,24 @@ const saveProgress = async () => {
     answered,
     right: right.value,
     wrong: wrong.value,
-  };
+  }
 
   try {
     const existingProgress = await pb
       .collection("progress")
       .getFirstListItem(
         `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
-      );
+      )
 
     if (existingProgress) {
-      await pb.collection("progress").update(existingProgress.id, payload);
+      await pb.collection("progress").update(existingProgress.id, payload)
     }
   } catch {
-    await pb.collection("progress").create(payload);
+    await pb.collection("progress").create(payload)
   }
 
-  saving.value = false;
-};
+  saving.value = false
+}
 
 // Function to handle option selection
 const selectOption = async (
@@ -82,37 +82,37 @@ const selectOption = async (
   correctAnswer: any
 ) => {
   if (selectedOptions.value[index] === null) {
-    selectedOptions.value[index] = option;
+    selectedOptions.value[index] = option
     if (letter === correctAnswer) {
-      right.value += 1;
+      right.value += 1
     } else if (letter !== correctAnswer) {
-      wrong.value += 1;
+      wrong.value += 1
     }
   }
-};
+}
 
 const randomizeQuestions = () => {
   const combined = questions.value.map((question: any, index: any) => ({
     question,
     selectedOption: selectedOptions.value[index],
-  }));
+  }))
 
   // Shuffle the combined array
-  combined.sort(() => Math.random() - 0.5);
+  combined.sort(() => Math.random() - 0.5)
 
   // Update questions and selected options based on the shuffled array
-  questions.value = combined.map((item: { question: any }) => item.question);
+  questions.value = combined.map((item: { question: any }) => item.question)
   selectedOptions.value = combined.map(
     (item: { selectedOption: any }) => item.selectedOption
-  );
-};
+  )
+}
 
 const percentageScore = computed(
   () => (right.value / questions.value.length) * 100
-);
-const totalQuestions = computed(() => questions.value.length);
-const correctAnswers = computed(() => right.value);
-const IncorrectAnswers = computed(() => wrong.value);
+)
+const totalQuestions = computed(() => questions.value.length)
+const correctAnswers = computed(() => right.value)
+const IncorrectAnswers = computed(() => wrong.value)
 </script>
 
 <template>
@@ -166,6 +166,7 @@ const IncorrectAnswers = computed(() => wrong.value);
             </details>
           </div>
         </div>
+        <p class="end">End of MCQs</p>
       </div>
     </div>
     <!-- Sticky score bar -->
@@ -285,9 +286,13 @@ const IncorrectAnswers = computed(() => wrong.value);
   text-align: left;
 }
 
+.end {
+  margin-bottom: 80px;
+  text-align: center;
+}
+
 .question-text {
   font-size: 1.1rem;
-  font-weight: bold;
   margin-bottom: 15px;
   color: #555;
 }
