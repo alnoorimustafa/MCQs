@@ -1,54 +1,52 @@
 <script setup lang="ts">
-import { ref, provide, defineAsyncComponent } from "vue";
-import Nav from "./components/Nav.vue";
+import { ref, provide, defineAsyncComponent } from "vue"
+import Nav from "./components/Nav.vue"
 // import Login from "./components/Login.vue";
 // import Home from "./components/Home.vue";
-import PocketBase from "pocketbase";
+import PocketBase from "pocketbase"
 
-const Home = defineAsyncComponent(() => import("./components/Home.vue"));
-const Login = defineAsyncComponent(() => import("./components/Login.vue"));
+const Home = defineAsyncComponent(() => import("./components/Home.vue"))
+const Login = defineAsyncComponent(() => import("./components/Login.vue"))
 
-const pb = new PocketBase("https://mcq-db.dakakean.com");
+const pb = new PocketBase("https://mcq-db.dakakean.com")
 
-provide("pb", pb);
+provide("pb", pb)
 
-const isLoggedIn = ref(false);
+const isLoggedIn = ref(false)
 
 async function handleLogin() {
-  isLoggedIn.value = true;
+  isLoggedIn.value = true
 }
 
 async function handleLogout() {
-  isLoggedIn.value = false;
+  isLoggedIn.value = false
 }
 
 if (pb.authStore.isValid) {
-  isLoggedIn.value = pb.authStore.isValid;
+  isLoggedIn.value = pb.authStore.isValid
 } else {
-  console.log("User is not logged in");
+  console.log("User is not logged in")
 }
 
 // async function createMCQs() {
 //   try {
-//     const data = await import(`./mcqs-archive/ghazi/p6.json`);
-//     let mcqs = data.default;
+//     const data = await import(`./mcqs-archive/pretest/c13.json`)
+//     let mcqs = data.default
 
-//     const promises = mcqs.map(
-//       (mcq, i) =>
-//         pb.collection("mcqs").create(
-//           {
-//             chapter: "Part 6",
-//             book: "ghazi",
-//             ...mcq,
-//             number: i + 1,
-//           },
-//           { requestKey: mcq.question }
-//         ) // Replace 'mcqs' with your collection name
-//     );
-//     const results = await Promise.all(promises);
-//     console.log("MCQs created successfully:", results);
+//     const promises = mcqs.map((mcq, i) =>
+//       pb.collection("mcqs").create(
+//         {
+//           chapter: "Law and Ethics in Psychiatry",
+//           book: "pretest",
+//           ...mcq,
+//         },
+//         { requestKey: mcq.number.toString() }
+//       )
+//     )
+//     const results = await Promise.all(promises)
+//     console.log("MCQs created successfully:", results)
 //   } catch (error) {
-//     console.error("Error creating MCQs:", error);
+//     console.error("Error creating MCQs:", error)
 //   }
 // }
 </script>

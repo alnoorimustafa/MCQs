@@ -1,17 +1,17 @@
 <script setup lang="ts">
-import ChapterMCQs from "./ChapterMCQs.vue";
-import { ref, defineProps, computed, inject } from "vue";
-import PocketBase from "pocketbase";
+import ChapterMCQs from "./ChapterMCQs.vue"
+import { ref, defineProps, computed, inject } from "vue"
+import PocketBase from "pocketbase"
 
-const pb = inject("pb") as PocketBase;
+const pb = inject("pb") as PocketBase
 
 const props = defineProps<{
-  selectedBook: string;
-}>();
+  selectedBook: string
+}>()
 
-let questionsData = ref<Record<string, any>>({});
-let selectedChapter = ref("");
-const loading = ref(false);
+let questionsData = ref<Record<string, any>>({})
+let selectedChapter = ref("")
+const loading = ref(false)
 
 const chapterOptions: Record<string, { value: string; label: string }[]> = {
   bof1: [
@@ -245,25 +245,79 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "Part 5", label: "Part 5" },
     { value: "Part 6", label: "Part 6" },
   ],
-};
+  focus: [
+    { value: "Part 1", label: "Part 1" },
+    { value: "Part 2", label: "Part 2" },
+    { value: "Part 3", label: "Part 3" },
+    { value: "Part 4", label: "Part 4" },
+  ],
+  pretest: [
+    {
+      value: "Evaluation, Assessment, and Diagnosis",
+      label: "Evaluation, Assessment, and Diagnosis",
+    },
+    {
+      value: "Human Behavior: Theories of Personality and Development",
+      label: "Human Behavior: Theories of Personality and Development",
+    },
+    {
+      value: "Human Behavior: Biologic and Related Sciences",
+      label: "Human Behavior: Biologic and Related Sciences",
+    },
+    {
+      value: "Disorders Seen in Childhood and Adolescence",
+      label: "Disorders Seen in Childhood and Adolescence",
+    },
+    {
+      value: "Neurocognitive Disorders and Consultation-Liaison Psychiatry",
+      label: "Neurocognitive Disorders and Consultation-Liaison Psychiatry",
+    },
+    {
+      value: "Schizophrenia and Other Psychotic Disorders",
+      label: "Schizophrenia and Other Psychotic Disorders",
+    },
+    { value: "Psychotherapies", label: "Psychotherapies" },
+    { value: "Mood Disorders", label: "Mood Disorders" },
+    {
+      value: "Anxiety, Obsessive-Compulsive, Trauma",
+      label: "Anxiety, Obsessive-Compulsive, Trauma",
+    },
+    {
+      value: "Personality Disorders, Human Sexuality",
+      label: "Personality Disorders, Human Sexuality",
+    },
+    {
+      value: "Substance-Related Disorders",
+      label: "Substance-Related Disorders",
+    },
+    {
+      value: "Psychopharmacology and Other Somatic Therapies",
+      label: "Psychopharmacology and Other Somatic Therapies",
+    },
+    {
+      value: "Law and Ethics in Psychiatry",
+      label: "Law and Ethics in Psychiatry",
+    },
+  ],
+}
 
 const loadQuestionsData = async (
   selectedBook: string,
   selectedChapter: string
 ) => {
-  loading.value = true;
+  loading.value = true
   try {
     const records = await pb.collection("mcqs").getFullList({
       filter: `book = "${selectedBook}" && chapter = "${selectedChapter}"`,
       sort: "number",
-    });
-    questionsData.value = records;
+    })
+    questionsData.value = records
   } catch (error) {
-    console.error("Error loading questions data:", error);
-    questionsData.value = {};
+    console.error("Error loading questions data:", error)
+    questionsData.value = {}
   }
-  loading.value = false;
-};
+  loading.value = false
+}
 
 const selectedBookName = computed(() => {
   return props.selectedBook === "bof1"
@@ -286,8 +340,12 @@ const selectedBookName = computed(() => {
     ? "Get Through Paper 2: 350 MCQ"
     : props.selectedBook === "gt3"
     ? "Get Through Paper 3: 387 MCQ"
-    : "Dr.Ghazi Telegram Group : 296 MCQ";
-});
+    : props.selectedBook === "focus"
+    ? "Focus Psychiatry Review: 500 MCQ "
+    : props.selectedBook === "pretest"
+    ? "Pretest Psychiatry: 400 MCQ "
+    : "Dr.Ghazi Telegram Group : 296 MCQ"
+})
 </script>
 
 <template>
