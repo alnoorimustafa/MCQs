@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue"
-
+import { trackEvent } from "../analytics"
 import BestOfFive from "./BestOfFive.vue"
 
 const emit = defineEmits(["logout"])
@@ -17,7 +17,7 @@ const selectImage = (image: string) => {
   ).href
   window.scrollTo(0, 0)
 
-  window.gtag("event", "image click", {
+  trackEvent("image click", {
     event_category: "clicks",
     event_label: "image selected",
     value: image,
