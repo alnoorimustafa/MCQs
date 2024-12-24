@@ -12,6 +12,12 @@ const pb = new PocketBase("https://mcq-db.dakakean.com")
 
 provide("pb", pb)
 
+declare global {
+  interface Window {
+    gtag: (...args: any[]) => void
+  }
+}
+
 const isLoggedIn = ref(false)
 
 async function handleLogin() {

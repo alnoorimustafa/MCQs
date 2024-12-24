@@ -1,0 +1,411 @@
+[
+  {
+    "number": 1,
+    "question": "The nature of an endophenotype is biologically defined on which of the following?",
+    "options": {
+      "A": "Neuropsychological",
+      "B": "Cognitive",
+      "C": "Neurophysiological",
+      "D": "Biochemical",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "The nature of an endophenotype is biologically defined on the basis of neuropsychological, cognitive, neurophysiological, neuroanatomical, biochemical, and brain data. Endophenotype is an internal phenotype, which is a set of objective characteristics of an individual that are not visible to the unaided eye. A given phenotype would not be limited to a patient with a particular diagnosis; for instance, schizophrenia might also be found in patients with other diagnoses, such as depression or bipolar disorder."
+  },
+  {
+    "number": 2,
+    "question": "Which of the following morphological regions is a part of the neuron?",
+    "options": {
+      "A": "Cell body",
+      "B": "Dendrites",
+      "C": "Axon",
+      "D": "Axon terminals",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "The human brain contains approximately 100 billion nerve cells or neurons. In general, neurons are composed of four morphologically identified regions: (1) the cell body or soma, which contains the nucleus and can be considered the metabolic center of the neuron; (2) the dendrites, which are processes that arise from the cell body, branch extensively, and serve as the major recipient zones of input from other neurons; (3) the axon, which is a single process that arises from a specialized portion of the cell body (the axon hillock) and conveys information to other neurons; and (4) the axon terminals, which are fine branches near the end of the axon and that form contacts (synapses) generally with the dendrites or the cell bodies of other neurons, release neurotransmitters, and provide a mechanism for interneuronal communication. Most neurons in the human brain are considered to be multipolar in that they give rise to a single axon and several dendritic processes."
+  },
+  {
+    "number": 3,
+    "question": "A reduced density of interneurons in layer 2 of the prefrontal cortex has been observed among patients with",
+    "options": {
+      "A": "Bipolar disorder",
+      "B": "Major depression",
+      "C": "Obsessive-compulsive disorder",
+      "D": "Schizophrenia",
+      "E": "Panic disorder"
+    },
+    "correct_answer": "D",
+    "explanation": "Research has shown that in a significant number of patients with schizophrenia, the prefrontal cortex exhibits a reduced density of interneurons in layer 2. Additionally, these patients show an upregulation of GABA A receptor binding, a potential functional compensation, as well as a relative deficiency of nitric oxide synthase (NOS)-expressing neurons. These observations have led to the hypothesis that schizophrenia is due to reduced GABAergic activity. The origin of GABA interneurons from the ganglionic eminences and their association with specific patterning genes raises new genetic models of disease causation and possible strategies for disease intervention."
+  },
+  {
+    "number": 4,
+    "question": "The cell bodies of the serotonergic neurons are located in what region of the brain?",
+    "options": {
+      "A": "Midline raphe nuclei of the brainstem",
+      "B": "Midbrain substania nigra and ventral tegmental area",
+      "C": "Locus ceruleus and the lateral tegmental noradrenergic nuclei",
+      "D": "The tuberomamillary nucleus of the posterior hypothalamus",
+      "E": "The basal forebrain complex and the mesopontine complex"
+    },
+    "correct_answer": "A",
+    "explanation": "The cell bodies of the serotonergic neurons are located in the midline raphe nuclei of the brainstem. The dopamine neurons are located in the midbrain substantia nigra and the ventral tegmental areas as well as in the periaqueductal gray, hypothalamus, olfactory bulb, retina, and kidney. The norepinephrine and epinephrine producing neurons are found in the pons and medulla in two major clusters: the locus ceruleus and the lateral tegmental noradrenergic nuclei. These neurons are also found in the adrenal medulla. Histaminergic cell bodies are located within the region of the posterior hypothalamus termed the tuberomamillary nucleus."
+  },
+  {
+    "number": 5,
+    "question": "The primary inhibitory neurotransmitter, γ-aminobutyric acid (GABA), in the brain is notably depleted in which of the following neuropsychiatric disorders?",
+    "options": {
+      "A": "Pick's disease",
+      "B": "Vascular dementia",
+      "C": "Creutzfeldt-Jakob disease",
+      "D": "Huntington's disease",
+      "E": "Normal pressure hydrocephalus"
+    },
+    "correct_answer": "D",
+    "explanation": "This degeneration characteristically results in a depletion of GABA, the brain's major inhibitory neurotransmitter, and acetylcholine. Huntington's disease is an autosomal-dominant neurodegenerative disorder characterized by cognitive and physical decline. Its etiology involves an abnormal expansion of a trinucleotide repeat on chromosome 4. MRI classically reveals bilateral atrophy of the caudate nucleus and putamen of the basal ganglia. CT scan further reveals a prominence of the lateral ventricles as a result of surrounding atrophy. Huntington's disease has a gradual onset between the ages of 30 to 50 years. Key features of the disease include progressive subcortical dementia, chorea (rapid, involuntary, dance-like movements), depression, and psychosis. Dysfunction of GABAergic neurotransmission has further been implicated in anxiety disorders, schizophrenia, alcohol dependence, and seizure disorders. Pick's disease is due to an accumulation of tau proteins, which lead to degeneration of the frontal and temporal lobes. Onset of Pick's disease is between the ages of 40 to 60 years and initial signs include personality change, language impairment, and memory loss. Vascular or multi-infarct dementia presents acutely with cognitive decline following a cerebrovascular event and has a stepwise progression. Creutzfeldt-Jakob disease is a rare spongiform encephalopathy accompanied by rapidly progressive dementia and hallucinations. It is caused by an accumulation of prions leading to nerve cell death. Normal-pressure hydrocephalus clinically presents with the triad of dementia, incontinence, and gait disturbance. It is due to poor reabsorption of CSF and characterized by widening of the lateral ventricles."
+  },
+  {
+    "number": 6,
+    "question": "The neuropeptides are primarily related to which of the following central nervous systems?",
+    "options": {
+      "A": "Serotonin neurotransmitter system",
+      "B": "Norepinephrine and Epinephrine system",
+      "C": "Acetylcholine system",
+      "D": "Hypothalamic regulation system",
+      "E": "Catecholamines system"
+    },
+    "correct_answer": "D",
+    "explanation": "Neuropeptides represent the most diverse class of signaling molecules in the CNS. They have a role in the hypothalamic regulation of pituitary hormone secretion. They also have an array of direct or neuromodulatory effects, ranging from modulating neurotransmitter release and neuronal firing patterns to the regulation of emotionality and complex behavior. More than 100 unique biologically active neuropeptides have been identified in the brain."
+  },
+  {
+    "number": 7,
+    "question": "The strongest evidence for a role for neurotrophins in psychiatric diseases has come from the pathophysiology of which of the following psychiatric disorders?",
+    "options": {
+      "A": "Schizophrenia",
+      "B": "Panic disorder",
+      "C": "Major depressive disorder",
+      "D": "Obsessive-compulsive disorder",
+      "E": "Antisocial personality disorder"
+    },
+    "correct_answer": "C",
+    "explanation": "The strongest evidence for a role for neurotrophins among psychiatric disorders has come from the pathophysiology of depression, especially depression associated with stress. For depression, it is believed that there is a fundamental dysregulation of synaptic plasticity and neuronal survival in regions of the brain, such as the hippocampus. In animal models, restraint stress leads to a decreased expression of the brain-derived neurotrophic factor (BDNF) in the hippocampus. In addition, chronic physical or psychosocial stress leads to atrophy and death of hippocampus neurons, especially in the CA3 region in rodents and primates. Also, MRI studies have shown that patients with depressive or post-traumatic stress disorders exhibit a small decrease in hippocampal volume. It is unclear though, whether the atrophy and/or death of these neurons is directly related to the decreased availability of BDNF."
+  },
+  {
+    "number": 8,
+    "question": "Manipulation of one of the novel neurotransmitters, nitric oxide, is thought to have a therapeutic effect in which of the following psychiatric conditions?",
+    "options": {
+      "A": "Mood disorders",
+      "B": "Addictive disorders",
+      "C": "Anxiety disorders",
+      "D": "Personality disorders",
+      "E": "Dissociative disorders"
+    },
+    "correct_answer": "A",
+    "explanation": "Recently, it was discovered that gases can function as neurotransmitters. In this context, it was found that Nitric Oxide has a neurotransmitter property vis-` a-vis a few psychiatric disorders. Mood Disorders is one of the groups of psychiatric illnesses in which Nitric Oxide has a positive role as a neurotransmitter. NOS-expressing neurons are well represented in areas implicated in depression, including the dorsal raphe nucleus and prefrontal cortex. A role for Nitric Oxide has been suggested in antidepressant response as selective serotonin reuptake inhibitor (SSRI) antidepressants can directly inhibit NOS activity."
+  },
+  {
+    "number": 9,
+    "question": "The potential role of homeostatic neuronal plasticity as a therapeutic mechanism in certain psychiatric disorders is currently explored with the use of which of the following treatments?",
+    "options": {
+      "A": "Electroconvulsive therapy (ECT)",
+      "B": "Vagal nerve stimulation (VNS)",
+      "C": "Repetitive transcranial magnetic stimulation (RTMS)",
+      "D": "Deep brain stimulation (DBS)",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "In recent years, there has been increasing interest in the use of brain stimulation methods as a treatment for psychiatric and neurological disorders. These methods include electroconvulsive therapy (ECT), Vagal Nerve Stimulation (VNS), repetitive transcranial magnetic stimulation (RTMS), and deep brain stimulation (DBS). The development of optimal stimulation parameters for these treatments requires knowledge about the effects of electrical stimulation on neuronal function. With respect to ECT, a major advance has been the recognition that electrical stimulation parameters play a key role in determining therapeutic and adverse effects. There is compelling evidence that the degree to which electrical doses exceed the seizure threshold is of substantial importance. For bilateral ECT, electrical doses just above the threshold (approximately 1.5 times threshold) result in a highly effective form of treatment that minimizes cognitive impairment. For nondominant hemisphere (unilateral) ECT, electrical doses that are five to six times threshold are required to produce a significant benefit."
+  },
+  {
+    "number": 10,
+    "question": "Deoxyribonucleic acid (DNA) is composed of which of the following nucleic acids (nucleotides)?",
+    "options": {
+      "A": "Adenine",
+      "B": "Cystosine",
+      "C": "Guanine",
+      "D": "Thymine",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "DNA (deoxyribonucleic acid) is made of four nucleic acids, also known as nucleotides: adenine, cytosine, guanine, and thymine. A genome is defined as the total complement of DNA replicated in a living organism. A critical milestone was reached in 2001 with the completion of the first draft of the human genome. Currently, there are thousands of genomes sequenced. It is now evident that there are in total about 25,000 protein-coding genes in Homo sapiens."
+  },
+  {
+    "number": 11,
+    "question": "Risk factors associated with the metabolic syndrome include",
+    "options": {
+      "A": "Hyperglycemia",
+      "B": "Visceral obesity",
+      "C": "Hypertension",
+      "D": "Hyperlipidemia",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Metabolic syndrome is a disease characterized by a cluster of metabolic risk factors, which include hyperglycemia, visceral obesity, hyperlipidemia, and hypertension. Most notably, adverse effects of atypical antipsychotics, such as olanzapine (Zyprexa) and clozapine (Clozaril), include weight gain and hyperglycemia. However, aripiprazol (Abilify) and ziprasidone (Geodon) are atypical antipsychotics that have minimal effects in this regard. Schizophrenia patients may exhibit increased cortisol and epinephrine production even when not medicated; therefore, monitoring protocols for patients on atypical antipsychotics is of utmost importance. Of note, metabolic syndrome also leads to insulin resistance and complicates glycemic control in patients with preexisting diabetes."
+  },
+  {
+    "number": 12,
+    "question": "The neuropsychiatric disorder that has been best characterized in terms of the influence of the brain on the immune system and vice versa is which one of the following?",
+    "options": {
+      "A": "Somatization disorder",
+      "B": "Hypochondriasis",
+      "C": "Factitious disorder",
+      "D": "Major depressive disorder",
+      "E": "Depersonalization disorder"
+    },
+    "correct_answer": "D",
+    "explanation": "The neuropsychiatric disorder that has been best characterized in terms of the influence of the brain on the immune system and vice versa is major depressive disorder. For many years, major depressive disorder was seen as a quintessential example of how stress-related disorders may decrease immunocompetence. More recently, however, it has become evident that stress also activates inflammatory pathways, even while suppressing measures of acquired immunity."
+  },
+  {
+    "number": 13,
+    "question": "Circadian rhythms include",
+    "options": {
+      "A": "Sleep",
+      "B": "Temperature",
+      "C": "Hormone levels",
+      "D": "Eating",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "The circadian clock drives many rhythms including behavior, core body temperature, sleep, eating, drinking, and hormonal levels. One such circadian-regulated hormone is the indolamine, melatonin. Melatonin synthesis is controlled through a multisynaptic pathway from the CNS to the pineal gland. Serum levels of melatonin become elevated at night and return to baseline during the day. Light suppresses elevated melatonin levels, immediately decreasing them to baseline levels. Light also shifts the phase of circadian rhythms of melatonin synthesis. Because melatonin can be assayed easily, it provides a convenient window into the state of the circadian pacemaker. Any perturbation of the clock is reflected in the melatonin profile; thus, melatonin offers an output that can be used to study the regulation of the central circadian pacemaker."
+  },
+  {
+    "number": 14,
+    "question": "Research efforts have demonstrated that there are no electroencephalographic (EEG) abnormalities associated with the use of which psychopharmacological agent?",
+    "options": {
+      "A": "Olanzapine",
+      "B": "Clozapine",
+      "C": "Risperidone",
+      "D": "Pherphenazine",
+      "E": "Quetiapine"
+    },
+    "correct_answer": "E",
+    "explanation": "Electroencephalographic (EEG) abnormalities have been reported with the use of clozapine (47 percent), olanzapine (38.5 percent), trifluoperazine and mesoridazine (about 35 percent), risperidone (28 percent), fluphenazine and thiothixene (just above 20 percent), pherphenazine, chlorpromazine, and thioridazine (just about 10 percent), and haloperidol (just below 10 percent). There were, however, no abnormalities observed with quetiapine or loxapine. The clinical significance of EEG abnormalities associated with psychopharmacological agents, particularly in the absence of any indications of seizures or encephalopathic effects, remains an open research question."
+  },
+  {
+    "number": 15,
+    "question": "Structural MRI findings associated with schizophrenia include all of the following except",
+    "options": {
+      "A": "Reductions in cortical gray matter",
+      "B": "Reductions in cortical white matter",
+      "C": "Risk genes influencing MRI findings",
+      "D": "Progressive deviation of regional cortical volumes in childhood onset cases",
+      "E": "Decreased striatum volume"
+    },
+    "correct_answer": "E",
+    "explanation": "Structural MRI finding associated with schizophrenia do not include decreased striatum volume. Structural MRI has been useful for characterizing features of the heritable risk for schizophrenia. Family members of individuals with schizophrenia show a pattern of reductions in cortical gray and white matter volume that resembles, but is milder than, that associated with schizophrenia. Among healthy individuals and patients diagnosed with schizophrenia, risk genes appear to influence MRI findings. Structural MRI has also provided some insights into the progressive course of this disorder and the impact of antipsychotic treatment. The most striking findings have been in childhood-onset schizophrenia, where a series of neuroimaging studies using a variety of MRI approaches have clearly shown that the development and evolution of schizophrenia are associated with a progressive deviation of regional cortical volumes from those of healthy comparison populations."
+  },
+  {
+    "number": 16,
+    "question": "Recent research has provided a basis for clinical indications of PET and SPECT radiotracer imaging for the diagnosis and management of several neuropsychiatric disorders. Among them, we found all of the following except",
+    "options": {
+      "A": "Movement disorders",
+      "B": "Schizophrenia",
+      "C": "Mood disorders",
+      "D": "Anxiety disorders",
+      "E": "Antisocial personality disorder"
+    },
+    "correct_answer": "E",
+    "explanation": "Over the past two decades, radiotracer imaging with PET and SPECT have gained merit as tools to image brain functioning and neurochemistry in living humans and have provided the foundation necessary to begin to identify the neurochemical signatures and neuropsychiatric disorders that result from abnormal brain chemistry. Radiotracer imaging can also help to assess the relationship between occupancy of specific various receptors in the brain and the clinical efficacies of various psychotropic drugs. For instance, imaging of dopamine D2 receptors provides critical information for the differential diagnosis of movement disorders and schizophrenia, and also for the assessment of receptor occupancy by neuroleptic drugs. Imaging of serotonin receptors and the serotonin transporter is useful in the diagnosis of mood and anxiety disorders, as well as the assessment of antidepressant efficacy. Imaging of nicotinic acetylcholine receptors and acetylcholinesterase may serve as markers of cognitive and memory impairment."
+  },
+  {
+    "number": 17,
+    "question": "Populations genetics encompasses all of the following except",
+    "options": {
+      "A": "Quantitative genetics",
+      "B": "Genetic epidemiology",
+      "C": "Genetic demography",
+      "D": "Molecular genetics",
+      "E": "Evolutionary genetics"
+    },
+    "correct_answer": "D",
+    "explanation": "Population genetics, which deals with the mathematical properties of genetic transmission in families and populations, can be subdivided into the partially overlapping fields of evolutionary genetics, genetic demography, quantitative genetics, and genetic epidemiology. The primary goal of evolutionary genetics is to understand changes in gene frequency across generations. Genetic demography is primarily concerned with differential mortality and fertility in human populations, while genetic epidemiology deals with the distribution of disease-associated genes across human subpopulations. The goal of quantitative genetics is to partition the observed variation of phenotypes into its genetic and environmental components."
+  },
+  {
+    "number": 18,
+    "question": "The most successful application of gene-mapping strategies relates to which of the following psychiatric disorders?",
+    "options": {
+      "A": "Alzheimer's disease",
+      "B": "Bipolar disorder",
+      "C": "Schizophrenia",
+      "D": "Panic disorder",
+      "E": "Obsessive-compulsive disorder"
+    },
+    "correct_answer": "A",
+    "explanation": "The most successful application of gene-mapping strategies applies to Alzheimer's disease, which is the most common form of dementia and is characterized by a progressive decline in memory, aphasia, apraxia, agnosia, and diminished executive functioning. Abnormal deposition of beta-amyloid protein and neurofibrillary tangles are the major pathophysiological characteristics of Alzheimer's disease. Associated genes include autosomal dominant forms of the APOE4 allele on chromosomes 1, 14, 19, and a mutation of the P-App gene (amyloid precursor protein gene) on chromosome 21. Genetic alterations may be responsible for up to 10 percent of cases of early onset forms of the disease, often diagnosed between the ages of 30 to 60 years. Genetic testing for APOE is currently available to assess whether an individual carries such a risk factor, but cannot predict definitive development of the disease."
+  },
+  {
+    "number": 19,
+    "question": "Animal models in psychiatric research have proven to be useful in which one of the following disorders?",
+    "options": {
+      "A": "Anxiety disorders",
+      "B": "Depressive disorders",
+      "C": "Substance abuse disorders",
+      "D": "Eating disorders",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Animal models provide insight into biological mechanisms underlying psychiatric disease pathophysiology and treatment. The susceptibility to psychiatric disorders is recognized to result from highly complex interactions between genetic endowment and the cumulative effects of innumerable environmental influences. The elucidation of the human genome provides unprecedented opportunities to understand genetic determinants of behavioral traits and psychiatric disease susceptibility. However, the behavioral impact of genetic manipulations cannot be systematically studied in humans, nor can the effects of many types of environmental stimuli and stressors."
+  },
+  {
+    "number": 20,
+    "question": "Which of the following conditions combines symptoms of pain and psychiatric signs and symptoms?",
+    "options": {
+      "A": "Fibromyalgia",
+      "B": "Migraine",
+      "C": "Irritable bowel syndrome",
+      "D": "Chronic fatigue syndrome",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Fibromyalgia, migraine, irritable bowel syndrome, and chronic fatigue syndrome are some of the most commonly recognized conditions in which pain is associated with psychiatric symptoms. Fibromyalgia is a chronic nonprogressive disease in which patients will present with at least 11 musculoskeletal tender points. Depression and anxiety are frequently diagnosed in patients suffering from fibromyalgia. Migraines are severe unilateral headaches that often present with throbbing, nausea, vomiting, and photophobia. The prodromal phase of a migraine may include depression, hypersomnia, irritability, and fatigue. Irritable bowel syndrome is an idiopathic gastrointestinal tract disorder in which symptoms of alternating diarrhea and constipation are commonly preceded by anxiety and depression. Chronic fatigue syndrome is a condition in which patients present with 6 months or more of fatigue not alleviated by rest, compromise of short-term memory and concentration, insomnia, depression, and musculoskeletal pain."
+  },
+  {
+    "number": 21,
+    "question": "The concept that animacy is a primary milestone of social perception can be demonstrated by which of the following observations?",
+    "options": {
+      "A": "At birth, infants preferentially track moving human faces.",
+      "B": "At 3 months, infants smile and vocalize more to people than objects.",
+      "C": "At 3 months, infants show preferential attention to self-propelled motion.",
+      "D": "At 9 months, infants understand that animate beings, not objects, have goal-directed action.",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Animacy is the inability of the brain to quickly and efficiently differentiate animate from inanimate objects. The first thing a brain must do in any healthy social interaction is detect animacy. Psychophysical research has shown that our attentional and perceptual systems are uniquely tuned for detecting animate things versus other object types. Time-consuming mental calculations would be wasted attempting to predict the thoughts, feelings, and actions of objects that could not think, feel, or act."
+  },
+  {
+    "number": 22,
+    "question": "The Self as a subject (the I-Self) includes all of the following except",
+    "options": {
+      "A": "Self-awareness",
+      "B": "Self-continuity",
+      "C": "Self-coherence",
+      "D": "Me-self",
+      "E": "Sense of ownership"
+    },
+    "correct_answer": "D",
+    "explanation": "William James made a distinction between two separable but intimately interrelated aspects of the 'self.' The 'self' as a subject is known as the I-Self and 'self' as object is known as the Me-Self. He also identified subcomponents within them. Components of the I-Self include Self-agency (sense of ownership), self-awareness, self-continuity, and self-coherence. The Me-Self includes 'material me,' 'social me,' and 'spiritual me.'"
+  },
+  {
+    "number": 23,
+    "question": "Cells that decrease their firing during NREM sleep and cease firing altogether during REM sleep are",
+    "options": {
+      "A": "Nonadrenergic cells",
+      "B": "Cholinergic cells",
+      "C": "Histaminergic cells",
+      "D": "Dopaminergic cells",
+      "E": "All of the above"
+    },
+    "correct_answer": "A",
+    "explanation": "Noradrenergic cells from the locus coeruleus project directly throughout the forebrain and cortex and show their highest discharge rates during wakefulness. These cells decrease their firing during NREM sleep and cease firing altogether during REM sleep."
+  },
+  {
+    "number": 24,
+    "question": "Adequate stimuli for the identification of food and initiation of eating in adults include which of the following?",
+    "options": {
+      "A": "Olfactory stimuli",
+      "B": "Temporal stimuli",
+      "C": "Cognitive stimuli",
+      "D": "Social stimuli",
+      "E": "All of the above"
+    },
+    "correct_answer": "E",
+    "explanation": "Adequate stimuli for the identification of food and initiation of eating in adults comprise a bewildering farrago of olfactory, visual, auditory, temporal, circadian, metabolic, cognitive, and social stimuli. Most of them are conditioned stimuli whose potency depends on individual experience from infancy onward."
+  },
+  {
+    "number": 25,
+    "question": "Primary reinforcement by drugs of abuse engages a widespread network of the brain's motivational pathways, which include all of the following except",
+    "options": {
+      "A": "Amygdala",
+      "B": "Hippocampus",
+      "C": "Hypothalamus",
+      "D": "Prefrontal cortex",
+      "E": "Occipital cortex"
+    },
+    "correct_answer": "E",
+    "explanation": "While the mesolimbic dopamine pathway is critical, it must be noted that primary reinforcement of drugs of abuse engages a widespread network of the brain's motivational pathways, including cortical regions and limbic structures such as the prefrontal cortex, amygdala, hippocampus, and hypothalamus."
+  },
+  {
+    "number": 26,
+    "question": "Used to study levels of lithium concentration in the brain",
+    "options": {
+      "A": "Computed Tomography Scan (CT)",
+      "B": "Functional Magnetic Resonance Imaging (fMRI)",
+      "C": "Magnetic Resonance Imaging Scan (MRI)",
+      "D": "Magnetic Resonance Spectroscopy (MRS)",
+      "E": "Positron Emission Tomography Scan (PET)",
+      "F": "Single Photon Emission Computed Scan (SPECT)"
+    },
+    "correct_answer": "D",
+    "explanation": "The ability of MRS to detect a wide range of biologically important nuclei permits the use of the technique to study many metabolic processes. MRS can be used to measure concentrations for psychotherapeutic drugs in the brain. One study used MRS to measure lithium concentrations in the brains of patients with bipolar disorder and found that lithium concentrations in the brain were half those in the plasma during depressed and euthymic periods but exceeded those in the plasma during manic episodes."
+  },
+  {
+    "number": 27,
+    "question": "Cannot be used in patients with pacemakers or ferromagnetic metals",
+    "options": {
+      "A": "Computed Tomography Scan (CT)",
+      "B": "Functional Magnetic Resonance Imaging (fMRI)",
+      "C": "Magnetic Resonance Imaging Scan (MRI)",
+      "D": "Magnetic Resonance Spectroscopy (MRS)",
+      "E": "Positron Emission Tomography Scan (PET)",
+      "F": "Single Photon Emission Computed Scan (SPECT)"
+    },
+    "correct_answer": "C",
+    "explanation": "MRI scanners collect the emissions of individual, realigning nuclei and use computer analysis to generate a series of two-dimensional images that represent the brain. MRI scans cannot be used for patients with pacemakers or implants of ferromagnetic metals due to the strong magnetic fields created during the MRI. The resolution of brain tissue of even the lowest power MRI scan exceeds that of CT scanning."
+  },
+  {
+    "number": 28,
+    "question": "Radioactive compounds are used to study dopamine and serotonin receptors",
+    "options": {
+      "A": "Computed Tomography Scan (CT)",
+      "B": "Functional Magnetic Resonance Imaging (fMRI)",
+      "C": "Magnetic Resonance Imaging Scan (MRI)",
+      "D": "Magnetic Resonance Spectroscopy (MRS)",
+      "E": "Positron Emission Tomography Scan (PET)",
+      "F": "Single Photon Emission Computed Scan (SPECT)"
+    },
+    "correct_answer": "F",
+    "explanation": "Single photon emission computed tomography (SPECT) scans also provide information on the cerebral blood flow, but unlike fMRIs, they do not measure neuronal metabolism directly. In SPECT, manufactured radioactive compounds are used to study regional differences in cerebral blood flow within the brain. It records the pattern of photon emission from the bloodstream according to the level of perfusion in different regions of the brain. SPECT uses compounds labeled with single photon-emitting isotopes: iodine-123, technetium-99m, and xenon-133. In addition to these compounds used for measuring blood flow, iodine-123-labeled ligands for the muscarinic, dopaminergic, and serotonergic receptors can be used to study these receptors by SPECT."
+  },
+  {
+    "number": 29,
+    "question": "Detects neuronal activity by measuring brain blood flow using a glucose analog",
+    "options": {
+      "A": "Computed Tomography Scan (CT)",
+      "B": "Functional Magnetic Resonance Imaging (fMRI)",
+      "C": "Magnetic Resonance Imaging Scan (MRI)",
+      "D": "Magnetic Resonance Spectroscopy (MRS)",
+      "E": "Positron Emission Tomography Scan (PET)",
+      "F": "Single Photon Emission Computed Scan (SPECT)"
+    },
+    "correct_answer": "B",
+    "explanation": "Functional magnetic resonance imaging (fMRI) detects neuronal activity by measuring brain blood flow using a glucose analog. Neuronal activity within the brain causes a local increase in blood flow, which in turn increases the local hemoglobin concentration. Functional MRI is useful to localize neuronal activity to a particular lobe or subcortical nucleus and has even been able to localize activity to a single gyrus."
+  },
+  {
+    "number": 30,
+    "question": "Uses fluorine-18 to study brain structures and to detect neuropsychiatric disorders",
+    "options": {
+      "A": "Computed Tomography Scan (CT)",
+      "B": "Functional Magnetic Resonance Imaging (fMRI)",
+      "C": "Magnetic Resonance Imaging Scan (MRI)",
+      "D": "Magnetic Resonance Spectroscopy (MRS)",
+      "E": "Positron Emission Tomography Scan (PET)",
+      "F": "Single Photon Emission Computed Scan (SPECT)"
+    },
+    "correct_answer": "E",
+    "explanation": "The isotopes used in positron emission tomography (PET) decay by emitting positrons, antimatter particles that bind with and annihilate electrons, thereby giving off photons that travel in 180-degree opposite directions. Because detectors have twice as much signal from which to generate an image as SPECT scanners have, the resolution of the PET image is higher. A wider range of compounds can be used in PET studies, and the resolution of PET continues to be refined closer to its theoretical minimum of 3 mm, which is the distance positrons move before colliding with an electron. The most commonly used isotopes in PET are fluorine-18, nitrogen-13, and oxygen-15. These isotopes are usually linked to another molecule, except in the case of oxygen-15. PET has been used increasingly to study normal brain development."
+  },
+  {
+    "number": 31,
+    "question": "Certain tumors may be invisible because they absorb as much radiation as the surrounding brain",
+    "options": {
+      "A": "Computed Tomography Scan (CT)",
+      "B": "Functional Magnetic Resonance Imaging (fMRI)",
+      "C": "Magnetic Resonance Imaging Scan (MRI)",
+      "D": "Magnetic Resonance Spectroscopy (MRS)",
+      "E": "Positron Emission Tomography Scan (PET)",
+      "F": "Single Photon Emission Computed Scan (SPECT)"
+    },
+    "correct_answer": "A",
+    "explanation": "Computed tomography (CT) scanners are currently the most widely available and convenient imaging tools available in clinical practice. They effectively take a series of head X-ray pictures from all vantage points, 360 degrees around a patient's head. CT scanners allow assessment of structural brain lesions such as tumors or strokes. However, since CT images are determined only by the degree to which tissues absorb X-irradiation, certain tumors may be invisible on CT because they absorb as much radiation as the surrounding brain."
+  }
+]

@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue"
+
 import BestOfFive from "./BestOfFive.vue"
 
 const emit = defineEmits(["logout"])
@@ -15,6 +16,12 @@ const selectImage = (image: string) => {
     import.meta.url
   ).href
   window.scrollTo(0, 0)
+
+  window.gtag("event", "image click", {
+    event_category: "clicks",
+    event_label: "image selected",
+    value: image,
+  })
 }
 
 const cancelSelection = () => {
