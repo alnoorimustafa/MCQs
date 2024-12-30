@@ -2,11 +2,13 @@
 import ChapterMCQs from "./ChapterMCQs.vue"
 import { ref, defineProps, computed, inject } from "vue"
 import PocketBase from "pocketbase"
+import Edit from "./Edit.vue"
 
 const pb = inject("pb") as PocketBase
 
 const props = defineProps<{
   selectedBook: string
+  editing: boolean
 }>()
 
 let questionsData = ref<Record<string, any>>({})
@@ -102,6 +104,20 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "Part 8", label: "Part 8" },
     { value: "Part 9", label: "Part 9" },
     { value: "Part 10", label: "Part 10" },
+  ],
+  prite: [
+    { value: "Part 1", label: "Part 1" },
+    { value: "Part 2", label: "Part 2" },
+    { value: "Part 3", label: "Part 3" },
+    { value: "Part 4", label: "Part 4" },
+    { value: "Part 5", label: "Part 5" },
+    { value: "Part 6", label: "Part 6" },
+    { value: "Part 7", label: "Part 7" },
+    { value: "Part 8", label: "Part 8" },
+    { value: "Part 9", label: "Part 9" },
+    { value: "Part 10", label: "Part 10" },
+    { value: "Part 11", label: "Part 11" },
+    { value: "Part 12", label: "Part 12" },
   ],
   gt1: [
     {
@@ -372,12 +388,25 @@ const selectedBookName = computed(() => {
 
     <ChapterMCQs
       v-else-if="
-        questionsData && Object.keys(questionsData).length > 0 && selectedBook
+        questionsData &&
+        Object.keys(questionsData).length > 0 &&
+        selectedBook &&
+        !editing
       "
       :key="JSON.stringify(questionsData[0]?.question || '')"
       :questionsData="questionsData"
       :selectedBook="selectedBook"
       :selectedChapter="selectedChapter"
+    />
+    <Edit
+      v-else-if="
+        questionsData &&
+        Object.keys(questionsData).length > 0 &&
+        selectedBook &&
+        editing
+      "
+      :key="JSON.stringify(questionsData[0]?.explanation || '')"
+      :questionsData="questionsData"
     />
   </div>
 </template>

@@ -36,14 +36,14 @@ if (pb.authStore.isValid) {
 
 // async function createMCQs() {
 //   try {
-//     const data = await import(`./mcqs-archive/pretest/c13.json`)
+//     const data = await import(`./mcqs-archive/prite/p12.json`)
 //     let mcqs = data.default
 
 //     const promises = mcqs.map((mcq, i) =>
 //       pb.collection("mcqs").create(
 //         {
-//           chapter: "Law and Ethics in Psychiatry",
-//           book: "pretest",
+//           chapter: "Part 12",
+//           book: "prite",
 //           ...mcq,
 //         },
 //         { requestKey: mcq.number.toString() }

@@ -1,11 +1,17 @@
 <script setup lang="ts">
-import { ref } from "vue"
+import { ref, inject } from "vue"
 import { trackEvent } from "../analytics"
 import BestOfFive from "./BestOfFive.vue"
+import PocketBase from "pocketbase"
+
+const pb = inject("pb") as PocketBase
 
 const emit = defineEmits(["logout"])
 
 let page = ref("")
+let editing = ref(true)
+
+editing.value = pb.authStore.record?.email === "edit@mcq.com"
 
 let selectedImage = ref<string | null>(null)
 
@@ -73,11 +79,11 @@ const cancelSelection = () => {
       </div>
     </div>
     <div class="grid mt-2">
+      <div class="center" v-if="!selectedImage" @click="selectImage('prite')">
+        <img loading="lazy" src="../assets/small/prite.webp" alt="" />
+      </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
         <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('gt1')">
-        <img loading="lazy" src="" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('gt2')">
         <img loading="lazy" src="" alt="" />
@@ -101,7 +107,11 @@ const cancelSelection = () => {
       </div>
     </div>
   </div>
-  <BestOfFive v-if="page !== ''" :selectedBook="selectedImage ? page : ''" />
+  <BestOfFive
+    v-if="page !== ''"
+    :selectedBook="selectedImage ? page : ''"
+    :editing="editing"
+  />
 </template>
 
 <style scoped>
