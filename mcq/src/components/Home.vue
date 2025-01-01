@@ -3,12 +3,14 @@ import { ref, inject } from "vue"
 import { trackEvent } from "../analytics"
 import BestOfFive from "./BestOfFive.vue"
 import PocketBase from "pocketbase"
+import Flag from "./Flag.vue"
 
 const pb = inject("pb") as PocketBase
 
 const emit = defineEmits(["logout"])
 
 let page = ref("")
+let flag = ref(false)
 let editing = ref(true)
 
 editing.value = pb.authStore.record?.email === "edit@mcq.com"
@@ -33,6 +35,7 @@ const selectImage = (image: string) => {
 const cancelSelection = () => {
   selectedImage.value = null
   page.value = ""
+  flag.value = false
 }
 </script>
 
@@ -85,8 +88,17 @@ const cancelSelection = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
         <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
       </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('gt3')">
-        <img loading="lazy" src="" alt="" />
+      <div
+        class="center"
+        v-if="!selectedImage"
+        @click="
+          () => {
+            selectImage('ghazi')
+            flag = true
+          }
+        "
+      >
+        <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
         <img loading="lazy" src="" alt="" />
@@ -107,8 +119,9 @@ const cancelSelection = () => {
       </div>
     </div>
   </div>
+  <Flag v-if="flag" />
   <BestOfFive
-    v-if="page !== ''"
+    v-else-if="page !== ''"
     :selectedBook="selectedImage ? page : ''"
     :editing="editing"
   />

@@ -11,6 +11,7 @@ const selectedOptions = ref(Array(questions.value.length).fill(null))
 const right = ref(0)
 const wrong = ref(0)
 const saving = ref(false)
+const flaggedQuestions = ref()
 
 const loadProgress = async () => {
   saving.value = true
@@ -96,6 +97,42 @@ const selectOption = async (
   }
 }
 
+const flagQuestion = async (id: string) => {
+  console.log("id")
+  console.log(id)
+
+  if (!pb.authStore.record) {
+    return
+  }
+
+  try {
+    const record = await pb
+      .collection("flags")
+      .getList(1, 50, { filter: `user.id="${pb.authStore.record?.id}"` })
+
+    if (record.items.length > 0) {
+      console.log("Record found:", record)
+
+      await pb.collection("flags").update(record.items[0].id, {
+        "mcqs+": id,
+      })
+    } else {
+      console.log("No record found. Proceeding to create a new one...")
+
+      const data = {
+        user: pb.authStore.record?.id,
+        mcqs: [id],
+      }
+
+      console.log(data)
+
+      await pb.collection("flags").create(data)
+    }
+  } catch (error) {
+    console.error(error)
+  }
+}
+
 const randomizeQuestions = () => {
   const combined = questions.value.map((question: any, index: any) => ({
     question,
@@ -170,6 +207,9 @@ const IncorrectAnswers = computed(() => wrong.value)
               </summary>
               <p class="explanation">{{ question.explanation }}</p>
             </details>
+            <button @click="flagQuestion(question.id)">
+              {{ flaggedQuestions[index] ? "Unflag" : "Flag" }}
+            </button>
           </div>
         </div>
         <p class="end">End of MCQs</p>
