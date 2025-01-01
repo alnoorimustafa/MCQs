@@ -110,13 +110,20 @@ const selectOption = async (
 </script>
 
 <template>
-  <div class="container" v-if="loading">
+  <div v-if="loading" class="container">
     <article aria-busy="true"></article>
   </div>
   <div v-else-if="!questions.length" class="container">
     <p class="end">There are no flagged questions</p>
   </div>
   <div v-else class="container">
+    <p>
+      {{
+        questions.length > 1
+          ? questions.length + " questions"
+          : questions.length + " question"
+      }}
+    </p>
     <div class="questions-container">
       <div
         v-if="questions"
@@ -291,10 +298,6 @@ span {
 .incorrect-option {
   background-color: #d93526;
   color: white;
-}
-
-.container {
-  padding: 0;
 }
 
 .explanation {

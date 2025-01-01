@@ -12,6 +12,7 @@ const right = ref(0)
 const wrong = ref(0)
 const saving = ref(false)
 const flaggedQuestions = ref<any[]>([])
+const flagging = ref(false)
 
 const loadProgress = async () => {
   saving.value = true
@@ -118,9 +119,9 @@ const loadFlaggedQuestions = async () => {
 
     if (filtered && filtered[0]) {
       flaggedQuestions.value = filtered
-      return { id: count.id, count: filtered.length }
+      return { id: count.id, count: count.expand?.mcqs.length }
     } else {
-      return null
+      return { id: count.id, count: count.expand?.mcqs.length }
     }
   } catch (err) {
     console.log("No flagged questions found for this chapter:", err)
@@ -131,13 +132,14 @@ const toggleFlag = async (id: string, index: number) => {
   if (!pb.authStore.record) {
     return
   }
+  flagging.value = true
 
   try {
     // Load flagged questions
     const flagged = await loadFlaggedQuestions()
 
     // If no flagged questions are found, create a new flag record
-    if (!flagged) {
+    if (!flagged?.id) {
       const newFlagRecord = await pb.collection("flags").create({
         user: pb.authStore.record?.id,
         mcqs: [id],
@@ -181,6 +183,7 @@ const toggleFlag = async (id: string, index: number) => {
   } catch (error) {
     console.error("Error in toggling flag:", error)
   }
+  flagging.value = false
 }
 
 const randomizeQuestions = () => {
@@ -262,6 +265,8 @@ onMounted(() => {
               <p class="explanation">{{ question.explanation }}</p>
             </details>
             <button
+              :aria-busy="flagging"
+              v-if="question.showCorrectAnswer"
               :class="
                 flaggedQuestions.some((q) => q.id === question.id)
                   ? 'unflag'
@@ -270,9 +275,11 @@ onMounted(() => {
               @click="toggleFlag(question.id, index)"
             >
               {{
-                flaggedQuestions.some((q) => q.id === question.id)
-                  ? "Unflag"
-                  : "Flag"
+                !flagging
+                  ? flaggedQuestions.some((q) => q.id === question.id)
+                    ? "unflag"
+                    : "flag"
+                  : "    "
               }}
             </button>
           </div>
@@ -320,12 +327,12 @@ onMounted(() => {
 
 <style scoped>
 .unflag {
-  background-color: #398712;
+  background-color: rgb(1, 127, 192, 0.8);
   border-color: transparent;
 }
 
 .flag {
-  background-color: rgb(216, 161, 0);
+  background-color: rgb(216, 161, 0, 0.8);
   border-color: transparent;
 }
 

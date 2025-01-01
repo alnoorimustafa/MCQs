@@ -42,6 +42,18 @@ const cancelSelection = () => {
 <template>
   <div class="container">
     <div class="grid mt-2">
+      <div
+        class="center"
+        v-if="!selectedImage"
+        @click="
+          () => {
+            selectImage('flag')
+            flag = true
+          }
+        "
+      >
+        <img loading="lazy" src="../assets/small/flag.webp" alt="" />
+      </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('bof1')">
         <img loading="lazy" src="../assets/small/bof1.webp" alt="" />
       </div>
@@ -51,9 +63,7 @@ const cancelSelection = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
         <img loading="lazy" src="../assets/small/bof3.webp" alt="" />
       </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('1200')">
-        <img loading="lazy" src="../assets/small/1200.webp" alt="" />
-      </div>
+
       <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
         <img loading="lazy" src="../assets/small/600-1.webp" alt="" />
       </div>
@@ -62,6 +72,9 @@ const cancelSelection = () => {
       </div>
     </div>
     <div class="grid mt-2">
+      <div class="center" v-if="!selectedImage" @click="selectImage('1200')">
+        <img loading="lazy" src="../assets/small/1200.webp" alt="" />
+      </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
         <img loading="lazy" src="../assets/small/spmm.webp" alt="" />
       </div>
@@ -77,29 +90,18 @@ const cancelSelection = () => {
       <div class="center" v-if="!selectedImage" @click="selectImage('pretest')">
         <img loading="lazy" src="../assets/small/pretest.webp" alt="" />
       </div>
+    </div>
+    <div class="grid mt-2">
       <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
         <img loading="lazy" src="../assets/small/focus.webp" alt="" />
       </div>
-    </div>
-    <div class="grid mt-2">
       <div class="center" v-if="!selectedImage" @click="selectImage('501')">
         <img loading="lazy" src="../assets/small/501.webp" alt="" />
       </div>
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
         <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
       </div>
-      <div
-        class="center"
-        v-if="!selectedImage"
-        @click="
-          () => {
-            selectImage('ghazi')
-            flag = true
-          }
-        "
-      >
-        <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
-      </div>
+
       <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
         <img loading="lazy" src="" alt="" />
       </div>
