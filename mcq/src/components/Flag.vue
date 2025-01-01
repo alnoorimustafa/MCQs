@@ -7,6 +7,7 @@ const selectedOptions = ref<any[]>([]) // Initialize as an empty array
 const right = ref(0)
 const wrong = ref(0)
 const collection = ref("")
+const loading = ref(false)
 
 const pb = inject("pb") as PocketBase
 
@@ -46,13 +47,14 @@ const selectedBookName = (name: string) => {
 
 // Function to fetch questions from PocketBase
 const fetchQuestions = async () => {
+  loading.value = true
+
   try {
     const records = await pb
       .collection("flags")
       .getFirstListItem(`user.id="${pb.authStore.record?.id}"`, {
         expand: "mcqs,user",
       })
-    console.log("records", records)
     questions.value = records.expand?.mcqs
     collection.value = records.id
 
@@ -60,6 +62,32 @@ const fetchQuestions = async () => {
     selectedOptions.value = Array(questions.value.length).fill(null)
   } catch (error) {
     console.error("Error fetching questions:", error)
+  }
+  loading.value = false
+}
+
+const deleteFlaggedMCQ = async (index: number) => {
+  try {
+    const mcqId = questions.value[index]?.id
+
+    if (!mcqId) {
+      throw new Error("MCQ ID is undefined")
+    }
+
+    if (questions.value.length === 1) {
+      await pb.collection("flags").delete(collection.value)
+      console.log(`Deleted collection with ID: ${collection.value}`)
+      questions.value = []
+      selectedOptions.value = []
+      return
+    } else {
+      await pb.collection("flags").update(collection.value, { "mcqs-": mcqId })
+      questions.value.splice(index, 1)
+      selectedOptions.value.splice(index, 1)
+      console.log(`Deleted MCQ with ID: ${mcqId}`)
+    }
+  } catch (error) {
+    console.error("Error deleting flagged MCQ:", error)
   }
 }
 
@@ -79,27 +107,16 @@ const selectOption = async (
     }
   }
 }
-
-const deleteFlaggedMCQ = async (index: number) => {
-  try {
-    const mcqId = questions.value[index]?.id
-    if (!mcqId) {
-      throw new Error("MCQ ID is undefined")
-    }
-
-    // Delete from the correct collection (mcqs)
-    await pb.collection("flags").update(collection.value, { "mcqs-": mcqId })
-    questions.value.splice(index, 1)
-    selectedOptions.value.splice(index, 1)
-    console.log(`Deleted MCQ with ID: ${mcqId}`)
-  } catch (error) {
-    console.error("Error deleting flagged MCQ:", error)
-  }
-}
 </script>
 
 <template>
-  <div class="container">
+  <div class="container" v-if="loading">
+    <article aria-busy="true"></article>
+  </div>
+  <div v-else-if="!questions.length" class="container">
+    <p class="end">There are no flagged questions</p>
+  </div>
+  <div v-else class="container">
     <div class="questions-container">
       <div
         v-if="questions"

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, inject } from "vue"
+import { ref, computed, inject, onMounted } from "vue"
 import PocketBase from "pocketbase"
 
 const pb = inject("pb") as PocketBase
@@ -11,7 +11,7 @@ const selectedOptions = ref(Array(questions.value.length).fill(null))
 const right = ref(0)
 const wrong = ref(0)
 const saving = ref(false)
-const flaggedQuestions = ref()
+const flaggedQuestions = ref<any[]>([])
 
 const loadProgress = async () => {
   saving.value = true
@@ -97,39 +97,89 @@ const selectOption = async (
   }
 }
 
-const flagQuestion = async (id: string) => {
-  console.log("id")
-  console.log(id)
+const loadFlaggedQuestions = async () => {
+  try {
+    const count = await pb
+      .collection("flags")
+      .getFirstListItem(`user.id="${pb.authStore.record?.id}"`, {
+        expand: "mcqs",
+      })
 
+    if (!count || !count.expand?.mcqs) {
+      throw new Error("No flagged questions found")
+    }
+
+    let filtered = count.expand?.mcqs.filter((item: any) => {
+      return (
+        item.book === props.selectedBook &&
+        item.chapter === props.selectedChapter
+      )
+    })
+
+    if (filtered && filtered[0]) {
+      flaggedQuestions.value = filtered
+      return { id: count.id, count: filtered.length }
+    } else {
+      return null
+    }
+  } catch (err) {
+    console.log("No flagged questions found for this chapter:", err)
+  }
+}
+
+const toggleFlag = async (id: string, index: number) => {
   if (!pb.authStore.record) {
     return
   }
 
   try {
-    const record = await pb
-      .collection("flags")
-      .getList(1, 50, { filter: `user.id="${pb.authStore.record?.id}"` })
+    // Load flagged questions
+    const flagged = await loadFlaggedQuestions()
 
-    if (record.items.length > 0) {
-      console.log("Record found:", record)
-
-      await pb.collection("flags").update(record.items[0].id, {
-        "mcqs+": id,
-      })
-    } else {
-      console.log("No record found. Proceeding to create a new one...")
-
-      const data = {
+    // If no flagged questions are found, create a new flag record
+    if (!flagged) {
+      const newFlagRecord = await pb.collection("flags").create({
         user: pb.authStore.record?.id,
         mcqs: [id],
+      })
+
+      flaggedQuestions.value.push(questions.value[index]) // Add to flagged questions
+      return // Exit early after creating the new flag
+    }
+
+    // Check if the question is already flagged
+    const isFlagged = flaggedQuestions.value.some(
+      (question: any) => question.id === id
+    )
+
+    if (isFlagged) {
+      if (flagged.count > 1) {
+        // If flagged, unflag the question
+        await pb.collection("flags").update(flagged.id, {
+          "mcqs-": id,
+        })
+
+        flaggedQuestions.value = flaggedQuestions.value.filter(
+          (question: any) => question.id !== id
+        ) // Remove from flagged questions
+      } else {
+        // If flagged, unflag the question
+        await pb.collection("flags").delete(flagged.id)
+
+        flaggedQuestions.value = flaggedQuestions.value.filter(
+          (question: any) => question.id !== id
+        ) // Remove from flagged questions
       }
+    } else {
+      // If not flagged, flag the question
+      await pb.collection("flags").update(flagged.id, {
+        "mcqs+": id,
+      })
 
-      console.log(data)
-
-      await pb.collection("flags").create(data)
+      flaggedQuestions.value.push(questions.value[index]) // Add to flagged questions
     }
   } catch (error) {
-    console.error(error)
+    console.error("Error in toggling flag:", error)
   }
 }
 
@@ -155,6 +205,10 @@ const percentageScore = computed(
 const totalQuestions = computed(() => questions.value.length)
 const correctAnswers = computed(() => right.value)
 const IncorrectAnswers = computed(() => wrong.value)
+
+onMounted(() => {
+  loadFlaggedQuestions()
+})
 </script>
 
 <template>
@@ -207,8 +261,19 @@ const IncorrectAnswers = computed(() => wrong.value)
               </summary>
               <p class="explanation">{{ question.explanation }}</p>
             </details>
-            <button @click="flagQuestion(question.id)">
-              {{ flaggedQuestions[index] ? "Unflag" : "Flag" }}
+            <button
+              :class="
+                flaggedQuestions.some((q) => q.id === question.id)
+                  ? 'unflag'
+                  : 'flag'
+              "
+              @click="toggleFlag(question.id, index)"
+            >
+              {{
+                flaggedQuestions.some((q) => q.id === question.id)
+                  ? "Unflag"
+                  : "Flag"
+              }}
             </button>
           </div>
         </div>
@@ -254,6 +319,16 @@ const IncorrectAnswers = computed(() => wrong.value)
 </template>
 
 <style scoped>
+.unflag {
+  background-color: #398712;
+  border-color: transparent;
+}
+
+.flag {
+  background-color: rgb(216, 161, 0);
+  border-color: transparent;
+}
+
 .flex-1 {
   flex-grow: 2;
   display: flex;
