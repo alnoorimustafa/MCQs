@@ -36,14 +36,14 @@ if (pb.authStore.isValid) {
 
 // async function createMCQs() {
 //   try {
-//     const data = await import(`./mcqs-archive/prite/p12.json`)
+//     const data = await import(`./mcqs-archive/1200/c19.json`)
 //     let mcqs = data.default
 
 //     const promises = mcqs.map((mcq, i) =>
 //       pb.collection("mcqs").create(
 //         {
-//           chapter: "Part 12",
-//           book: "prite",
+//           chapter: "Chapter 19: MISCELLANEOUS QUESTIONS",
+//           book: "1200",
 //           ...mcq,
 //         },
 //         { requestKey: mcq.number.toString() }

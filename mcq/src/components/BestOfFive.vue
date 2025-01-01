@@ -119,6 +119,75 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
     { value: "Part 11", label: "Part 11" },
     { value: "Part 12", label: "Part 12" },
   ],
+  "1200": [
+    {
+      value: "Chapter 1: PSYCHOPATHOLOGY",
+      label: "Chapter 1: PSYCHOPATHOLOGY",
+    },
+    { value: "Chapter 2: SCHIZOPHRENIA", label: "Chapter 2: SCHIZOPHRENIA" },
+    { value: "Chapter 3: MOOD DISORDERS", label: "Chapter 3: MOOD DISORDERS" },
+    {
+      value: "Chapter 4: ANXIETY DISORDERS",
+      label: "Chapter 4: ANXIETY DISORDERS",
+    },
+    {
+      value: "Chapter 5: GERIATRIC PSYCHIATRY",
+      label: "Chapter 5: GERIATRIC PSYCHIATRY",
+    },
+    {
+      value: "Chapter 6: CHILD PSYCHIATRY",
+      label: "Chapter 6: CHILD PSYCHIATRY",
+    },
+    {
+      value: "Chapter 7: CONSULTATION LIAISON PSYCHIATRY",
+      label: "Chapter 7: CONSULTATION LIAISON PSYCHIATRY",
+    },
+    {
+      value: "Chapter 8: FORENSIC PSYCHIATRY",
+      label: "Chapter 8: FORENSIC PSYCHIATRY",
+    },
+    { value: "Chapter 9: SUBSTANCE USE", label: "Chapter 9: SUBSTANCE USE" },
+    {
+      value: "Chapter 10: EATING AND SEXUAL DISORDERS",
+      label: "Chapter 10: EATING AND SEXUAL DISORDERS",
+    },
+    {
+      value: "Chapter 11: MENTAL RETARDATION",
+      label: "Chapter 11: MENTAL RETARDATION",
+    },
+    {
+      value: "Chapter 12: SLEEP DISORDERS",
+      label: "Chapter 12: SLEEP DISORDERS",
+    },
+    {
+      value: "Chapter 13: PERSONALITY DISORDERS",
+      label: "Chapter 13: PERSONALITY DISORDERS",
+    },
+    {
+      value: "Chapter 14: PSYCHOPHARMACOLOGY",
+      label: "Chapter 14: PSYCHOPHARMACOLOGY",
+    },
+    {
+      value: "Chapter 15: PSYCHOTHERAPY",
+      label: "Chapter 15: PSYCHOTHERAPY",
+    },
+    {
+      value: "Chapter 16: PSYCHOLOGY",
+      label: "Chapter 16: PSYCHOLOGY",
+    },
+    {
+      value: "Chapter 17: EMERGENCY PSYCHIATRY",
+      label: "Chapter 17: EMERGENCY PSYCHIATRY",
+    },
+    {
+      value: "Chapter 18: NEUROLOGY",
+      label: "Chapter 18: NEUROLOGY",
+    },
+    {
+      value: "Chapter 19: MISCELLANEOUS QUESTIONS",
+      label: "Chapter 19: MISCELLANEOUS QUESTIONS",
+    },
+  ],
   gt1: [
     {
       value: "Basic psychological processes",
@@ -360,6 +429,8 @@ const selectedBookName = computed(() => {
     ? "Focus Psychiatry Review: 500 MCQ "
     : props.selectedBook === "pretest"
     ? "Pretest Psychiatry: 400 MCQ "
+    : props.selectedBook === "1200"
+    ? "Psychiatry 1200: 1170 MCQ "
     : "Dr.Ghazi Telegram Group : 296 MCQ"
 })
 </script>
