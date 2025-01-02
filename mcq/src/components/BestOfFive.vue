@@ -207,12 +207,12 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
       label: "Descriptive psychopathology",
     },
     {
-      value: "Psychopharmacology: antipsychotics and organic disorders",
-      label: "Psychopharmacology: antipsychotics and organic disorders",
-    },
-    {
       value: "Psychopharmacology: antidepressants and anxiolytics",
       label: "Psychopharmacology: antidepressants and anxiolytics",
+    },
+    {
+      value: "Psychopharmacology: antipsychotics and organic disorders",
+      label: "Psychopharmacology: antipsychotics and organic disorders",
     },
     { value: "Clinical psychiatry 1", label: "Clinical psychiatry 1" },
     { value: "Clinical psychiatry 2", label: "Clinical psychiatry 2" },

@@ -36,14 +36,14 @@ if (pb.authStore.isValid) {
 
 // async function createMCQs() {
 //   try {
-//     const data = await import(`./mcqs-archive/1200/c19.json`)
+//     const data = await import(`./mcqs-archive/gt1/c6.json`)
 //     let mcqs = data.default
 
 //     const promises = mcqs.map((mcq, i) =>
 //       pb.collection("mcqs").create(
 //         {
-//           chapter: "Chapter 19: MISCELLANEOUS QUESTIONS",
-//           book: "1200",
+//           chapter: "Psychopharmacology: antidepressants and anxiolytics",
+//           book: "gt1",
 //           ...mcq,
 //         },
 //         { requestKey: mcq.number.toString() }

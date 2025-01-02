@@ -15,9 +15,12 @@ const save = async () => {
 
   try {
     for (const question of questions.value) {
-      await pb
-        .collection("mcqs")
-        .update(question.id, { ...question, explanation: question.explanation })
+      await pb.collection("mcqs").update(question.id, {
+        ...question,
+        explanation: question.explanation,
+        correct_answer: question.correct_answer,
+        question: question.question,
+      })
 
       console.log("saved question")
     }
@@ -50,8 +53,19 @@ const pasteFromClipboard = async (index: number) => {
             class="question-card"
           >
             <p class="question-text">
-              {{ index + 1 }} - {{ question.question }}
+              {{ index + 1 }}
             </p>
+            <input type="text" v-model="question.question" />
+            <ul class="options-list">
+              <input type="text" v-model="question.correct_answer" />
+            </ul>
+            <!-- <li
+              v-for="(option, letter) in question.options"
+              :key="letter"
+              class="option"
+            >
+              {{ letter }} - {{ option }}
+            </li> -->
             <textarea
               name="explanation textarea"
               placeholder="no explanation yet"
@@ -63,9 +77,17 @@ const pasteFromClipboard = async (index: number) => {
             </button>
           </div>
         </div>
-        <p class="end">End of MCQs</p>
       </div>
     </div>
+    <div class="answers">
+      <div v-for="(question, i) in questions" :key="question.id" class="w">
+        <span>
+          {{ question.number }}
+        </span>
+        <input type="text" v-model="question.correct_answer" />
+      </div>
+    </div>
+    <p class="end">End of MCQs</p>
     <div class="score-bar">
       <div class="flex-1">
         <button :aria-busy="saving" class="save" @click="save">
@@ -77,6 +99,11 @@ const pasteFromClipboard = async (index: number) => {
 </template>
 
 <style scoped>
+.answers {
+  display: block;
+  margin-bottom: 100px;
+}
+
 .flex-1 {
   flex-grow: 2;
   display: flex;
@@ -176,9 +203,7 @@ const pasteFromClipboard = async (index: number) => {
   margin: 8px 0px;
   padding: 10px;
   border-radius: 5px;
-  font-size: 1rem;
-  color: #777;
-  transition: background-color 0.3s ease;
+  font-size: 0.8rem;
   cursor: pointer;
   list-style-type: none;
 }
