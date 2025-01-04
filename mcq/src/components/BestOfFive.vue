@@ -416,7 +416,7 @@ const selectedBookName = computed(() => {
     : props.selectedBook === "600-2"
     ? "600 Paper 2: 665 MCQ"
     : props.selectedBook === "501"
-    ? "501 Psychopharmacology: 556 MCQ"
+    ? "501 Psychopharmacology: 566 MCQ"
     : props.selectedBook === "spmm"
     ? "SPMM: 2375 MCQ"
     : props.selectedBook === "gt1"

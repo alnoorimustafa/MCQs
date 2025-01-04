@@ -13,6 +13,15 @@ const wrong = ref(0)
 const saving = ref(false)
 const flaggedQuestions = ref<any[]>([])
 const flagging = ref(false)
+const isDarkMode = ref(
+  window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches
+)
+
+window
+  .matchMedia("(prefers-color-scheme: dark)")
+  .addEventListener("change", (e) => {
+    isDarkMode.value = e.matches
+  })
 
 const loadProgress = async () => {
   saving.value = true
@@ -215,7 +224,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div>
+  <div :class="{ dark: isDarkMode }">
     <div class="container">
       <div id="app">
         <div class="questions-container">
@@ -422,7 +431,7 @@ onMounted(() => {
 .question-text {
   font-size: 1.1rem;
   margin-bottom: 15px;
-  color: #555;
+  color: #4d4d4d;
 }
 
 .options-list {
@@ -479,5 +488,45 @@ onMounted(() => {
   .toHide2 {
     display: none;
   }
+}
+
+.dark {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.dark .question-card {
+  background-color: #1e1e1e;
+  border-color: #333;
+}
+
+.dark .option {
+  background-color: #484848;
+  color: #c0bfbf;
+}
+
+.dark .correct-option {
+  background-color: #4caf4f7c;
+}
+
+.dark .incorrect-option {
+  background-color: #f4433686;
+}
+
+.dark .score-bar {
+  background-color: #1e1e1e;
+  border-top-color: #333;
+}
+
+.dark .save {
+  background-color: #4caf4f4f;
+}
+
+.dark .load {
+  background-color: #ff99003f;
+}
+
+.dark .randomize {
+  background-color: #2195f33f;
 }
 </style>
