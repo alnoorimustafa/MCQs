@@ -434,6 +434,10 @@ onMounted(() => {
   color: #4d4d4d;
 }
 
+.dark .question-text {
+  color: #b6b6b6;
+}
+
 .options-list {
   list-style-type: none;
   padding-left: 0;
