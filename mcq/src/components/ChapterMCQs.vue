@@ -293,9 +293,9 @@ onMounted(() => {
             </button>
           </div>
         </div>
-        <p class="end">End of MCQs</p>
       </div>
     </div>
+    <p class="end">End of MCQs</p>
     <!-- Sticky score bar -->
 
     <div class="score-bar">
@@ -425,6 +425,7 @@ onMounted(() => {
 
 .end {
   margin-bottom: 80px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
@@ -495,12 +496,11 @@ onMounted(() => {
 }
 
 .dark {
-  background-color: #121212;
   color: #e0e0e0;
 }
 
 .dark .question-card {
-  background-color: #1e1e1e;
+  background-color: #1b1b20;
   border-color: #333;
 }
 
