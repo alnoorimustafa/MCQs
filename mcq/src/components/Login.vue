@@ -2,8 +2,8 @@
 import { ref, defineEmits } from "vue"
 import PocketBase from "pocketbase"
 
-let user = ref("test@mcq.com")
-let password = ref("12345678")
+let user = ref("")
+let password = ref("")
 let login = ref(false)
 let loading = ref(false)
 let error = ref("")
@@ -42,7 +42,7 @@ const authenticate = async () => {
   <div class="container" v-if="!login">
     <input
       name="login"
-      placeholder="Login"
+      placeholder="Username"
       aria-label="Login"
       autocomplete="username"
       v-model="user"
@@ -65,6 +65,10 @@ const authenticate = async () => {
       {{ loading ? "" : "Login" }}
     </button>
     <p v-if="error" class="error">{{ error }}</p>
+    <p>
+      Get your free account by contacting me on telegram
+      <a href="https://t.me/alnoorimustafa94"> click here </a>
+    </p>
   </div>
 </template>
 
