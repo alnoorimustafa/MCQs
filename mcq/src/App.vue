@@ -8,6 +8,7 @@ import PocketBase from "pocketbase"
 const Home = defineAsyncComponent(() => import("./components/Home.vue"))
 // const Home2 = defineAsyncComponent(() => import("./components/Home2.vue"))
 const Login = defineAsyncComponent(() => import("./components/Login.vue"))
+const AddMCQ = defineAsyncComponent(() => import("./components/AddMCQ.vue"))
 
 const pb = new PocketBase("https://mcq-db.dakakean.com")
 
@@ -60,9 +61,10 @@ if (pb.authStore.isValid) {
 
 <template>
   <Nav :show="isLoggedIn" @logout="handleLogout" />
-  <Home v-if="isLoggedIn" />
+  <Home v-if="isLoggedIn && pb.authStore.record?.email !== 'amena@mcq.com'" />
   <!-- <Home2 v-if="isLoggedIn" /> -->
-  <Login v-else @login="handleLogin" />
+  <AddMCQ v-if="isLoggedIn && pb.authStore.record?.email === 'amena@mcq.com'" />
+  <Login v-if="!isLoggedIn" @login="handleLogin" />
   <!-- <button @click="createMCQs">upload</button> -->
 </template>
 
