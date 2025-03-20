@@ -17,6 +17,16 @@ const isDarkMode = ref(
   window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches
 )
 
+const fullscreenImage = ref<string | null>(null) // Track the image for fullscreen view
+
+const openFullscreen = (imageUrl: string) => {
+  fullscreenImage.value = imageUrl
+}
+
+const closeFullscreen = () => {
+  fullscreenImage.value = null
+}
+
 window
   .matchMedia("(prefers-color-scheme: dark)")
   .addEventListener("change", (e) => {
@@ -238,6 +248,11 @@ onMounted(() => {
                 v-if="question.image"
                 :src="`https://mcq-db.dakakean.com/api/files/mcqs/${question.id}/${question.image}`"
                 alt=""
+                @click="
+                  openFullscreen(
+                    `https://mcq-db.dakakean.com/api/files/mcqs/${question.id}/${question.image}`
+                  )
+                "
               />
             </div>
             <p class="question-text">
@@ -302,6 +317,16 @@ onMounted(() => {
         </div>
       </div>
     </div>
+
+    <!-- Fullscreen Image Modal -->
+    <div
+      v-if="fullscreenImage"
+      class="fullscreen-modal"
+      @click="closeFullscreen"
+    >
+      <img :src="fullscreenImage" alt="Fullscreen Image" />
+    </div>
+
     <p class="end">End of MCQs</p>
     <!-- Sticky score bar -->
 
@@ -342,6 +367,36 @@ onMounted(() => {
 </template>
 
 <style scoped>
+.clickable-image {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.clickable-image:hover {
+  transform: scale(1.05);
+}
+
+.fullscreen-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.fullscreen-modal img {
+  max-width: 99%;
+  max-height: 99%;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
 .question-image {
   margin: auto;
   max-width: 100%;

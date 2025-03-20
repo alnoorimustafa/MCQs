@@ -440,7 +440,7 @@ const selectedBookName = computed(() => {
 </script>
 
 <template>
-  <div class="container">
+  <div>
     <h5>{{ selectedBookName }}</h5>
     <select
       name="select"

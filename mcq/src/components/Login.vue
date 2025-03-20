@@ -46,6 +46,7 @@ const authenticate = async () => {
       aria-label="Login"
       autocomplete="username"
       v-model="user"
+      @keyup.enter="authenticate"
     />
     <input
       type="password"
@@ -54,6 +55,7 @@ const authenticate = async () => {
       aria-label="Password"
       autocomplete="current-password"
       v-model="password"
+      @keyup.enter="authenticate"
     />
     <button
       class="login"
