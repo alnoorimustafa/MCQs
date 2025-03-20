@@ -233,6 +233,13 @@ onMounted(() => {
             :key="index"
             class="question-card"
           >
+            <div class="question-image">
+              <img
+                v-if="question.image"
+                :src="`https://mcq-db.dakakean.com/api/files/mcqs/${question.id}/${question.image}`"
+                alt=""
+              />
+            </div>
             <p class="question-text">
               {{ index + 1 }} - {{ question.question }}
             </p>
@@ -335,6 +342,19 @@ onMounted(() => {
 </template>
 
 <style scoped>
+.question-image {
+  margin: auto;
+  max-width: 100%;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.question-image img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: auto;
+}
+
 .unflag {
   background-color: rgb(1, 127, 192, 0.8);
   border-color: transparent;

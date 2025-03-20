@@ -84,7 +84,7 @@ const deauthenticate = () => {
 
 <style scoped>
 .sub {
-  color: rgb(186, 186, 186);
+  color: rgb(141, 141, 141);
 }
 .heading {
   font-size: 0.9rem;

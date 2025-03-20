@@ -78,6 +78,10 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
       label: "Chapter 6: Organic, Liaison, and Perinatal Psychiatry",
     },
     { value: "Chapter 7: Psychotherapy", label: "Chapter 7: Psychotherapy" },
+    {
+      value: "Chapter 8: Basic Statistics",
+      label: "Chapter 8: Basic Statistics",
+    },
   ],
   "600-1": [
     { value: "Chapter 1", label: "Chapter 1" },

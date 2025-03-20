@@ -40,93 +40,122 @@ const cancelSelection = () => {
 </script>
 
 <template>
-  <div class="container">
-    <div class="grid mt-2">
-      <div
-        class="center"
-        v-if="!selectedImage"
-        @click="
-          () => {
-            selectImage('flag')
-            flag = true
-          }
-        "
-      >
-        <img loading="lazy" src="../assets/small/flag.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('bof1')">
-        <img loading="lazy" src="../assets/small/bof1.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('bof2')">
-        <img loading="lazy" src="../assets/small/bof2.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
-        <img loading="lazy" src="../assets/small/bof3.webp" alt="" />
-      </div>
+  <transition mode="out-in">
+    <div class="container">
+      <div class="grid mt-2">
+        <div
+          class="center"
+          v-if="!selectedImage"
+          @click="
+            () => {
+              selectImage('flag')
+              flag = true
+            }
+          "
+        >
+          <img loading="lazy" src="../assets/small/flag.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('bof1')">
+          <img loading="lazy" src="../assets/small/bof1.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('bof2')">
+          <img loading="lazy" src="../assets/small/bof2.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
+          <img loading="lazy" src="../assets/small/bof3.webp" alt="" />
+        </div>
 
-      <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
-        <img loading="lazy" src="../assets/small/600-1.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
-        <img loading="lazy" src="../assets/small/600-2.webp" alt="" />
-      </div>
-    </div>
-    <div class="grid mt-2">
-      <div class="center" v-if="!selectedImage" @click="selectImage('1200')">
-        <img loading="lazy" src="../assets/small/1200.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
-        <img loading="lazy" src="../assets/small/spmm.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('gt1')">
-        <img loading="lazy" src="../assets/small/gt1.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('gt2')">
-        <img loading="lazy" src="../assets/small/gt2.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('gt3')">
-        <img loading="lazy" src="../assets/small/gt3.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('pretest')">
-        <img loading="lazy" src="../assets/small/pretest.webp" alt="" />
-      </div>
-    </div>
-    <div class="grid mt-2">
-      <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
-        <img loading="lazy" src="../assets/small/focus.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('501')">
-        <img loading="lazy" src="../assets/small/501.webp" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
-        <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
-      </div>
-
-      <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
-        <img loading="lazy" src="" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
-        <img loading="lazy" src="" alt="" />
-      </div>
-      <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
-        <img loading="lazy" src="" alt="" />
-      </div>
-      <div class="center" v-if="selectedImage">
-        <div class="image-container">
-          <img loading="lazy" :src="selectedImage" alt="Selected Image" />
-          <button class="cancel-button" @click="cancelSelection">
-            <i class="fas fa-times"></i>
-          </button>
+        <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
+          <img loading="lazy" src="../assets/small/600-1.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('600-2')">
+          <img loading="lazy" src="../assets/small/600-2.webp" alt="" />
         </div>
       </div>
+      <div class="grid mt-2">
+        <div class="center" v-if="!selectedImage" @click="selectImage('1200')">
+          <img loading="lazy" src="../assets/small/1200.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('spmm')">
+          <img loading="lazy" src="../assets/small/spmm.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('gt1')">
+          <img loading="lazy" src="../assets/small/gt1.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('gt2')">
+          <img loading="lazy" src="../assets/small/gt2.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('gt3')">
+          <img loading="lazy" src="../assets/small/gt3.webp" alt="" />
+        </div>
+        <div
+          class="center"
+          v-if="!selectedImage"
+          @click="selectImage('pretest')"
+        >
+          <img loading="lazy" src="../assets/small/pretest.webp" alt="" />
+        </div>
+      </div>
+      <div>
+        <div class="grid mt-2">
+          <div
+            class="center"
+            v-if="!selectedImage"
+            @click="selectImage('focus')"
+          >
+            <img loading="lazy" src="../assets/small/focus.webp" alt="" />
+          </div>
+          <div class="center" v-if="!selectedImage" @click="selectImage('501')">
+            <img loading="lazy" src="../assets/small/501.webp" alt="" />
+          </div>
+          <div
+            class="center"
+            v-if="!selectedImage"
+            @click="selectImage('ghazi')"
+          >
+            <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
+          </div>
+
+          <div
+            class="center"
+            v-if="!selectedImage"
+            @click="selectImage('ghazi')"
+          >
+            <img loading="lazy" src="" alt="" />
+          </div>
+          <div
+            class="center"
+            v-if="!selectedImage"
+            @click="selectImage('focus')"
+          >
+            <img loading="lazy" src="" alt="" />
+          </div>
+          <div
+            class="center"
+            v-if="!selectedImage"
+            @click="selectImage('focus')"
+          >
+            <img loading="lazy" src="" alt="" />
+          </div>
+          <div class="center" v-if="selectedImage">
+            <div class="image-container">
+              <img loading="lazy" :src="selectedImage" alt="Selected Image" />
+              <button class="cancel-button" @click="cancelSelection">
+                <i class="fas fa-times"></i>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <Flag v-if="flag" />
+      <BestOfFive
+        v-else-if="page !== ''"
+        :selectedBook="selectedImage ? page : ''"
+        :editing="editing"
+      />
     </div>
-  </div>
-  <Flag v-if="flag" />
-  <BestOfFive
-    v-else-if="page !== ''"
-    :selectedBook="selectedImage ? page : ''"
-    :editing="editing"
-  />
+  </transition>
 </template>
 
 <style scoped>
@@ -194,5 +223,16 @@ body {
 
 nav ul {
   color: white;
+}
+
+/* we will explain what these classes do next! */
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
 }
 </style>
