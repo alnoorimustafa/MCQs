@@ -3,6 +3,7 @@ import ChapterMCQs from "./ChapterMCQs.vue"
 import { ref, defineProps, computed, inject } from "vue"
 import PocketBase from "pocketbase"
 import Edit from "./Edit.vue"
+import { trackEvent } from "../analytics"
 
 const pb = inject("pb") as PocketBase
 
@@ -395,6 +396,13 @@ const loadQuestionsData = async (
   selectedChapter: string
 ) => {
   loading.value = true
+
+  trackEvent("chapter_click", {
+    event_category: "interaction",
+    event_label: "Chapter Selected",
+    value: pb.authStore.record?.name + selectedChapter,
+  })
+
   try {
     const records = await pb.collection("mcqs").getFullList({
       filter: `book = "${selectedBook}" && chapter = "${selectedChapter}"`,
@@ -437,6 +445,10 @@ const selectedBookName = computed(() => {
     ? "Psychiatry 1200: 1170 MCQ "
     : "Dr.Ghazi Telegram Group : 296 MCQ"
 })
+
+const scrollToTop = () => {
+  window.scrollTo({ top: 0, behavior: "smooth" })
+}
 </script>
 
 <template>
@@ -484,4 +496,37 @@ const selectedBookName = computed(() => {
       :questionsData="questionsData"
     />
   </div>
+  <button class="scroll-to-top" @click="scrollToTop">↑</button>
 </template>
+
+<style scoped>
+/* ...existing code... */
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 60px;
+  right: 16px;
+  background-color: #0180c0bd;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.scroll-to-top:hover {
+  background-color: #0056b3;
+  transform: scale(1.1);
+}
+
+.scroll-to-top:active {
+  transform: scale(0.9);
+}
+</style>

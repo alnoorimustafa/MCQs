@@ -25,10 +25,10 @@ const selectImage = (image: string) => {
   ).href
   window.scrollTo(0, 0)
 
-  trackEvent("image click", {
-    event_category: "clicks",
-    event_label: "image selected",
-    value: image,
+  trackEvent("book_click", {
+    event_category: "interaction",
+    event_label: "Book Selected",
+    value: pb.authStore.record?.name + image,
   })
 }
 

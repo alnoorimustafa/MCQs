@@ -99,6 +99,24 @@ const saveProgress = async () => {
   saving.value = false
 }
 
+const reset = async () => {
+  selectedOptions.value = Array(questions.value.length).fill(null)
+  right.value = 0
+  wrong.value = 0
+  questions.value.forEach((question: any) => {
+    question.showCorrectAnswer = false
+  })
+  const existingProgress = await pb
+    .collection("progress")
+    .getFirstListItem(
+      `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
+    )
+
+  if (existingProgress) {
+    await pb.collection("progress").delete(existingProgress.id)
+  }
+}
+
 // Function to handle option selection
 const selectOption = async (
   index: number,
@@ -115,6 +133,7 @@ const selectOption = async (
       questions.value[index].showCorrectAnswer = true
     }
   }
+  saveProgress()
 }
 
 const loadFlaggedQuestions = async () => {
@@ -230,6 +249,7 @@ const IncorrectAnswers = computed(() => wrong.value)
 
 onMounted(() => {
   loadFlaggedQuestions()
+  loadProgress()
 })
 </script>
 
@@ -354,13 +374,16 @@ onMounted(() => {
       </div>
 
       <div class="flex-2">
-        <button :aria-busy="saving" class="save" @click="saveProgress">
-          <span v-if="!saving"> Save </span>
-        </button>
-        <button :aria-busy="saving" class="load" @click="loadProgress">
-          <span v-if="!saving">Load </span>
+        <button :aria-busy="saving" class="save" @click="reset">
+          <span v-if="!saving"> Reset </span>
         </button>
         <button class="randomize" @click="randomizeQuestions">Randomize</button>
+        <!-- <button :aria-busy="saving" class="save" @click="saveProgress">
+          <span v-if="!saving"> Save </span>
+        </button> -->
+        <!-- <button :aria-busy="saving" class="load" @click="loadProgress">
+          <span v-if="!saving">Load </span>
+        </button> -->
       </div>
     </div>
   </div>
@@ -433,7 +456,7 @@ onMounted(() => {
   flex-grow: 1;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .score-bar {
@@ -480,13 +503,21 @@ onMounted(() => {
 }
 
 .save {
-  background-color: rgb(71, 164, 23, 0.8);
+  background-color: rgba(70, 164, 23, 0.9);
 }
+.dark .save {
+  background-color: rgba(70, 164, 23, 0.9);
+}
+
 .load {
-  background-color: rgb(216, 161, 0, 0.8);
+  background-color: rgb(216, 161, 0, 0.9);
 }
+
 .randomize {
-  background-color: rgb(1, 127, 192, 0.8);
+  background-color: #017fc0;
+}
+.dark .randomize {
+  background-color: #017fc0;
 }
 
 .question-card {
