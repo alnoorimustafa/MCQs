@@ -506,7 +506,7 @@ const scrollToTop = () => {
   position: fixed;
   bottom: 60px;
   right: 16px;
-  background-color: #0180c0bd;
+  background-color: #0180c0;
   color: white;
   border: none;
   border-radius: 50%;

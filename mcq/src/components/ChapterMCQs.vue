@@ -99,21 +99,28 @@ const saveProgress = async () => {
   saving.value = false
 }
 
-const reset = async () => {
+const resetProgress = async () => {
+  saving.value = true
   selectedOptions.value = Array(questions.value.length).fill(null)
   right.value = 0
   wrong.value = 0
   questions.value.forEach((question: any) => {
     question.showCorrectAnswer = false
   })
-  const existingProgress = await pb
-    .collection("progress")
-    .getFirstListItem(
-      `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
-    )
+  try {
+    const existingProgress = await pb
+      .collection("progress")
+      .getFirstListItem(
+        `user = "${pb.authStore.record?.id}" && book = "${props.selectedBook}" && chapter = "${props.selectedChapter}"`
+      )
 
-  if (existingProgress) {
-    await pb.collection("progress").delete(existingProgress.id)
+    if (existingProgress) {
+      await pb.collection("progress").delete(existingProgress.id)
+    }
+  } catch (error) {
+    console.error("Error in resetting progress:", error)
+  } finally {
+    saving.value = false
   }
 }
 
@@ -374,7 +381,7 @@ onMounted(() => {
       </div>
 
       <div class="flex-2">
-        <button :aria-busy="saving" class="save" @click="reset">
+        <button :aria-busy="saving" class="reset" @click="resetProgress">
           <span v-if="!saving"> Reset </span>
         </button>
         <button class="randomize" @click="randomizeQuestions">Randomize</button>
@@ -507,6 +514,10 @@ onMounted(() => {
 }
 .dark .save {
   background-color: rgba(70, 164, 23, 0.9);
+}
+
+.reset {
+  background-color: #d93526;
 }
 
 .load {
