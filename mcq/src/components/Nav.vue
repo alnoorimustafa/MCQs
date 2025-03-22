@@ -44,7 +44,7 @@ const deauthenticate = () => {
 </script>
 
 <template>
-  <div :class="isDarkMode ? 'light' : 'dark'">
+  <div class="navigation">
     <div class="container">
       <nav v-if="!show">
         <ul>
@@ -89,19 +89,16 @@ const deauthenticate = () => {
 .heading {
   font-size: 0.9rem;
 }
-.light {
-  background-color: white;
+
+.navigation nav ul {
+  color: rgb(255, 255, 255);
 }
 
-.light nav ul {
-  color: black;
-}
-
-.dark {
-  background-color: #017fc0;
-}
-
-.dark nav ul {
+.navigation div nav ul li span {
   color: white;
+}
+
+.navigation {
+  background-color: var(--pico-color-azure-500);
 }
 </style>

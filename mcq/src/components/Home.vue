@@ -211,14 +211,14 @@ body {
   position: absolute;
   top: 10px; /* Adjust as needed */
   right: 10px; /* Adjust as needed */
-  background: #d93526;
+  background: var(--pico-color-red-500);
   border: none;
   cursor: pointer;
   color: white; /* Change color as needed */
 }
 
 .background-azure {
-  background-color: #017fc0;
+  background-color: var(--pico-color-azure-500);
 }
 
 nav ul {

@@ -506,7 +506,7 @@ const scrollToTop = () => {
   position: fixed;
   bottom: 60px;
   right: 16px;
-  background-color: #0180c0;
+  background-color: var(--pico-color-azure-500);
   color: white;
   border: none;
   border-radius: 50%;
@@ -522,7 +522,7 @@ const scrollToTop = () => {
 }
 
 .scroll-to-top:hover {
-  background-color: #0056b3;
+  background-color: var(--pico-color-azure-200);
   transform: scale(1.1);
 }
 

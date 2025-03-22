@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, provide, defineAsyncComponent } from "vue"
+import { ref, provide, defineAsyncComponent, computed } from "vue"
 import Nav from "./components/Nav.vue"
 // import Login from "./components/Login.vue";
 // import Home from "./components/Home.vue";
@@ -36,24 +36,30 @@ if (pb.authStore.isValid) {
 } else {
   console.log("User is not logged in")
 }
+
+// const isDarkMode = computed(
+//   () => window.matchMedia("(prefers-color-scheme: dark)").matches
+// )
 </script>
 
 <template>
-  <Nav :show="isLoggedIn" @logout="handleLogout" />
-  <transition name="fade" mode="out-in">
-    <div v-if="isLoggedIn && pb.authStore.record?.email !== 'amena@mcq.com'">
-      <Home />
-    </div>
-    <div
-      v-else-if="isLoggedIn && pb.authStore.record?.email === 'amena@mcq.com'"
-    >
-      <AddMCQ />
-    </div>
-    <div v-else>
-      <Login @login="handleLogin" />
-    </div>
-  </transition>
-  <!-- <Upload /> -->
+  <div>
+    <Nav :show="isLoggedIn" @logout="handleLogout" />
+    <transition name="fade" mode="out-in">
+      <div v-if="isLoggedIn && pb.authStore.record?.email !== 'amena@mcq.com'">
+        <Home />
+      </div>
+      <div
+        v-else-if="isLoggedIn && pb.authStore.record?.email === 'amena@mcq.com'"
+      >
+        <AddMCQ />
+      </div>
+      <div v-else>
+        <Login @login="handleLogin" />
+      </div>
+    </transition>
+    <!-- <Upload /> -->
+  </div>
 </template>
 
 <style>
@@ -71,5 +77,20 @@ if (pb.authStore.isValid) {
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;
+}
+
+:root[data-theme="light"] {
+  --background-color: #ffffff;
+  --text-color: #000000;
+}
+
+:root[data-theme="dark"] {
+  --background-color: #000000;
+  --text-color: #ffffff;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
 }
 </style>

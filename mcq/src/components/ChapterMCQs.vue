@@ -441,12 +441,12 @@ onMounted(() => {
 }
 
 .unflag {
-  background-color: rgb(1, 127, 192, 0.8);
+  background-color: var(--pico-color-azure-500);
   border-color: transparent;
 }
 
 .flag {
-  background-color: rgb(216, 161, 0, 0.8);
+  background-color: var(--pico-color-amber-300);
   border-color: transparent;
 }
 
@@ -500,35 +500,29 @@ onMounted(() => {
 }
 
 .fa-square-poll-vertical {
-  color: #017fc0;
+  color: var(--pico-color-azure-500);
 }
 .fa-square-check {
-  color: #398712;
+  color: var(--pico-color-green-500);
 }
 .fa-square-xmark {
-  color: #d93526;
+  color: var(--pico-color-red-500);
 }
 
 .save {
-  background-color: rgba(70, 164, 23, 0.9);
-}
-.dark .save {
-  background-color: rgba(70, 164, 23, 0.9);
+  background-color: var(--pico-color-green-500);
 }
 
 .reset {
-  background-color: #d93526;
+  background-color: var(--pico-color-red-500);
 }
 
 .load {
-  background-color: rgb(216, 161, 0, 0.9);
+  background-color: var(--pico-color-amber-200);
 }
 
 .randomize {
-  background-color: #017fc0;
-}
-.dark .randomize {
-  background-color: #017fc0;
+  background-color: var(--pico-color-azure-500);
 }
 
 .question-card {
@@ -574,12 +568,12 @@ onMounted(() => {
 }
 
 .correct-option {
-  background-color: #398712;
+  background-color: var(--pico-color-green-500);
   color: white;
 }
 
 .incorrect-option {
-  background-color: #d93526;
+  background-color: var(--pico-color-red-500);
   color: white;
 }
 
@@ -627,27 +621,15 @@ onMounted(() => {
 }
 
 .dark .correct-option {
-  background-color: #4caf4f7c;
+  background-color: var(--pico-color-green-700);
 }
 
 .dark .incorrect-option {
-  background-color: #f4433686;
+  background-color: var(--pico-color-red-700);
 }
 
 .dark .score-bar {
   background-color: #1e1e1e;
   border-top-color: #333;
-}
-
-.dark .save {
-  background-color: #4caf4f4f;
-}
-
-.dark .load {
-  background-color: #ff99003f;
-}
-
-.dark .randomize {
-  background-color: #2195f33f;
 }
 </style>
