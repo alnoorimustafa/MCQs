@@ -422,7 +422,7 @@ const selectedBookName = computed(() => {
     : props.selectedBook === "bof2"
     ? "Best Of Five 2: 455 MCQ"
     : props.selectedBook === "bof3"
-    ? "Best Of Five 3: 350 MCQ"
+    ? "Best Of Five 3: 450 MCQ"
     : props.selectedBook === "600-1"
     ? "600 Paper 1: 634 MCQ"
     : props.selectedBook === "600-2"
