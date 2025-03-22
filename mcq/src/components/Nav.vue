@@ -41,18 +41,6 @@ const deauthenticate = () => {
     }
   }
 }
-
-async function clearCache() {
-  if ("caches" in window) {
-    const cacheNames = await caches.keys()
-    for (const cacheName of cacheNames) {
-      await caches.delete(cacheName)
-    }
-    console.log("Cache cleared")
-  } else {
-    console.log("Cache API not supported")
-  }
-}
 </script>
 
 <template>
@@ -80,14 +68,6 @@ async function clearCache() {
           </li>
         </ul>
         <ul>
-          <li>
-            <input
-              type="button"
-              value="Clear Cache"
-              class="secondary"
-              @click.prevent="clearCache"
-            />
-          </li>
           <li>
             <input
               type="button"
