@@ -1,19 +1,19 @@
 <script setup lang="ts">
-import { ref, inject } from "vue"
-import { trackEvent } from "../analytics"
-import BestOfFive from "./BestOfFive.vue"
-import PocketBase from "pocketbase"
-import Flag from "./Flag.vue"
+import { ref, inject } from 'vue'
+import { trackEvent } from '../analytics'
+import BestOfFive from './BestOfFive.vue'
+import PocketBase from 'pocketbase'
+import Flag from './Flag.vue'
 
-const pb = inject("pb") as PocketBase
+const pb = inject('pb') as PocketBase
 
-const emit = defineEmits(["logout"])
+const emit = defineEmits(['logout'])
 
-let page = ref("")
+let page = ref('')
 let flag = ref(false)
 let editing = ref(true)
 
-editing.value = pb.authStore.record?.email === "edit@mcq.com"
+editing.value = pb.authStore.record?.email === 'edit@mcq.com'
 
 let selectedImage = ref<string | null>(null)
 
@@ -25,16 +25,16 @@ const selectImage = (image: string) => {
   ).href
   window.scrollTo(0, 0)
 
-  trackEvent("book_click", {
-    event_category: "interaction",
-    event_label: "Book Selected",
-    value: pb.authStore.record?.name + image,
+  trackEvent('book_click', {
+    event_category: 'interaction',
+    event_label: 'Book Selected',
+    value: pb.authStore.record?.name + image
   })
 }
 
 const cancelSelection = () => {
   selectedImage.value = null
-  page.value = ""
+  page.value = ''
   flag.value = false
 }
 </script>
@@ -107,6 +107,9 @@ const cancelSelection = () => {
           </div>
           <div class="center" v-if="!selectedImage" @click="selectImage('501')">
             <img loading="lazy" src="../assets/small/501.webp" alt="" />
+          </div>
+          <div class="center" v-if="!selectedImage" @click="selectImage('apa')">
+            <img loading="lazy" src="../assets/small/apa.webp" alt="" />
           </div>
           <div
             class="center"

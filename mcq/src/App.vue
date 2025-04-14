@@ -1,19 +1,19 @@
 <script setup lang="ts">
-import { ref, provide, defineAsyncComponent, computed } from "vue"
-import Nav from "./components/Nav.vue"
+import { ref, provide, defineAsyncComponent, computed } from 'vue'
+import Nav from './components/Nav.vue'
 // import Login from "./components/Login.vue";
 // import Home from "./components/Home.vue";
-import PocketBase from "pocketbase"
-import Upload from "./components/upload.vue"
+import PocketBase from 'pocketbase'
+import Upload from './components/upload.vue'
 
-const Home = defineAsyncComponent(() => import("./components/Home.vue"))
+const Home = defineAsyncComponent(() => import('./components/Home.vue'))
 // const Home2 = defineAsyncComponent(() => import("./components/Home2.vue"))
-const Login = defineAsyncComponent(() => import("./components/Login.vue"))
-const AddMCQ = defineAsyncComponent(() => import("./components/AddMCQ.vue"))
+const Login = defineAsyncComponent(() => import('./components/Login.vue'))
+const AddMCQ = defineAsyncComponent(() => import('./components/AddMCQ.vue'))
 
-const pb = new PocketBase("https://mcq-db.dakakean.com")
+const pb = new PocketBase('https://mcq-db.dakakean.com')
 
-provide("pb", pb)
+provide('pb', pb)
 
 declare global {
   interface Window {
@@ -34,7 +34,7 @@ async function handleLogout() {
 if (pb.authStore.isValid) {
   isLoggedIn.value = pb.authStore.isValid
 } else {
-  console.log("User is not logged in")
+  console.log('User is not logged in')
 }
 
 // const isDarkMode = computed(
@@ -58,14 +58,14 @@ if (pb.authStore.isValid) {
         <Login @login="handleLogin" />
       </div>
     </transition>
-    <!-- <Upload /> -->
+    <Upload />
   </div>
 </template>
 
 <style>
 :root {
-  --pico-font-family-sans-serif: Rubik, system-ui, "Segoe UI", Oxygen, Ubuntu,
-    Cantarell, Helvetica, Arial, "Helvetica Neue", sans-serif,
+  --pico-font-family-sans-serif: Rubik, system-ui, 'Segoe UI', Oxygen, Ubuntu,
+    Cantarell, Helvetica, Arial, 'Helvetica Neue', sans-serif,
     var(--pico-font-family-emoji);
 }
 
@@ -79,12 +79,12 @@ if (pb.authStore.isValid) {
   opacity: 0;
 }
 
-:root[data-theme="light"] {
+:root[data-theme='light'] {
   --background-color: #ffffff;
   --text-color: #000000;
 }
 
-:root[data-theme="dark"] {
+:root[data-theme='dark'] {
   --background-color: #000000;
   --text-color: #ffffff;
 }
