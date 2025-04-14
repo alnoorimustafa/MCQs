@@ -58,7 +58,7 @@ if (pb.authStore.isValid) {
         <Login @login="handleLogin" />
       </div>
     </transition>
-    <Upload />
+    <!-- <Upload /> -->
   </div>
 </template>
 
