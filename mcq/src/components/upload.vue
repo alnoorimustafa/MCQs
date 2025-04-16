@@ -6,14 +6,14 @@ const pb = inject('pb') as PocketBase
 
 async function createMCQs() {
   try {
-    const data = await import(`../mcqs-archive/testprep/6.json`)
+    const data = await import(`../mcqs-archive/dsm/22.json`)
     let mcqs = data.default
 
     const promises = mcqs.map((mcq, i) =>
       pb.collection('mcqs').create(
         {
-          chapter: 'Chapter 6',
-          book: 'testprep',
+          chapter: 'Alternative DSM-5 Model for Personality Disorders',
+          book: 'dsm',
           ...mcq
         },
         { requestKey: mcq.number.toString() }

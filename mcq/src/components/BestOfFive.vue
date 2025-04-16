@@ -520,6 +520,65 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
       value: 'Chapter 6',
       label: 'Chapter 6'
     }
+  ],
+  dsm: [
+    {
+      value: 'Neurodevelopmental Disorders',
+      label: 'Neurodevelopmental Disorders'
+    },
+    {
+      value: 'Schizophrenia Spectrum and Other Psychotic Disorders',
+      label: 'Schizophrenia Spectrum and Other Psychotic Disorders'
+    },
+    {
+      value: 'Bipolar and Related Disorders',
+      label: 'Bipolar and Related Disorders'
+    },
+    { value: 'Depressive Disorders', label: 'Depressive Disorders' },
+    { value: 'Anxiety Disorders', label: 'Anxiety Disorders' },
+    {
+      value: 'Obsessive-Compulsive and Related Disorders',
+      label: 'Obsessive-Compulsive and Related Disorders'
+    },
+    {
+      value: 'Trauma- and Stressor-Related Disorders',
+      label: 'Trauma- and Stressor-Related Disorders'
+    },
+    { value: 'Dissociative Disorders', label: 'Dissociative Disorders' },
+    {
+      value: 'Somatic Symptom and Related Disorders',
+      label: 'Somatic Symptom and Related Disorders'
+    },
+    {
+      value: 'Feeding and Eating Disorders',
+      label: 'Feeding and Eating Disorders'
+    },
+    { value: 'Elimination Disorders', label: 'Elimination Disorders' },
+    { value: 'Sleep-Wake Disorders', label: 'Sleep-Wake Disorders' },
+    { value: 'Sexual Dysfunctions', label: 'Sexual Dysfunctions' },
+    { value: 'Gender Dysphoria', label: 'Gender Dysphoria' },
+    {
+      value: 'Disruptive, Impulse-Control, and Conduct Disorders',
+      label: 'Disruptive, Impulse-Control, and Conduct Disorders'
+    },
+    {
+      value: 'Substance-Related and Addictive Disorders',
+      label: 'Substance-Related and Addictive Disorders'
+    },
+    { value: 'Neurocognitive Disorders', label: 'Neurocognitive Disorders' },
+    { value: 'Personality Disorders', label: 'Personality Disorders' },
+    { value: 'Paraphilic Disorders', label: 'Paraphilic Disorders' },
+    { value: 'Assessment Measures', label: 'Assessment Measures' },
+    {
+      value:
+        'Cultural Formulation and Glossary of Cultural Concepts of Distress',
+      label:
+        'Cultural Formulation and Glossary of Cultural Concepts of Distress'
+    },
+    {
+      value: 'Alternative DSM-5 Model for Personality Disorders',
+      label: 'Alternative DSM-5 Model for Personality Disorders'
+    }
   ]
 }
 
@@ -577,6 +636,10 @@ const selectedBookName = computed(() => {
     ? 'Psychiatry 1200: 1170 MCQ '
     : props.selectedBook === 'apa'
     ? 'APA: 515 MCQ '
+    : props.selectedBook === 'dsm'
+    ? 'DSM MCQs: 472 MCQ '
+    : props.selectedBook === 'testprep'
+    ? 'Psychiatry Test Preparation: 900 MCQ '
     : 'Dr.Ghazi Telegram Group : 296 MCQ'
 })
 
