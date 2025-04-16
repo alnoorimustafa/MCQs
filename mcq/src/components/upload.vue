@@ -6,14 +6,14 @@ const pb = inject('pb') as PocketBase
 
 async function createMCQs() {
   try {
-    const data = await import(`../mcqs-archive/apa/38.Treatment of Women.json`)
+    const data = await import(`../mcqs-archive/testprep/6.json`)
     let mcqs = data.default
 
     const promises = mcqs.map((mcq, i) =>
       pb.collection('mcqs').create(
         {
-          chapter: 'Treatment of Women',
-          book: 'apa',
+          chapter: 'Chapter 6',
+          book: 'testprep',
           ...mcq
         },
         { requestKey: mcq.number.toString() }
@@ -45,6 +45,6 @@ async function downloadMCQs() {
 </script>
 
 <template>
-  <button @click="createMCQs">upload</button>
+  <button @click="createMCQs" style="margin-right: 10px">upload</button>
   <button @click="downloadMCQs">download</button>
 </template>

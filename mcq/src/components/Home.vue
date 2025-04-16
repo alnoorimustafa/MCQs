@@ -64,7 +64,6 @@ const cancelSelection = () => {
         <div class="center" v-if="!selectedImage" @click="selectImage('bof3')">
           <img loading="lazy" src="../assets/small/bof3.webp" alt="" />
         </div>
-
         <div class="center" v-if="!selectedImage" @click="selectImage('600-1')">
           <img loading="lazy" src="../assets/small/600-1.webp" alt="" />
         </div>
@@ -96,57 +95,35 @@ const cancelSelection = () => {
           <img loading="lazy" src="../assets/small/pretest.webp" alt="" />
         </div>
       </div>
-      <div>
-        <div class="grid mt-2">
-          <div
-            class="center"
-            v-if="!selectedImage"
-            @click="selectImage('focus')"
-          >
-            <img loading="lazy" src="../assets/small/focus.webp" alt="" />
-          </div>
-          <div class="center" v-if="!selectedImage" @click="selectImage('501')">
-            <img loading="lazy" src="../assets/small/501.webp" alt="" />
-          </div>
-          <div class="center" v-if="!selectedImage" @click="selectImage('apa')">
-            <img loading="lazy" src="../assets/small/apa.webp" alt="" />
-          </div>
-          <div
-            class="center"
-            v-if="!selectedImage"
-            @click="selectImage('ghazi')"
-          >
-            <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
-          </div>
-
-          <div
-            class="center"
-            v-if="!selectedImage"
-            @click="selectImage('ghazi')"
-          >
-            <img loading="lazy" src="" alt="" />
-          </div>
-          <div
-            class="center"
-            v-if="!selectedImage"
-            @click="selectImage('focus')"
-          >
-            <img loading="lazy" src="" alt="" />
-          </div>
-          <div
-            class="center"
-            v-if="!selectedImage"
-            @click="selectImage('focus')"
-          >
-            <img loading="lazy" src="" alt="" />
-          </div>
-          <div class="center" v-if="selectedImage">
-            <div class="image-container">
-              <img loading="lazy" :src="selectedImage" alt="Selected Image" />
-              <button class="cancel-button" @click="cancelSelection">
-                <i class="fas fa-times"></i>
-              </button>
-            </div>
+      <div class="grid mt-2">
+        <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
+          <img loading="lazy" src="../assets/small/focus.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('501')">
+          <img loading="lazy" src="../assets/small/501.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('apa')">
+          <img loading="lazy" src="../assets/small/apa.webp" alt="" />
+        </div>
+        <div
+          class="center"
+          v-if="!selectedImage"
+          @click="selectImage('testprep')"
+        >
+          <img loading="lazy" src="../assets/small/testprep.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('ghazi')">
+          <img loading="lazy" src="../assets/small/ghazi.webp" alt="" />
+        </div>
+        <div class="center" v-if="!selectedImage" @click="selectImage('focus')">
+          <img loading="lazy" src="" alt="" />
+        </div>
+        <div class="center" v-if="selectedImage">
+          <div class="image-container">
+            <img loading="lazy" :src="selectedImage" alt="Selected Image" />
+            <button class="cancel-button" @click="cancelSelection">
+              <i class="fas fa-times"></i>
+            </button>
           </div>
         </div>
       </div>

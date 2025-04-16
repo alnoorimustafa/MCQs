@@ -494,6 +494,32 @@ const chapterOptions: Record<string, { value: string; label: string }[]> = {
       value: 'Law and Ethics in Psychiatry',
       label: 'Law and Ethics in Psychiatry'
     }
+  ],
+  testprep: [
+    {
+      value: 'Chapter 1',
+      label: 'Chapter 1'
+    },
+    {
+      value: 'Chapter 2',
+      label: 'Chapter 2'
+    },
+    {
+      value: 'Chapter 3',
+      label: 'Chapter 3'
+    },
+    {
+      value: 'Chapter 4',
+      label: 'Chapter 4'
+    },
+    {
+      value: 'Chapter 5',
+      label: 'Chapter 5'
+    },
+    {
+      value: 'Chapter 6',
+      label: 'Chapter 6'
+    }
   ]
 }
 
@@ -550,7 +576,7 @@ const selectedBookName = computed(() => {
     : props.selectedBook === '1200'
     ? 'Psychiatry 1200: 1170 MCQ '
     : props.selectedBook === 'apa'
-    ? 'APA: 500? MCQ '
+    ? 'APA: 515 MCQ '
     : 'Dr.Ghazi Telegram Group : 296 MCQ'
 })
 
